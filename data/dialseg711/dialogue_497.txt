@@ -1,0 +1,42 @@
+I am looking for a place to stay. The hotel should have a star of 3 and should be in the moderate price range
+I have 4 results for a moderate 3 star guesthouse, what area are you looking to stay in?
+I'm not too particular about which particular area I say in, but I do need free parking.
+The Hamilton Lodge is a 3 star hotel in the moderate price range, it has free parking. Would you like me to book that for you?
+No, I just need the address, please.
+The address is 156 chesterton road.
+That's all I need, thank you!!
+welcome next time
+================
+I am wanting to book a train arriving in Stevenage by 19:15. Can you help me?
+Certainly, where will you be departing from and what time would you like to leave?
+I will be leaving cambridge on Thursday.
+TR1165 arrives at 18:10 and departs at 17:21.
+That sounds good. What is the travel time for that train?
+TR4765 seems to be a better match for what you're looking for, it arrives by 18:10 and total travel time is 49 minutes. Would you like to book a ticket?
+================
+Is there a place on the east side of town with free parking?
+There are 6 hotels on the east side with free parking. Do you have a price preference?
+I'd like it to be somewhere that's really cheap, and I'd really prefer a guesthouse if one is available.
+How about the Autumn House, it is a guesthouse that is cheap in the east?
+Yes, please make a reservation for 1 person, 3 nights, starting from Thursday.
+I have made your reservation at the Autumn House. Your reference number is HWVZ52NK. Is there anything else I can help you with?
+================
+Hey there. I am hoping you might be able to tell me what kind of entertainment is happening tonight in town near where I am staying.
+Not a problem. Where are you staying?
+I am in the northern part of town.
+Sorry, I don't see any attractions in the north. Perhaps another area?
+Would you happen to know if there is a swimming pool in the north?
+There's actually two. Would you like more information on them?
+Yes, please!
+The Jesus Green Outdoor Pool is between Victoria Road and the river. The Kings Hedges Learner pool is on Jedburgh Court, Kings Hedges. Would you like their phone numbers?
+Yes, please give me the phone number for Jesus Green Outdoor Pool.
+The phone number is 01223302579. Can I help you with anything else?
+Can you also give me the address and entrance fee for the Jesus Green pool?
+The pool is located between Victoria Rd and the river. I don't have the information for the entrance fee, but you can give them a call at 01223302579.
+================
+Please have a taxi pick me up from riverboat georgina
+Ok, What time do you want to be picked up?
+I want to be picked up at riverboat georgina around 11:15. I need to get to cambridge arts theatre. What is the car type and the contact number?
+Ok, what time do you want to arrive by?
+I need to arrive by 11:15.
+Your taxi has been booked, you will be riding a white tesla with the contact number 07492127564. Is there anything else I can help you with today?

@@ -1,0 +1,34 @@
+Hello, I am looking for the address and phone number of the hotel Cambridge Belfry.
+The address is back lane, cambourne. The phone number is 01954714600. Is there anything else I can help with?
+What is the price range of the hotel?
+The Cambridge Belfry hotel has a cheap price range. Is there anything else I can help you with?
+================
+I am looking for a particular restaurant. Its name is called royal standard
+Royal Standard is located at 290 Mill Road City Centre. Would you like to know more about the restaurant?
+I'd like to book for 1 person at 1145 on thursday please
+Sorry, looks like there's no availability. Want to try another day or time slot?
+what about we try booking for Friday?
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : PJ7X1NHS.
+================
+I was in a car accident dispute and need help resolving it
+You can contact the Parkside police station at 01223358966.
+Can you give me their address and postcode, please?
+The address is Parkside, Cambridge and the post code is CB11JG.
+Thank you so much!
+You are more than welcome!
+Could you give me the phone number for the station as well?
+Sure, the telephone number is 01223358966. Is there anything else I can help you with?
+================
+Tell me what colleges are in the west side of town
+There are 5 colleges on the west side. Two have free entrance and two cost 2.50 pounds. Is there anything else i can help you with?
+What are the phone numbers for these colleges?
+Churchill college's phone number is 01223336233.
+================
+I'm looking for a place to dine. The restaurant should be in the expensive price range and should be in the centre.
+Do you have a preference on the type of food?
+Yes. I would like Greek food please.
+I'm sorry there's no matches for greek food.
+Okay, can you search for british food instead then?
+There are 3 restaurants that meet that criteria. May I suggest fitzbillies restaurant?
+That sounds great. Could you book a table for 2 people at 15:45 on saturday.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : BSMDJMXH. Can I be of further assistance?

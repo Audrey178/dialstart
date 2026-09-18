@@ -1,0 +1,38 @@
+What's the quickest route to a pizza restaurant?
+There are currently 2 that are 4 miles from your location, Papa Johns and Pizza Hut.
+Which one is it the quickest to reach?
+Both are 4 miles away in heavy traffic, unfortunately. To which would you like directions?
+Let's go a Pizza Hut, please send the indications on my map!
+Ok, mapping a route to Pizza Hut at 704 El Camino Real
+================
+I need a to find a train departing from stansted airport going to cambridge.
+Do you want the earliest train?
+It needs to leave after 9:15
+There are 105 trains making that trip do you have a day you need to travel?
+I am looking to leave on Thursday. Can you also please give me the train ID for this trip?
+TR0031 leaves at 9:24, would you like me to book it for you?
+That might be cutting it a little close. Maybe one an hour later?
+Okay I have a 10:24 that arrives at 10:52.
+Can you give me the train ID for the 10:24?
+Sure, the TR2635 train leaves at 10:24 and arrives at 10:52 with a travel time of 28 minutes.
+Thank you very much. I appreciate your help.
+Did you need anything else today, or may I close this conversation in our system?
+================
+is it snowing next week
+In which city do you want to know if it will snow?
+I'm in Grand Rapids, find out if there will be snow this week.
+The only snow predicted in grand rapids this week is the blizzard on sunday.
+Okay, thanks
+You're welcome
+================
+Car I'm desiring to have pizza!
+Here is a route to Pizza Chicago at 915 Arbol Dr. It is 3 miles away without any traffic
+OK, please direct me there via a route with no traffic if possible.
+Setting navigation now. THere is no traffic on the route. Enjoy!
+================
+I am looking for an expensive hotel that includes free parking.
+Express by holiday inn cambridge is available and fits your requirements
+I also need a place that is on the west side of town and that has free wifi.
+The Huntingdon Marriott Hotel is on the west side of town, is expensive, with a 4-star rating, and free parking and wifi. Would you like to book a room?
+I'm not sure. May I have their telephone number first?
+Sure thing. The number is 01480446000. Can I help you with anything else today?

@@ -1,0 +1,24 @@
+what's the temperature going to be this week
+What city do you want the weather for?
+Cleveland, what's the temperature going to be this week?
+It is forecasted for Cleveland that Monday and Tuesday will be 30-40F, Wednesday will be 70-80F, Thursday 40-60F, and 80-100F from Friday to Sunday.
+================
+I was robbed and I want some help
+I have found the Parkside Police Station, the phone number is 01223358966.
+Thanks, I also need he address and post code.
+Parkside Police Station is located at Parkside, Cambridge, postcode CB11JG.
+================
+Hi. Is there a hotel named Home from Home? I think I have heard of that.
+Home from Home is a 4 star guesthouse on the north side.
+All right, could you book a room for me? There will be 8 people for 4 nights, arriving Monday.
+I'm afraid they can't handle that booking. Perhaps another day or a shorter stay?
+Sure. I could stay for 1 night.
+I was able to book for one night. The reference number is MCS16KSP. Is there anything else I can help you with?
+================
+I am looking for the Parkside Police Station
+The telephone for the Parkside police station is 01223358966,
+================
+What is my address?
+Your home address is 5671 barringer street.
+Is there a routh to my home without any traffic?
+Unfortunately I showing there will be moderate traffic to your home at 5671 barringer street

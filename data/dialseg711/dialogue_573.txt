@@ -1,0 +1,34 @@
+I need to book a taxi departing from parkside police station.
+Okay, what is your destination?
+i need to go to aylesbray lodge guest house.
+Okay, what time do you want to leave?
+================
+hello can i find a place that serves chinese food and has expensive price range for my family
+I've found several restaurants meeting your criteria. Is there a specific area of town you're looking for?
+i want a restuarant that i can book a table for four people on monday 1300hrs
+I have found Yu Garden in the East. Would you like me to go ahead and book that?
+Yes, please. for 4 people at 13:00 on monday.
+I was unable to book there, shall i try another time or place?
+How about Tuesday, same time.
+Your table is booked for Tuesday and will be reserved for 15 minutes. Your reference number is 47ELJDK0. Anything else?
+================
+I need to book a taxi to come to Express by Holiday Inn Cambridge to take me to The Oak Bistro.
+Okay, what time do you want to leave by?
+================
+I am looking for a train departing from Stevenage.
+Where will you be leaving from?
+Stevenage, on Tuesday.
+What time are you looking to depart?
+I am leaving at 20:30.
+Okay, I have two trains that might work. TR9084 departs at 21:54 and TR3606 leaves at 23:54. Both have a duration of 49 minutes and cost 12.80 pounds. Anything else today?
+Let's go with TR9084, please.
+Okay I have booked that for you and your reference number is 6GRN0MSA. Anything else I can do for you?
+No that is all thank you very much.
+Thank you for using our service. Have all of your needs been met?
+================
+I need a taxi to take me to fitzbillies restaurant
+I would be happy to book that for you, where do you need picked up from?
+From Kings lynn train station.
+Ok, and what time will you need to arrive/leave?
+I need to leave after 20:00 please.
+Great. We have a black volkswagen booked for you. The driver's phone number is 07477854911

@@ -1,0 +1,37 @@
+I'm looking for a train please.
+There are several trains where are you going?
+I want to go to Peterborough.
+I can certainly help. Where are you departing from?
+I am departing from Cambridge.
+Do you have a day in mind to travel?
+ill travel; on wednesday. get me the train ID and price
+What time would you like to depart?
+I would like to leave Cambridge after 09:45, please.
+I have a train leaving cambridge at 10:06. The ID is TR9805 and it's 16.50 pounds per ticket.
+thanks for helping
+You're welcome. Anything else I can help you with today?
+================
+What date is my football activity and who is attending?
+================
+I need to make a train reservation for Friday and I need it to arrive by 19:00
+Sure, I can help with that. Can you please let me know where you will be departing from.
+I will be departing from Cambridge.
+And what is your destination?
+I will be going to stansted airport.
+Train TR7213 departing from cambridge at 05:40 and arriving at stansted airport at 06:08 will be the best option for you.
+That's an early arrival. Is there a later train that arrives before 19:00, please?
+There is another train that arrives at 18:08. Would that work better for you?
+Yes, that would work. Could you book it for 5 people?
+Your reference number is RAA2478C. Anything else I can help you with?
+================
+Could you help me find a 4 star lodging on the south end?
+aylesbray lodge guest house or rosa's bed and breakfast are both available
+Are either of them cheap?
+Yes, rosa's bed and breakfast is in the cheap price range. Would you like to book a room?
+Yes please. I need 3 nights starting on friday for 1.
+All right, I've reserved your room. The reference number is TH1IW110. Is there anything else I can do for you?
+Okay great. That is all I need.
+Wonderful, have a great day.
+================
+Is it gonna drizzle in Manhattan during the next seven days?
+On Friday in Manhattan the forcast predicts it will drizzle.

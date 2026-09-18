@@ -1,0 +1,17 @@
+Hello there, greetings. I've been told that i must create an account on this page My Social Security, in order to manage some benefits, Is that mandatory?
+================
+Are you experiencing issues with account creation or you simply, don't want to create one  online?
+Yes i'm having problems to create an account.
+If you're having problems, you may still create an account  in person by visiting your local Social Security office.
+================
+Um, so you are telling me that i'll have to get into that online thing anyway, huh. Ok then, Is there any way to improve that account's security? IT changes anything inside?
+You don't have to worry too much. You can always disable extra security whenever you want. The only change would be an extra security code provided by us for you to log in. All the other details remain the same.
+================
+OK, i suppose that's good to know that. To confirm, if i'm unable to create an account on my own, i go to the social security office,right?
+That's correct. That what you should do.
+================
+I heard about something called phishing, could you tell me more about it.
+For that, you can go to OnGuard Online section.
+================
+Ok, i'll check it out later. say if i see any suspicious link, how do i verify that?
+That's simple. Just hover over the link with your mouse until a text appears with the web address and be sure it ends in .gov/..For example: https://www,ssa.gov/myaccount/

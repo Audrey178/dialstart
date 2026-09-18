@@ -1,0 +1,17 @@
+I want to make some modifications to my vehicle, but I'm worried that I might change its class. Care to elaborate a bit about such modifications and how they affect the class rating?
+================
+Of course. Are you planning to modify a car?
+Yes, I wanted to modify my car.
+You can register a car in the 'commercial'  class if all the seats behind the driver are removed. Instead of the seats, you must install a permanent box or permanent rack to carry cargo.
+================
+Alright. And if I remove the speed governor of my moped?
+Then you must notify DMV and register the moped or motorcycle in the appropriate class.
+================
+I love to tinker on all kinds of vehicles, I'm an auto-mechanic. So which modifications would change a registration from commercial to passenger class?
+================
+Are you planning to modify a pick-up truck?
+No, unfortunately I don't have a pick-up to modify.
+================
+Are you planning to modify a van?
+Yes! That would be my next modification project.
+You can register it in the 'passenger' class if the van has at least one side window behind the driver, and at least one seat or set of seat fittings that is installed behind the driver.

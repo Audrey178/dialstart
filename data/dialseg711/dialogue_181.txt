@@ -1,0 +1,32 @@
+I'd like to find an expensive place to eat in the south.
+We have several available. Would you prefer Chinese, Indian, Italian or Mexican?
+I really don't have a preference. How about Chinese? I will need their phone number and postcode please.
+Sure, I think you'll like Peking Restaurant. Their postcode is cb28nx and their phone number is 01223354755. May I help with anything else?
+================
+Hi, I need a taxi to gourmet burger kitchen going from hamilton lodge!
+When would you like to get there by?
+I want to leave after 4:00.
+When would you like to arrive?
+It doesn't matter, I just want to leave after 4:00.
+Booking completed! Booked car type : grey ford Contact number : 07789662806
+================
+I need a train from London Kings Cross to Cambridge.
+I can assist you with that. There are many options available to you leaving London Kings Cross arriving in Cambridge, what day and time would you prefer?
+I want to leave on sunday, and I want to leave after 0930 am.
+TR7147 departs at 11:17 would that work?
+Yes. I need 3 tickets and the reference number.
+Booked! Reference number is YV5PJQHU. You will pay 56.64 GBP at the station. Anything else you need?
+================
+I'm trying to find a cheap Asian restaurant to have dinner at tonight. What kind of options are available for me?
+I have two places, how many people and what time?
+Actually, can you suggest one of them. Can I get their contact info as well?
+Sure, I would suggest the Dojo Noodle Bar at 40210 Millers Yard City Centre. You can reach them at 01223363471. I could reserve it for you.
+================
+I am looking for Addenbrookes Hospital please.
+I can help you with that! Do you information about any particular department of Addenbrookes Hospital?
+The hospital should have the neurology department.
+Yes, they have both a neurology department and a neurology neurosurgery. Would you like the number for one of those?
+help me get postcode and phone number
+The postcode is CB20QQ, phone for neurology is 01223274680.
+enjoyed your services. keep that up
+Thank you, sir. Do call us again. Good day.

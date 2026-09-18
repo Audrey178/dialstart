@@ -1,0 +1,19 @@
+I am looking for a train departing for Cambridge after 8:15am.
+I have a train leaving from london kings cross on friday leaving at 9:17. How does that sound?
+No thank you, I would like a train that is leaving on Thursday and departing from Kings Lynn.
+these are the possible options trainID departure destination day leaveAt arriveBy price duration book (optional) TR1612 kings lynn cambridge friday 09:11 09:58 9.80 pounds 47 minutes TR1958 kings lynn cambridge friday 10:11 10:58 9.80 pounds 47 minutes TR3147 kings lynn cambridge friday 11:11 11:58 9.80 pounds 47 minutes TR6454 kings lynn cambridge friday 12:11 12:58 9.80 pounds 47 minutes TR0674 kings lynn cambridge friday 13:11 13:58 9.80 pounds 47 minutes
+Please pick a train that leaves after 8:15 and going to cambridge. I need the travel time and price.
+TR3447 leaves Kings Lynn at 09:11 and arrives at 09:58 with a travel time of 47 minutes. The price is 9.80 pounds.
+================
+i want to find a hospital in town
+The Addenbrookes Hospital is located at Hills Rd, Cambridge.
+================
+where is the house
+Are you talking about your home?
+================
+I am looking for an expensive place to dine in the north.
+Would you like to eat Asian Oriental, Chinese, European, or French?
+I think Chinese may have caught my attention.
+The Hotpot is an expensive Chinese restaurant in that area.
+Great can I get their phone number as well please?
+The phone number for the hotpot is 01223366552, would you like me to book you a table?

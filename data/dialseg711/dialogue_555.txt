@@ -1,0 +1,25 @@
+What will the temperature be this weekend in grand rapids?
+It looks like it will be 70-80F on Saturday and 90-100F on Sunday.
+================
+I am looking to book a train.
+Certainly. May I ask where you want to depart from?
+I would like to leave from the closest station to my location.
+Could you tell me your location, which area of town or what business you are departing from?
+We are leaving London Kings Cross and need to do so after 12:45 on Friday for 6 people and can I get the reference number for the booking?
+To clarify, are you looking for a train to Cambridge? All Friday trains from London Kings Cross go to Cambridge.
+I need to depart from London Kings Cross and go to Cambridge.
+Booked! You leave at 13:17, your reference number is 3WICPFQP, you will pay 141.6 at the station.
+================
+Hi, I'm looking for a place to stay in the north side. Can you recommend anything with at least 2 stars?
+The Ashley and the Lovell Lodge are both 2-star hotels on the north side. Both are in the moderate price range. Would you like more information on one of those?
+Do either of them have free parking. Are they a type of hotel?
+Yes, both are hotels with free parking. Would you like me to book one of them?
+No thank you but can you give me the address and phone number for Lovell Lodge.
+Sure their address is 365 milton road and their phone number is 01223425478. Is there anything else I can help you with?
+================
+Car I need to go to a grocery store
+There is a Safeway at 452 Arcadia Place, 5 miles away. Would you like directions there?
+Yes, please, pick a route to avoid all heavy traffic
+I'm afraid the route to Safeway currently has heavy traffic, and it is the only grocery store in the area. Proceed?
+Then let's go there car, thank you!
+OK, setting navigation now.

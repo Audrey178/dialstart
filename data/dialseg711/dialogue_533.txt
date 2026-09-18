@@ -1,0 +1,42 @@
+I'm looking for an inexpensive restaurant in the west section of Cambridge.
+I have an Italian place and a Vietnamese, which would you prefer?
+I would actually prefer some cheap Lebanese food if possible?
+I am sorry I have no results for restaurants serving lebanese food in the west. Would you like to find another type of cuisine?
+Ok, maybe we can try the Vietnamese one you mentioned.
+Okay would you like me to make a reservation?
+Um, I think I'll just take the postcode and the name for now thanks.
+The Vietnamese restaurant is called Thanh Binh and is located in the CB30AF postcode. Is there anything else I can do for you?
+================
+I'm looking for information on a train that will arrive at 20:45 Wednesday.
+I have 318 trains running on Wednesday, to help narrow it down where will you be departing/arriving?
+The train should depart from cambridge and should go to kings lynn.
+Train TR3234 leaves at 19:11 and arrives by 19:58. Shall I book that one for you?
+Yes. Thank you very much.
+Great. I have booked your ticket, your reference number is : NSRUZ1F6. May I help you with anything else today?
+================
+Can you find me a taxi from backstreet bistro? I can't leave until after 14:15.
+Ok, what is your destination?
+I want to be taken to cineworld cinema
+When do you need to arrive?
+By 15 00 and I need car type and contact number
+Booking completed! Booked car type : black skoda Contact number : 07336608269
+================
+I need to find a train for Saturday.
+I have many trains that depart saturday. Where will you be departing from and where is your destination?
+I will be departing from Ely and traveling to Cambridge.
+Okay, and what time do you want to leave after or arrive by?
+I need to arrive by 11:45.
+There are 3 trains here. Do you want me to book any tickets?
+Yes please. I need it to be booked for 8 people.
+Booking was successful, the total fee is 28.16 GBP payable at the station .Reference number is : ZVERHBT3.
+================
+I'm looking for a restaurant in the east.
+There are nine restaurants in the east. Do you have a price range in mind?
+I don't have a price range but I am looking for asian oriental cuisine. Is that possible?
+I am sorry there is nothing that meets that criteria. Is there another type of food or area you would be interested in?
+How about British food?
+I would recommend you try Grafton Hotel Restaurant. As requested it is in the east and serves British food.
+Thanks, will you please book a table for 7 people on thursday at 13:00?
+Booking was unsuccessful. can we book another day or time slot?
+please try booking at 1200hrs and get me the reference number
+Booking was successful for Thursday at 1200hrs , table for 7 at Grafton Hotel restaurant. Your Reference number is KQKTCX5Y. Is there anything else I can help you with?

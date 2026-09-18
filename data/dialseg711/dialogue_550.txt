@@ -1,0 +1,36 @@
+i want to book a taxi.
+Yes of course, from where will you be leaving?
+From museum of classical archaeology to london kings cross train station, please
+I have ordered one for you their pick up time is 1:00pm. Is this time okay or do you need a different time?
+I need a different time. I want to arrive by 05:30.
+Alright. The type of car is a white lexus and the contact number is 07607179806. Anything else?
+================
+Am looking for the nearest police station
+It looks like the Parkside Police Station is closest to your location, does this sound right?
+That looks right. What is the phone number for that location?
+Telephone : 01223358966 there you go
+================
+Can you book a taxi for me? I'll be departing from bangkok city.
+When would you like to leave by?
+I don't care when I leave but I need to arrive by 15:15.
+Great. And your destination please?
+The taxi should take me to hotel du vin and bistro.
+Your booking is complete, a white ford will be arriving to pick you up.
+May I have the contact number for the taxi, please.
+The vehicle is a white Ford and the contact number is 07362646740.
+================
+show me the closest location where i can get chinese food
+Panda express is 3 miles away.
+Give me the address.
+842 Arrowhead Way, there is heavy traffic but you should be able to reach there soon anyway
+================
+Hi, I need a hotel with free wifi internet and a rating of 3 stars. What can you recommend?
+We've got two expensive hotels with that criteria. Would you like to stay in the centre or the south?
+It doesn't matter where the hotel is located.
+Both Hotels have internet, does not state if it is free. The hotels are The Gonville Hotel and the Lensfield Hotel.
+Can you book The Gonville for me please? It'll be just me staying
+Yes, I can help you with that. How many nights will you be staying?
+4 nights, checking in on Saturday.
+Booking was successful. Reference number is : 565UIMXV.
+Thank you for your help. Do I need to do anything else or I'm good?
+That is all unless you need something more from me.

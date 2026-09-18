@@ -1,0 +1,14 @@
+Hello I need information about Zip Code and Email Entries
+ok, a question has your address changed recently?
+do not
+But if someone has recently changed their address, what should they do?
+If your address has changed, please do not process your transaction online. Instead, follow the instructions to change your address.
+and to do that I have to have an email?
+Yes, and Your email program must be able to receive emails from addresses that include the domain: dmv.ny.gov.
+================
+And if I change my email, do I also have to change my residence address?
+If you already have a residence address registered with the DMV, you are not required to change it when you change your email address, but you can change the residence address if you wish.
+and how long do I have to report my change of residence?
+New York State law requires that you report a change of residence to the DMV within 10 days.
+You do not have a residence address registered with the DMV?
+do not

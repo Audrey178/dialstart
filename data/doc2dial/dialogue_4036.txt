@@ -1,0 +1,15 @@
+Hi, could you please advise me as to the accuracy of Loan Simulator, is it accurate?
+================
+Have you provided Loan Simulator with accurate information?
+No I have not tried Loan Simulator yet.
+Can the Loan Simulator predict future payments?
+The Loan Simulator can only provide realistic results if you provide complete and accurate information about your circumstances but you must keep in mind that the tool can't predict your future payments with 100% accuracy.
+================
+Is it possible to make suggestions to make the tool better?
+Yes we would appreciate your feedback and any requests for new features that you think will be helpful.
+================
+Is it possible for  you to guide me through the loan simulator so that I will get the best results?
+Yes I can guide you through a series of questions based on what might be best for you.
+================
+Am I allowed to share the Loan Simulator with others?
+For sure you can invite your family and friends to use the tool.

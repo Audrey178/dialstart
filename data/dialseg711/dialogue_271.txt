@@ -1,0 +1,32 @@
+Hello, I'm looking for a 1 star hotel with free parking in the west.
+We don't have any hotels that meet those specifications. Would you like a different area, or perhaps a different star rating?
+Can we try a 4 star rating instead?
+Do you have a price range that you are looking for?
+I do not have a price range just need a hotel booked for 7 people.
+I'd recommend the huntingdon marriott hotel. If you'd like, I can see if they have an availability. What day are you arriving?
+We'll be arriving on Friday, and we'd like to stay for 2 nights.
+Booking was successful. Reference number is : LXZ3ERL8. Is there anything else I can assist you with?
+================
+Hello! I'm looking for a train leaving on thursday departing from bishops stortford.
+OK, and what time are you traveling?
+I'd like to leave after 21:30.
+Train TR3000 leaves Bishops Strotford for Cambridge on Thursday at 23:39. Will this suit your needs?
+That would work for me can I get tickets for 3 people?
+Great! I have booked TR3000 for 3 people at 23:29. Your Reference number is : FOPYB8UC. May I help with anything else?
+================
+What day and time is my dentist appointment?
+Your Dentist appointment is set for Saturday at 11 am.
+great, thanks
+Is anyone coming with you?
+================
+Hello, what's the address of the Parkside Police Station, if you would be so kind?
+The parkside police station is located at Parkside, Cambridge, CB11JG
+================
+I need a taxi from Peking restaurant to my hotel.
+Absolutely! When would you like to arrive?
+I'd like to arrive by 20:00 please.
+I can help you with that. where are you going?
+I'm going to huntingdon marriott hotel.
+I have a yellow volkswagen booked for you with a contact number 07582897305.
+Thank you for your assistance.
+You're very welcome. How else may I assist you today?

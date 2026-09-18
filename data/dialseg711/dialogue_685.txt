@@ -1,0 +1,36 @@
+I would like to find somewhere with expensive Kosher food.
+I'm not seeing any expensive Kosher restaurants, would you like to try a different price range perhaps?
+Sure. I also need the restaurant to be in the center.
+Sorry it looks like there are no kosher restaurants in any price range in town at all. Would you like another food type?
+Sure, let's try Italian instead.
+There are 4 expensive Italian restaurants in the center of town. I suggest Caffe Uno at 32 Bridge Street City Centre. Would you like to make a reservation?
+Caffe Uno sounds great. Can I get their phone number, please?
+Their phone number is 01223448620. Is there anything else I can help you with?
+================
+Get me the address to the hospital asap.
+The hospital Palo Alto Medical Foundation is located at 611 Ames Ave.
+Thanks!
+Do you want me to set the GPS?
+================
+I am looking for a cheap restaurant in the centre of town.
+There are several options available in the town centre. Is there a particular cuisine that you would prefer? Asian, chinese, indian, italian, mediterranean, modern european, portuguese, or spanish?
+I want a restaurant that serves molecular gastronomy food.
+Unfortunately, I don't happen to have a listing that matches your request. Would you like me to try a different price range or cuisine style?
+Are there any Chinese restaurants?
+Yes, there are 3 Chinese restaurants that are in the cheap price range. I would recommend the Golden House. Would you like for me to book you a table?
+Yes, please book it for around 20:00 for 3 people
+What day would you like to book?
+Actually, scratch that, I don't want to book the restaurant. Could you give me the phone number for the Golden House?
+Their phone number is 01842753771. Is there anything else I can help you with?
+Can you give me the address and postcode as well?
+The Golden House is located at 12 Lensfield Road City Centre. Their postcode is cb21eg. Can I help you with anything else?
+================
+what is today's weather forecast
+What city would you like the forecast for?
+durham
+Today's forecast says durham is humid, the low temp is 60F and the high is 80F
+================
+what are some nearby hotels
+I have one hotel listed 4 miles away. What info would you like on it?
+Send me its address and pick a route to avoid all heavy traffic please
+Then we're navigating to Hotel Keen, its address is 578 Arbol Dr. There is moderate traffic and you should be able to reach in just few minutes

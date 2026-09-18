@@ -1,0 +1,44 @@
+I need a taxi to come after 19:30.
+Where would you like to be picked up from?
+I am in wandlebury country park.
+Where will you be going to?
+I'll be going to meze bar restaurant.
+You are booked on a red lexus .
+Great. Can I get a contact number?
+Yes, your contact number is 07236149315. Do you need other bookings?
+================
+Where is the nearest hospital?
+Stanford Childrens Health is the only hospital I can find. It is located at 899 Ames Ct which is 6 miles away, but there is a road block near it.
+Oh no I have to get there, what's the address?
+The address is 899 Ames Ct, I sent the best route on your screen
+================
+I'm looking for a restaurant in the south that serves international food.
+Unfortunately, I was unable to find a restaurant in the south that serves international cuisine. Is there another type of cuisine that would interest you?
+No, I really need a restaurant in the south that serves international food.
+There is international food in the east and centre of town. The south has many cuisines but no international food.
+Are there any restaurants in the south that serve Indian food?
+Taj tandoori is a Indian place that is in the south. The number is 01223412299.
+Will you please book a table for 4 people at 16:15 on wednesday?
+Unfortunately, the time and day you've chosen is unavailable. Would you like to book a different time or day?
+We can go earlier. How about 15:15, please?
+Booking was successful for 15:15. The table will be reserved for 15 minutes. Your reference number is XQA73LQL. Anything else?
+================
+I am looking for a train to Cambridge.
+When will you be travelling?
+I'll be leaving Friday after 20:45.
+I have several options for you depending on your departure site. Where will you be leaving from?
+I need to depart from Cabridge and go to Bishops Stortford.
+There are few options to choose from. How many people are traveling?
+I will have 2 people traveling.
+Okay, would you like me to book TR4664?
+Yes, please. I need the reference number.
+The reference number is 0JI02QOT. Can I help you with anything else?
+================
+Can you give me the price for a large pizza and what type of pizzas they offer at Pizza Express fen ditton please
+Would you like to book a reservation at Pizza Express?
+What is the price range of Pizza Express?
+Pizza Express Fen Ditton is in the moderate price range.
+What is the food type at Pizza Express?
+It is italian food.
+Okay, thank you.
+Would you like me to book it for you?

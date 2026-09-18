@@ -1,0 +1,26 @@
+I'm desiring to eat at some Chinese restaurant: is there any in the area?
+There are Mandarin Roots 5 miles away and Jing Jing 6 miles away: which one would you like to try?
+The one with the quickest route.
+There is no traffic on the way to Mandarin Roots. Would you like to navigate there now?
+================
+I want to find a hospital in town
+The nearest hospital is Addenbrookes Hospital. It is located in Hills Rd, Cambridge CB20QQ. Their number is 01223245151. Are you looking for a specific department?
+================
+I am looking for a hotel with free parking in the North.
+There are 11 hotels that meet your needs. Would you like to narrow them down by price range?
+Are any of those 11 guesthouses?
+Yep there are 5 guesthouses. Do you wanna just try acorn guest house?
+Does it offer free wifi?
+Yes, it does have internet.
+Okay. Please help me book this guesthouse.
+What day, number of nights, and number of people would you like to book for?
+I do not have all of that information at this time. Can I talk to you again when I know more?
+Yes that is all right.
+================
+Yes, I'm calling regarding Addenbrookes Hospital. What is the address please?
+The Addenbrookes Hospital is located at Hills Rd, Cambridge Postcode CB20QQ.
+================
+I need a taxi at Peking Restaurant to take me to Royal Standard.
+Sure! when would you like to arrive?
+I need to arrive by 16:15.
+Okay. A red lexus will pick you up. They can be reached at 07101377388. Did you need anything else?

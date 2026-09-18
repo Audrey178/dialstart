@@ -1,0 +1,19 @@
+Could you please tell me what is included in the Federal Student Aid Specific Resources section of the IT Standards Library?
+================
+The section you mentioned includes documents that are specific to the Federal Student Aid IT lifecycle for all projects and lists other pertinent references that an IT project my be required to comply with dependent on the contract.
+================
+What is included in the General References section?
+The General References section includes Lifecycle Management Methodology.
+================
+Does an IT project have to comply with the Specific Resources?
+Yes all projects may be required to comply with the resources dependent on the projects specific contract.
+================
+Do you have a IT project at the moment?
+No not at the moment.
+================
+What is your involvement with Data Management?
+I am involved Data Management at the moment.
+In that case you should follow the Data Management Resources that are provided.
+================
+What is involved in complying with the Program Quality Assurance?
+You will have to undergo the Production Readiness Review (PRR) Process.

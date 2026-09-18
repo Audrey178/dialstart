@@ -1,0 +1,26 @@
+I am looking for a particular hotel. Its name is called cityroomz
+Cityroomz is located in the centre and is moderately priced.
+That's great. Would you book 5 nights for 3 people, please?
+What days will you need the reservation for?
+book it for 3 people and 5 nights starting from thursday.
+Your booking was successful. The reference number is 1UT4DOFP.
+================
+what time is my tennis activity?
+you have 3 upcoming tennis activities, the 13th at 7pm, sunday at 3pm, and wednesday at 4pm.
+Who will be attending tennis with me on Wednesday?
+Your tennis activity on Wednesday at 4pm is with Jeff.
+================
+Hi, I'm looking for a particular restaurant named Bedouin. Can you help?
+Yes. Bedouin serves african food and is is located in the centre.
+Can you book me a table for 3 people at 20:00 on Wednesday?
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : N332O6JK.
+================
+What is the date and time for tennis?
+You have a tennis activity on the 12th at 7pm with mother, and on the 19th at 5pm with father.
+================
+Well, I have been in an accident and need some help.
+Sure! I think you'll need the police. Their contact number is 01223358966.
+Do you have the location of the police department?
+The Parkside Police station phone number is 01223358966. The police station is located in Cambridge, post code CB11JG. Would you like some help to get to the police station?
+No, that will be all. Thank you.
+welcome. at your service next time

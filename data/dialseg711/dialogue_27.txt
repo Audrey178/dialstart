@@ -1,0 +1,25 @@
+I'm looking for a guesthouse. But I won't have a car with me, so I don't need any rigamarole with "free" parking.
+Sure! There is a three-star guesthouse without free parking at 63 Milton Road. Would you like me to book the hotel for you?
+what area of town? what's the price?
+Alpha-milton guest house has a moderate price range in the north, as is Avalon guesthouse. a and b is in the east, also moderate.
+Are there any hotels in the expensive price range in the north?
+name type area pricerange stars internet parking phone postcode address book (optional) alpha-milton guest house guesthouse north moderate 3 no no 01223311625 cb41xa 63 milton road avalon guesthouse north moderate 4 yes no 01223353071 cb43pd 62 gilbert road are the available options
+surprise me! i need a booking for 6 people 2 nights starting on friday.
+You are booked into the Avalon which is moderately priced. There were no guesthouses in the expensive range. Your reference number is WSPNWZI0.
+Great, thank you for help. That is all I need today.
+Thank you for using our services. Have a great stay!
+================
+schedule a conference
+================
+I was in a car accident and have a dispute with the other driver so please contact the police and tell them I need help.
+The cops are on the way. What is your location? Is anyone hurt?
+No, I just need their phone number.
+The phone number is 01223358966.
+================
+Remind me at 4pm next Wednesday about my conference with the sales team.
+Setting reminder for conference at 4 pm on next Wednesday with the sales team.
+================
+I have had an injury! Where do I find the nearest hospital?
+Sorry to hear that! The closest hospital is at Hills Rd, Cambridge.
+What is the postcode?
+The post code is CB20QQ. Is there anything else I can help you with?

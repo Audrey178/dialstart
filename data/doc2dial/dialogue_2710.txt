@@ -1,0 +1,17 @@
+Tell me about how to replace or transfer personalized plates
+================
+Do you want to replace or transfer your personalized plates?
+No, I'm just curious.
+================
+Are your plates old or damaged?
+No, the plates are in a good condition.
+================
+Would you like to replace the custom plates you have now with different personalized plates or plates with personalized images?
+No, I don't think so
+================
+Do you want to keep your current custom combination and use it on your new image plate?
+No, not that either.
+================
+Do you want to transfer a current set of custom plates to a new vehicle you plan to purchase?
+Yes, that's exactly what I want
+Null

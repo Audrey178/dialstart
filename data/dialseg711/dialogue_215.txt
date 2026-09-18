@@ -1,0 +1,36 @@
+Schedule a conference with management on Monday August 8th at 10am.
+I will schedule a conference with management on Monday August 8th at 10 am immediately!
+================
+I need a taxi to go to club salsa.
+Sure thing, when would you like to arrive or leave by?
+I want to get there by 1:30.
+Where are you leaving from?
+I will be leaving from Limehouse.
+Where would you like the taxi to meet you for departure?
+I just told you the limehouse.
+Booking completed! Booked car type : white audi Contact number : 07075850505
+================
+I am going to be on the north side of town and would like a recommendation to a high end restaurant for dinner.
+I have several high end options available. Did you have a preference on the type of cuisine?
+No, I don't have a preference.
+Then may I recommend Restaurant Two Two. It is French and tre manufique! Would you like to make reservations?
+Have you eaten there?
+Yes. Would you like to book a table?
+Sure, can you please book a table for four in the evening
+I would be happy to make you a reservation, first I will need to know what day and time you'd like to reserve for.
+For 4 people at 13:45 on Saturday. I'd also like the booking reference number, please.
+Ok. I have booked your reservation. The reference number is RBBHGYRV.
+Great, thanks a lot!
+Is there anything else I can assist you with today?
+================
+I need a taxi departing from the gardenia.
+I'd be happy to help. What time would you like to leave and/or arrive by?
+I would like yo leave after 6:30.
+I can help you with that. where are you going?
+I'm going to the slug and lettuce.
+Your taxi booking is for a red lexus with the contact number 07652996605.
+That's all, thanks!
+You're welcome. Can I help you with anything else today?
+================
+I am looking for the price range of a restaurant called Rice boat.
+Rice Boat is in the expensive price range. Can I help you with something else?

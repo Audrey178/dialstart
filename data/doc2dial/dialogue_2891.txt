@@ -1,0 +1,14 @@
+Hello, I would like to obtain information about paid employment...
+In that case to be eligible to receive funds under the Title IV Student Assistance Programs of the Higher Education Act, an educational program must lead to a degree in a public or non-profit institution or must prepare students for a "gainful employment in a recognized occupation.
+================
+and how is the earnings data calculated?
+Could you read what was described above?
+no
+================
+who calculates the annual rate of profit?
+the numerator is the calculated annual loan payment amount, an estimate of the annual loan repayment amount based on the average educational debt of the cohort members. The denominator is the highest of the average or average income of the cohort obtained from the Social Security Administration SSA
+================
+and where can I have more information?
+you can use Glossary of terms used in the D / E data spreadsheet...
+and where can i see my calculations?
+Download the Debt to Profit Data Spreadsheet

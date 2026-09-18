@@ -1,0 +1,22 @@
+I need a moderately priced restaurant that serves hungarian food.
+I am sorry, there are no restaurants that meet your requests. Would you like to change your price range or food type?
+Oh, okay. Well, I guess I would like to find a restaurant that serves modern European food. Is there such a place available?
+There are two restaurants in the centre area and one in the south part of town. Do you have a preference?
+No, I do not.
+I would recommend Riverside Brasserie, located at Doubletree by Hilton Cambridge Granta Place Mill Lane. Can I make a reservation for you?
+Sure please, I need a table at 14:45 for 1 person on saturday
+Your table at riverside brasserie is booked, one person at 14:45 on Saturday. Your booking reference is UZD82IFV. Can I help you with anything else?
+================
+I would like to book a taxi to leave after 11:45 to go to king's college.
+Where will you be departing from?
+I will be departing from Abbey Pool and Astroturf Pitch. In addition, I would like the car type and its contact number.
+It's your lucky day! The car reserved for you is a yellow Tesla. The contact number is 07996702109. Is there anything else I can do for you?
+================
+remind me i have a tennis match on the 12th
+================
+i want to find a hospital in town
+The nearest hospital is Hills Rd in Cambridge. The telephone number is 01223245151 and the Postcode is CB20QQ. Can I provide further assistance?
+Can you please book a taxi to take me there?
+Yes, a taxi can take you to Addenbrookes Hospital. Where are you now?
+I'm not sure. It is all quite confusing. I think I will find help nearby. Thank you.
+Is there anything else I can help you with today?

@@ -1,0 +1,19 @@
+give me directions to the nearest restaurant
+Okay, there is a Panda Express 1 mile away. You can find it at 842 Arrowhead Way, this route does not have any traffic
+================
+i want to book a taxi. The taxi should arrive by 23:00 and should go to holy trinity church.
+Where do you need to be picked up?
+I will be departing from rajmahal.
+Ok, I have a car for you: a yellow honda with the contact number 07123496116
+================
+I am looking for a place to stay in the south.
+There are 4 places in the south. 3 guesthouses and 1 hotel. Which would you prefer?
+I am looking to stay at a place with four stars, please.
+The aylesbray lodge guest house is a 4 star hotel located at 5 mowbray road.
+================
+Can you help me find an expensive restaurant in the centre area?
+There are 33 possible places that fit your request. For example, there is an expensive African restaurant in the centre. Is this something you would be interested in?
+How about mediterranean food?
+Sure, either La Mimosa or Shiraz both serve excellent Mediterranean food.
+La Mimosa sounds good. Can your reserve me a table for 1 on Saturday at 11:15?
+I have that reserved, the reference code is MLZZDYT5.

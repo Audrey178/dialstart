@@ -1,0 +1,30 @@
+Hello! I'm looking for the Parkside Police Station.
+The number for them is 01223358966.
+Could I also have the postcode please?
+The postcode is CB11JG.
+================
+I am looking for a place to stay. The hotel should be in the type of guesthouse and should include free parking
+There are many options that could satisfy your request, what price range do you require?
+I don't care about the price range. I do want to be in the north, though.
+There are 9 possibilities in either the cheap or moderate price range. Which do you prefer?
+how about something in the north?
+How about acorn guest house?
+try there for three nights then give me the reference number
+Can you tell me for how many people and on what day?
+i want booking for four people
+What day do you need to check in?
+I'll arrive on Wednesday.
+Booking was successful. Your reference number is 6WKSPADC.
+================
+I am looking for the Addenbrookes Hospital.
+The Addenbrookes Hospital is at Hills Rd. Cambridge. The postcode is CB20QQ and the phone number is 01223245151. Is there anything else?
+================
+I need to book a taxi to come to Nandos City Centre. I need it here by 04:00.
+I'd be happy to book that for you. Where will you be heading?
+================
+Am looking hospital in town.
+Find them at Hills Rd, Cambridge, CB20QQ
+What is the name of the hospital please? I'll also need the phone number.
+The name of the hospital is Addenbrookes Hospital and the phone number is 01223245151.
+Thanks so much for your help. I am good to go now.
+Is there anything else I can help you with?

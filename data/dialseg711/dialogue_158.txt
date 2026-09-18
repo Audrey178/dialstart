@@ -1,0 +1,28 @@
+I am looking for a place to dine. The restaurant should be in the expensive price range and should serve british food.
+How about graffiti? I've heard great things.
+That sounds interesting. What area is the restaurant in?
+It is in the west area.
+Thanks. What is the postcode, address, and area?
+Graffiti is in the west area, address is Hotel Felix Whitehouse Lane Huntingdon Road, postcode cb30lx. Do you want reservations?
+================
+Hi I am looking to go see a college while in Cambridge. Can you tell me about any of them?
+I'd be happy to. Any preference on location?
+Nope, just tell me the area where your favorite is located, and I'll check it out!
+How about Churchill College? It's in the West.
+That sounds perfect. Thanks so much!
+It's located on Storey's Way. Do you need any more info on it?
+================
+search for nearby cafe
+I don't have any cafe's but I have coffee and tea places listed, would you like the closest one available?
+Yes with the quickest route please.
+The closest shop is 4 miles away with no traffic. It's called Cafe Venetia and is located at 269 Alger Drive. Would you like me to set the GPS?
+================
+I'm looking for the Addenbrookes Hospital and need to contact the haematology and haematological oncology department.
+The phone number for Addenrookes Hospital, haematology and haematological oncology department is 01223217312.
+Can you also tell me the postcode for the hospital?
+Yes, the postcode is CB20QQ. Can I get you anything else?
+================
+show me the locations of all of the nearby motels
+There is Comfort Inn 2 miles away at 753 University Ave
+It sounds good! Please pick the fastest possible route and send the address on my screen, thanks!
+The Comfort Inn is 2 miles away with no traffic. I have set the GPS.

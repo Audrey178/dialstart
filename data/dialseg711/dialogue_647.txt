@@ -1,0 +1,29 @@
+I want to find a museum in the centre of town please.
+Castle Galleries is a museum in the center of town, entry is free, would you like more details?
+Yes, please. May have I have phone number and postcode?
+Yes, the phone number is 01223307402 and the postcode is cb23bj. Can I help with anything else today?
+================
+I am starving!
+What would you like to eat?
+Indian food in the centre, please.
+There are a few of those. What price point are you looking for?
+I don't have a price range in mind. Can you recommend just one restaurant matching my criteria?
+How about Kohinoor? It's a cheap Indian restaurant in the center. Would you like a reservation?
+That sounds great. Can you just give me the postcode?
+The postcode for Kohinoor is cb12as. Is there anything else I can help you with today?
+One more thing, what's the price range?
+Kohinoor is a cheap restaurant.
+================
+Look at today and tomorrow's forecast and tell me if there will be a blizzard in mountain view
+There will probably not be a blizzard in Mountain View either today or tomorrow.
+================
+Could really use some grub.
+Sure. Is there any part of town that you'd like to look for food in?
+Somewhere in the centre. I'm looking for some traditional food.
+I'm sorry, but there aren't any traditional restaurants in the centre. Would you like to try another cuisine?
+Ok, how about lebanese food?
+Ali Baba is a great restaurant that fits exactly what you are looking for. Would you like me to book a table for you?
+Yes, please book me a table for 2 people at 12:00 on wednesday.
+I'm sorry, that isn't available. Is there another day or time you could eat?
+How about at 11:00 instead?
+Your reservation for 11:00 was successful and your reference number is Q1XUDH9Y. Is there anything else I can help you with today?

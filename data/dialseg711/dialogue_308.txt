@@ -1,0 +1,36 @@
+what is the weather like today and tomorrow
+What city are you in?
+Mountain View.
+Today in Mountain View is gonna be overcast with low of 40F, tomorrow it will be cloudy
+================
+I am looking for a train. The train should depart from peterborough and should go to cambridge
+I can find you a train. What day and time would you like to travel?
+I need to arrive by 14:45.
+I have trains that meet you criteria for most days of the week, do you have a day or departure time preference?
+I want to leave on Wednesday.
+TR9545 arrives at 13:38 on Wednesday. Would you like me to book it for you?
+Yes, I would. Could you book that for 6 people, please?
+The booking was successful, the total fee is 99 GBP payable at the station. The reference number is LNKDUQPE.
+thank you so much for your help
+welcome again next time.enjoy the journey
+================
+what is the weather like today and tomorrow
+What city would you like the weather for?
+Will it rain in Mountain View?
+Rain is not predicted today, but tomorrow rain is predicted to fall in mountain view
+================
+Find my home address for me car.
+Your home is at 10 ames street, we're 5 miles away now: would you like me to set the GPS to get there?
+Yes, please, and pick the quickest route for me
+Home is 5 miles away, this route does not have any traffic
+================
+I want crossover food at an expensive price. Can you help?
+I'm sorry but we don't have any restaurants meeting that criteria. Could you please try a different type?
+is there something else in the West?
+Grafitti has great British food in the west and fits the expensive pricerange you are looking for. Does this appeal to you?
+Actually, I'd prefer a European restaurant.
+Cambridge lodge restaurant has good reviews and serves European food.
+Please book for 1 person, sunday at 17:45.
+I'm afraid they're full on Sunday at 17:45. Perhaps another day, or another time slot?
+How about Sunday at 16:45 please for 1 person?
+You are booked for Sunday at 16:45. Your reference number is 2W56MF47. May I help you with something else?

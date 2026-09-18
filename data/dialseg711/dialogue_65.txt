@@ -1,0 +1,25 @@
+I need to book a taxi to come by Saffron Brasserie by 03:30.
+I'd be happy to help! Where are you coming from?
+I'm coming from saffron brasserie.
+Where will you be going?
+I'm going to leicester train station and need to arrive there by 03:30
+Just want to confirm before booking you are departing from saffron brasserie and want to arrive at leicester by 3:30, is that correct?
+Yes, that is correct
+Booking completed! Booked car type : white ford Contact number : 07379980416
+================
+What time do i need to take medicine and who will be helping me?
+================
+I am looking for information on The Varsity restaurant.
+The Varsity is a moderately priced restaurant offering international cuisine. Would you like any other information?
+Could you book me a table for 2 at 20:00 on Tuesday evening?
+Ok! Your table for 2 at the Varsity Restaurant has been booked for Tuesday at 20:00. You reference number is: 1EB89A0F
+================
+i need directions to a grocery store
+There are two grocery stores near you. Would you like Safeway or Whole Foods?
+I need the one with the quickest route that is within 3 miles of me please.
+There is heavy traffic but Whole Foods is just 2 miles away at 819 Alma St
+================
+what's the weather forecast
+What city can I give you the weather forecast for?
+Find out if it is going to rain on Friday in Cleveland please.
+The forecast shows clear skies in Cleveland on Friday.

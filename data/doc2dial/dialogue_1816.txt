@@ -1,0 +1,15 @@
+Hi, I'm constantly searching DMV records for driver license, registration and insurance information. So I thought I'd get a DIAL-IN search account, but I need to fill the form MV-15D. I've been trying to get the form on the website but it's seems the website is down, or maybe my browser is not compatible. Could you assist me with that?
+================
+We are currently upgrading our security protocols to better protect your data, so the platform has been down recently, but right now the website if available. If you want to check whether your browser is compatible, visit https://encryption.ny.gov/.
+Thanks, I checked and my browser it's not compatible, what should I do now?
+Upgrade your browser to the latest version.
+Done, so now to re-verify whether is compatible should I go to the same link?
+Absolutely, visit https://encryption.ny.govc to verify again.
+================
+Thanks, I already got in, but I can't seem to download the form. How can I contact DMV about this? I need to get that Dial-in search acount asap.
+You can contact DMV at: NYSDMV DIAL - IN AccountsRoom 2316 Empire State PlazaAlbany , NY 12228 473 - 2137 dmvaccounts@gmail.com
+================
+Thanks! But why can't I download the form? Does it have anything to do with the new security?
+Yes, we upgraded our security for better protection of the data. So, now you can't download any form as you usually did, to request a form you have to contact DMV.
+Can I visit the page with mi phone?
+Yes, most of smart phones have compatible browsers. Visit https://encryption.ny.gov/ to check that.

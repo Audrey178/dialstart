@@ -1,0 +1,25 @@
+What is the time and agenda for my meeting, and who is attending?
+================
+what is the weather today and tomorrow
+What city shall I give you today and tomorrow's forecast for?
+Will it be warm in Durham today?
+It will be humid with a high of 70F in Durham today.
+================
+I am looking for information on the Kings college attraction
+Kings college is located in the centre of town at kings parade. Phone number 01223331100. Is there any other information you need?
+What is the postcode?
+The post code is cb21st
+================
+Is it humid in Compton now?
+It is not humid in Compton now.
+================
+I am trying to locate a really nice guesthouse to take my wife to. Can you suggest any?
+There are several nice guesthouses I can recommend. Are you looking for a specific location?
+I don't have a place in mind but I would like for the guesthouse to be on pricier side.
+I'm sorry to say we don't have any expensive guesthouses. Would you like to try something cheaper?
+Could you see if there's a hotel that meets my preferences?
+Yes there are five such hotels. Which area of town could you like to stay?
+No, but I was looking for something with 2 stars.
+The express by holiday inn cambridge is east area. Would you like me to book a reservation for you today?
+Please just give me their postcode.
+The postcode is cb13lh.

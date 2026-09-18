@@ -1,0 +1,40 @@
+find the nearest parking garage
+The nearest parking garage is Stanford Oval Parking.
+Please send me its address on screen and pick a route with no traffic, thank you!
+Stanford Oval Parking is at 610 Amarillo Ave.
+Please set GPS for route with no traffic.
+Stanford Oval Parking has moderate traffic, can you still go there?
+================
+help me get a taxi to the cambridge museum of technology please
+Sure. What is your departure site?
+I'll be departing from rice boat
+Okay. Can you give me a time that you'd prefer to leave after or arrive by?
+================
+I am looking for a place to go.
+Okay, what kind of place are you looking for?
+Nothing in particular. What's the phone number, type, and fee for your favorite place?
+What area will you be staying in and what kind of things do you like?
+I would like the attraction to be in the centre.
+There are 44. What type are you intersted in?
+anything that is good, just recommend any
+Would you be interested in an architecture attraction such as great saint mary's church? They have a 2 pound entrance fee or there are others available for free.
+May I have the phone number please?
+01223350914 is the phone number
+Thank you very much that would be it.
+Enjoy your visit and let us know if you need help with other arrangements in the future.
+================
+I need to find a train that arrives at 12:30 on Wednesday.
+Certainly. Could you tell me where you're departing from and traveling to?
+I am departing from Birmingham new street and going to Cambridge.
+I have seven trains available then, could you tell me what time you would like to leave ?
+Yes I need to arrive in Cambridge by 12:30 please.
+The TR3543 puts you into Cambridge at 12:23. Will that train work for you?
+Yes, that will work. Can you book that train for 8 people? I will also need a reference number.
+Certainly. I have you booked and your reference number is 47MBURBC.
+Great! Thanks, that's all I need.
+Thank you! Have a great day!
+================
+I need to find the addenbrookes hospital.
+Are you looking for a particular department?
+No, that's fine. Just the location with postcode, please.
+The postcode is: CB20QQ

@@ -1,0 +1,32 @@
+where's the nearest place to get a hot cup of tea
+The nearest tea shop is Palo Alto Cafe at 436 Alger Dr.
+How's the traffic?
+There is currently no traffic en route. Would you like directions?
+================
+Are there any Chinese restaurants in the centre part of town?
+jinling noodle bar is in the centre abd serves chinese food
+Are they expensive?
+They are in the moderate price range.
+Please look for something else in the expensive price range. I will need the address, post code and phone number.
+Does the Jinling Noodle Bar sound like a good choice?
+Sure! What's the address, postcode, and phone number of it?
+their address is 11 Peas Hill City Centre, postcode is cb23pp , and phone number is 01223566188
+================
+I need to find the Addenbrookes Hospital please.
+Sure, the address is Hills Rd, Cambridge and postcode CB20QQ
+Thank you, may I have their phone number as well?
+What department are you looking to contact?
+im actually not sure, is there a general number?
+Yes, there is. Addenbrookes has a main number. It is 01223245151. Is there any other information you might need?
+================
+I'm looking for a place to dine that serves gastropub food. I want it to be expensive.
+We have 3 options in Cambridge for expensive gastropub food. Would you prefer a place in the centre or in the east?
+I'd like to dine in the center of town, please.
+I have two in the centre, the Backstreet bistro and The Slug and Lettuce. Would you like for me to make you a reservation?
+Could you give me the address and phone number for the Slug and Lettuce please.
+The slug and lettuce is located at 34 - 35 Green Street, postcode cb23ju. I'm sorry our system does not list their phone number. Is there anything else?
+================
+give me directions to the nearest place to get to eat
+We are 5 miles away from Pizza Chicago: do you want me to give you its address?
+Yes, please, and mark on the map a quick route for me
+Pizza Chicago is 5 miles away with moderate traffic. It's located at 915 Arbol Dr.

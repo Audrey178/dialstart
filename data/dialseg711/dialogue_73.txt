@@ -1,0 +1,32 @@
+I am looking for a train that departs from cambridge and arrives at my destination by 11:30.
+Certainly. There are a number of trains departing from Cambridge. Where is your destination?
+I need to get to Bishops Stortford for a very important meeting. Can you find me a train to get me there by 11:30?
+There are 21 trains making that trip, what day would you like to go?
+On Saturday. And could you tell me how long that trip takes?
+There are three trains that will get you there before 11:30. The trip lasts a total of 38 minutes. How early would you like to leave?
+I'd like to take the train that arrives closest to bishops stortford at 11:30.
+TR3396 leaves at 09:29 and arrives by 10:07. Is that okay?
+Yes. how much would that cost?
+The cost of the one way journey is 8.08 pounds.
+================
+I would like to book a Taxi to Junction, leaving after 02:45
+I can book you leaving after 2:45 to Junction. Where are you departing from?
+from alexander bed and breakfast
+I was able to book a black Volkswagen for you. The contact number is 07558038365. Can I help you with anything else?
+================
+I was just robbed and I want my stuff back
+The phone number for the police is 01223358966, they are located in postcode CBV11JG. Best of luck to you.
+Can you give me the exact address for the police?
+The address of the police is Parkside, Cambridge.
+================
+Can you tell me where the Addenbrookes Hospital is?
+Yes, it's on Hills Rd. Anything else?
+Can I also get the postcode and phone number?
+Yes, the telephone number is 01223245151, and the postcode is CB20QQ.
+What is the exact address?
+The address is Hills Road, Cambridge.
+================
+I'd like a taxi that leaves from yippee noodle bar and leaves after 11:30.
+I would be happy to book your taxi but I will need your destination and preferred arrival time as well.
+I would like to go to Ballare please.
+I was able to book that for you. The car will be a red toyota and the contact number is 07404635448.

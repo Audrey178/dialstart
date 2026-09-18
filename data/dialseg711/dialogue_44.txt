@@ -1,0 +1,27 @@
+Schedule a optometrist appointment on the 7th at 2 pm with Jon.
+Okay, scheduling a optometrist appointment with Jon for the 7th at 2pm.
+================
+give me the weather for next week
+What location are you wanting to know the weather for?
+Will it be foggy in New York next week?
+It will not be foggy in New York next week.
+================
+Hi, I need to get in from King's Lynn to Cambridge
+There are 133 trains making that trip, do you have a day and time you want to travel?
+I'm looking to leave Friday after 21:15, if you could book me a reservation for that time period that would be great.
+TR0672 departs at 22:11. Can you tell me how many tickets you need?
+I need 2 please.
+Booking was successful, the total fee is 19.6 GBP payable at the station. Reference number is : 4J73XCBG. Is there anything else I can help with?
+================
+Will there be cloudy weather in Atherton in the next 7 days?
+It should be cloudy Tuesday in Atherton.
+What days are supposed to be cloudy in Atherton?
+================
+Can you tell me about moderately priced places to stay on the north side of town?
+There are 11 places to stay in the north part of town that are moderately priced. Do you have a need for parking or internet?
+Yes, I'd love to have free internet, and I'd really like to stay at a guest house if possible.
+The Arbury Lodge Guesthouse has a 4 star rating. Would you like me to book it for you?
+Sure. Please book for 6 people and 3 nights starting Tuesday.
+I've successfully booked your room. The reference number is VZCXFU9V.
+Can I please have the address?
+They are located at 82 arbury road. Do you need anything else?

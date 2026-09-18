@@ -1,0 +1,27 @@
+I need a taxi to take me to Pipasha Restaurant to leave after 01:45.
+From where will you be picked up?
+================
+is it cloudy in the next 7 days
+What city do you want to know if it will be cloudy in?
+Fresno
+It will be cloudy on Tuesday in Fresno.
+================
+I'm looking for a place to stay with free wifi.
+All right, we have many places to stay with free wi-fi. What area of town would you like to stay in?
+I'd like to be in the north, and I need a place with free parking. I'd also like to keep the price to a moderate range.
+There are several places that meet that criteria. Do you have a preference on star rating?
+No, could you make a recommendation based on that criteria and send me the postcode, address, and hotel type, please?
+I recommend the Kirkwood House. It is a guesthouse with 4 star ratings. The postcode is cb41da, and the address is 172 Chesterton Road.
+================
+what time am i scheduled to play tennis at
+================
+I am looking for a room and want to see if I can find somewhere that has 3 stars. Can I get some help with that?
+I found 4 guesthouses and 2 hotels with 3 star ratings do you have a preference?
+I'd prefer a hotel rather than a guesthouse.
+There is the Gonville hotel in the centre and The Lensfield hotel in the south, both have free internet and parking. Would you like to book one of these?
+Could you give me more information the the Lensfield?
+The lensfield hotel is an expensive 3 star hotel in the south area. Their address is 53-57 lensfield road. Would you like me to reserve a room for you?
+Yes please, book it for Saturday for 3 people for 3 nights.
+I'm sorry, I was unable to reserve rooms for that day and length of stay. Would you like to try anything else?
+How about 2 nights? Would that work?
+I have successfully booked your stay at the Lensfield Hotel for two nights. 716V6QS6 is your reference number.

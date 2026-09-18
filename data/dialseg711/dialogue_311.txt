@@ -1,0 +1,22 @@
+what time is my swimming lessons this afternoon
+Your swimming lessons are at 3pm today.
+================
+take me to the nearest shopping center
+I've set the route to Midtown Shopping Center, 338 Alester Ave, it's 3 miles away
+================
+give me this week's high temperature
+In which city do you want to know the high temperatures for?
+In Mountain View, please.
+The high temperature in Mountain View is 90F.
+================
+Where is the Addenbrookes Hospital located?
+The hospital is located at Hills Rd, Cambridge.
+Can you also tell me what the phone number and post code for the hospital is?
+Sure, the telephone number is 01223245151 and the post code is CB20QQ.
+================
+Hello! Can you tell me about places to stay in the north area of town? I'll be on a business trip, so I do need free wifi.
+I have several options that meet your needs. I would recommend the Avalon, unless you need free parking.
+I do not need parking, is the Avalon moderately priiced?
+Yes, the Avalon is in the moderate price range. Would you like to book a room?
+Sure! Can you book it for 2 people and 5 nights starting Friday?
+Sure. Your reference number is 8Y3768BT. Anything else?

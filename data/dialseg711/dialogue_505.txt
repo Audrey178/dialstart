@@ -1,0 +1,22 @@
+Who is going to my optometrist appointment and what time is it?
+You have three optometrist appointments. One on the 5th at 1pm with your aunt, another on the 13th at 5pm with Alex, and the last is on Thursday at 10am with Marie.
+================
+i want to find a hospital in town
+The nearest hospital is on Hills Rd in Cambridge. The telephone number is 01223245151 and the postcode is CB20QQ. Do you need further assistance?
+================
+find nearest coffee shop
+The nearest coffee shop is Starbucks located at 792 Bedoin Street.
+Is the Starbucks within 5 miles of here? If so, please direct me to the Starbucks via the quickest route.
+Yes the Starbucks is only 2 miles away. Setting the GPS.
+================
+I need a taxi to take me to Broughton house gallery
+I would be happy to help with your request, where will you be departing from?
+I will be leaving the Scudmores Punting Co.
+I can book that for you, what time will you be leaving/arriving?
+I would like to leave at 6:00.
+Your booking is complete with a red bmw and a contact number of 07899029932.
+================
+I would like to get information on the bridge guest house.
+I can definitely help with that. It's moderately priced and is located in the south. They offer free wifi and parking. Would you like help booking a room with them?
+Thanks! I will book the hotel for 7 people for 2 nights starting from Monday.
+The booking was successful! Your reference number is 6NEWYJ6Y. Can I help you with anything else?

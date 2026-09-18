@@ -1,0 +1,33 @@
+Can you help me find a restaurant?
+Are you looking for a particular style of food?
+I'm actually looking for a particular restaurant recommended to me by the name of royal spice.
+Yes, the Royal Spice is located on Victoria Avenue Chesterton and on the northern part of Cambridge.
+May I ask what type of food does Royal Spice serve?
+Sure! It is Indian food.
+I'll also need the postcode and area please.
+Royal Spice is located in the north area and the postcode is cb41eh.
+================
+Hello there. I was wondering if you could help me arrange for a taxi to take me from the Cherry Hinton Village Centre to La Raza?
+Certainly! Do you have an arrival or departure time in mind?
+I need to leave after 10:15. may i have the contact number for taxi please?
+Absolutely. The contact number is 07862333057
+Thank you very much!
+Would you like me to book the taxi?
+Yes I need the taxi to depart from the cherry hinton village and go to la raza. Leaving after 10:15. Please give me the contact number and car type.
+Okay, the taxi is booked. The contact number is 07862333057, the car will be a Blue Honda. Is there anything else I can help with?
+================
+am looking for a train,it should go to cambridge and should depart from norwich
+What time and day are you looking to travel?
+Yes, I would like travel on Monday and I would need to arrive by 08:30.
+TrainID TR9020 leaves norwich on monday and arrives in cambridge at 06:35.
+What is the price for the train?
+The cost will be 17.60 pounds. Would you like more information about that?
+What time does the train leave?
+it leaves at 05:16
+================
+Can you see if there are any entertainment attractions in the centre of town?
+Unfortunately there are no entertainment attractions in the centre of town. Is there a different area of town that would work for you?
+What about a museum?
+Yes, there are 11 museums. I'd recommend Broughton House Gallery. It's at 98 King Street cb11ln and has free entrance. Would that work for you?
+Yes, that will work great. Can I get their phone number please?
+Certainly. The Broughton House Gallery's phone number is 01223314960. Is there anything else I can help you with today?

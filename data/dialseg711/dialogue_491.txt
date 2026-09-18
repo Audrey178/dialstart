@@ -1,0 +1,32 @@
+remind me about my son's football practice at 2 tomorrow
+Okay, setting a reminder for your son's football practice at 2 pm tomorrow
+Also set reminder for football activity for tomorrow at 10 am.
+Okay I will also set a reminder for football activity for tomorrow at 10 am.
+================
+I am looking for the Addenbrookes Hospital please.
+It is on Hills Rd in Cambridge. The telephone number is 01223245151.
+What is the postcode?
+The postcode is CB20QQ. Can I help with anything else?
+================
+I'm going to Redwood City on Thursday: will it be humid?
+It will not be humid in Redwood City on Thursday.
+================
+I need to find a 4 star hotel with free wifi
+There are 21 hotels that meet your needs. Would you like to narrow it down by area or price range?
+I'll definitely need something on the cheap side.
+I have at least two properties matching your requirements and both are considered 4 star hotels. Would you like me to book one of them?
+Are either of them located on the south side of the city?
+Yes, two of them are. Aylesbray lodge guest house and rose's bed and breakfast
+Okay, please book 4 nights for 4 starting tuesday
+Which hotel would you prefer me to book?
+rose's bed and breakfast
+Booking was successful.Reference number is : MCCKYP80.
+================
+I am looking for a cheap gastropub restaurant in the centre of town
+I was not able to find any restaurants matching your requirements.
+How about something in the south and moderate price range?
+I'm still not finding anything. Would you like me to search a different part of town or a different food type?
+Sure let's try chinese food.
+There are 3 cheap chinese restaurants in the centre of town: Charlie Chan, Rice House, or Golden House. Would you like me to book any of these?
+I'll take Rice House, what's the postcode?
+It's cb12bd. Anything else I can get you?

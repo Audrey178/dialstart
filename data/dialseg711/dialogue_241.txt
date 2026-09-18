@@ -1,0 +1,35 @@
+I am looking for a train to Petersborough.
+I'm sorry there are no trains to petersborough. Is there another location I can check for you?
+No, I need a train from Cambridge to petersborough on Thursday.
+There are 38 trains. What time do you want to leave or to arrive by, please?
+I just need to leave by 08:30.
+There is a 8:34 train to Peterborough on Thursday. I would arrive at 9:24.
+Yes that would be fine please book for 6 people.
+Booking was successful, the total fee is 99 GBP payable at the station . Reference number is : 0ZN13UIU
+================
+A friend recommended the City Centre North B&B. Could you help me find it?
+They are at 328a histon road postcod cb43ht, and their phone number is 01223312843
+Thank you! Can you book that for me?
+I sure can. What day would you need the room and how long do you plan on staying?
+I need it for 2 nights, starting on Monday.
+May I ask how many will be in your party?
+There will be 4 of us. Thanks.
+Your reservation is complete, 4 people for 2 nights at City Centre north B&B, reference 0FVDQUN1. Can I help you with anything else?
+================
+What is the location of the Parkside Police Station?
+Cambridge, parkside police telephone number 01223358966.
+I may be close by. What is the station's postcode?
+They are located in Parkside, Cambridge, post code CB11JG
+================
+I am looking for a place to stay. The hotel should be in the expensive price range and should be in the type of guesthouse
+I don't have a guesthouse type of hotel, but I could suggest the Huntingdon Marriott Hotel
+its ok if it has free parking
+It does have free parking. Would you like me to book it for you?
+Are there any guesthouses in the cheap price range?
+There are nine cheap guesthouses, all in different areas. Any preference?
+can you please tell me about the star of the hotel
+Allenbell has a star rating of 4.
+What is the price of Allenbell?
+The Allenbell is in the cheap price range. Do you want me to book it?
+================
+add the football game to my calendar

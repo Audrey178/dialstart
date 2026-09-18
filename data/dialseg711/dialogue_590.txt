@@ -1,0 +1,28 @@
+AM looking for a place to dine. The restaurant should be in the south and should serve gastropod food.
+I'm sorry, there aren't any gastropubs in the south part of town. If you're open to other areas there are three in the centre and one in the east?
+How about a cheap chinese one in the south?
+I have one place that would be good for you, would you like me to start booking ?
+Yes that would be great, thanks! It'll be 7 people dining on friday at 11:30. And can I have a reference number for it?
+You are booked at The Lucky Star. The table will be reserved for 15 minutes, Reference number is : EXU13ZFQ. Can I help further?
+================
+Am looking for a train,it should depart from cambridge and should go to ely
+the train id is TR1709 and it leaves on friday
+I need to travel on wednesday and get there by 17:15.
+TrainID TR6745 leaves Cambridge at 15:50 and arrives at Ely at 16:07. It's the last Wednesday train.
+Can you give me the price?
+That train costs 4.40 pounds.
+Alright. I'll take it! That train will be perfect.
+Ok, how many seats would you like to book?
+================
+I am looking for the nearest police station
+The nearest police station is in Parkside Cambridge, the telephone number is 01223358966.
+Thank you, that's all I need.
+You take care.
+================
+Where does my friend live?
+Jack or Jill?
+The one I can get to quickest.
+Jacks house is 2 miles away at 864 Almanor Ln.
+================
+i need a taxi arrive 5:45 destination restaurant two two
+Where will you leave from?

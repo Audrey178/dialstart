@@ -1,0 +1,38 @@
+I am a victim of a robbery. I need help.
+Oh no! You should call the police at 01223358966.
+Can I get the full mailing address for that location, please?
+The address to the police is Parkside, Cambridge.
+And what is the postcode?
+The postcode is CB11JG. Do you need more help?
+================
+I need to find the shortest route to the hospital.
+Sorry it appears the nearest hospital is 8 miles away. Palo Alto Medical Foundation is located at 611 Ames Ave with heavy traffic noted.
+Can you send me the directions?
+Palo Alto Medical Foundation is located at 611 Ames Ave
+================
+please show me the weekly weather report
+What city do you want the weather for?
+I need the weather for Compton.
+It will be 90-100F Monday, 40-60F Tuesday, 70-80F Wednesday, 80-90F Thursday, 40-60F Friday, 60-80F Saturday, and 30-40F Sunday.
+Thanks.
+You are welcome.
+================
+I'm looking for a train leaving on tuesday please.
+I have a train going to London King's Cross that will leave at 05:00.
+Actually I need to go to London Liverpool Street from Cabridge.
+Alright, what time would you like to leave?
+I would like to leave anytime after 20:15.
+Ok, I have TR9616 that leaves at 21:39. Will that work for you?
+Is that on Tuesday? If so that would work. I'll need the train ID and price.
+The train ID is TR9616.
+I also need the price.
+The price is 16.60 pounds. Do you need any further assistance?
+================
+Can you find me a taxi to jesus green outdoor pool? I need to be there by 02:15.
+You are booked. Your car is a black BMW and contact number is 07771693374
+Ok Thanks that's all I need!
+One more question. Where do you need to be picked up from?
+I need to be up from Williams Art and Antiques.
+A black volkswagen will be picking you up. Their contact number is 07117431009.
+Great, thanks for your help.
+You're welcome! Is there anything else I can help you with?

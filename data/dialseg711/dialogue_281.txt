@@ -1,0 +1,32 @@
+I would like to visit a cinema of the west side.
+I am sorry but I do not have any cinema's on the west side of town, can I check a diffrent location or help find something else for you?
+How about a museum then?
+I have 7 museums in the west of the city, 6 are free entry and one is 3.50. Do you have a preference for a museum or a gallery?
+I would prefer a museum. One with free entry if possible.
+The Museum of Classical Archaeology is lovely, and they have no entrance fee. Would that fit your needs?
+That is fine. Book me a ticket and get me a reference number.
+We don't have the ability to book tickets for the museum from here, but if you'd like to contact them, their phone number is 01223335153. Can I help with anything else?
+================
+I am looking for an expensive restaurant in the centre
+There are 33 to choose from. Any type of cuisine you'd prefer?
+I don't care what cuisine. I would like a table for 1 at 12:30 on Thursday. I will need a reference number also.
+Sure. I booked you into the Cambridge Chop House on Thursday at 12:30. Your reference number is 8NI5A15M.
+Okay, wonderful. Thank you for your help.
+Was there anything else I could assist you with today?
+================
+Can you help me locate a swimming pool?
+Yes, there are 4 pools, 1 in the East, 2 in the North and 1 in the Centre. Which area would you like?
+Could you give me the address and postcode of one in the North please?
+The Jesus Green Outdoor Pool is between Victoria Road and the river, and their postcode is cb43px. Is there anything else i can help you with today?
+================
+Where is the nearest hospital?
+The nearest hospital is on Hills Rd in Cambridge. The telephone number is 01223245151, is there anything else I can help with?
+Does it list an address for the hospital?
+It is on Hill Rd. Postcode is CB20QQ.
+Great, thank you for your help. That is all I need.
+You're welcome, is there anything else I can help with?
+================
+what's the seven day forecast for new york city
+The forecast for New York predicts a week with drizzles, overcast and clear skies with dry and humid temperatures.
+Can you give me the average temperature in Fahrenheit?
+In New York it will be between 30-50F on Monday, 30-40F on Tuesday, 80-90F on Wednesday, 30-50F on Thursday, 90-100F on Friday, 20-40F on Saurday, and 20-40F on Sunday.

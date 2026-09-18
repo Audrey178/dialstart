@@ -1,0 +1,23 @@
+Car I need a parking garage in the area around me: please send the fastest route on my screen
+We're 3 miles away from Civic Center Garage and there is moderate traffic on our way: do you want me to send you the info on your screen?
+================
+I am looking for a guesthouse that has free parking.
+What price range are you looking for?
+I don't care about that. I do want a place with a 4-star rating.
+There are 16 entries here. Personally I recommend allenbell.
+That sounds good as long as it's got parking. Can you get me the address?
+How about the Allenbell? The address is 517a coldham lane.
+================
+I'm looking for information on a hotel called warkworth house.
+i got it. may i get the day youd like to move in so i can book
+Yes, that would be on Tuesday please.
+How many days will you be staying?
+I'll be staying for 3 nights starting on tuesday.
+For how many guests please, sir?
+one guest for three nights
+Booking was successful. Reference number is : TUCGJ6DX.
+================
+check weather forecast for seattle
+Today in Seattle it will be cold. Are you interested as well in other days' weather forecast?
+What about the next 2 days?
+The 2 day forecast predicts temperatures in the lows of 50F and highs of 80F

@@ -1,0 +1,15 @@
+want to change the info on a title
+================
+Do you want to change the name on a title?
+yes
+Do you want to update your legal name?
+no, I'll update later
+================
+how do I change my gender?
+You have to visit your local DMV office and bring proof of the change.
+Have you had a gender change?
+yes
+You will need a completed Vehicle Registration/Title Application, your registration and title, and proof of a gender change to make changes to your DMV information.
+================
+will this take long like all DMV visits or can I do something to make it a fast visit?
+For quicker service you can make a reservation online before visiting the DMV offices in New York City, Westchester, Nassau, Suffolk, Rockland, Onondaga, Monroe or Albany Counties.

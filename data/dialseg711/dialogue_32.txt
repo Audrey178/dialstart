@@ -1,0 +1,44 @@
+I am looking for a train departing from London Kings Cross.
+I have 70 trains departing from that location, do you have any more information to narrow it down some?
+Yes, I'd like to go to Cambridge on Tuesday, sometime after 13:15.
+Train TR3456 leaves London Kings Cross at 13:17 and arrives in Cambridge at 14:08. Would you like to book this train?
+I think that will work. What is the ticket price and travel time for that train?
+The ticket price is 23.60 pounds. Travel time on this route is 51 minutes. Would you like me to arrange a booking on this train?
+Yes, that sounds good.
+Great, I have booked your ticket. Your reference number is : 3TF3UIGP.
+Okay thank you for all your help.
+You're quite welcome. Is there anything else I can assist you with today?
+================
+Could you help me find a moderately priced guesthouse?
+Yes, there are 15 places that are moderately priced guesthouses. Is there a certain area of town that you prefer?
+I'd prefer something in the center of town that has free wifi.
+I apologize but we don't have anything that fits your criteria. Would you like to change the area or try a hotel?
+Oh, that's a bummer. Ok, how about trying in the north?
+Of course! I have 8 options: 7 of which have 4 stars and 1 has 3 stars. Would you like more information?
+The stars don't matter. Please book one for 3 people for 5 nights, starting Sunday.
+That booking was unsuccessful. Will any other length of stay or starting day be possible?
+Let's try to start on Monday.
+I'm sorry, but there's nothing available starting on Monday.
+I actually would like it to be on Sunday for 2 nights.
+I have reserved 2 nights for 3 people starting on Sunday at the Acorn Guest house which is in the north of the city, is moderately priced and has internet. Reference K0RIYU4Z.
+================
+I was in a car accident dispute and I am looking for help
+When and where did this accident occur?
+I just need an address and phone number for the police please
+Absolutely! The police station phone number is 01223358966 and their address is Parkside, Cambridge. What else can I do to help?
+================
+I'd like a taxi to the cafe jello gallery please.
+I would be happy to help you with that. I will need to know where you are departing from and what time you'd like picked up.
+I'd like to picked up from cafe jello gallery after 12:30.
+I'm sorry. It seems like your destination and departure site are the same. Could you clarify where you'd like to go and where you'd like to be picked up from?
+So Sorry, i want to leave cafe jello gallery after 12:30 going to the junction.
+That's no problem. I book a White Skoda for you, picking you up at 12:30. The contact # is 07258655313. Can I assist you further?
+================
+I'm are looking for a train. The train should go to cambridge and should leave on saturday.
+Where will you be departing from?
+I will be departing from Norwich.
+What tie would you like to leave Norwich?
+I would like to leave after 14:30 .
+I have several trains. How would TR1156 work for you, it leaves at 15:16 arriving at 16:35?
+Yes. That works. I need 3 tickets, please.
+Booking was successful, the total fee is 70.4 GBP payable at the station . Reference number is : 1MI35913.

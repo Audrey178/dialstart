@@ -1,0 +1,32 @@
+I need a cab. I'm at Arbury Lodge Guesthouse and want to go to Whale of a Time.
+What time do you need to leave or arrive?
+i would like to leave after 13:00
+Ok, I just completed booking your taxi. It will be a grey honda and the number is 07839041101. Is there anything else I can help you with?
+No, that's all I need. Thank you!
+Ok, enjoy your stay in cambridge.
+================
+what's the forecast for the weather today
+What city do you want the forecast for?
+Redwood City, please. Which one will be the highest temperature?
+Today the highest temperature in Redwood City will be 100F
+================
+Can you tell me about the Parkside police station?
+Their phone number is 01223358966 and they are located at Parkside, Cambridge
+I am looking for the address of the Parkside Police Station.
+The address is Parkside, Cambridge.
+Do you have the postcode?
+The postcode is CB11JG.
+Thanks so much!
+Do you need any further assistance?
+================
+find the nearest chinese place on the map
+The nearest is Tai pan and is 3 miles away at 830 Almanor Ln.
+Does this route avoid all heavy traffic?
+Unfortunately it doesn't, there is heavy traffic on our way
+================
+Hello, I'm hanging around town tomorrow due to an appointment and want to do something fun while I'm there. I'll be on the town centre most of the day.
+There are plenty of things to do, are you interested in museums or architecture?
+Either or would be fine!
+I would suggest architecture as there are several churches in the area. Do you prefer something with free entry?
+I am open to anything. Can you just pick a church and give me the address and entrance fee?
+Sure. Holy Trinity Church is free and is located on market street. The postcode is cb23nz. Can I get you any other information today?

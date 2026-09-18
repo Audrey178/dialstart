@@ -1,0 +1,33 @@
+bring me to the nearest grocery store
+There are Safeway 4 miles away and Trader Joes 6 miles away: where do you prefer to go?
+Give me the address to Safeway.
+The address to Safeway is 452 Arcadia Pl.
+Set the GPS to the quickest route.
+Setting GPS to Safeway at 452 Arcadia Pl.
+================
+I was just robbed. Please give me emergency contact information
+You can reach Parkside Police Station at 01223358966.
+I'm not comfortable standing around on the street. Can you give me the address and postcode?
+Sure, Parkside, Cambridge, post code is CB11JG. Anything else I can do for you?
+================
+I would like a taxi to limehouse. I need to arrive by 7:15.
+I'd be happy to book that for you, where are you departing from?
+I am leaving from nusha.
+You are booked for a black skoda. Is there anything else?
+Could you give me the contact number for the skoda, please.
+Booked car type : black skoda Contact number : 07129813049
+Thank you for your help
+You're very welcome. Do you need any further assistance?
+================
+I need a train leaving Cambridge sometime after 13:15 please.
+Where are you headed?
+I'm going to Bishops Stortford.
+rainID departure destination day leaveAt arriveBy price duration book (optional) TR2420 cambridge london kings cross friday 15:00 15:51 23.60 pounds 51 minutes TR6628 cambridge london kings cross friday 17:00 17:51 23.60 pounds 51 minutes TR1006 cambridge london kings cross friday 19:00 19:51 23.60 pounds 51 minutes TR3055 cambridge london kings cross friday 21:00 21:51 23.60 pounds 51 minutes TR9876 cambridge london kings cross friday 23:00 23:51 23.60 pounds 51 minutes these are the available options
+I'm a little overwhelmed by the information. I am actually leaving on Sunday, this seems to be Friday.
+There s a train that departs at 15:00 arriving in london kings cross at 15:51. How does that sound?
+I need to depart from Cambridge.
+There is a train running from Cambridge to Bishops Stortford on Friday that leaves at 13:29. The train id is TR8585. Would you like me to book it for you?
+No. I need the train to go from Cambridge to Bishops Stortford on Sunday and leaving after 13:15.
+Alright, I have several options for you. The earliest train that meets your criteria is TR2402 and leaves at 13:29. Will that work?
+That sounds great. Could I get the price please?
+The price is 8.08 pounds. Is there anything else I can help you with?

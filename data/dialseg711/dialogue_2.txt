@@ -1,0 +1,32 @@
+Schedule a meeting today at 9 am with management to discuss the company picnic.
+Setting reminder for meeting with management to discuss company picnic for today at 9 am.
+Thanks!
+You are welcome.
+================
+what will the weather be like in the city
+What city do you want the weather for?
+The 7 day for Fresno please.
+In Fresno, it will be misty Monday foggy Tuesday, humid Wednesday, drizzle Thursday, clear Friday, hail Saturday and be windy Sunday.
+================
+I'm looking for a train departing from ely.
+On what day do you wish to travel and to what destination?
+I'd like to travel to Cambridge on Wednesday, but I don't want to leave before noon.
+I have a train to Cambridge leaving Ely at 13:35. Will this work for you?
+That should work. I need booking for 2 people and I will need the reference number, please.
+I have booked two spots for you. The reference number is IU3F4FKV
+Wonderful. Thank you.
+You're welcome. Is there anything else you may need?
+================
+Good evening. Can you help me find a guesthouse to stay at for the weekend?
+acorn guest house is in the north part of town and available, when would you like to stay?
+Does it have free WiFi?
+Yes, it does! It also has free parking.
+Could I get the phone number for them.
+Phone number is 01223353888.
+Thanks. Oh, I forgot to ask, is that in the moderate price range?
+The Acorn guesthouse is in the moderate range. Would you like to book a room?
+================
+what is the temperature outside
+Where are you located?
+What is the temperature in Camarillo right now?
+Right now the temperature in Camarillo is a low of 50F and a high of 70F.

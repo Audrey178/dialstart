@@ -1,0 +1,26 @@
+I am looking for things to do in Cambridge. Can you tell me if there are any nightclubs?
+ballare is a nightclub in the centre of town, would you like more details?
+How much is it to get in to ballare? And which area is it in?
+Ballare's entrance fee is 5 pounds and they're located in the centre of town. Is there anything else I can help you with today?
+================
+check today's weather
+What city would you like today's weather about?
+I need the weather for Compton, specifically if it will be overcast.
+It will not be overcast in Compton today.
+================
+I am looking for a train to leave on Monday.
+Sure. Where are you looking to go?
+I need to arrive at bishops stortford by 20:00.
+We have 7 such entries. Do you have a preference further?
+I just need the train ID, departure time, and price of one please
+TR4283 leaves Cambridge at 05:29 and arrives in bishops stortford by 06:07. Is this okay?
+Can I get the price of the ticket please?
+Certainly. It's 10.10 pounds. May I help with anything else?
+================
+Hello, do you know where the parkside police station is?
+It is in Parkside, Cambridge, CB11JG
+Can I get the phone number?
+Their contact number is 01223358966.
+================
+Where can I get tea?
+You can get tea at Teavana at 145 Amherst St.

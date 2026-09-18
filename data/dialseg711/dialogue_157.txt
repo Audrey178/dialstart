@@ -1,0 +1,38 @@
+I'm looking for help regarding a car accident dispute I was in.
+You should contact the police at 01223358966.
+What is their address?
+The address to the polic is Parkside, Cambridge.
+================
+I am looking for a restaurant. The restaurant should serve asian oriental food and should be in the centre
+Okay. What price range would you like?
+It should be in the cheap price range.
+The dojo noodle bar is at 40210 Millers Yard City Centre and meets your criteria. What time would you like to book?
+I'd like to book a table for 1 at 12 on Tuesday.
+OK, I will make you a reservation for 12:00 Tuesday for 1. Anything else I can help with?
+Yes, I'll need the reference number of my reservation.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : 0C4KYZ3K.
+================
+give me directions to my friends house
+I don't see any address listed as that. Do you have an alternate one?
+Mmm, no, I'm sorry, if you don't see it forget about it, I remember the road, let's hope to avoid all heavy traffic..
+Sorry, I just found it, 56 cadwell street, I set the GPS to get there and don't worry, there is no traffic now!
+That'll work, thanks.
+No problem
+Show me route details please.
+GPS is set for 56 Cadwell street, which is 3 minutes away with no traffic.
+================
+I'm looking for a place to stay. I would like for it to be a 4 star guesthouse.
+I actually have many 4-star guesthouses in town. Is there a certain area that interests you?
+No, just moderate price range.
+Trying to narrow this down do you need free parking or free wifi?
+No, that doesn't matter.
+I'd recommend that Avalon, as it fulfills your needs. It's located at 62 Gilbert Road cb43pd and the phone number is 01223353071. Would you like more information?
+Let's go ahead and make a reservation. I'll be arriving Tuesday and would like to stay 5 nights. There will be 7 people in my group.
+Booked! Reference number is: DR0ZGF0P
+================
+Where is the nearest rest stop?
+Nearest rest stop is 3 miles away.
+How is the traffic there?
+There is moderate traffic.
+What is the address?
+The address is 578 Arbol Dr.

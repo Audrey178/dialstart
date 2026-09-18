@@ -1,0 +1,32 @@
+I am looking for a train that goes to cambridge and arrives at the destination after 13:00.
+I will be happy to find one for you. What day will you be traveling?
+I will be traveling on Saturday and want to leave from peterborough.
+I have a 13:17 or a 15:17? would those departure times work for you?
+No I need an earlier train.
+I'm afraid that's all we've got.
+I'm sorry I may have confused you. I would want to go from Petersborough to Cambridge on Saturday and arrive by 13:00, so anything that will get me there before that.
+Sure, when would you like to depart?
+It doesn't matter. I just need to get to Cambridge before 13:00. I will need 5 seats please.
+The TR5538 departs Peterborough at 11:48 and arrives in Cambridge at 12:38 with a duration of 50 minutes. The cost is 13.20 pounds. Would you like to book a ticket on this train, or should we look at some other times?
+That sounds perfect, can you book that for 5 people for me, please?
+Booked! You pay 66 GBP at the station. Reference number: Z66EG4L8.
+================
+Get the address to my friend's house that i could get to the fastest.
+Tom or Jack?
+Tom.
+Tom's house is located at 580 Van Ness Ave.
+================
+I am looking for a train. The train should arrive by 14:45 and should leave on Saturday.
+And what are your departure and arrival stations?
+I would like to leave Cambridge and go to London Liver Pool.
+There are 5 trains running on saturday that will meet your needs. Would you care to book tickets for one?
+I actually just need to know the price of a ticket please
+The price of one ticket is 13.28 pounds. May I assist further in any way?
+================
+Car I need to get to my friends house, it should be within 4 miles from here
+Jacks house is 4 miles away at 864 Almanor Ln.
+Set my navigation to Jacks for the shortest route possible.
+Setting navigation now.
+================
+Schedule a reminder for my tennis activity at 6pm, the tenth with father.
+Ok, reminder for Tennis with your father on the tenth at 6pm is set.

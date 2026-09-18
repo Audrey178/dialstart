@@ -1,0 +1,19 @@
+I have several questions regarding the registration of voters, it'd be great if you could provide some answers.
+================
+Are you wondering if you're eligible to register to vote in New York State?
+Yes. This is one of the things I've been wondering about.
+To register to vote in New York State you must be a U.S. Citizen and be at least 18 years old by the end of this year.
+================
+How do I know what my voter registration status is right now?
+The NYS Board of Elections provides a website for New York State residents to check their voter registration status.
+================
+Ah, great. Will I find voter registration requirements on that website too?
+Yes, you'll find full voter registration requirements on the New York State Board of Elections website.
+================
+What will happen to my voter registration application?
+The electronic voter registration application is transferred from DMV to your County or City Board of Elections for review. Once processed, your County will notify you either that you are registered to vote or additional information is needed to complete your application.
+And if I haven't heard from them after more than six weeks passed?
+Then you should contact them at the phone number or address provided on the New York State Board of Elections website.
+================
+And what will DMV do with my data?
+You authorize DMV to send the Board of Elections your digital signature we have on file from when DMV issued you your Driver License, Non Driver ID Card or Learner's Permit. Agreeing to the attestation is the legal equivalent of a handwritten signature.

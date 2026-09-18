@@ -1,0 +1,36 @@
+Find a grocery market for me please.
+Sigona Farmers Market is 4 miles away.
+Does it have the least amount of traffic?
+Does it have the least amount of traffic?
+How is the traffic around the area?
+Sigona Farmers Market route is being reported as heavy traffic.
+Ugh okay. I guess it will have to do. What's the address?
+Sigona Farmers Market is at 638 Amherst St.
+================
+Can you navigate me to a 5 star hotel with free wifi please?
+I was unable to find any hotels matching those requirements.
+Do you have a place with free wifi in the cheap range with a star of 4?
+I've found 21 hotels that meet those criteria. The Allenbell is one. Should I book it?
+What type of hotels are they?
+The Allenbell is a guesthouse. Do you have any other specifications I can narrow your search by?
+looking for something with 5 stars and free wifi
+Sorry, but we've already established that there are no 5-star hotels available. I can provide you with some 4-star options.
+Sorry, how silly of me. I want to stay at a hotel, not a guesthouse. A cheap 4 star with free wifi, please.
+Okay, we've got the the cambridge belfry. Shall I book you a room?
+I don't need it booked just yet. I just needed the info, thanks.
+All right. Is there anything else I can do for you?
+================
+I need a taxi to pick me up after 21:25 at The Cambridge Belfry.
+And where are you going?
+The taxi should go to the gardenia.
+Your taxi will pick you up at 21:30. It is a grey Honda.
+I'll also need the contact number please.
+The contact number is 07650376516.
+================
+I would like to book at room at alexander bed and breakfast
+Sure thing, just tell me what day you're arriving, how many days you're staying, and how many people are in your party, and I'd be happy to set that up.
+Actually I just need a bit of information. What is the price range, star rating, and phone number?
+It's a cheap 4 star guesthouse and the number is 01223525725.
+================
+I need some help with a car accident I was in.
+Contact the police at Parkside, Cambridge, CB11JG

@@ -1,0 +1,24 @@
+Hi! I need a train to Leicester. I want to leave after 14:45.
+No problem. What day will that be for?
+For Thursday please and I want to go to Cambridge.
+TR939 leaves cambridge and goes to leicester at 15:21 would that work for you?
+Actually I need a train leaving leicester going to Cambridge. Not the reverse.
+I'm sorry. Yes, train TR1575 will arrive in Cambridge by 16:54. It leaves Leicester at 15:09. Can I book it for you?
+Yes, please. I need tickets for 5 people and a reference number, if possible.
+You got it, 5 tickets were booked, reference number is 2YCGD64V.
+================
+Remind me about my football activity with my father at 5 pm.
+Setting a reminder for your football activity with your father at 5 pm.
+================
+what is the current temperature
+What city do you want to know the temperature for?
+Compton, please!
+Current temperature is low of 60f and high of 70f.
+================
+I need a taxi to leave at 3 45 and get me from the cambridge belfry
+Where will you be going to?
+I will be going to the cow pizza kitchen and bar.
+Ok I have a red bmw with contact number 07932775805 booked for you.
+================
+What is the weather report for Saturday in Manhattan?
+It will be foggy and between 20-30F on Saturday in Manhattan.

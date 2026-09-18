@@ -1,0 +1,17 @@
+I came here with some questions about your IT Standards Library. Can you please answer them?
+Of course. First of all, welcome to the Federal Student Aid Chief Information Officer 's Information Technology IT Standards Library. Federal Student Aid and its contractors must comply with IT standards and guidelines applicable to all federal agencies.
+================
+Alright. So what specific resources do you offer?
+This section of the IT Standards Library includes documents pertinent to the U.S. Department of Education as a whole.
+================
+Do you want to hear details about these resources?
+No, thank you. I get the idea.
+================
+So, what references do you have for me?
+We have the Lifecycle Management Methodology.
+================
+That sounds interesting. How about testing services? Are there any?
+Yes, we have the Enterprise Test Management Standards.
+================
+You've mentioned earlier that contractors must comply with your guidelines, is that all they need to comply with?
+They must also comply with the policies and procedures specific to the U.S. Department of Education and Federal Student Aid.

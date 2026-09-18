@@ -1,0 +1,13 @@
+Tell me about county taxes and supplemental fees
+================
+This are taxes that all residents of New York City and several counties in New York must pay for the registration of a commercial vehicle or the renewal of any commercial vehicle registration. These taxes are collected by the DMV for the city and the counties.
+================
+What about the supplemental MCTD fee for taxis?
+In the case of a passenger vehicle like a taxi, the supplemental MCTD fee is $50 for two years. All registrants for TC vehicles must pay the tax,
+How much is the vehicle use tax?
+It's $80 for 2 years for all passenger vehicle registrations and renewals. For Livery and for-hire vehicles, the tax is $400 for one year.
+My vehicle registration is from Manhattan, New York. Does the tax apply to my vehicle?
+Yes, your location apply to the vehicle use tax for all passenger registrations and renewals.
+================
+tell me about the sales tax, how can I determine the fee?
+For this, you should add 3.25% to the fee listed on the cart and then change the result to the nearest 0.25$

@@ -1,0 +1,29 @@
+I was just robbed! Please help! I need to contact the police.
+The local police stations telephone number is 01223358966.
+May I have the address and postcode?
+The postcode is CB11JG, but I do not have an address listed.
+Are you sure there's no address?
+The address I have is Parkside, Cambridge.
+================
+set alarm for dinner tonight
+================
+is it cloudy today
+What city would you like to know if it is cloudy in?
+I want to know about Cleveland.
+It is foggy in Cleveland today.
+================
+Hi, I'm looking for a guesthouse in the south part of town. Do you have anything in that category?
+Yes, I have found 3 to choose from. Would you prefer a moderate price or something cheap?
+Moderate, please, and make sure they have free parking.
+How about the Bridge Guesthouse that is in the moderate price range?
+Do they have free parking? And do you know if they have a star rating?
+Yes, they have free parking and it has a 3 star rating. Would you care to book a room at bridge guest house?
+Not right now. I'd just like their phone number, please.
+That number is 01223247942.
+================
+Hi! Can you help me find an attraction to visit in the centre of town?
+I have quite a few options. Did you have an idea what type of attraction you were looking to visit?
+Surprise me. I just need the attraction type, address, and postcode.
+Castle Galleries is one of my favorite museums. It is at unit su43, grande arcade, saint andrews street, post code cb23bj. Does that sound good?
+That's great. Thanks.
+Is there anything else I can help you with?

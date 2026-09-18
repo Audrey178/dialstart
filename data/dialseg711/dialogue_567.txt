@@ -1,0 +1,28 @@
+Yes, can I get a taxi? I want to leave Lock Fyne and go to King's College.
+Can you let me know when you want to leave or when you want to arrive?
+I need to arrive by 22:00.
+Booking completed! Booked car type : white ford Contact number : 07570319007
+================
+navigate to the nearest fast food restaurant
+We are 5 miles away from the pizzeria Round Table: does it sound good to you?
+It sounds great, what is the address?
+Round Table is located at 113 Anton Ct. Anything else?
+================
+I was robbed and I am looking for help
+You need to go to the police station at Parkside, Cambridge, CB11JG
+Can you give me the phone number please?
+The phone number is 01223358966. Can I do anything else for you?
+No that is all. Thank you for all your help.
+welcome. at your service next time
+================
+update me on the weekly weather forecast for this week
+What location are you interested in?
+menlo park thanks
+In Menlo Park, it will be the overcast on Monday, hail on Tuesday, warm on Wednesday, clear on Thursday, hail on Friday, windy on Saturday, and misty on Sunday.
+================
+I'd like a train to Ely that leaves Wednesday.
+Easy enough. Where is your departure point?
+Cambridge. I would like to leave after 15:30 if possible.
+TR6745 departs cambridge at 15:50 Wednesday, arriving at Ely at 16:07. Will that one work for you? It's only 4.40 GBP to ride.
+Great can I book that for 8 people and get a reference number please?
+You are booked for 8 seats on TR6745 leaving Cambridge Wednesday at 17:50. Reference # is OCWICAXZ and you can pay at the station. 4.40 pounds each.

@@ -1,0 +1,37 @@
+I've been injured and need to find a hospital nearby.
+The Addenbrookes Hospital is located at Hills Rd., Cambridge. Are you looking for a specific department?
+No, I just need the general phone number, please.
+01223245151, is the number. Do you need anything else?
+================
+Where does my friend live?
+I have a listings for Toms house. Is that the friend you speak of?
+Yes, thank you, please pick the shortest distance to reach him!
+I sent the info on your screen, drive carefully!
+================
+Can you tell me who's attending my next tennis activity? Also the date?
+================
+I am looking for a place to stay. The hotel doesn't need to include internet and should have a star of 4
+We dont have any hotels that have no internet with 4 stars
+Are there any that include free parking and that are in the expensive price range?
+Sorry, my search didn't bring back any results.
+Try changing from no internet to free wifi and see what happens.
+There are two hotels that fir your description in the expensive price range. One is in the west and one is in the centre. Which would you prefer?
+I need one with wifi.
+Acorn house has free wifi. Is that okay?
+Yes, please just forward me the area, hotel type and their phone number.
+I'm terribly sorry, I misspoke. There are two 4-star hotels in the expensive range with wi-fi--the Huntington Marriott in the west and the University Arms in the centre of town.
+The Huntington Marriott in the west would be great. What is the hotel type and phone number?
+Sure, it is a hotel and the phone number is 01480446000. Is there anything else I can help you with?
+thanks for helping
+Do you need me to book you a reservation?
+================
+I am looking for a restaurant. The restaurant should be in the moderate price range and should be in the east
+Try curry prince or pizza hut fen ditton
+The restaurant should serve italian food.
+Pizza hut fen ditton serves italian food in the east, would you like a reservation?
+What other restaurants in that area serve Italian food?
+Pizza hut fen ditton is the only Italian restaurant, in the east, in the moderate price range. Do you want me to try other areas?
+No, that will do. Can I book a table for monday?
+Absolutely, how many people will you have and what time are you wanting the reservation?
+I will have 5 people and we would like 12:15 if possible. Thanks.
+You are booked, the reference number is AF2GJ7G6, may I assist with anything else?

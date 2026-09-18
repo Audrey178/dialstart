@@ -1,0 +1,24 @@
+Hi! I need to find the restaurant Pizza Express Fen Ditton.
+OK, I've Pizza Express Fen Ditton. Would you like the phone number or address for that?
+Yes please, also what type of food do they serve?
+They serve Italian food, and they're located at Jesus Lane Fen Ditton, cb58ba. Their phone number is 01223324033. Can I help with anything else today?
+================
+I am looking for a hospital in town.
+Addenbrookes Hospital is close by.
+Sounds good. What's the phone number, address, and postcode for the hospital?
+The main phone number for the hospital is 01223245151. The address and postcode is Hills Rd, Cambridge, CB20QQ.
+================
+Is it going to be humid in Danville on Saturday?
+It will not be humid in Danville on Saturday.
+================
+I am looking for the nearest hospital please.
+Addenbrookes Hospital is the closest hospital. Do you need a particular department?
+I need to find a hospital with a teenage cancer trust unit.
+Addensbrookes Hospital does have a teenage cancer trust unit. Would you like information about that?
+Yes, I just need the postcode please.
+It is CB20QQ.
+================
+i want to book a taxi. The taxi should go to the lensfield hotel and should depart from christ's college.
+What time should the car pick you up?
+I need to leave after 21:30.
+Alright great! The car will be a red ford and the contact number is 07161667298.

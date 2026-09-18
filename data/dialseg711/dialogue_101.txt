@@ -1,0 +1,24 @@
+get me directions to the nearest chinese restaurant
+2 miles away there is road block nearby the Tai Pan chinese restaurant located at 830 Almanor Ln
+OK, please direct me there via a route that avoids all heavy traffic if possible.
+There is a road block in the area, but we drive around that.
+================
+I am interested in booking a taxi. I need to leave from Primavera and go to Christ's College by 07:15. I also need the contact number and car type.
+It is a blue Tesla and the number is 07728790411. Is there anything else I can help you with?
+================
+I need to locate Addenbrookes Hospital.
+Addensbrookes Hospital is located at Hills Rd, Cambridge. Would you like their postcode or phone number?
+I need their phone number, please.
+Sure. Phone number to the hospital is 01223245151. Anything else?
+================
+I need a train from peterborough
+Where are you headed, and what day and time did you need to leave?
+I am going to cambridge and leaving after 8:00 on friday
+Sure, I have TR6496 departing at 08:19, arriving at 09:09, with a duration of 50 minutes. The cost is 16.50 pounds. Would that work for you?
+Yes please book it for 5 people and give me a reference number.
+Booking was successful, the total fee is 82.5 GBP payable at the station, the feference number is : MFCHF1YV. Can I help with anything else?
+================
+Where can I go shopping?
+Stanford Shopping Center is 3 miles away.
+What is the address?
+773 Alger Dr, we're 3 miles away from it, I sent its position on your screen

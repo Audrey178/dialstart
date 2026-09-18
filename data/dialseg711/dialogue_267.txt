@@ -1,0 +1,22 @@
+I've been injured and I need a hospital near me, one with a coronary care unit department please!
+The closest hospital is Addenbrookes Hospital. The phone number for the coronary care unit is 01223217297.
+May I have the full hospital address and their main phone number, please.
+The hospital address is Hills Rd, Cambridge. The main telephone for the hospital is 01223245151
+================
+Car I wanna get home: we should be within 4 miles from it, please pick the shortest distance
+We're actually 2 miles away but there is heavy traffic on our way, I sent on your screen another route to get there faster
+================
+What time and date do you have for my football activity?
+Four football activities are scheduled; two on the 4th at 1 pm and 2 pm, one on the 19th at 11 am, and one Monday at 5 pm.
+================
+is there any rain in the local forecast
+What city do you want the rain forecast for?
+For compton, will it rain on wednesday?
+It should not rain in Compton on Wednesday.
+================
+Would you be able to find me a train leaving on Sunday?
+Certainly. Can you please tell me the location you are departing from and where you would like to go?
+I will be going to leicaster from cambridge, departing after 18:45 please
+I have train TR9831 leaving at 19:21 and arriving at 21:06. Would that suffice?
+Yes, that will work out great. Can you please book me 7 tickets for that train?
+Okay, I've booked 7 tickets for that train. The reference number is STM2J29A. Is there any other information you need?

@@ -1,0 +1,36 @@
+Please help me make a taxi reservation
+Sure! Where is your departure site?
+I want to depart from the Riverside Brasserie.
+I can help you with that. When do you need to leave?
+It doesn't matter, just so I arrive by 18:15.
+I can help you with that. where are you going?
+I want to go to the Shanghai Family Restaurant. And I need the car type and contact number please.
+Okay, I have a black bmw for you with the contact number 07678946250. Is there anything else you need today?
+================
+Check the next 48 hours and tell me is alameda will be misty.
+No, it's not gonna be misty in Alameda in next 48 hours: today there is rain and tomorrow it will be hot
+================
+Hello, I need to catch a train on Friday. Can you help me find one leaving after 11:30?
+What are your departure and arrival locations?
+I'll be going from cambridge to broxbourne.
+I have a train that leaves at 12:01 and arrives by 13:01. Would you like me to book that train?
+Yes, I will need 2 tickets please.
+Train id TR4266 leaves at 12:01 and arrives at 13:01. Would you like me to book that one?
+Yes, for 2 people please. Can I also get the reference #? Thanks!
+Your booking was successful. You will owe 35.79 GBP at the station and your reference number is: TQICKHXG. Can I assist you with anything else?
+================
+I'm looking for a guesthouse with free parking.
+Do you have a preferred location or price range?
+I'm not too concerned with location, but I would like it to include internet and have a 4 star rating please.
+There are 16 guesthouses that meet those requirements. Any preference on price range?
+Not really. Anything would be fine.
+I recommend the Acorn Guest House. Would you like a room there?
+Yes, please. I'd like to book it for 6 people and 5 nights starting from monday.
+Booking unsuccessful. Want to try for a shorter stay?
+Yes, how about 3 nights?
+That was a successful booking, your reference number is T6C83P46.
+================
+what is the forecast for new york city
+The forecast for today is clear skies with a low of 50F and a high of 70F.
+Okay, will there be clear skies on thursday?
+Thursday's forecast calls for rain in new york

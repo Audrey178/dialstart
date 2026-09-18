@@ -1,0 +1,26 @@
+I need a train going from Stevenage to Cambridge.
+There are several trains available. What day and time would you like to travel?
+I would like to leave on Tuesday and need to arrive by 09:00.
+TR5737 will arrive in cambridge Tuesday by 8:43, will this suit your needs?
+Yes. Can I also please have the departure time and travel time for this trip?
+Departure time for TR5737 is 07:54 and duration is 49 minutes.
+================
+I need a taxi to take me to the lensfield hotel.
+What is your departure site, and what time do you need the taxi?
+I will be departing from Tang Chinese.
+Great. And do you have a departure or arrival time?
+I want to leave after 05:00 please.
+Booking completed! Booked car type : yellow ford Contact number : 07421738274
+================
+I am injured and need a nearby hospital.
+The Addenbrookes Hospital is nearby, located at Hills Rd, Cambridge. Their telephone is 01223245151
+Please call an ambulance!
+I will alert the police for you.
+Thank you. What's the hospital's post code?
+It's CB20QQ. Anything else?
+================
+I been robbed and need to know what i should do next.
+I think you should contact the police station. The nearest one is Parkside police station and their number is 01223358966.
+================
+I'm looking for a restaurant called la margherita.
+Yes, that's a great cheap Italian place on the west side. What other information can I get for you?

@@ -1,0 +1,22 @@
+I want to find a hospital in town
+The Addenbrookes Hospital is here in town. Is there particular department you need help contacting?
+No, I just need the postcode.
+Okay. The postcode is CB20QQ
+================
+Hello, I am looking for a hotel called the worth house. Can you help me find it?
+Absolutely. The Worth House is located in the north. It offers free wifi and parking. They are located at 152 Chesterton Road. Can I assist you in booking a room?
+Is this a hotel or a guesthouse?
+The Worth House is a guesthouse.
+================
+I got injured and I am looking for a hospital nearby
+There are several hospitals in the area what department do you want?
+Just the general information, please.
+Addenbrookes Hospital is on Hills Rd, Cambridge, in the postcode of CB20QQ. Do you need more information?
+================
+i want to book a taxi. The taxi should go to riverside brasserie and should arrive by 19:30.
+From where will you be departing?
+I'll be leaving from Cambridge Arts Theatre.
+Booked a blue honda. Your contact number is 07886967603.
+================
+I am looking for the Addenbrookes Hospital. The hospital should have the paediatric clinic department
+The telephone for the paediatric clinic at Addenbrookes Hospital is 01223348313. The hospital address is Hills Rd, Cambridge, postcode CB20QQ.

@@ -1,0 +1,40 @@
+I need a taxi to come to rajmahal and want to go to kohinoor.
+Certainly, and do you know what time you would like to leave?
+I'd like to leave by 08:00.
+Ok, when do you want to arrive?
+I want to arrive by 14:00 and it doesn't matter when I leave actually
+You're all set! Your car type is a yellow BMW and the contact number is 07365584187.
+================
+Can you help me find a hotel?
+I sure can, what would you like for your hotel?
+I'm looking for something moderately priced with a 4 star rating.
+I have 11 hotels that would meet your criteria. Did you have a certain area that you would like to stay in?
+No, but I would like to have free wifi.
+There are several that meet your criteria. Do you need free parking?
+That does not matter. Which one would you recommend?
+I recommend the a and b guest house. Do you want me to book it for you?
+Actually, I would like something that has 4 stars. Does A and B have 4 stars?
+Yes, A & B guesthouse does have 4 stars. Are you ready to book a room?
+Yes, and can I get the phone number for the guesthouse, please.
+The number is 01223315702. Is there anything else that I can help you with?
+================
+I need a tax going to tang chinese.
+Sure, where are you coming from?
+I'll be coming from whale of a time
+I can help you with that booking, what time are you wanting to leave/arrive by?
+I need to arrive by 05:15.
+Okay I have a grey lexus and the contact number is 07087526103. Anything else I can help you with?
+================
+I have been robbed and looking for help.
+Would you like me to contact the Parkside police for you?
+No, I need to find out the address, phone number, and postcode of the location I was robbed.
+The phone number for the police is 01223358966.
+What is the address and postcode?
+The address is Parkside, Cambridge, Postcode:CB11JG. Is there anything else you need?
+================
+I need to book a taxi.
+Could you tell me when and where from you would like to be picked up?
+I need picked up at saffron brasserie after 1:30.
+and what is the destination?
+I would like to go to whipple museum of the history of science.
+Sure. A white Lexus will pick you up at 1:30 at Saffron Brasserie. The contact number is 07399627486. Is there anything else I can help with?

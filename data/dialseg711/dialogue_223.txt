@@ -1,0 +1,28 @@
+I am looking for a train from cambridge to ely.
+There are 70 trains from Cambridge to Ely. Do you have a preferred departure time and date?
+I want to leave on Thursday. And be there by 11:15.
+I have three trains that match your specifications. Do you have a time you would like to leave by?
+No, any of them is fine. Please give me the departure time that you choose.
+The departure time for trainID TR0996 is 05:50
+================
+I'd like to find some information about the Allenbell hotel.
+Absolutely! The Allenbell is a guesthouse in the east. It has 4 stars and is relatively cheap. They offer their guests free wifi and parking. Would you like any other info?
+Perfect! Can you book it for 6 people and 4 nights starting from monday?
+Your booking is successful! Your reference number is VLS0WVD3.
+================
+Tell me if there will be frost in cleveland the next 7 days?
+Cleveland's weather forecast does not predict any frost over the next 7 days
+================
+I am looking for a train.
+Sure thing. Could you tell me where you're departing from, where you're arriving, and when you'd like to travel by train?
+I need to leave on Thursday from Cambridge.
+What is your destination?
+I am heading to the Stansted Airport, just myself, and I need to leave after 17:00. Go ahead and book it and give me the reference number.
+I have booked your train. 10.1 GBP is payable at the station and the reference number is VPHSFWC9. Is there anything else I can help you with?
+No, thank you. That is all I need.
+Thank you for using our service. Have all of your needs been met?
+================
+what is the weather like today in tomorrow
+What city are you inquiring about?
+Will it be cloudy in Compton today?
+Compton is not showing a forecast for cloudy skies today.

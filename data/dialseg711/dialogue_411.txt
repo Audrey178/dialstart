@@ -1,0 +1,30 @@
+Please set a reminder for an optometrist appointment later this week at 5pm with Marie.
+Okay, scheduling a optometrist appointment with Marie for later this week at 5pm? Do you have a specific day in mind?
+================
+I need to book a train leaving Thursday from Cambridge. Can you help me with that?
+Yes. What time will you be departing?
+I will be leaving Saturday morning at 08:45
+Is it Thursday or Saturday? And where is your destination?
+Sorry for the confusion I need to get to peterborough Thursday night.
+Okay, and what departure or arrival time did you need for Thursday?
+I need to leave after 20:15
+The first train after 20:15 is the TR2178, leaving at 20:34.
+That sounds perfect. Can you tell me the travel time, please?
+The travel time is 50 minutes. May I book that for you?
+Yes, I'd really appreciate that.
+I was able to book a train for 1 on Thursday from Cambridge to Peterborough leaving at 20:34. Your reference number is 9IP722K1
+Perfect, thank you for your help!
+Can I help you with anything further?
+================
+how is the weather in the city this weekend
+What city should I look up the weekend forecast for?
+Boston.
+It will be cloudy on Saturday and hail on Sunday in Boston.
+================
+I need a taxi at cherry hinton hall and grounds at 2:45.
+Where is the destination?
+================
+I need to set a reminder for a lab appointment.
+What day and time is your lab appointment?
+on thursday at 2 pm with Tom
+Scheduling a reminder of your lab appointment on Thursday at 2 pm, with Tom

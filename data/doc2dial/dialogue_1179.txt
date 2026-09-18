@@ -1,0 +1,15 @@
+Hello there. I'm in need of information about veterans health care and other insurance, please.
+Do you have any of the following forms of health care: private insurance plan, medicare, medicaid or Tricare?
+no, i don't have any of those.
+================
+Do you ask for information about health insurance in case the person have one?
+Well, yeah. We ask for this information because we have to bill your private health insurance provider for any care, supplies or medicine we provide to treat you .
+================
+Um, it makes sense. In other topic, could you tell me about how VA health care works with Medicare and other insurance?.
+Well, before that, you must be aware that your actions go totally on your part in this matter. You can save money by dropping your current private plan, but there could be risks involved.
+================
+Is there some benefit from giving out my information to you?
+Certainly, there are. We have many features which are available by receiving your information.
+================
+Look, i'm curious about how your plan works with others so, how about if i have medicare coverage and  i cancel it?
+Well you cna get that back until January of the next year.

@@ -1,0 +1,42 @@
+I was robbed! I need help!
+Contact the Parkside Police Station at 01223358966
+Can you give me their address, please?
+The address is Parkside, Cambridge CB11JG.
+enjoyed your services. keep that up
+Do you need any further assistance?
+================
+Will it be stormy in Grand Rapids during the week?
+It is predicted to be stormy in grand rapids on Tuesday.
+================
+I am looking for a place to stay. The hotel should include free wifi,
+There are many hotels that match your criteria. Which area of town would you like to stay in?
+area of town close to public transportation
+Then, that narrows down to 3 hotels in the centre of town. Do you prefer expensive or moderate price range?
+I'm not picky. It needs to have free parking, though.
+Ashley hotel has free parking, would you like a reservation?
+Oh, I'm sorry, I also want to make sure it's got a 4 star rating, at least. Could you confirm that for me please?
+Unfortunately Ashley hotel is only 2 stars. There are no 4 star hotels from what I can see. Would you like me to search for 3 star hotels or 5 star?
+Yes, can you search for a 5 star please?
+I am sorry, there are not 5 stars available.
+Well, I'm not sure what I should so. I guess I should go with the two star place.
+How about a three star hotel? I have two that would match your description.
+Do you have any 4 star guesthouses available instead?
+Yes, the alexander bread and breakfast is a 4 star guesthouse in the centre. Would you like me to book you a room?
+Yes, but only if they offer free parking. And free wifi. Do they?
+Yes, both free wifi and parking is available at this location.
+Thank you, could I get the postal code to this hotel, please?
+The postcode is cb12de. Shall I book a room for you?
+================
+I am looking for an east-based place to go in town.
+How about funky fun house? It's in the east. cambridge museum of technology is also in the east.
+Can you tell me what the entrance fee is for those?
+The Cambridge Museum of Tech. costs 5 pounds. There is no information on the admission price for Funky Fun House. Would you like their phone number?
+No, thanks. Can I get the postcode for Funky Fun House, please?
+Yes, of course. It is cb58hy. Is there anything else I can find out for you?
+Thank you very much!
+So, is that all you needed today?
+================
+I am looking for information on the kirkwood house.
+Kirkwood house is a guesthouse located at 172 chesterton rd on the north side of town. Phone number is 01223306283 with free parking and wifi. Is there anything else?
+Yes please. What is the price range?
+It is moderate. Can I help further today?

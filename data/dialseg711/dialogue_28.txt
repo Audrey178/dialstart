@@ -1,0 +1,26 @@
+Where does my friend live?
+You have two friends listed; Jill and Tom, which one?
+The one closest to my location.
+Jill's house is 5 miles away but there is a road block nearby. Tom's house is 8 miles away but we should pass through the same road block
+Well Jill is closer so let's go there.
+Sure, I sent the route on your map
+================
+I'd like to locate Addenbrookes Hospital, please.
+Hills Road, Cambridge
+And what's the postcode and the main phone number?
+Addenbrookes Hospital has a postcode of CB20QQ, and telephone number is 01223245151. Can I help with anything else?
+================
+Good afternoon, would you kindly tell me where the Parkside Police Station is?
+Sure. The Parkside Police Station is at Parkside, Cambridge. Is there anything else I can assist you with?
+Yes, please provide me with the address and postcode.
+Parkside, Cambridge Postcode :CB11JG. Do you need anything else?
+================
+What is today's forecast in San Francisco?
+There will be hail today.
+================
+i want to book a taxi.
+Where are you departing from?
+I want to be picked up from lan hong house and taken to great saint mary's church please
+Sure, can you please give me a few details on departure site, time, etc?
+As I said, I want to be picked up from lan hong house and taken to great saint mary's church please. I would like to arrive by 20:15.
+A yellow BMW will pick you up at Lan Hong House for arrival at Great Saint Mary's Church by 20:15. Their Contact number is 07224360909. Is there anything further today?

@@ -1,0 +1,20 @@
+Please give me all relevant information about my meeting.
+you have a meeting on friday at 7pm with management in the 102 conference room to go over the budget
+================
+can i find the nearest police station
+Hello. You can reach them at 01223358966, and they are in Parkside , postcode CB11JG. Is there anything else you need?
+Can you give me the address?
+The full address is Parkside, Cambridge. May I help you further?
+================
+I'm looking for the Addenbrookes Hospital.
+Thank you. Can I direct you to a specific department?
+the cambridge eye unit department.
+The phone number for the cambridge eye unit is 01223245151. Is there anything else I can help you with today?
+Yes, can I have the address?
+Addenbrookes Hospital is located at Hills Rd, Cambridge, postcode CB20QQ. Do you need more information?
+================
+What is my home address and what is the route I can take there with the least traffic that will get me there the quickest?
+The quickest route to home located at 5671 barringer street is 4 miles with no traffic
+================
+I need to schedule a doctor appointment at 10 am. The 14th of August with Alex.
+My pleasure, I will schedule a doctor appointment at 10 am. The 14th of August with Alex.

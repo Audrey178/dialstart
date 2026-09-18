@@ -1,0 +1,14 @@
+What are some of the most common FAFSA completion data questions and answers?
+You can check on our website some of the questions we've heard about the FAFSA completion by High School and Public School district data.
+================
+Can you give me some examples?
+================
+with its respective answer, please.
+one of the questions is: What is the difference between a submitted and a completed FAFSA form?. And the answer is that submitted applications reflect all FAFSA forms submitted by students at a particular high school, while completed forms are all the FAFSA forms that weren't rejected due to some missing key information after being revised by the Central Processing System.
+Do you want to know what happens with the FAFSA forms that are submitted but not completed?
+No, thanks.
+================
+Can you tell me what years of FAFSA submission and completion data are available to check?
+Currently, the Federal Student Aid releases data for the 2018-19 cycle and provides a side-by-side comparison of the previous 2017-18 cycle. There's also an archive that contains data files from the 2017-18 cycle comparing it to the past 2016-17 cycle.
+What kind of information are available through these files?
+Only the number of submitted and completed FAFSA forms. No personally identifiable information for any FAFSA filer is shared.

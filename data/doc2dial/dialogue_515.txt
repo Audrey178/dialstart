@@ -1,0 +1,17 @@
+Tell me about the retirement benefits.
+================
+There's the benefits by year of birth. Do you want to know about it?
+Yes
+this alludes to the full retirement age, that it's the age at which a person may start to receive full or unreduced retirement benefits.
+================
+What are the pros and cons of getting the benefits at full retirement age or at age 62?
+the advantage of taking your benefits before full retirement age is that you collect benefits for a longer period of time, the disadvantage is that your benefit is reduced.
+================
+Is there a way that I can know what would be the reduced amount I'd receive if I retire early?
+yes, there's a chart that lists age 62 reduction amounts and includes examples based on an estimated monthly benefit of 1000$. You can select your age on the chart to see how much your benefit will be reduced if you retire before full retirement age.
+================
+What's the earliest age I can start receiving retirement benefits?
+that would be at age 62.
+================
+How does the reduction of benefits work if I retire early?
+If you retire early, your benefits are reduced by a fraction of a percent for each month before your full retirement age.

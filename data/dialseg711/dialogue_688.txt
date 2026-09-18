@@ -1,0 +1,34 @@
+I would like to book a popular, cheap restaurant.
+Do you have a specific area in mind?
+I'm sorry I need to find the information for Parkside Police Station.
+Sure, the telephone number is 01223358966, the address is Parkside, Cambridge and the postcode is CB11JG.
+================
+I live in the centre of town and want to see if I can find a reasonable room for my parents to stay while they are visiting.
+How about the Alexander bed and breakfast in the centre? It is a cheap 4 star guesthouse with free internet and wifi.
+That sounds like it might work. Could you check availability for two people this weekend?
+What day are they arriving, and how many nights are they staying?
+I am unsure at this time.
+Okay, would you like some more information about that hotel?
+Can you tell me what the address is?
+The address is 56 saint barnabas road.
+Does this place include free parking?
+The alexander bed and breakfast is a cheap, 4 star guesthouse in the centre area, It has wifi and parking. Does this fit your needs?
+================
+I am looking for the Addenbrookes Hospital
+Okay, Addenbrooke's hospital is located at Hills Road, Cambridge. Would you like the phone number?
+I want the postcode
+The post code for the hospital is CB20QQ.
+================
+I need a hotel in the south of the city, it is ok if the hotel doesn't has free parking.
+I have one hotel that meets your needs. It's the Lensfield Hotel that offers free wifi and parking. They have a 3 star rating. Would you like more info on it?
+What is the price of the Lensfield?
+The Lensfield Hotel is expensive.
+Is there a moderate place in the in the south that has free parking?
+No, no hotels meet your criteria.
+Are there any moderately priced hotels that don't have free parking, but have wifi?
+We have 2 locations that are in the south, moderately priced, and have free wifi. They are both guesthouses, would one of those meet your needs?
+Yes, can you give me the address of your favorite one?
+The address to aylesbray lodge guest house is 5 mowbray road! Is there anything else I can help you with?
+================
+What is the date of my next lab appointment and who will be attending it?
+Your next lab appointment is on Friday with Tom.

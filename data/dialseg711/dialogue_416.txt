@@ -1,0 +1,36 @@
+I need a train leaving from london liverpool street on friday.
+Booking was successful, the total fee is 16.6 GBP payable at the station . Reference number is : H58I0WC3.
+Please review your trip itinerary
+The train departs Liverpool Street on friday at 05:39 and arrives in Cambridge at 07:07. Is there anything else I can assist you with?
+How long is the travel time for that train?
+88 minutes to travel
+================
+Hi, I need a place to stay with free wifi and in a moderate price range.
+I have 17 hotels in the moderate range that offer internet access. Do you have a particular part of town you wish to stay in?
+I prefer the eastern part of town and something that is 4-star rated.
+I have 3 hotels listed that have of your requirements. Do you have any parking needs?
+Yes I am looking for free parking.
+carolina bed and breakfast has free parking and is moderately priced. Can I book a reservation for you?
+No thanks, I am not quite ready to make a reservation yet. Thanks for the information.
+Alright, can I get anything else?
+================
+will it rain anytime in the next week
+What city do you want the weather for?
+Will it rain in San Mateo next week?
+It will rain on both Saturday and Sunday in San Mateo.
+================
+set a calendar reminder to go out to dinner
+For what date and time would you like the reminder?
+2 pm on August 12
+I am placing dinner on your calendar for August 12 at 2 pm.
+================
+Hello I am looking for a college, can you help me?
+There are 18 colleges in the city. Are you looking for one in particular?
+Do you have any in the centre?
+There are 5 located in the centre. Would you prefer one that is free?
+Sure! Which one do you recommend?
+I love Downing College over on regent street.
+What is the phone number and postcode for that one?
+The postcode is cb21dq and they can be reached at 01223334860. Is there anything else I can assist you with?
+Could I get the complete address please?
+Sure, the complete address for downing college is regent street post code cb21dq. May I assist with anything else?

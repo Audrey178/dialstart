@@ -1,0 +1,32 @@
+I am looking for a hospital in town.
+What is the address for this hospital?
+================
+Hi, I'm looking for restaurants in the area. Could you recommend any moderately-priced establishments that are located near the town centre.
+Yippee noodle bar is available if you would like to book that.
+Is that a gastropub restaurant?
+It is not, but The Cow Pizza Kitchen and Bar is a gastropub in the center of town, and it is a moderate price range. Would you like to book it?
+Yes, please. For 6 people at 17:15 on Tuesday.
+I've booked that for you. Your confirmation number is UGFBZ3HB. They'll hold the table for 15 minutes.
+================
+What time is dinner and who is attending?
+There are dinners on the 10th and on Friday. For which one are you looking for?
+The one on the 10th
+The dinner on the 10th is at 8pm with your aunt.
+================
+I am looking for a train to Cambridge please.
+There are many trains to Cambridge. Where will you be departing from?
+I'll be departing from Norwich on Sunday.
+Ok, there doesn't appear to be any trains leaving then. Could you leave later?
+I can leave at 10:45.
+I apologize for the earlier confusion. We have several trains that will meet your needs. TR6419 departs Norwich on Sunday at 11:16. Will that work for you?
+Yes. can you tell me the total travel time as well?
+It is going to be 79 minutes total.
+================
+I am looking for a restaurant in the center of town that would serve South Indian food.
+I'm sorry I have nothing listed matching your criteria. What about just Indian food?
+Darn. Will you look for a Turkish restaurant in that area instead?
+You have your choice of Meze bar, Anatolia, or Efes Restaurant.
+Can I get the address of Anatolia?
+Anatolia is located at 30 Bridge Street City Centre.
+Thank you very much for your help!
+Is there anything else I can help you with?

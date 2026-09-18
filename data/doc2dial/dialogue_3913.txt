@@ -1,0 +1,15 @@
+hello I need information about the issue of driver's licenses and Drivers from other countries
+================
+Are you a resident of New York State?
+do not
+================
+Have you applied for a New York driver's license, permit, or non-driver ID card?
+do not
+================
+Are you not a citizen of the state?
+do not
+================
+Do you want to renew your license?
+Yes
+As long as the DMV's temporary visitor status on file has not expired, you can renew your license online, by mail, or in an office.
+do not

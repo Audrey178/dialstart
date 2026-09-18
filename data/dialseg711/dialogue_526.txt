@@ -1,0 +1,30 @@
+check the weather for the 7 day forecast
+What city would you like to hear the 7 day weather forecast for?
+I need to know if it is going to be raining in the next 7 days, for Grand Rapids.
+It will be raining on Monday, Saturday, and Sunday in Grand Rapids this week.
+================
+Can you help me find an expensive restaurant in the town centre?
+There are many high class restaurants in town centre, is there a particular cuisine you'd prefer?
+I was thinking maybe trying something european.
+Eraina is an expensive European restaurant in the city centre, would you like me to book that for you?
+That sounds great! Can I book a talbe for 7 people at 17:30 on Wednesday?
+Your booking was successful. The table will be reserved for 15 minutes. The reference number is 0UD63QC0. Can I assist you with anything else today.
+================
+check the weather
+What city would you like me to check the weather for?
+Check if there will be hail in Cleveland this weekend.
+There will be Hail on Sunday this weekend in Cleveland.
+================
+Where is the closest hospital?
+Palo Alto Medical Foundation is located 2 miles away. Do you want the address?
+Sounds great, thanks.
+The address is 611 Ames Ave, do you want directions?
+Yes, please, send the quickest route on my screen!
+There is heavy traffic in this moment, I sent the directions on your screen
+================
+Hello, I need to book a train for Thursday leaving to Peterborough.
+No problem, can you please let me know where you want to depart from?
+I would like to leave Cambridge after 09:15.
+TR7317 leaves at 10:06 on Thursday, would you like to reserve a seat?
+Yes just one seat, and I'll need the reference number.
+Booking was successful, the total fee is 16.5 GBP payable at the station. Reference number is : SALFLI4E.

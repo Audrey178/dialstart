@@ -1,0 +1,13 @@
+Hello. Will you help me correct my child's social security card?
+Sure. Have you legally changed your child's name?
+No. my child's name has not changed.
+Is your child employed?
+Yes, she is working.
+Your child will need to tell her employer that she is correcting her social security card.
+================
+Will she need to submit her driver's license?
+Yes.
+What IDs will you require?
+She will need to submit her driver's license or a state issued ID card.
+What if all her IDs have her old name?
+As long as we can verify her ID, we may be able to accept current IDs with your child's new name.

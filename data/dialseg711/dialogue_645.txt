@@ -1,0 +1,30 @@
+I am looking for a hotel with free parking and wifi.
+There are 29 hotels that fit your criteria. Do you have an area or price range that you prefer?
+Not necessarily, but I am looking for a 4-star hotel. Does that narrow it down?
+There are still a fair number of selections to choose from. How about the Allenbell? It is a budget-priced guesthouse that fits your criteria. Its location is 517a Coldham Lane.
+Are you sure it is four stars? If so, could I also have the postcode please?
+Certainly, yes the Allenbell is a 4 star hotel and their postcode is cb13js. Is there anything else I may help you with today?
+================
+I need a train on Wednesday that leaves after 16:00.
+Where will you be leaving from and traveling to?
+I would like to go to Ely, from Cambridge.
+I found TR8610 leaving at 17:35 would that work for you?
+Yes. One ticket. I need the travel time and train ID.
+Okay, I have you booked on TR1549 from Cambridge to Ely leaving Wednesday at 17:50, arriving 17 minutes later at 18:07. The reference number is RHE56NAC. Anything else today?
+================
+what is the weather like right now
+Where are you wanting to know the weather for?
+I want to know if it is humid in San Jose now.
+It is snowy in San Jose right now.
+================
+I need you to help me find an expensive restaurant to dine in, I'd like it to be chinese food.
+Are you looking to dine in a particular area?
+I am looking for a restaurant in the centre of town, please.
+I have tang chinese that meets your criteria, would you like me to make a reservation for you?
+No, I just need the address, postcode and phone number. Thanks!
+Tang chinese is located at napier street city center, phone number is 01223357187, and the postcode is cb11hr.
+================
+what's the weather going to be like today
+What city do you want today's forecast for?
+Will it be humid in Fresno?
+It will not be humid in fresno today.

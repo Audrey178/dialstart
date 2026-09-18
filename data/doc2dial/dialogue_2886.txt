@@ -1,0 +1,15 @@
+What is gainful employment information mean?
+Gainful employment means in order to get federal student aid a student must take an educational degree at a non-profit or public institution that will prepare them for gainful employment in a recognized occupation.
+Is there an special act that states this?
+Yes, the Higher Education Act Title IV student assistance programs.
+================
+Is there glossary of terms used in the data spreadsheet?
+Yes, there is a glossary of terms used in the D/E data spreadsheet.
+Is there any Debt-to-Earnings Rate Data?
+Yes, D/E rate data is available for the 2015 debt measure year.
+Do you know the appeal date of April 25, 2018 no appeals have been denied?
+Yes, I know since the date of April 25, 2018 no appeals have been denied.
+It shows that no appeals that have been reviewed have been denied and on the spreadsheet a singe asterisk shows that the info presented in the field has changed from what was presented before April 25, 2018.
+================
+What do I need to know for the Annual Earnings Rate?
+You should know that the numerator is the calculated annual loan payment amount is an estimate of the annual loan repayment amount based on the median educational debt of the members. Also, the denominator is the higher mean earnings taken from the Social Security Administration.

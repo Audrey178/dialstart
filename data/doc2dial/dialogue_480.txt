@@ -1,0 +1,15 @@
+I want to create a MySocial Securtiy account.
+Do you want to know what's needed to create your account?
+Yes, please.
+When you create your account you'll be asked for personal information about yourself to verify your identity and then you'll be asked to create your username and password.
+================
+Can I lift a security freeze on my credit report to create an account?
+Yes, you can ask our Identity Services Provider to temporarily lift your security freeze so you can create your account.
+================
+Is it possible to let other people use my account?.
+No, your account must be used only by you.
+================
+Will my security freeze be reinstated after I create my account?
+The Identity Service Provider may reinstate the security freeze after the temporary lift expires.
+Where can I get more info about security freezes?
+You can read the Federal Trade Commission's Credit Freeze FAQs

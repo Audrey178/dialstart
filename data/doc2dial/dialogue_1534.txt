@@ -1,0 +1,21 @@
+how can I get my VA medical records online?
+ Our online tools can help you view , organize , and share your VA medical records and personal health information .s   [3] Find out if you re eligible and how to sign in to start using these tools
+================
+Do you know about VA Blue Button?
+no
+================
+do you want to know about VA Blue Button?
+yes
+================
+Do you want to know what is VA Blue Button, and how can it help you manage your health care?
+yes
+ VA Blue Button is a feature of the health management portal within My HealtheVet .s   [8] It lets you view , print , save , download , and share information from your VA medical record and personal health record
+what else can you tell me?
+With this tool ,s [10] you can better manage your health needs and communicate with your health care team .[11] With VA Blue Button , [12] you can :   [13] Download a customized Blue Button report with information from your VA medical records , personal health record , and in some cases your military service record
+================
+Am I eligible to use all the features of VA Blue Button?
+Are you enrolled in VA health care?
+yes
+Are you registered as a patient in a VA health facility?
+no
+You can't use this tool, since you don't meet all of the requirements

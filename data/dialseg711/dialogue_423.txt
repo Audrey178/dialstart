@@ -1,0 +1,25 @@
+Locate a nearby shopping mall for me.
+Midtown Shopping Center is 6 miles away.
+What is the address?
+Midtown Shopping Center is at 338 Alester Ave.
+Thanks, set the GPS there please.
+GPS set for Midtown Shopping Center.
+================
+I'm looking for a place to stay in the centre of town with free parking.
+I have 4 options for you - would you like cheap or expensive? I have nothing in between.
+I'm flexible on the price point butthe place will need to be a guesthouse that also had free wifi.
+Okay, that narrows it to two: Alexander Bed and Breakfast (4 stars) or El Shaddai (0 stars). They're both cheap. Would you like to book one of these?
+Not right now. Could I have the phone number for the Alexander Bed and Breakfast?
+Yes, the phone number is 01223525725. Do you have any other questions or concerns?
+================
+I'm looking for information about a particular attraction. It's called the Man on the Moon.
+The man on the moon is on 2 norfolk street in the centre area. Would you like to order tickets?
+Not right now. Can you tell me it's postcode and entrance fee?
+I'm sorry, we don't have any information in our database regarding their entrance fee, but their postcode is cb12lf. Can I help you with anything else?
+================
+I am looking for a particular hotel. Its name is called arbury lodge guesthouse
+Would you like me to check availability for Arbury Lodge Guesthouse on a particular date?
+book it for 4 people and 2 nights starting from friday.
+I'm sorry, your booking was unsuccessful. Would you like to book another day or a shorter stay?
+how about 1 night instead?
+Booking was successful. Reference number is : NSVESB6H.

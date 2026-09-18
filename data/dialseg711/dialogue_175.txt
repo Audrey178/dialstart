@@ -1,0 +1,32 @@
+I need to book a taxi to arrive by 09:00.
+Okay, and where do you want to be picked up from and what is your destination?
+================
+Can you direct me to the closest police station?
+Yes I can. The Parkside Police Station is located at Parkside, Cambridge.
+Can you please give me the postcode and phone number?
+The phone number is 01223358966 and the postcode is CB11JG.
+================
+Good morning! Can you help me get a taxi to take me from Clare College to Cambridge that gets there by 18:00?
+Yes, I have a car for that time, would you like me to book it?
+Please. Can I get the contact number and car type for that?
+Yes, look out for a grey ford. The contact number is 07562472408. May I help with anything else?
+Actually, can I change the destination to Christ's College?
+Ok, so that was a cab leaving from clare college and going to christ's college arriving there at 18:00?
+Yes. Could I have the contact number and car type for this trip?
+Yes, it will be a grey Ford and the contact number is 07562472408. What else can I help you with?
+================
+Good Afternoon, I am looking for a place to stay on the east side in a guest house
+There are 6 possible places that fit your request. Would you like more information or to add additional search preferences?
+Can you see if any of them offer free parking?
+5 of the guesthouses offer parking. What is your price range preference?
+Honestly, any price range will do. Can you suggest one for me and help me with booking a room?
+Absolutely. Can I suggest the Warkworth House at a moderate price range, or the Autumn House at a cheap price range. Do either of these interest you?
+I would consider both. I need to book for three people and 5 nights starting on Thursday. Can either of them offer that?
+I am having difficulty booking either of the. Can you find another day or time that would suit you?
+I really need to stay during that time frame. Would you mind checking again?
+OK, you're all booked for 3 nights at the Warkworth House, starting Thursday. Your reference number is AC1NVW47. Can I help with anything else today?
+================
+I'm looking to have some European food tonight for dinner. Something very traditional in the centre of town should be good. Can I get a list of options?
+There are 8 restaurants. Eraina, Michaelhouse cafe, hotel du vin and bistro, galleria, de luca cucina and bar, riverside brasserie, darrys cookhouse and wine shop, the river bar steakhouse and grill
+Please provide postcode and address for Eraina.
+The postcode is cb23rh and address is Free School Lane City Centre. Is there anything else I can help with?

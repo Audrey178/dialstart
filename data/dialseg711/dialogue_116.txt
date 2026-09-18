@@ -1,0 +1,36 @@
+Can you help me find a hotel in the north that includes free parking?
+There are two matching results for your needs. The Ashley Hotel and Lovell Lodge.
+Are either in the moderate price range?
+Yes they are.
+Can you give me the postcode and star rating for Lovell Lodge and tell me if they have wifi?
+lovell lodge is in postcode area cb41sr, and is a 2 star location with free wifi.
+Thank you so much! I appreciate your help today.
+Is there anything else I can help you with?
+Thats all thank you !
+You're very welcome. If you need information or reservations, we'd be happy to assist.
+================
+Yes can you tell me something about the Cow Pizza Kitchen and Bar?
+Yes sure. I can tell you it serves gastropub food fare and is located at Corn Exchange Street and their telephone number is 01223308871. Would you like me to make a reservation for you?
+================
+I need to find the lensfield hotel.
+The Lensfield Hotel is located on the south end. The address is 53-57 lensfield road, postcode cb21en. Can I get you any more information?
+Book it for 7 people, 3 nights, starting sunday. Give me the reference number.
+The Lensfield has been booked according to your specifications. Your reference number is: OSP4TRB9. Is there anything else we can help you with?
+================
+I'd like to find some expensive Mexican cuisine.
+chiquito restaurant bar is an expensive restaurant in the south. Would you like me to book it?
+Sure that would be great.
+Okay, is there a particular day and time that would work for you?
+Yes I would like it made for Wednesday for 7 people at 18:30 please.
+Booked! Your table will be held for 15 minutes. Reference number is C3HMWGUS.
+That's great. Thank you very much.
+Is there anything else I can do for you?
+================
+Hello, I need to find a hotel with free wifi and free parking. Can you help me?
+There are 29 places with free internet and parking. Do you have an area, price, star, or hotel type preference?
+Can you find me a guesthouse that is expensive?
+Unfortunately, I don't happen to have any guesthouses that are in the expensive range. Can I look in another price range perhaps?
+How about in the moderate price range?
+I have 12 guesthouses that match your needs. Do you have additional requirements to narrow down the search?
+Could you recommend one with free wifi and free parking in the moderate price range, and give me the star rating and phone number?
+Acorn Guest House is a 4 star place that meets your requirements. The phone number is 01223353888.

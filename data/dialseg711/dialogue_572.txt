@@ -1,0 +1,34 @@
+I'm looking for a 4 star hotel with free parking.
+There are 3 hotels which fit your needs. One is cheap and 2 are expensive. Do you have a preference?
+Yes, I would like a cheap guesthouse.
+There are several guesthouses that meet your criteria. Is there a particular part of town you wish to stay?
+No, but I am trying to find rooms for a party of 8 for 2 nights. Could you see who has room for us?
+Would you like to try the Alexander Bed and Breakfast first?
+Yes, that would be fine.
+All right, and can you tell me which day you'll be beginning your stay?
+We'll arrive on Monday and stay 2 nights. There will be 8 of us.
+You are all set at the Alexander B & B. Reference number M95XHCDT. Can I find anything else for you today?
+================
+Are there any restaurants in town that serve modern american food?
+No, there are none. Is there another type of food you would liked to try?
+What about any expensive restaurants with traditional American food in the centre of town?
+No, I'm sorry there are not. There are a number of other expensive restaurants in the centre? Might you try a different cuisine?
+Sure how about Italian?
+Yes Don Pasquale Pizzeria has Italian food and is in the center of town.
+The restaurant sounds good. Please book a table for Sunday at 17:00 for 4 people.
+Your booking for 4 at don pasquale pizzeria is complete! Here is your reference number DPMRYTRL. How else may I assist you today?
+================
+Can you set my schedule for a dentist appointment at 10 am, the 15th of this month with Jon?
+I set your schedule for a dentist appointment at 10 am, the 15th of this month with Jon.
+================
+Where is the nearest police station?
+The Parkside Police Station is located in postcode CB11JG at Parkside, Cambridge.
+What is the phone number?
+01223358966 is the number
+================
+I'd like to visit a museum in town. What can you suggest?
+What area would you like to go to?
+I have no preferences for area, can you just suggest a couple?
+The cambridge contemporary art museum, and the scott polar museum are both free and in the centre.
+Can you give me the address for the scott polar museum?
+Sure! The address is lensfield road. Will that be all?

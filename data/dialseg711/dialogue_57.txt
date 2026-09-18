@@ -1,0 +1,40 @@
+I need a taxi going to tandoori place.
+Where will you leave from?
+I need to leave from the lucky star.
+Ok, what time do you want to leave?
+I don't have a time in mind but need to arrive by 6:30.
+I have a grey honda with contact number 07609926052 booked for you.
+Okay thank you!
+Is there anything else I can help you with today?
+No, that's it. Thanks for your help.
+Have a good day. Thank you for using the TownInfo centre.
+================
+I am looking for a guesthouse type room that includes free wifi.
+I have many guesthouse to choose from. Is there a specific area of town you are looking to stay in?
+I don't care about that. I would like it to have a 4-star rating.
+The Acorn Guest House fits your criteria. Would you like to book a room?
+Do they have free parking?
+Yes, the Acorn guest house offers free parking. Would you like me to book you a room?
+No thanks just needed a recommendation on a place to stay.
+Is there anything else we can help you with?
+Just the postcode for the Acorn, please.
+The postal code is cb41da.
+================
+Yes, I would like a taxi to the Town Centre. From the train station.
+Where from the town centre do you need the taxi to pick you up?
+I'm sorry, did I say Taxi? I mean train.
+Let's start over. Are you looking for a train?
+================
+Could you find a moderate priced place to stay for me? I do need free WiFi.
+Absolutely. We have many guesthouses and hotels with free Wifi. Any other preferences?
+I'd prefer something with 2 stars, and I need free parking as well.
+The Ashley Hotel and Lovell Lodge are both 2 star hotels that offer free parking and free wifi.
+Great can I get a reservation at The Ashley hotel for 4 people for 2 nights starting tuesday?
+Your room for 4 guests has been booked at the Ashley Hotel for 2 nights starting on Tuesday. Your reference number is 6HZB65QH. Can I assist you with anything else?
+================
+I'd like to book a taxi to corpus christi
+Sure! when do you want to leave?
+I'd like to leave after 3:30 please.
+Where would you like to depart from?
+I'll be departing from prezzo. Please let me know what type of car the taxi is and their contact number. Thank you!
+You are booked on a black bmw with the contact number 07721719862.

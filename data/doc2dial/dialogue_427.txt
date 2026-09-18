@@ -1,0 +1,18 @@
+I don't understand the protection features.
+================
+Are you trying to verify online?
+Yes, and I can't get it to move forward.
+We have an extensive security system in place to keep your info safe.
+How are you doing that?
+We have a new identity verification process.
+What do I have to do now?
+You need to sign in with a username and password.
+Why do I have to do all that?
+It provides extra security for you.
+So it verifies who I am?
+Yes, it verifies who you are to protect your sensitive information.
+================
+How can I tell if an email is really from you?
+If the web address says .gov/  and the / should always be there.
+Do all of your emails say .gov?
+Yes, our emails currently end with ssa.gov

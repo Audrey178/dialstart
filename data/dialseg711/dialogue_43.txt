@@ -1,0 +1,34 @@
+I need a train to Cambridge.
+Sure, where will you be boarding and what day would you like to leave?
+I will board at King's Lynn, before 13:30 on Tuesday.
+I have 8 routes which will arrive in Cambridge by 13:30. They leave hourly on the :11 from 05:11 to 12:11, lasting 47 minutes. Would you like to book?
+I would like the train that arrives closest to 13:30 please. I will also need the departure time.
+TR8699 departs Tuesday at 12:11 and arrives in Cambridge at 12:58. Would you like to book it?
+No, I am not sure I am traveling just yet. Thanks for the information, I am all set for now. Have a nice day.
+Okay, is there anything else I can help you with?
+================
+I am trying to find a really neat museum to visit. Would you be able to tell me whats available out there?
+We have many interesting museums, such as the Cambridge Artworks, Cambridge Museum of Technology, and the Whipple Museum of the History of Science. Anything in particular strike your fancy?
+Are any of them in the centre?
+Actually, I have 11 of them in the centre area. Might I suggest the Broughton House Gallery. It has free entrance and is located at 98 King Street.
+That would be perfect. Can I get the phone number, please?
+Yes. Their phone number is 01223314960. Can I help you with anything else?
+================
+Hi, I need a 4 star guesthouse hotel please.
+I have 21 4 star places, can you tell me what area you would like to be in?
+The North part of town, please.
+There are quite a few. If you'd like a cheap alternative, I can recommend Worth House, on Chesterton Road. Or for a moderate rate, Kirkwood House is next door.
+Could you book the Kirkwood House for me for thursday, 6 people and 5 nights?
+Your booking was successful. The reference number is 6G15LHZM. Is there anything else?
+================
+I need a train from leicester sometime after 9:30.
+I can assist you with that. What day would you like to leave?
+I need to be in Cambridge on Monday please.
+Very well. The earliest train is TR0032, which leaves at 10:09. Is that alright?
+Could you give me the arrival time and price on that please?
+TR0032 arrives at 11:54 and costs 37.80 pounds. May I book that for you?
+Yes, that would be terrific.
+Great, I have booked your ticket, your reference number is : I6NJ8FUB. may I help you with anything else?
+================
+Will there be frost in Atherton on Friday?
+There should not be any frost in Atherton on Friday

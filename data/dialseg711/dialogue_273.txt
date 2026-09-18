@@ -1,0 +1,19 @@
+I need to book a train for Monday from Ely to Cambridge to arrive by 14:00 for 6 people.
+What time would you like to leave by?
+Anytime as long as i arrive by 14:00. Can you provide me with a reference number after booking?
+Great. I booked six tickets on TR4095 departing at 11:35 and arriving in cambridge at 11:52. Your confirmation number is W6PWPYOP.
+================
+Can you check the availability at the University Arms Hotel for five people?
+What day would you like to book?
+Thursday please.
+For just one day?
+Actually for 5 nights and there will be 5 of us staying
+Sure thing! Your reference number is LW8PBD97.
+================
+what is today's weather forecast
+What city do you need the weather forecast for?
+Brentwood, please
+Today is gonna be foggy in Brentwood
+================
+I was just in a car accident and need help figuring out what to do next.
+Sorry to hear that. If you need to reach the police in Parkside, Cambridge CB11JG, their number is 01223358966? Let me know if there is anything else I can do.

@@ -1,0 +1,19 @@
+benefits help
+================
+Do you want to know what Government Pension Offset is?
+no
+================
+Did you want to know what Information You Need to Calculate Your Benefits If You Are Affected by the GPO?
+no
+================
+Are you eligible for spouse's benefits and have access to your spouse's estimate?
+yes
+Did you want to find the estimated amount of the retirement benefit your spouse would be eligible to receive at full retirement age?
+no
+Do you know how to get an estimate of your spouse's benefits by dividing and rounding down?
+yes
+================
+You will need to know the estimated monthly amount of your Social Security benefit as a spouse, widow, or widower before the effect of GPO to estimate the benefits
+================
+what will I need to get a more accurate estimate of how my government pension will affect my our benefits?
+You can use the Benefits Planner and you will need to know what your estimated "gross" monthly amount of your government pension will be

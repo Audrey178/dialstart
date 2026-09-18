@@ -1,0 +1,24 @@
+What is the date and time of my dentist appointment?
+For which one? I have three, one with your brother at 3 pm on the 19th. One with your sister at 10 am on Thursday and one with your Father at 5 pm on the 9th.
+================
+Hi! I need a train from London Liverpool street sometime after 19:30, please.
+That should be no problem! What day are you traveling?
+I would like to go this Saturday to Cambridge.
+TR2361 will be departing london liverpool street Saturday at 21:39, there is also one an hour earlier. Would you like to book a ticket for one?
+I'll take the 21:39, I'll need 7 tickets please.
+Alright, your tickets have been booked and the reference number is ZI1RMKW7. Is there anything else I can do for you?
+================
+I am looking for the Addenbrookes Hospital.
+The Addenbrookes Hospital is located at Hills Rd, Cambridge, Postcode CB20QQ. Are you looking for a particular department?
+No, but can I please get their main phone number?
+01223245151, is the phone number.Anything else?
+================
+schedule doctor's appointment for august 3 at 10
+I have scheduled your appointment.
+================
+I am looking for a particular restaurant. Its name is called cafe uno.
+Caffe Uno? Excellent choice! Would you like to make a reservation?
+Yes please! There will be 7 of us dining on sunday
+At what time would you like the reservation?
+16:15 seems like a good time.
+I have booked the table for Sunday, the reference number is 1XGV4VGP. Is there anything else I can help you with today?

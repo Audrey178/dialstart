@@ -1,0 +1,30 @@
+I'd like to reserve a taxi to take me to jesus green outdoor pool today
+Sure thing, when you like to leave by?
+Just after 06:15. Please send me the taxi's contact number and car type.
+Where will we pick you up?
+I am leaving from la raza.
+OK, there should be a white Ford to pick you up. The contact number is 07251519275. Can I help you with anything else?
+================
+i had car accident dispute and am looking for help
+Sure! I think you'll need the police. Their contact number is 01223358966.
+Great, do you have the address and postcode?
+The address is Parkside, Cambridge, postcode CB11JG.
+Thanks, I'm going to call right now. Goodbye.
+Do you need any further assistance?
+================
+There's a place I've heard of that I'm looking for more details. Warkworth House. Do you know of it?
+The Warkworth House is a 4-star guesthouse in the east that is moderately priced. Would you like me to book it for you?
+book it for 1 people and 5 nights starting from sunday.
+Booking was successful. Reference number is : SNGZ3N0D.
+================
+I was robbed and I need help!
+Oh no! You will want to contact the Parkside Police at 01223358966.
+an get the postcode please?
+The postcode to the police is CB11JG.
+Perfect, thanks for your help.
+Is there anything else I can help you with?
+================
+Hello. Can you help me in locating a certain hotel?
+Sure, what is the name of the hotel?
+I am looking for the Alpha-Milton Guest house and would like to book it for 5 people for 2 nights starting Friday. Can you send me the reference please?
+Your reservation was successful and your reference number is UO8AN5FO. Is there anything else that I can help you with today?

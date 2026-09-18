@@ -1,0 +1,21 @@
+Can you help? I'm in need of a taxi. I'm trying to get from hobsons house to royal spice.
+When would you like to leave by?
+I want to leave after 18:30 please
+07821922219 is the number for your Blue ford taxi.
+================
+what's the weather like
+What city would you like to find out the weather about?
+I need to know weather information about Atherton.
+What days are you interested in?
+Find out if there will be a blizzard on tuesday
+On Tuesday there will be clear skies
+================
+I am looking for city centre north b and b
+I have found the guesthouse you were wanting. Would you like me to book this for you?
+Yes, please book it for 1 person and for 5 nights starting Friday.
+Your booking was successful. The reference number is : BE1VD9EH.
+================
+I got injured and need directions for the clinical decisions unit department
+Oh dear, I'm sorry to hear that! The Clinical Decisions Department only lists their phone number with us, it's 01223596203. However, we can book an appointment for you.
+I need the post code.
+The hospital postcode is CB20QQ. Would you like us to go ahead and book an appointment?

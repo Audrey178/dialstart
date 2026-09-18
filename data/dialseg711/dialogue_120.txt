@@ -1,0 +1,40 @@
+I am looking for a train to stevenage.
+Ok. Where are you leaving out of?
+I'm leaving out of Cambridge.
+Great there are 70 trains, do you have a day or time?
+I need to arrive by 9:30 on Thursday.
+TR2016 leaves at 05:21 and arrives by 06:10. Would you like to book this train?
+Yes for 4 people please. I will need the reference number.
+4 tickets to arrive by 9:30!
+Can I have the reference number for the train booking please?
+I have another train that leaves at 07:21 and arrives at 08:10 if that would be better?
+That is not better. I would like a reference number for the 4 tickets already booked, please.
+Sure thing. The reference number is L130XFN9. How else may I help?
+================
+Please help me find somewhere to eat in the centre
+You could try the yippee noodle bar, which is asian oriental, and priced moderately. It is located at 40428 King Street City Centre.
+That sounds great. Can I get a postcode? Thanks!
+The postcode is cb21rq. Would you like me to make a reservation?
+================
+I'd like to find a train that leaves Monday and arrives by 19:00.
+Very well. Where are you traveling from, and to where?
+I am departing from birmingham new street, going to cambridge.
+I have a train that departs at 15:40 and arrives in Cambridge at 18:23. Will that do?
+That would work just fine. Could you tell me the price and travel time for that train?
+The TR5385 has a travel time of 163 minutes. Would you like me to book you some tickets?
+No, I don't want to book today. Could you just give me the price for that train? I think that is all I need today.
+Sure. The price of those tickets are 75.10 pounds each.
+================
+Can you help me find the nearest police station? I was just robbed!
+Parkside police station phone number 01223358966 and is there anything else I can help you with?
+I need the address and postcode as well please.
+Of course, my apologies, the address is Parkside, Cambridge postcode CB11JG.
+Thanks, I will call right away.
+no problem! let me know if there is anything else i can do to help
+================
+I need a taxi arriving by 23:30.
+Okay, what is your departure site?
+Little Seoul and I would like the contact number and car type
+Where will you be going?
+I'd like to go to people's portraits exhibition at girton college. I've heard it's stunning!
+It sounds lovely! I've booked you in a grey Skoda. The contact number is 07240135377 in case you need it. What else may I assist you with?

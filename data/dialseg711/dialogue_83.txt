@@ -1,0 +1,32 @@
+Could you find me a room at a four star hotel that is kind of cheap?
+The Cambridge Belfry fits your needs. It has free parking and free internet too!
+Is that a guesthouse? I really want a guesthouse rather than a hotel.
+No, I'm sorry the cambridge belfry is a hotel. What area would you like to stay in?
+The area doesn't matter as long as it's a 4 star guesthouse.
+The Autumn House is a great guesthouse on the east area of town, also includes free wifi and internet, and seems to be just what you are looking for.
+Sounds great, what is the address to that guesthouse?
+710 newmarket road
+================
+what's the weather going to be today and also what is the weather going to be this week
+What location who you like the weather for?
+I need weather information for today, especially about the temperature, for downtown Chicago.
+It will be between 80-90F in Chicago today.
+================
+I'd like a train to London Liverpool Street that leaves after 10:00.
+OK, let me see what I can find.
+I will be leaving from Cambridge on Friday.
+TR1750 leaves at 11:59 would that work for you?
+Yes. Can you book it for 5 people and can I have the reference number please?
+Of course. The reference number is 8W9IC5MU and the total is 83 GBP. Can I help with anything else?
+================
+what are the directions to the mall
+We are 5 miles away from Topanga Mall and from Midtown Shopping Center: do you have any preference?
+Which ever has less traffic.
+Then let's go at Topanga Mall, I sent its position and the route to reach on your screen
+Ok can you give me the address? Thanks.
+Topanga Mall is located at 171 Oak Rd
+Thank you for directions via a quick route.
+I will find a quick route to Topanga Mall for you.
+================
+Will it snow in Fresno in the next week?
+There isn't any snow predicted in fresno next week

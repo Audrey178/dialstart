@@ -1,0 +1,33 @@
+Would you be able to recommend an expensive restaurant that serves Panasian food?
+Unfortunately, there are no expensive Panasian restuarants nearby.
+Are there any panasian restaurants?
+I'm sorry but I can't find any Panasian restaurants.
+That's okay, are there any expensive Italian restaurants? I'd prefer the centre of town.
+There are no expensive Italian restaurants in that area.
+Well, can you recommend me another expensive restaurant. I need the address and the phone number to make a reservation.
+Caffe Uno is an expensive Italian restaurant in the centre. It can be located at 32 Bridge Street City Centre and the phone number is 01223448620.
+Thanks. I will check it out.
+Do you need anything else today?
+Yes, can you tell me what their postcode is, please?
+Yes, it's cb21uj.
+================
+I need a train out to London Liverpool Street on Saturday.
+What time do you need to leave on Saturday?
+I'd like to leave sometime after 16:15, leaving from Cambridge.
+The first train after 16:15 TR8824 leaves at 17:59. Shall I book it for you?
+Can you tell me how much that will cost and how long the journey is?
+Yes, it will cost 13.28 pounds and take approximately 88 minutes. Would you like me to book it for you?
+Not at this time. Thank you for everything!
+Sure. Let me know if you need anything else.
+================
+Yes, I am trying to find a hotel by the name of allenbell. Can you help me?
+I've located Allenbell Guesthouse. It's in the east at address 517a coldham lane postcode cb13js. The contact number is 01223210353. Would you like to book a room?
+Yes. I would like to book it for 8 people and 5 nights starting from tuesday.
+Your booking is confirmed, 8 people for 5 nights starting Tuesday at the Allenbell. Booking reference is YLPAOS85. Do you need anything else?
+================
+Can you point me to the nearest police station?
+Please call the Parkside police station at 01223358966. They will be able to assist you.
+Thank you for your help.
+Is there anything else I can help you with today?
+================
+add a meeting to my calendar

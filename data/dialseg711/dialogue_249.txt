@@ -1,0 +1,26 @@
+take me to the nearest starbucks please
+The nearest Starbucks is 6 miles away. Would you like to know the address?
+Yes, please, send the address on my screen and pick the quickest route for me!
+The address is 792 Bedoin Street, I sent it on your screen, and we're on a route with no traffic, enjoy your trip!
+================
+Hello, I'm looking for a modern european restaurant in the center.
+Is there a particular price range that you would prefer?
+Maybe something in the moderate range.
+We have two such restarants, de luca cucina and bar on Regent Street, and riverside brasserie on Mill Lane. Do you have a preference?
+Can you book 2 people at 19:30 on friday for Riverside brasserie. Can I get a reference number? Thank you.
+Sure thing, your reservation number is 3BADCF9I. Anything else I can help with today?
+================
+I need a parking garage that is in the 2 mile range.
+There are none within 2 miles.
+What is the closest?
+The closest is Palo Alto Garage R which is 6 miles away.
+================
+set reminder for dinner
+Okay, I've set a reminder for dinner.
+================
+Are there places in town centre of architectural interest?
+There are many churches and old schools in town, what would you like to see?
+Surprise me. What are the entrance fees?
+All Saints Church is beautiful, and, better yet, it's free!
+That sounds great, thanks so much for your help!
+You are very welcome. Is there anything else I can help you with?

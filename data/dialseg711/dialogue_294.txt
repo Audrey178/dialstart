@@ -1,0 +1,27 @@
+i need to make an appointment to get lab testing done on a certain date
+================
+i want to find a hospital in town
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+No, but I need address and postcode for the Hospital, please.
+Addenbrookes Hospital's address is Hills Rd, Cambridge and their postcode is CB20QQ. Can I be of further assistance?
+================
+I am looking for 0 star lodging with free parking included
+We have two places. Would you like to stay in the north or the centre area?
+I'm not picky about the area of town I stay, but I would like it to be a guesthouse.
+Okay, there is one located in the north and one in the centre.
+Can you please recommend one and book it for 5 nights?
+What dates are you interested in staying?
+Starting from Wednesday, looking to stay for 5 nights. Is that available?
+Booking was successful. Reference number is : PQWL74M2
+================
+I am looking for an expensive restaurant in the centre
+There are 33 restaurants in the centre serving expensive food. What type of food would you like?
+The restaurant should serve japanese food.
+Can I book Wamagama restaurant for you? It's a perfect fit.
+I actually would just like their address, postcode and telephone number at this time.
+Wagamama is located at 36 Saint Andrews Street, postcode cb23ar, phone 01223462354. Do you need any further assistance?
+That is all I need. Thanks for all your help!
+I'm glad I could help. Have a great day and thanks for contacting Cambridge TownInfo centre!
+================
+What is the forecast for Seattle for the next 48 hours?
+The next 48 hours in Seattle are predicted to be misty along with cleat skies, the temperature should range between 30F and 70F

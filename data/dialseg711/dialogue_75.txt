@@ -1,0 +1,36 @@
+Hello. Can you find a taxi to pick me up at Darry's Cookhouse and Wine Shop sometime after 04:00?
+Not a problem. Where would you like to go?
+i would like to go to alexander bed and breakfast
+Great, I've got a white lexus picking you up at 04:00, your contact number is 07605710484.
+================
+i am looking for a hospital with a eurology department
+Provided information, thank you.
+I don't understand. Can you provide the name of a hospital nearby I can go to?
+Addenbrookes Hospital is at Hills Rd, Cambridge and has a urology department.
+May I have the postcode and phone number as well?
+The postcode is CB20QQ, phone for urology is 01223256650.
+Thank you for your help.
+You're welcome. Do you need help with anything else?
+================
+Hi, I need a guesthouse with free wifi please.
+I have 33 guesthouses with internet, which area would you prefer?
+I also need free parking, and I'd prefer a 4 star place.
+You do have a few options, including the Alexander b&b which offers free WiFi as well as free parking. It is also inexpensive, and rated 4 stars.
+Great. Can you book that one for 4 nights checking in on Tuesday? There will be 6 people.
+OK, the booking was successful. Your reference number is 5CB11JQ8. Is there anythng else I can help you with today?
+No that will be all. Thanks.
+You are welcome. Good bye.
+================
+I have been injured, can I please have the address for a nearby hospital?
+Certainly! Addenbrookes Hospital is on Hills Rd, Cambridge. Do you need an appointment with a particular department?
+Please give me the phone number and post code.
+The phone number is 01223245151 and the postcode is CB20QQ.
+Thank you very much for helping me today!
+You are welcome. Is there anything else I can do for you?
+================
+navigate me to the nearest hotel
+We're 8 miles away from The Westin and there is also a car collision nearby, it's not going to be fast
+Any other options?
+The Westin at 329 El Camino Real is the only option I have available
+OK, please give me directions via the shortest distance.
+Setting navigation to The Westin now.

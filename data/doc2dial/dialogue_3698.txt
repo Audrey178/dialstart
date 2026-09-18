@@ -1,0 +1,17 @@
+Hello! I would like advice on medical care
+================
+Do you want to schedule an appointment?
+Not right now.
+================
+Could you give me information about a file for a VA disability increase?
+Do you want to file a claim for compensation?
+Yes, I have already submitted it and would like to verify its status.
+================
+Could I be eligible as a family member caring for a veteran with disabilities?
+Yes, you apply to the request.
+================
+Can my wife enjoy the benefits?
+Yes, definitely.
+================
+Could you see my scheduled appointments?
+Yes.

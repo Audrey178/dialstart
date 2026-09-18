@@ -1,0 +1,24 @@
+navigate to the closest restaurant
+The closest restaurant is Mandarin Roots.
+Please send me its address on screen and pick the quickest route for me
+The address to Mandarin Route is 271 Springer Street. Setting GPS for quickest route which has moderate traffic only.
+================
+Hi! What can you tell me about 4-star guesthouses in town?
+There are 18 matching your request. Do you have any preferences such as area, price, parking, or internet?
+Yes, I would like a guesthouse in the south part of town and it should include wifi.
+There are 2: Rosa's Bed and Breakfast is cheap, located at 53 roseford road cb22ha and Aylesbray Lodge Guest House is moderate, located at 5 mowbray road cb17sr. Shall we book?
+Yes, let's try Rosa's for 3 nights starting Friday. There will be 8 of us.
+You are all set for checking in on Friday. Your reference number is 32GMTM5V. Can I help with anything else?
+================
+is it going to rain in the next few days tell me when
+What city should i check to see if it'll be raining during the week?
+Tell me if it will rain in Seattle over the next few days
+there isn't any rain predicted in Seattle over the next few days, although it may drizzle on Thursday.
+================
+Do you have any details for Jesus Green Outdoor Pool?
+Yes, which details would you like to have?
+I'd like the attraction type, phone number, and entrance fee, please.
+The Jesus Green Outdoor Pool is a swimmingpool on the north end of the city. We don't have any information regarding their entrance fee, but their phone number if 01223302579.
+================
+Will there be dew in Redwood City in the weekend?
+There will not be dew in Redwood City next week.

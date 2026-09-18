@@ -1,0 +1,15 @@
+will it hail in oakland
+Hail is predicted to fall in oakland on saturday.
+================
+Please provide the location of the nearest police station.
+The nearest police station in Parkside Cambridge, the telephone number is 01223358966.
+================
+Schedule a doctor appointment and my sister is coming along.
+Okay, when would you like to schedule that for?
+Schedule it for 4pm today please.
+================
+Get me the address to the police station nearest me.
+The nearest Police Station is Parkside Police Station and the telephone is: 01223358966. Here is the address: Address : Parkside, Cambridge Postcode : CB11JG
+================
+Check the next 48 hours and tell me if it's supposed to be stormy in San Francisco
+It will not be stormy in San Francisco this week.

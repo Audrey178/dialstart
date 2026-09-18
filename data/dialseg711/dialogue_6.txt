@@ -1,0 +1,34 @@
+I am looking for a guesthouse to stay in over the weekend. I don't need internet or free parking.
+How about the Avalon?
+The Avalon sounds good. What is the address?
+The Avalon is located at 62 Gilbert Road, CB43PD. Would you like me to book this for you?
+================
+I need a taxi to go to cambridge punter.
+I can help you with that, where are you departing from?
+I'm leaving from addenbrookes hospital.
+What time would you like to leave addenbrookes hospital?
+I want to leave the hospital after 08:15, please.
+Your taxi is booked. Look for a blue Toyota.
+What is the contact number for the blue Toyota?
+The contact number is 07738411271. Is there anything else we can help you with?
+================
+I need to book a train for 8:45 to go to london kings crossing.
+What day are you planning to travel?
+I would like to travel on Friday.
+I'm sorry I dont' have any trains for that day. Would you like to leave at a different time?
+I will be leaving from Cambridge on Friday.
+The earliest train I have is at 09:00. Is that ok?
+That's fine. Can you give me the arrival time, travel time, and train ID please?
+TR2000 takes 51 minutes to arrive at by 9:51. Would you like me to reserve this for you?
+================
+Will it be hail in Cleveland on Sunday?
+There will not be hail in Cleveland on Sunday.
+================
+I am looking for a place to stay. The hotel should have a star of 2 and should be in the moderate price range
+There are two such hotels in the north area. The first is the ashley hotel and the second is the lovell lodge. Do you have a preference?
+I don't have a preference, actually. Which one do you recommend?
+They both have internet and parking, so it is really up to you.
+I choose the ashley hotel. What is their address, please?
+The number for the Ashley Hotel is 01223350059. Can I book that for you?
+No, I just need the address.
+That hotel is located at 74 chesterton road.

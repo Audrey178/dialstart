@@ -1,0 +1,36 @@
+Get me the address to a chinese restaurant in the area.
+The closest chinese restaurant i have is located 1 mile away and the address is 593 Arrowhead Way. Need more info?
+How is the traffic to there?
+Unfortunately there is heavy traffic on our way
+================
+I am looking for a train. The train should go to cambridge and should arrive by 11:45
+Okay, where are you departing from?
+I want to leave from London Liverpool Street.
+Okay, what day of the week are you looking for the train?
+I will depart on Wednesday.
+Booking was successful, the total fee is 16.6 GBP payable at the station . Reference number is : FKDUE0OJ.
+Wait, this is for 3 people. Are there enough available seats?
+It looks as though they have only booked you for one ticket, I'm sorry.
+Could you redo booking for 3 people please.
+Okay, the booking has been revised to reflect three guests. My apologies for that.
+Can I get the new reference number?
+Of course! You're new reference number is ZF8QFW7E. Can I help you with anything else?
+================
+Know anywhere that has european food?
+Sure, there are lots of good European restaurants in town. Is there a price range that you prefer?
+Yes actually, can we find something in the moderate price range?
+How about the Galleria in the town centre? I could make a reservation for you if you wish.
+That would be greatly appreciated. I will have one other person with me, this will be on sunday at 18:15. Also could i get the reference number?
+You are all set for Sunday. The reference number is 7W544X5O. Is there anything else I could help you with?
+No, you have been very helpful. Thank you.
+Thank you for using our service. Have all of your needs been met?
+That should be all I need, thank you.
+You're welcome. Thank you for using the Cambridge Towninfo Centre.
+================
+is it supposed to snow today
+What city are you interested in?
+================
+where is the nearest police station?
+The nearest police station is in Parkside, Cambridge. Telephone number is 01223358966. Is there anything else I can assist you with?
+Yes, could you also give me their postcode?
+The post code is CB11JG. Anything else I can help with?

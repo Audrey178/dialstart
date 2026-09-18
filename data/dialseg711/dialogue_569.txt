@@ -1,0 +1,25 @@
+I would like to book a taxi that will depart from Rice Boat and should leave at 9:30.
+What is your destination?
+The taxi should go to parkside pools.
+Your taxi is a Grey Toyota. The Contact number is 07725254029.
+================
+schedule a meeting for monday the 1st
+================
+Let's go with the train first. I'm looking for one that leaves after 16:30 on saturday.
+From where and to where will you travel?
+I would like to leave cambridge to bishops stortford
+I have one leaving at 17:29, arriving in Bishop's Stortford at 18:07. Does that work?
+Yes, I'd like three tickets, please.
+Great. I have booked those seats for you and your reference number is JAVMFJGM. Is there anything else I can do for you?
+No that will be all for now.
+Thank you for using our service. Have all of your needs been met?
+================
+is it cloudy in the next 7 days
+Where are you located?
+Corona
+No it will not be cloudy in Corona over the next 7 days
+================
+where can i get coffee
+The Teavana is 8 miles away, and there is currently no traffic. Would you like directions there?
+Yes, please pick a quick route to go there and send it on my screen!
+I sent all the directions on your screen, drive carefully!

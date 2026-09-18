@@ -1,0 +1,18 @@
+How do I change users?
+================
+Is someone taking on another user's duties?
+Yes another person is taking on the duties,
+You will need to request additional user IDs.  Do not share the former user's ID and passwod with the new user.
+================
+Does the applicant get a personal ID and password?
+Yes, when the DMV creates a LENS roster, we issue a personal ID and password to the applicant.
+================
+How do I register for LENS?
+Log in to LEN.S and provide ID informatio
+Will you assist if someone is using another person's ID?
+No we will not provide support to any person who is using another person's user ID.
+================
+What happens if someone leaves my organization?
+We will disable the departed user's access to your LENS roster.
+What other information do you need?
+You will need to identify the user and your LENS customer number.

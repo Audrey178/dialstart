@@ -1,0 +1,32 @@
+I'd like to find a train leaving on Friday to Cambridge.
+There are 1414 trains heading to cambridge do you have a location you're leaving?
+I will leave from Birmingham new street, and arrive by 13:15 if possible.
+TR0497 arrives in Cambridge at 12:23. Would you like to purchase tickets?
+Yes please, book 4 tickets for me.
+Booked, reference number is T610U5HK. You pay 300.39 GBP at the station. Your train leaves at 9:40.
+================
+which days are rain forecasted
+What city are you interested in?
+Will it rain in Cleveland on Saturday?
+It will not rain in Cleveland on Saturday.
+================
+I am trying to find the Parkside Police Station.
+The police station is located at Parkside, Cambridge.
+May I have the address please?
+The only information I have is that the Postcode is CB11JG and the phone number is 01223358966.
+OK, I suppose that will have to do. Thank you.
+The address is Parkside, Cambridge. Is there anything else I can do for you?
+That is all. Thank you.
+You're welcome. Call us again please!
+================
+I am looking for a hospital in town.It should have the intermediate dependency area department.
+The department you're looking for can be found by calling 01223348144.
+Okay, thank you. What is the post code?
+Their postcode is CB11JG.
+================
+I was just involved in a car accident.
+I'm very sorry to hear that! Have you called the police yet? If not here is their number 01223358966. Is there anything else I can help with?
+Yes, I have a passenger that is hurt. How can I get to the hospital to make sure they are okay?
+You should contact this number: 01223358966.
+Thanks, what's the address and postcode to the police department?
+The address is Parkside, Cambridge, postcode CB11JG.

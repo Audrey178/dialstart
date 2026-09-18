@@ -1,0 +1,18 @@
+How do I change the user for a task?
+================
+Are you taking on tasks that were assigned to someone else?
+No, I've been doing them.
+Can I use the same login for multiple people?
+We can provide you with an additional ID and password, sharing is not allowed.
+================
+Can I remove a user that no longer works here?
+Yes, you can login and remove them under User Profile Maintenance.
+================
+WHat do I need to do to get another ID?
+Email us with your roster number and a picture of their driver's license.
+================
+Does everybody get their own login?
+Yes, we assign a unique user ID and password to each person.
+================
+How do I change the users?
+First register for LENS, then login.

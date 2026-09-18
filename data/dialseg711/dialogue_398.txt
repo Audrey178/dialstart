@@ -1,0 +1,36 @@
+Help I've been robbed. I need help.
+Please contact the Parkside, Cambridge police station, the telephone number is 01223358966
+I need their postcode also please.
+The postcode is CB11JG.
+================
+search for nearest fast food restaurants
+There is two restaurants near you; one serves pizza and the other Chinese, which do you prefer?
+The pizza place, give me the quickest one that is nearby.
+Then let's go at Round Table, 113 Anton Ct ,it's just 2 miles away but there is heavy traffic, I hope you're not too hungry
+Please give me directions to the pizza place please. Thank you.
+Navigating to 113 Anton Ct now.
+================
+I got injured and I am looking for a hospital nearby
+The Addenbrookes Hospital is on Hills Rd. Do you need me to call the emergency department at 01223217118 for you?
+No thanks, I can make it. Is 01223217118 the postcode?
+No, that is the phone number. The postcode is CB20QQ.
+================
+show me the nearest shopping mall
+We are 1 miles away from Stanford Shopping Center: does it sound good to you?
+Give me the address.
+The address is 773 Alger Dr, I sent it on your screen
+Set GPS for a route without any traffic.
+There is moderate traffic but you should be able to reach it fast anyway
+Is there an alternate mall with no traffic on the route?
+No that's the closest and fastest available.
+Ok, thanks. Set the GPS for there please.
+GPS is set for Stanford Shopping Center, at 773 Alger Dr, 1 mile away with moderate traffic.
+================
+I need a taxi from bedouin that will leave after 20:00
+I'd be happy to help - what is your destination?
+stansted airport train station is the drop off location
+I have booked a black tesla for you
+I need a contact number please.
+The contact number is: 07720856341.
+Thank you very much.
+Can I help you with anything else?

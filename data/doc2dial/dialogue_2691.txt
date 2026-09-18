@@ -1,0 +1,13 @@
+how Signing in to MyDMV
+Do you want to know why you are redirected to the 'Welcome to MyDMV' page?
+not
+If i do n't remember the password
+you can use the Forgot your Password tool on the same page
+I can use the tool to reset it?
+You can use the tool to reset it . You will need to enter your username and the security questions / answers Shared Secrets you chose when you created your account.
+I need more information
+You will need to enter your username and the security questions / answers Shared Secrets you chose when you created your account
+If i never created a MyDMV account before ,
+use the sign up link
+I forgot my NY.gov username and/or password.    What can I do ?
+You can use the tool to have your username your username might be your email address emailed to you. You will need to enter your name and email address

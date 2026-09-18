@@ -1,0 +1,26 @@
+Schedule me a lab appointment at 2pm with Marie.
+Okay, I will schedule a lab appointment with Marie for today at 2pm.
+================
+I need a train that leaves on Sunday from London Liverpool Street.
+My earliest train is leaving at 5:39 am and arriving at 7:07 am. Is that acceptable?
+================
+Hi, I'm looking for an Indian restaurant. I'd prefer something on the west side.
+I have found 6 restaurants meeting your criteria. Rice boat is a good choice. Would you like me to book you a table?
+I'm looking for something in the fine dining price range, so the place should be expensive. Are there any that fit that criteria?
+Absolutely, there are a few choices. How about Tandoori Palace on Histon Road?
+That sounds good. may I have their postcode, address, and phone number?
+Sure. Tandoori is located at 68 Histon Road Chesterton in postcode cb43le. Their phone number is 01223506055. Can I book it for you?
+No, that's fine.
+Ok, will there be anything else I can assist you with?
+================
+I need help, I was robbed.
+Oh no! The number to the Parkside Police Station is 01223358966.
+Can I get the address. I would like to go directly to the Station.
+Yes the Parkside Police Station is at Parkside, Cambridge Postcode CB11JG. Anything else I can help with?
+================
+I am looking for a restaurant in the west that serves italian food.
+There are two restaurants that meet your requirements. Prezzo is in the moderate price range and La Margherita is in the cheap range.
+Can I get the address for Prezzo please?
+The address for prezzo is 21 - 24 Northampton Road. Is there anything else i can help you with?
+Yes, I'd like to reserve a table for 5 at 12:45 on Monday please.
+Of course. I successfully booked you your reservation. Your reference number is A5FGTJTZ.

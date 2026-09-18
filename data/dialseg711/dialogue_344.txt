@@ -1,0 +1,24 @@
+I am looking for a restaurant. The restaurant should be in the south and should be in the cheap price range
+How about nandos, I've heard great things!
+Is that restaurant in the south? I"d like to book for 4 people at 1330 on saturday please
+Nandos is indeed in the south. The booking is successful with the reference number PCFFZ610. Do you need more help?
+================
+please give me directions to a nearby parking garage parking lot
+The closest parking garage is Dish Parking at 550 Alester Ave, 2 miles away. Setting directions now.
+Please pick the route with the shortest distance, thank you!
+Setting GPS now.
+================
+I'd like to find a hospital.
+The Addenbrookes Hospital is located at Hills Rd. Cambridge, postcode CB20QQ. The telephone number is 01223245151. Is there anything else?
+================
+Where is the rest stop within 2 miles?
+There is The Clement Hotel 7 miles away, I'm showing it on your map
+What is the address?
+The Clement Hotel is located at 657 Ames Avenue. Anything else?
+Please pic the route with the shortest distance and let's go there
+There is moderate traffic on our way, I sent the route on your screen
+================
+I've been injured. Where is the closest hospital?
+The closest hospital is the Addenbrookes Hospital located at Hills Rd, Cambridge, postcode CB20QQ, do you need their phone number?
+No. What is the complete address?
+That is the address we have available to us. Is there anything else we can help with?

@@ -1,0 +1,36 @@
+am looking for a place to to stay that has cheap price range it should be in a type of hotel
+Okay, do you have a specific area you want to stay in?
+no, i just need to make sure it's cheap. oh, and i need parking
+I found 1 cheap hotel for you that includes parking. Do you like me to book it?
+Yes, please. 6 people 3 nights starting on tuesday.
+I am sorry but I wasn't able to book that for you for Tuesday. Is there another day you would like to stay or perhaps a shorter stay?
+how about only 2 nights.
+Booking was successful. Reference number is : 7GAWK763. Anything else I can do for you?
+================
+navigate to the nearest hotel
+There are two nearby hotels. The Clement Hotel and Hotel Keen, they are both 5 miles away.
+Can I have the address of Hotel Keen?
+Hotel Keen is located at 578 Arbol Dr.
+================
+I need to taxi from Ian hong house.
+Sure, where would you like to go?
+I'd like to go to saint johns chop house.
+Alright. Now, can you just tell me either when you'd like to leave after or the time you'd like to arrive by?
+================
+Can I get some help locating a room for the night?
+Absolutely. What type of lodging did you have in mind?
+I am looking for a guesthouse with free wifi and parking, please.
+You're in luck, there are a great number of guesthouses that might work. Did you have an area in mind?
+I don't care about the area. Which one do you suggest?
+How about the Acorn Guest House?
+That sounds great! I need a reservation just for me for 5 nights starting on Thursday.
+I have that booked, the reference number is LULJ5N6X.
+================
+I've been in an accident and I'm hurt. I need the closest hospital with a teenage cancer trust unit.
+The Addenbrookes Hospital at Hills Rd, Cambridge has that unit. Anything else I can help with?
+May I have the phone number for them?
+Their phone number is 01223274222.
+Thank you for all of your help.
+You're welcome. Was there anything else I can assist you with?
+No, that will be all.
+Thank you for using our service today. I hope all goes well for you.

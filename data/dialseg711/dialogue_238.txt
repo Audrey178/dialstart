@@ -1,0 +1,32 @@
+I'd like an expensive restuarant in the south part of town.
+I have 5 results matching your request, are you looking for a particular type of food to eat?
+I want Indian, please.
+Sure I have the Taj Tandoori in that price range. Would you like a telephone number or a booking?
+That would be great! Could I also receive the address and post code with that?
+Taj Tandoori is located at 64 Cherry Hinton Road Cherry Hinton, postcode cb17aa. The phone number is 01223412299. Did you want to make a reservation?
+================
+Please show me where the nearest hospital is
+The nearest hospital is The Addenbrookes Hospital located at Hills Rd, Cambridge Postcode CB20QQ.
+Thank you. Can you book a taxi to take me there?
+Yes, what time would you like the taxi to pick you up?
+Nevermind, I don't need a taxi. Thanks for your help.
+What can I help you with?
+================
+i'm not feeling well show me the fastest route to the nearest hospital
+We are 3 miles away from Stanford Childrens Health: set the GPS to go there?
+Yes and pick the fastes route please
+Yes and pick the fastes route please
+Navigating to Stanford Childrens Health.
+This route to Stanford Childrens Health has no traffic and is the quickest route. Do you care for the address?
+I'm not feeling well, just show me the fastest route please
+Stanford Childrens Health is located at 899 Ames Ct. and I set the GPS.
+================
+I am looking for Ian hong house
+That is a chinese restaurant in the centre of town.
+Ok I'd like to book for 6 people at 1400 on saturday please
+I have that booked for you and here is your reference number: XDYJMTO7. Is there anything else?
+================
+Please give me the address and quickest route directions to the nearest gas station.
+The closest gas station is 1 mile away at 200 Alester Ave. Valero has a road block reported nearby.
+Which one is it the quickest way to reach there?
+I have put the quickest route on your screen.

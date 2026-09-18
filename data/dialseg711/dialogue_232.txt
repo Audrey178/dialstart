@@ -1,0 +1,17 @@
+I need medical treatment.
+You can reach Addenbrookes Hospital at phone number 01223245151, and they are located at Hills Rd, Cambridge, postcode CB20QQ. Do you need further assistance?
+No thank you.
+Thank you is there anything else
+================
+Hello, I'm looking for a nearby hospital that has inpatient occupational therapy. Can you help me with this?
+Telephone : 01223245151 Address : Hills Rd, Cambridge Postcode : CB20QQ
+Is that the phone number for the inpatient occupational therapy department?
+No, their direct number is 01223216881.
+================
+what will the temperature be for the next week
+Where would you like to hear the temperature from?
+alhambra
+The temperature for Alhambra for the week include the highs near 100 and lows in the 40s.
+================
+what time is my doctor's appointment today
+Your doctor's appointment is scheduled for 1pm today.

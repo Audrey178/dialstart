@@ -1,0 +1,34 @@
+is it going to rain at all this upcoming week
+What city shall I check for rain?
+redwood city
+Chance of rain on Saturday in Redwood City.
+================
+Where does my friend live?
+Tom's house is 6 miles away at 580 Van Ness Avenue.
+Is that the fastest route?
+I'll send the route with no traffic on your screen, drive carefully!
+================
+I am looking for a 3 star hotel on the south side of town please.
+The Lensfield Hotel is available if you would like to book there just let me know.
+Is it in the cheap price range?
+I can get you into the bridge Guest House. It is rated with three stars and has both internet and parking amenitites.
+Is that in the cheap price range?
+Unfortunately no. Would you be willing to expand your price range?
+Sure, how about one in the expensive range?
+Certainly I have the Lensfield Hotel and it is considered expensive. Shall I book that for you?
+Can you tell me what type of accommodation this is?
+The type of hotel is a regular hotel that is rated 3 stars and has both free parking and internet connectivity amenities. Could I help you with booking?
+Yes please. I need to book a room for three days starting on tuesday.
+How many people am I making the reservation for?
+Make a reservation for one.
+Just to verify, you wanted a room at the Lensfield Hotel for Tuesday with one guest and a 3 night stay? Is that correct?
+Actually nevermind, I don't need to make a reservation right now. Thanks anyway.
+Alright, is there anything else I can do for you today?
+================
+I am looking for the Addenbrookes Hospital please.
+The hospital is located at Hills Rd, Cambridge Hills Rd, CB20QQ and their phone number is 0122324515. Is there anything else I can help you with?
+================
+Can you book me a taxi from Avalon to De Luca Cucina and Bar?
+Easy enough. What time would you like to leave by as well as arrive to?
+I would like to arrive at De Luca by 07:30. It doesn't matter when I leave.
+I booked that for you. The car will be a white honda and the contact number is 07804995392.

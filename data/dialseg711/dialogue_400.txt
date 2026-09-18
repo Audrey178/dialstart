@@ -1,0 +1,36 @@
+I need a place to stay on the west side of town, and I definitely need free wifi.
+I will be more than happy to help you find one. Do you prefer a certain price range?
+Price doesn't really matter, but I'd like it to include internet and parking please.
+I have 2 hotels and 2 guesthouses in the west area with wifi and parking. Do you have a preference?
+A hotel, please.
+We have two: Huntingdon Marriott Hotel, and the Cambridge Belfry.
+The Huntingdon Marriott Hotel will work. Can I have the phone number and address?
+Of course. The address I have is Kingfisher way, Hinchinbrook business park, Huntingdon. Their phone number is 01480446000. Would you like me to book your stay?
+================
+Hi! Do you have any Indian food on the east side?
+I have four Indian places, do you have a price range in mind?
+No, I do not, any place will do. I'd like to find a table for three at 12:45 on Monday.
+Unfortunately there are no tables available matching that, do you have another time?
+Ok, how about 11:45, also I would like to know the name of the restaurant.
+Ok I have a table for three booked at 11:45 at Curry Prince. It is in the east side of town. Your reference number is L8GT5J3I.
+Okay that is wonderful. That is all I need.
+Great, is there anything else I can do for you today?
+================
+I am looking for moderately priced lodging with free wifi.
+There are 17 hotels that match that criteria. Would you like to narrow it down some? Do you need free parking? What area would you like?
+I would like it to have a four star rating.
+There are 11 entries. Does type matter to you?
+It does not. Do you have a favorite?
+I particularly like the acorn guest house in the north. It meets your criteria plus offers parking, just in case you might need it. Would you like a booking?
+I don't need a booking but can you tell me the postcode and address?
+Yes of course, their postcode is cb41da, and their address is 154 Chesterton road. Is there anything else that I can do for you today?
+================
+what is the weather going to be today and tomorrow
+What city would you like this information from?
+There will be clear skies in Corona today and tomorrow?
+There will be clear skies on Corona today, tomorrow it will drizzle
+================
+Car there should be my friends house around here: do you see it on the map?
+JIlls house is nearby at 347 Alta Mesa Ave
+OK, please direct me there via a route that avoids all heavy traffic.
+Setting navigation now.

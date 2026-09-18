@@ -1,0 +1,23 @@
+What is the time and location of my next meeting and who will be attending?
+================
+give me directions to some nearby hotels
+We're 6 miles away from The Clement Hotel: send you its address on screen?
+Yes please.
+The Clement Hotel is located at 657 Ames Avenue.
+Set the navigation please.
+GPS set for The Clement Hotel.
+================
+is it going to rain in the next 7 days
+OK, could you please let me know what location I should look up data for?
+San Jose.
+It will rain Monday, Tuesday, and Thursday in San Jose.
+================
+Hello, where in town is there a hospital?
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+No, I just need the general address and postcode.
+The address is Hills Rd, Cambridge and postcode is CB20QQ.
+================
+which days will be cloudy this week
+Which city would you like the cloudy day forecast for this week?
+Camarillo
+In Camarillo it's gonna be hail on Thursday and it will rain on Sunday

@@ -1,0 +1,28 @@
+is it going to snow in the next week
+What city would you like next week's snow forecast for?
+Danville, please
+It's not gonna snow in Danville this week
+================
+Where can I get tea?
+I have two locations you could purchase some tea at. Which would you prefer?
+I'd like to give a name to these two "locations" and maybe an address, thanks!
+Okay, both Palo Alto Cafe and Teavana are near.
+Which one has no traffic on our way?
+Palo Alto would be better as it only has moderate traffic and Teavana is heavy traffic.
+Would you give me the address for the Palo Alto Cafe and set the quickest route there please?
+The quickest route noted is to 436 Alger Dr. Do you want me to set the navigation?
+================
+what is the date location and time of my next conference
+Your next conference is at 2PM Thursday in the 100 conference room.
+================
+Will it be warm in New York today and tomorrow?
+Today and tomorrow in New York will be warm the lows will be 50F and 60F, the highs will be in the 70s
+================
+I need a hotel in the south with free wifi.
+I have a cheap guesthouse, 2 moderately priced guesthouses, and 1 expensive hotel - do you have a preference?
+Can you tell me if the cheap one has a star rating?
+Yes, that would be Rosa's Bed and Breakfast. It has a 4-star rating and offers free wifi and parking. Would you like me to book you a room?
+Yes, please book a room for 5 people.
+What day and how long should I book this for?
+Please book it on Thursday, for 5 people, and 3 days.
+Your booking was successful. Reference numbr is Y113FEV7. Can I assist you with anything else today?

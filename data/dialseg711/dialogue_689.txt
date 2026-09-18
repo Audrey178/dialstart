@@ -1,0 +1,44 @@
+How do I locate the closest police station?
+The closest station is at Parkside, Cambridge, in the postal code CB11JG.
+Thank you so much. Could you also provide me with the phone number?
+Their phone number is 01223358966. Is there anything else I can help you with?
+================
+I need to book a train.
+Where are you departing from, and what is your destination?
+I'm at Bishops Stortford and would like to go to Cambridge.
+The travel time for that route is 38 minutes. What day would you be traveling?
+I would like to travel this Wednesday and need to leave after 08:15.
+There are 8 trains that leave after 8:15, did you have a specific arrival time in mind?
+No, anytime after 8:15 is fine. Maybe the first train after that time.
+Okay I have the 9:29 that arrives at 10:07. Would you like to book that?
+Yes, that works, I need the travel time, and the train ID please.
+Sure, Train ID is TR9178 and travel time is 38 minutes. How many tickets do you need?
+I actually don't need to book right now. Sorry for the confusion.
+OK, is that all you needed today, then?
+================
+I need a taxi to arrive by 16:45 to take me to the Parkside Police Station.
+Where would you like the taxi to pick you up?
+I actually need to be picked up from the parkside police station. Sorry about taht.
+That's okay. Where is your destination?
+I am wanting to go to stansted airport train station.
+Your taxi booking is a yellow Volkswagen with the contact number of 07339912841.
+That's all I need thanks
+Are you sure there's nothing else I can assist you with today?
+================
+i feel like some coffee where's the nearest place
+We're 5 miles away from Peets Coffee
+Are they any closer options?
+No Peets Coffee is the only option.
+Then let's go there, please pick a quick route for me
+Peets is 5 miles away in moderate traffic; setting navigation to 9981 Archuleta Ave now.
+================
+I am looking for a place to dine. The restaurant should serve mediterranean food and should be in the south
+I'm afraid there aren't any. Would you like to try another area or cuisine?
+What restaurants are cheap?
+Nandos is cheap in that area.
+how about one that serves portuguese food?
+Nandos serves portuguese food in the south area. Would you like a reservation?
+Yes, please. 3 people at 12:15 on Friday.
+Booking was unsuccessful. Is there another day or time slot you would be interested in?
+how about for 11:15?
+Yes, that did the trick! Your reference number is OTN7HHGY and they'll hold the table for 15 minutes. Is there anything else I can help you with?

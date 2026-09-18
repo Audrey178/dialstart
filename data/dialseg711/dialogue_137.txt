@@ -1,0 +1,36 @@
+Good day car, I would like to schedule a meeting at 9 am, next Wednesday with management to discuss the merger.
+Great, I have just scheduled that meeting for you. Is there anything else I can do?
+================
+I'd like an expensive restuarant with Chinese food.
+Sure, I have 9 restaurants like that. Is there a certain area you had in mind?
+I would like to stay in the south please.
+I have 2 chinese restaurants in the south. Both are expensive but worth the money! I have the Peking Restaurant and the Good Luck Chinese Food Takeaway.
+Could you reserve a table for 5 at Peking Restaurant. I need it for Wednesday at 11:15.
+I was able to successfully book at table for 5 at Peking restaurant for 11:15. Your reference number is WOK3FTDI. Your table will be reserved for 15 minutes.
+================
+Car I need a parking garage within 5 miles of my current position
+Civic Center Garage is 4 miles away: do you want me to set the GPS to get there?
+Where is Civic Center Garage, can I get there while avoiding all heavy traffic?
+In this moment there is moderate traffic on our way, I will pick for you the fastest route
+================
+I am looking for a place to stay. The hotel should have a star of 4 and should include free parking
+The Cambridge Belfry fits your request. Would you like to book a room?
+Sorry. I prefer a guesthouse. Does the Cambridge Belfry meet that requirement?
+I apologize, it does not. Do you have a specific price range in mind?
+Yes, it should be in the cheap price range.
+How about allenbell? It looks lovely.
+Sounds interesting! What area is it in?
+The allenbell is in the east area. Would you like a reservation?
+Do they have internet?
+Yes, the allenbell meets all your needs. Shall I book the guesthouse for you?
+Wait, first let me know: do they have internet access?
+Yes, the Allenbell has internet service. Would you like me to book this location for you?
+I don't need a booking yet. I do need the postcode, though.
+The postcode for the Allenbell is cb13js. Is there anything else I can help you with today?
+Could you also please tell me the area that is in?
+Sure, the Allenbell Guesthouse is located in the east. Can I help with anything else?
+================
+Where is there a hospital around me?
+We're 5 miles away from Stanford Express Care: do you want me to set the GPS to go there?
+OK, please give me the address and direct me there via a quick route.
+The address is 214 El Camino Real; setting navigation now.

@@ -1,0 +1,42 @@
+Hi. I will be attending a conference in the eastern part of town and wondered if you could help me find an available room.
+There are several guesthouses and 1 hotel in the east part of town. What price range are you looking for?
+I prefer a guesthouse. Do you have any expensive ones?
+I do not have anything in the east that matches your request. Would you like to change the area or the type of accomodations?
+How about a hotel in the cheap price range?
+I have 3 guesthouses that match your criteria. everton house, autumn house, and allenbell. Does any of these interest you?
+Which one would you recommend?
+Everyone seems to enjoy the Allenbell.
+That sounds alright. Do they have free parking?
+Yes, they do. Would you like to book a room?
+I don't need a room right now, but does the Allenbell have free wifi? And what's their postcode?
+Yes, they have free Wifi. Their postcode is cb13js.
+================
+I need to find an expensive restaurant in the west.
+We have quite a few spots. Do you have a specific type of food you'd like to eat?
+No, I don't really care. Can you suggest one?
+Tandoori Palace is an Indian restaurant. Their food is lovely.
+That sounds yummy! What is their postcode and phone number, please?
+Their phone is 01223506055 and the postcode is cb43le. Would you like me to make a booking?
+================
+Hello. I'm looking for a place to go in the centre of town.
+There are loads of attractions in the centre of town. Do you have a specific type in mind?
+No, just architecture. I would also like the phone number and postcode please.
+May I suggest all saints church? the post code is cb58bs.
+That sounds great! Can you give me the phone number as well?
+The phone number for all saints church is 01223452587.
+================
+Hi, I am looking for a 4 star guesthouse.
+I have 18 results. What price range would you like?
+Money is no object, but I'd like it to be a 4 star location please. And I'd only like to stay on the north side of town.
+I have about 8 different options. Most are moderately priced. There is one that is cheap. Do you have a preference as to which?
+I need a place that has enough beds for 7 persons for 3 nights starting this Thursday.
+I'm afraid that wont work. Can we try a different day or shorter length of stay?
+Yeah, how about for one day? Please get me the reference number if that works
+Which hotel would you like of the available choices?
+Whatever is available. But I would prefer a guesthouse with free parking.
+Arbury Lodge guesthouse is able to accommodate your party of 7 for Thursday night. Your reference number is 7PLMHREX. Is there anything else you need?
+================
+Do you have information about nightclubs?
+I have details for several nightclubs, which area were you looking at?
+I am looking for any one you'd recommend, I just need the address, entrance fee, and postcode.
+Alright. How about Kambar. It is located at 1 Wheeler Street and the postcode is cb23qb. The entrance fee is 5 pounds. Is that all you need help with today?

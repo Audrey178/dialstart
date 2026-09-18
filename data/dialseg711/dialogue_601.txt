@@ -1,0 +1,42 @@
+Give me the address of the nearest shopping center to me, with the fastest route to it
+Stanford Shopping Center is 2 miles away at 773 Alger Dr.
+Is there any traffic?
+There is moderate traffic on the way to Stanford Shopping Center.
+================
+I am looking for a place to stay. The hotel should include free wifi and should be in the moderate price range
+I have three hotels. Two in the north and one in the centre. Do you have a preference?
+No, but should come with free parking.
+How does the Lovell Lodge sound? It has internet and free parking and is moderately priced.
+Sure. please book for 1 person for 4 nights starting on friday.
+I'm sorry but the booking was unsuccessful. Would you like to book starting another day? Or perhaps a shorter stay?
+Can we try for it for wednesday instead?
+yes, that booking was successful for Wednesday. The reference number is J4Q4W07K. Anything else you need?
+That's all, thanks.
+I'm glad I could be of assistance. Good day.
+================
+where's the nearest place to get lunch
+There is tai pan restaurant 2 miles away with moderate traffic on our way
+Can I have the address?
+Sure, the address is 830 Almanor Ln, the restaurant's name is Tai Pan
+Thank you car, please send me the address with the quickest route on screen
+You will experience moderate traffic on your way to 830 Almanor Lane.
+================
+schedule meeting
+On what date and time should I schedule your meeting
+Today at 1 pm. Also add the purpose is to discuss the budget.
+Added meeting to schedule for today at 1pm purpose is to discuss the budget.
+================
+I am hoping you can help me find a hotel with free wifi in the north.
+Acorn guest house is in the North and offers wifi, it is moderately priced and has 4 stars. Would you like to book it?
+Does it have parking?
+Yes, they offer both free wifi and free parking. Can I assist you in booking a room?
+I actually would want something expensive (north side preferred) and free wifi and parking.
+I have nothing in the north area meeting that search criteria, would you like me to check another area?
+Yes. How about an expensive place in the centre of town, with both free wifi and parking?
+I found the gonville hotel. It is located in the center, is in the expensive price range, has free internet and parking! Shall I book it?
+Yes! Please book it for 1 people and 2 nights starting from monday.
+I'm sorry there is no availability for 2 nights from Monday, would you like me to try a different date or a different hotel?
+How about one night only?
+That was open, the reference code is B13IXXHV.
+Great, thank you for your help!
+Thank you, do you need anything else?

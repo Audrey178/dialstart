@@ -1,0 +1,27 @@
+Hi, I'd like to find a moderately priced steakhouse.
+Sorry, I can't find any steakhouses. Would you be interested in moderately priced British cuisine instead?
+How about in the centre?
+I apologize, I can't find any in the centre either.
+How about Spanish food then?
+la tasca meets your standards. would you like to book this restaurant?
+No thank you. Can I have the phone number for it though?
+The phone number for la tasca is 01223464630. Anything else?
+================
+Schedule a dentist appointment with Jeff for next Wednesday at 1pm.
+Your dentist appointment with Jeff has been scheduled for Wed at 1pm.
+================
+I am looking at a place to eat that serves venetian food in the centre.
+Unfortunately, I don't see any restaurants that serve Venetian in the centre of town. Would you like to try a different area or type of cuisine?
+Do you have any Chinese restaurants?
+Yes there are 10 in the centre of town. Any price preference?
+I was hoping for an expensive restaurant.
+There are 4 expensive restaurants that are located in the town centre. The Ugly Duckling, Tang Chinese, HK Fusion, and Sesame Restaurant and bar, would you like information on one?
+Can I book at the Ugly Duckling for 4 people, at 12:00 on wednesday please?
+Great you're all set the reference number is 48MB42OD
+Thank you! Can't wait!
+Is there anything else I can help you with?
+================
+what's the current temperature outside
+For what city would you like the current weather for?
+I'm located in Exeter.
+The temperature in Exeter is showing a low of 60F with a high of 80F.

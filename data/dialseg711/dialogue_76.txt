@@ -1,0 +1,24 @@
+does the forecast say it will snow
+What city do you want to know the snow forecast for?
+I need to know about Compton for my trip.
+Do you want me to check if it will snow on a specific day or the entire week?
+Please check if it will snow today or tomorrow
+Frost is predicted in Compton today but there is no snow for today or tomorrow.
+================
+I need a taxi to pick me up at The Good Luck Chinese Food Takeaway to take me to Alpha-Milton Guest House.
+Of course; can you tell me what time you need to leave or arrive by?
+================
+what's the weather going to be like for this week
+What city are you inquiring about?
+Will it dew in Alhambra?
+There is not gonna be any dew in Alhambra this week
+================
+Hello, I am trying to find an attraction in the west part of town. Can you help me?
+Sure, there are many colleges and museums in the west, there is also some entertainment. Do you have a preference on any of these?
+Not really. Could you give me the postcode for one of the museums?
+The one I recommend is the People's Portraits Exhibition at Girton College. It's free to get in. Their postcode is cb3ojg. Is there any other information I can provide?
+================
+Can you tell me how to get to Addenbrookes Hospital?
+I could just call an ambulance
+I need the address of the hospital and the phone number of the transplant high dependency unit department, please.
+The address for the hospital is Hills Rd in Cambridge. The phone number for the Transplant High Dependency Unit is 01223216811.

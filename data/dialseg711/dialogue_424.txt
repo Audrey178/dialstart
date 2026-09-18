@@ -1,0 +1,34 @@
+is it supposed to rain this week
+What city are you inquiring about?
+Menlo Park.
+There will be no rain this week in Menlo Park.
+================
+Do you think you might be able to recommend a nice guesthouse?
+I sure can! First of all, is there a price range you would like to stay within?
+Something cheap, but 4 star quality.
+How about the allenbell located at 517a coldham lane that is the cheap price range?
+Does it include free wifi?
+Yes it does. Would you like to make a reservation?
+No, not right now. Could you tell me what area that's in, and the postcode and phone number?
+It's on the east side of town. The postcode is cb13js, and the phone number is 01223210353.
+================
+Is it foggy in exeter today
+It is not foggy in exeter today.
+================
+I'm looking for a place to dine in the centre.
+There are many restaurants in the centre of town, do you have a preference of food?
+Is there anywhere that serves middle eastern food?
+Unfortunately there is not. What else may I check for you?
+Is there anywhere in the centre that serves mediterranean food?
+I've found three options, sir. May I ask what type of price range were you looking for?
+I'd like something in the expensive price range.
+There are two expensive Mediterranean restaurants in the centre of town--La Mimosa and Shiraz.
+book either for me
+I recommend la mimosa, great word of mouth. What day and time do you want to dine? How many will be going, please?
+Can we do Saturday at 15:00?
+Sure for how many people?
+Never mind. I'll book the table myself. May I have the address and postcode? And the phone number, while you're at it.
+Of course. La Mimosa is located at Thompsons Lane Fen Ditton. The post code is cb58aq. The phone number is 01223362525. Do you need any further assistance?
+================
+what day is the football game
+the football game is friday at 11am

@@ -1,0 +1,30 @@
+I want to get train tickets for Monday please, leaving from Cambridge, if you would.
+What time do you want to leave at on monday and where are you going to?
+Hello I need to arrive at london kings cross no later than 16:45.
+I have several trains that will get you there on time. What time would you like to leave?
+I don't have a preference on leave time.
+TR7075 cambridge london kings cross monday 05:00 05:51 23.60 pounds 51 minutes
+thank you. can i get the reference number please
+How many tickets would you like?
+I don't need to book any tickets. I'll need the departure time, travel time and train id if you could specify them instead of just sending numbers.
+The TR7075 train leaves at 05:00 and takes 51 minutes to travel. Does that help?
+Okay, I believe that's all I need. Thanks for your help.
+Is there anything else I can help you with today?
+================
+What date and time is the football event?
+Your next football event is on the 8th at 6pm.
+================
+give me directions to the closest chinese food restaurant
+There is Chef Chu's 3 miles away: would you like to go there?
+What is the address?
+Chef Chu's is located at 593 Arrowhead Way. Do you want me to set the GPS?
+Set GPS for fastest route.
+GPS set to Chef Chu's on the fastest route.
+================
+I need to book a taxi to leave after 12:45 to go to yippee noodle bar.
+Great. And where will you be leaving from?
+I'll be leaving from the Cambridge Punter.
+I have booked a grey bmw for you. The contact number is 07619508724. Can I help you further today?
+================
+What is my address?
+Your address is 10 ames street.

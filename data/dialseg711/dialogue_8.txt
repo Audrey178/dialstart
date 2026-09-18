@@ -1,0 +1,30 @@
+Hi, can you help me find a guesthouse? I need free parking.
+I found 21 results. What side of town would you like?
+I would prefer the north side of town please.
+There are quite a lot of them in that area. Do you have a price range in mind, or a particular star rating you'd like me to look for?
+Not really. I just need a hotel that can accommodate 6 people for 5 nights, starting Sunday.
+Unfortunately, booking within your criteria was unsuccessful at all hotels. Could you change your number of days?
+Would you try 1 night for 6 people on Sunday, please?
+I have you booked at acorn guest house. Reference number is: IDAIIS1T.
+Brilliant! Thank you.
+Is there anything else I can help you with today?
+================
+Find a parking garage.
+There is 2 local parking garage's; both are 3 miles away. Palo Alto Garage has moderate traffic and Stanford Oval has no traffic. Which one do you prefer?
+Stanford Oval please.
+Alright, Stanford Oval Parking is located at 610 Amarillo Ave
+================
+Will it be dry in Fresno on Sunday?
+No, on Sunday in Fresno there will be a blizzard.
+================
+Can you give me the contact info for the nearest police station?
+Sure! The Parkside Police Station is located at Parkside, Cambridge and can be reached at 01223358966.
+================
+Hello, I'm looking for a train to get me to london kings cross.
+Ok. Will you be departing from Cambridge?
+Yes, Cambridge and I want to leave on Sunday. I need travel time
+Travel time is 51 minutes. What time were you hoping to leave?
+I would like to leave after 13:45.
+There is a train that leaves at 15:00 would you like me to book that train for you?
+No thanks, I just needed the travel time for the train departing at 15:00.
+The travel time for TR 9386 is 51 minutes.

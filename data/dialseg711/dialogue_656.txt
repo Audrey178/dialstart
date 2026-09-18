@@ -1,0 +1,26 @@
+I am looking for a restaurant. The restaurant should be in the expensive price range and should be in the centre.
+Fitzbillies restaurant serves British food, is located in the centre and is expensive. It's address is 51 Trumpington Street City Centre.
+Is there any chinese restaurants around?
+Yes there are a few. Can I recommend Tang Chinese. Would you like me to book that for you?
+Do they have availability on Sunday at 13:00?
+Yes they do. How many people are in your party?
+We will have 7 people in the party.
+I have you booked at Tang Chinese. The reference number is P04KA65H. Is there anything else that I can do for you today?
+================
+directions to the nearest coffee shop
+The nearest coffee shop is Starbucks on 792 Bedoin Street which is 6 miles away and there is no traffic.
+================
+Can you help me get to ely train station by 12:00?
+Yes. Where will you be leaving from?
+I'll be leaving from eraina
+Okay. I have a black audi and the contact number is 07356404697. Is there anything else you need?
+================
+Is there anything cheap in the centre of town?
+Do you have a food type preference?
+Would you have something modern european?
+The River Bar Steakhouse and Grill offers Modern European cuisine. Would you like me to book you a reservation?
+Can I have their phone number, postcode and address please?
+I'd be happy to provide you with that information. Their phone number is 01223307030 and their address and postcode are Quayside off Bridge Street, cb58aq. Can I help with anything else?
+================
+What is the address of my house?
+Your house is at 10 ames street.

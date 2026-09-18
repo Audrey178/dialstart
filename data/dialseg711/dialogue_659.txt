@@ -1,0 +1,44 @@
+Do they have any cheap places to stay on the west side?
+There is 1 guesthouse and 1 hotel that are cheap on the west side. Which one do you prefer?
+The guest house, please.
+finches bed and breakfast is a cheap guesthouse in the west area. Would you like me to book a room for you?
+No thank you, but could you tell me the phone number? And do they have free internet?
+Yes they do have free internet, and the phone number is 01223276653.
+================
+show directions for the nearest grocery store
+Trader Joes is located at 408 University Ave, 4 miles away in heavy traffic. Setting navigation now.
+Please give me directions via the fastest route available. THank you.
+Setting navigation now. There is heavy traffic, so drive carefully.
+================
+I am looking for a place to stay. The hotel should be in the type of guesthouse and should include free wifi
+There are 23 guesthouses with free wifi. What price range or area do you prefer?
+I would prefer a price range of expensive
+It seems that there are no guesthouses in the expensive price range. Can I offer you a different price range or a different type of hotel?
+How about moderate price range with a star of 4?
+There are several. Do you have a preference for area?
+Area doesn't matter but I need to know if they have free parking
+I have discovered 9 choices fitting your description. May I recommend the Archway House? It's on Gilbert Road.
+Sounds great, Thank you.
+You're welcome. Would you like me to make a reservation in your name?
+Yes please make a reservation in my name. Thank you.
+I will need to know the day you will be arriving, the amount of days and for how many people before making the reservation.
+I'm sorry I don't need a reservation right now. Can you just tell me if they offer free parking?
+Yes, Archway House offers free parking. May I help with something else?
+Great, thanks. That is all I needed.
+Should I book that for you?
+================
+I want a taxi to come to The Junction to take me to Kambar.
+I would be happy to book that for you, what time would you like to arrive?
+At 3:30 pm
+You've been booked. Expect a blue Volkswagen to get you to kambar by 3:30. Their contact number is 07466224734. Can I help with anything else?
+No, that's everything. Thanks!
+You are most welcome!
+================
+I've just had a dispute with another driver due to an accident we had. I need the police please!
+Oh dear, I am sorry. I have the number for Parkside Police, is that close to your location?
+I'm not sure. Can you give me the address and post code?
+Their address is Parkside, Cambridge, postcode CB11JG. Do you need their phone also?
+yes thank you
+Their phone number is 01223358966.
+Thank you for the information. I will contact them now.
+Great, is there anything else I can help you with?

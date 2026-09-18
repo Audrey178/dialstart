@@ -1,0 +1,46 @@
+What is the date of my swimming activity and who is attending?
+You have a swimming activity on saturday, tuesday and the 3rd, which one do you want?
+The one on Saturday.
+Your swimming activity on Saturday is with Jon. Would you like to know the other activity's information?
+Yes please.
+Your swimming activity on Tuesday is with Martha. Your swimming activity on the 3rd is with your father.
+================
+what's the weather going to be today and also what is the weather going to be this week
+What city would you like the forecast for?
+Will it be cloudy in Compton today?
+No, it will not be cloudy in Compton today.
+================
+I'd like to book a taxi to soul tree nightclub.
+It would be my pleasure to book that for you. What time would you like to leave or arrive?
+I want to leave after 15:30
+And where should they pick you up from?
+From the soul tree nightclub
+I'm confused you said your arriving and leaving from the same location?
+I'm sorry, I'm going to tenpin.
+Booking completed! Is there anything else I can help you with? Booked car type : red skoda Contact number : 07972444473
+Great, thank you so much.
+Do you need additional help today?
+================
+I am looking for a place to stay. The hotel should be in the north and should have a star of 4
+I am sorry, but we do not have any hotels like that in that area.
+Do you have any guesthouses like that?
+Yes, I have two. Would you prefer a pricerange of cheap or moderate?
+I am not picky, really.
+I'd recommend rosa's bed and breakfast. Want me to book it for you?
+Yes, we are arriving on Monday. Five of us for 5days, please.
+Booking was successful. Reference number is : A51B0MGU. Enjoy your stay!
+================
+I'd like to find a place to dine in the west that serves modern american food.
+I did not find any. Would you like to try a different cuisine?
+Sure, let's try modern English food.
+I apologize, sir, but there are no restaurants serving modern English cuisine. What else shall we try?
+Could you look for a restaurant that serves Thai food?
+Sala thong seems like a good match!
+ok.book for seven people at 1215hrs
+What day are you wanting that booking for?
+Make the reservation for Thursday please.
+Thursday is not available.
+How about 11:15 on Thursday?
+Booking was successful for 11:15. The table will be reserved for 15 minutes. Reference number is : SWZ8S95V.
+Great, thanks for your help.
+Is there anything else I can assist with?

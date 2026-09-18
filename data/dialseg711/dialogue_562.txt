@@ -1,0 +1,38 @@
+Schedule a yoga activity with Martha for the 4th at 10am.
+Setting a reminder for yoga activity with Martha for the 4th at 10 am.
+================
+is it going to snow today
+What city should I check for you?
+San Mateo please.
+Today is gonna be windy in San Mateo, with expected low temperature of 40F, and high of 50F
+================
+I'm looking for a train departing from broxbourne.
+Where are you headed?
+I am heading to Cambridge.
+How about TR5570 that leaves at 05:32?
+I will need to arrive by 17:15.
+What day will you be travelling?
+I will be leaving on Wednesday.
+How about the TR0788 train that leaves at 05:32?
+Does that train arrive in Cambridge before 17:15?
+TR0788 arrives in cambridge by 06:32. Would you like me to find something closer to arriving at 17:15?
+Yes, and I'll just need the train id and departure time.
+TR5972 leaves Broxbourne Wednesday at 15:32 and arrives in Cambridge at 16:32, The fare is 17 pounds 90.
+Okay. Would you please book 2 tickets for that one?
+Booking was successful, the total fee is 35.79 GBP payable at the station . Reference number is : G2JZA2ZE.
+I can't imagine why I asked you to book passage. I always buy my own tickets. In any case, thanks ever so much.
+Is there anything else I can help you with today?
+================
+what's the weather going to be like this week
+What city do you want the weather for?
+Is it going to foggy is Compton anytime this week?
+The forecast predicts that it will be foggy on Friday in Compton this week.
+On what day will it be foggy?
+It will be foggy on Friday in Compton.
+================
+I need information on trinity college
+Okay, I've pulled up Trinity College. What information do you need?
+I need to know the attraction type and address.
+Ok. Trinity college is a college and the address is trinity street. Anything else?
+No, that is all I need today. Thank you very much!
+You're welcome! Have a great day.

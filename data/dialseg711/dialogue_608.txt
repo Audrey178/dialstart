@@ -1,0 +1,24 @@
+I've been hurt and need the nearest hospital.
+The nearest hospital is Addenbrookes Hospital in Hills Rd, Cambridge, Postcode CB20QQ. Do you need to contact the police? How bad is the injury?
+================
+I would like to visit some of the architecture here in town. Can you help me with this?
+I can indeed. We have several churches and a school renowned for their architecture. Great Saint Mary's Church charges visitors 2 pounds, but the rest are free.
+Can you give me information on a free one and I'd need to know what area of town it is in please.
+all saints church is free and it's in the centre, located at jesus lane. Their number is 01223452587.
+Thank you very much for your help.
+You are very welcome. Was there anything else I can assist you with?
+================
+Will there be a blizzard this week in Manhattan?
+there aren't any blizzards predicted in Manhattan this week.
+================
+tell me the closest place to get a cup of hot tea
+Coupa is located 8 miles away from here at 394 Van Ness Ave. Would you like directions there?
+Is there a coffee shop within 4 miles? If not, please give me directions via the shortest route.
+Coupa is the only nearby coffee shop, do you want to go there?
+Yes, thank you car, let's go!
+Setting navigation now to Coupa.
+================
+what is the weather like in new york city
+What would you like to know about the weather in new york?
+What will the temperature be on Thursday?
+On Thursday the temperature in New York will be low of 90F, and high of 100F

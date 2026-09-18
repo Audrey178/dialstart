@@ -1,0 +1,32 @@
+Is it stormy in San Francisco right now?
+it is not stormy in San Francisco right now.
+================
+Have you ever heard of a hotel called the Ashley Hotel?
+I have. The Ashley Hotel is a moderately priced, 2 star hotel on the north side. Can I get you any more information?
+Do they have free parking? And what is their hotel type?
+They are a hotel with free parking and free wifi! Would you like me to book that for you?
+No, I was just looking for information, thanks though!
+Okay, well, did you need anything else today?
+================
+I'm hoping to find a nightclub in town.
+We have 6 nightclubs. Any preference on entrance fee?
+No, can you tell me what the entrance fee is?
+The Soul Tree Nightclub costs 4 pounds. The others are a bit more expensive.
+Can you please tell me what the phone number is for The Soul Tree?
+Yes, it is 01223477900.
+What is their postcode?
+The Soul Tree is in postcode cb23qf. Can I help with anything else today?
+================
+I'm looking for a North African restaurant.
+I'm sorry but it looks like I don't happen to see any restaurants that specialize in that type of cuisine? Can I help you with a different type?
+How about something in the expensive price range instead?
+Sure, there are 57 expensive restaurants in town. Is there an area of town you'd prefer?
+I would prefer something near the centre please.
+There are over 33 restaurants that meet your criteria. May I interest you in African cuisine since you originally asked for North African restaurant?
+No, I think I'd like an expensive French restaurant instead.
+Cote is an expensive French restaurant in the center of town. Would you like a table there, or possibly their address?
+Yes please. Can you book it for Friday at 19:45? There will be 8 of us.
+OK, you have a table for 8 at Cote onFriday night. Your reference number is ZWI39RV9. Can I help you with anything else today?
+================
+What is the date and time of my next optometrist appointment?
+You have two optometrist appointments scheduled; one on the 4th at 10 am with sister and one on the 11th at 2 pm with Alex.

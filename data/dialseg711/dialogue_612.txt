@@ -1,0 +1,27 @@
+I'd like to find an expensive restaurant in the centre of town.
+We certainly have plenty expensive places in the center of town! What type of cuisine are you looking for?
+Honestly, I am not sure. Which ones do you show available?
+We have just about anything you can think of, from Loch Fyne's seafood to Bedouin's African.
+Can you make a reservation at Loch Fyne's for 4 people at 14:30 on sunday?
+I was able to reserve that for you. Your reference number is 439GP4J5. Is there anything else I can assist you with?
+================
+when is the meeting
+================
+I am looking for some info on rice house restaurant.
+Rice house has cheap food and is located at 88 Mill Road City Centre. May I book a table for you?
+Yes, I'd like a table for a party of 8 at 11:15 on Thursday.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : 5MA263EB.
+I was hoping to eat for longer than that. Any chance you could book it for at least one hour?
+Your booking has been successful. There is no direct time limit for your meal once you arrive. Is there anything else I can help you with today?
+================
+find out if it's supposed to rain
+Where would you like to know about the forecast for rain?
+I'm interested in Fresno.
+There is no rain in the forecast.
+================
+I am looking for more information regarding the cambridge chop house.
+Sure! That's a great expensive British restaurant in the centre of town. What other information would you like to know?
+I guess I just need the address.
+Their address is 1 Kings Parade.
+That's all I needed. Thank you!
+You're welcome, is there anything else I can help you with before we go?

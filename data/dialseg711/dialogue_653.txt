@@ -1,0 +1,38 @@
+I would like to book a train. I need to go to peterborough on thursday.
+What station will you be departing from?
+I'll be leaving from Cambridge, thanks.
+I have a train leaving Cabridge for Peterborough Thursday at 05:06.
+Great! Please make a booking for 3 people.
+I've booked 3 tickets for you, and the fee is 49.5 gbp and your reference number is 17OSNISB.
+================
+add a meeting to my calendar
+For what time and date would you like to schedule your meeting for?
+Wednesday at 2 pm. It is with HR to go over the budget.
+Reminder has been set
+================
+Hello, I'm seeking a cheap restaurant.
+Okay, I can help you with that. Are you interested in a particular type of food? Or perhaps a certain part of town?
+I would like mediterranean food.
+The gardenia serves mediterranean and is in the cheap price range. Would you like to book a table?
+Great can I get the postcode and address?
+Their postcode is cb23ll, and they are located at 2 Rose Crescent City Centre
+================
+I want to find a 4 star hotel with a moderate price.
+There are 11 different hotels to choose from. What part of town would you like to stay in?
+I prefer a hotel near the main street. I want a hotel that includes free wifi
+Do you mean in the center of town?
+Actually, location doesn't really matter, so long as it's moderately priced, 4 star, and offers wifi.
+Carolina bed and breakfast is a moderately priced four star guesthouse with wifi and parking, in the east area. Would you care to make a reservation?
+Sounds good. Starting Monday, please, for 3 people, 3 nights.
+I'm sorry, there are no rooms available at that time. Would you like a different day or shorter stay?
+I suppose one night wold be fine as long as we can get a reservation for 3 people.
+I have a few rooms, could you tell me the area of town you would prefer?
+It doesn't matter.
+I was able to get you a room for 3 people for 1 night, starting Monday, at the Acorn Guest House. The reference number is GXTSRBY0.
+================
+take me to a place where i can get something to eat
+Round Table serves pizza nearby.
+Can you get me the fastest route there?
+Setting fastest route to Round Table which has moderate traffic.
+Thank you very much car, please send the address on the screen and let's go there.
+Round Table is located at 113 Anton Ct. and the GPS is set.

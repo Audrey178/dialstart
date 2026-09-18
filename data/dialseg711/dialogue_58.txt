@@ -1,0 +1,46 @@
+Hi, I'm looking for a 1 star place to stay with free wifi.
+I'm sorry there are no 1 star hotels with internet, would you like me to search on 2 stars, we have a few hotels available.
+Alright. I wanted a 1 star, but I guess I can listen to the 2 star options.
+I have 2 on the north side that are in the moderate price range and 1 on the east side in the expensive range. Would you like to book one.
+Hmm. What do you what about 4 star hotels?
+There are 5 guesthouses with 4 star ratings in Cambridge with moderate to cheap price ranges. Would you like more information?
+Well, I'd like to book one. I don't think it matters which one.
+What dates would you like to book the room for?
+I need it for two nights starting on Saturday.
+Okay, how many people will be in your party?
+It would be for 7 people.
+I have booked you at the A and B Guest House at 124 tenison road. The reference number is 0J08KUGQ. Can I help you with anything else?
+================
+Hi, I'm looking for a train from Stevenage to Cambridge
+What day do you need the ticket for? Trains leave every hour.
+I am travelling on Monday and need to leave after 16:30.
+The TR0244 leaves at 17:21 and arrives by 18:10. Would you like this one?
+Yes please. What is the cost for this train?
+My apologies. The train ID is TR0254 not TR0244. The cost is 12.80 pounds per ticket. Can I book a ticket for you?
+Yes, that would be great. Please book for 6 people.
+Yes that booking was successful and your reference number for the trip and tickets is PENZQ430. Is there anything else I can help you with today?
+================
+I am trying to find a hotel called warkworth house
+Call them at 01223363682
+book it for 3 people and 5 nights starting from thursday.
+Your booking was unsuccessful. Could you book another day or a shorter stay?
+Let's try for Friday instead. And I need the reference number please.
+Your booking was successful and your Reference number is : 0DW45IKS
+================
+I got injured and I am looking for a hospital nearby
+I am sorry to hear of your injury. Addenbrookes Hospital is a fine facility at Hills Rd, Cambridge.
+Thanks, what is the phone number and postcode?
+The phone number is 01223245151 and the Postcode is CB20QQ. Is there anything else I can help with?
+What is the address so I can find the hospital?
+It's at Hills Rd, Cambridge with Postcode CB20QQ
+================
+Could you tell me if you have a 5 star hotel on the south side?
+Unfortunately, I don't happen to have anything that meets your specifications. Can I look in another area for you?
+It really needs to be in the south and have a 5 star rating. It can be a hotel or guesthouse though.
+I'm sorry but there are no hotels are guesthouses with a 5 star rating in the south. Would you like to try a 4 star rating instead?
+Yeah, that would be fine.
+We have 2 guesthouses that match your needs. aylesbray lodge guest house or rosa's bed and breakfast. Does either of these fancy your interest?
+Do either of them have internet? I'll also take the address for both.
+Yes, they both do. Aylesbray is at 5 Mowbray Road, and Rosa's is located at 53 Roseford Road.
+Thanks for the information!
+You are welcome, do you need any thing else?

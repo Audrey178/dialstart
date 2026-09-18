@@ -1,0 +1,22 @@
+Hi there
+================
+Hello; I understand you'rte asking about personalised plates?
+What would you like to know?
+I'd want to know if (xxxx) is available.
+================
+And however much that would cost.
+It is available and would cost $60 to begin with.
+================
+What other options do I have with tthose plates?
+We don't have to issue it, but it is treated as a request.
+================
+Can I use them on anything?
+Yes, as long as it is registered to the vehicle.
+================
+How many characters cna I use?
+Up to 8.
+I'd like to know if (xxxxxxxx) is available.
+Yes, it is. Although while it is available, it is still pending approval.
+================
+Awesome, thank you.
+You're welcome.

@@ -1,0 +1,27 @@
+Car I wanna eat at some Chinese restaurant: please pick a route with least traffic, better if there will be no traffic at all
+Tai Pan is 1 mile away.
+What is the address?
+Tai Pan is located at 830 Almanor Lane
+Okay great. Could I have some details about the traffic there?
+There is moderate traffic on our way but since it's just 1 miles away it shouldn't take too long to reach
+================
+I need to book a taxi going to Rosa's Bed and Breakfast that leaves after 17:45.
+Where would you like to depart from?
+I will be leaving from saigon city.
+I have booked you a yellow bmw. The contact number is 07333936064.
+Thank you very much!
+Is there anything else you need help with today?
+================
+please give me an alternate route home
+There isn't any traffic on the route home to 56 cadwell street
+================
+I want to find a hospital in town
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+Which department should I contact for a sprained ankle?
+Probably the emergency department, the phone number is 01223217118.
+Thank you , could you provide me with the email address?
+Unfortunately there isn't an email address listed here.
+Can I have the address please.
+The address is Hills Road, Cambridge.
+Thank you for the information.
+You are very welcome. Is there anything else I can help you with today?

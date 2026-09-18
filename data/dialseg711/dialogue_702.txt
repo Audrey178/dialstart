@@ -1,0 +1,36 @@
+Set a schedule for dinner at 2pm, Sunday with mother.
+Dinner with your mother on sunday at 2pm is added to the schedule
+================
+I am looking for a British restaurant that is moderately priced.
+There are a few of them. Would you prefer the centre of town or the west area?
+How about the center?
+There are a few restaurants that will meet your needs. I suggest The Copper Kettle at 4 Kings Parade City Centre.
+Please book a table for 3 at 14:15 on Friday at The Copper Kettle.
+I was able to book a table for you at 14:15 at the Copper Kettle. Your reference number is 3ED8CQBU. Is there anything else I can assist you with?
+================
+i am looking for a train. The train should leave on Monday and should arrive by 12:45.
+Where would you like to go?
+I would like to depart from Cambridge, and travel to Bishops Stortford.
+Is there a time you would like to be picked up by?
+I want to get there by 12:45.
+The TR7928 goes from cambridge to bishops stortford on monday at 11:29 arriving at 12:07. Shall I book that for you?
+I need to book it right now but what is that travel time?
+The travel time on TR7928 is 38 minutes. Should I book it for you?
+What is the price for that train?
+The price is 10.10 pounds per ticket. I can make those reservations for you if you'd like.
+================
+I am looking for a restaurant that is moderately priced and served British food.
+What part of area would you like to visit?
+How about the center? I need a reservation for 8 people at 14:15 on a Friday.
+The oak bistro is one of several restaurants that match your description. Would you like me to book a table there for that time?
+Yes, that would be fine. Is there a table for 8 available?
+I'd be happy to make your reservation. What time and day would you like that for?
+Friday at 14:15.
+They do not have a table for 8 available at 14:15 Friday. Would you like to try for another day or time slot?
+Can you try to book it for 13:15?
+That time worked, your reservation was successful and your reference number is X4U272EC. Can I help you with anything else?
+================
+give me a quick route to a grocery store
+Willows Market is 5 miles away at 409 Bollard St but a road block is nearby.
+Is there another grocery store nearby on a quick route? If not please give me directions to Willow Market.
+I'm afraid that's the only grocery store in the area. Setting navigation now.

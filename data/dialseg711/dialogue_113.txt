@@ -1,0 +1,29 @@
+When is my tennis match?
+Your tennis activity is on Friday at 11 am.
+Thanks.
+================
+I have been hurt and I need a hospital! Where is there one close by?
+The Addenbrookes Hospital is located at Hills Rd, Cambridge.
+I need the phone number, postcode.
+The general phone number is 01223245151, postcode CB20QQ.
+Okay. Thanks for your help.
+You're welcome. Can I help with anything else?
+================
+I'm looking to go to a college in the centre of town.
+I have about 13 different options. Most offer free entrance but there are a few that charge. Do you prefer one over the other?
+If you could give me the postcode, phone number and entrance fee of the first one on the list that'll work. Thanks!
+Christ's College on St. Andrew's Street is free, the postcode is CB23BU and their phone number is 01223334900. Can I help with anything else?
+================
+Hi I'm looking for a train that will take me to Cambridge. I want to get there by 15:30.
+What day would you like to travel and which station do you wish to depart from?
+I am leaving from Stevenage and I would like to travel on Monday.
+Very well. What time would you like to depart?
+It doesn't matter when I depart. I just need to arrive in Cambridge by 15:30. I will have 8 people.
+TR9013 will arrive in cambridge by 14:43, does this work for you? Would you like to book a ticket?
+Yes for 8 people and I will require a reference number.
+Great, I have your 8 tickets booked for the TR9013. The reference number for this is 9VDNJCY8. Is there anything else I can help you with?
+================
+what's the weather going to be like this week
+What city are you interested in knowing about?
+Is it going to drizzle in downtown Chicago anytime this week?
+It is predicted to drizzle in downtown Chicago on Saturday.

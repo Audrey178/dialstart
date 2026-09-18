@@ -1,0 +1,32 @@
+I need a taxi to take me to cineworld cinema by 9:15
+I'd be happy to help with your booking, first I'll need to know where you would like picked up from.
+I want to be picked up from the golden curry
+Alright, a blue skoda has been booked. The contact number is 07727382876. Do you need any additional help today?
+================
+I am looking for a train to Ely.
+What day are you looking to travel?
+I need to leave a little after 8:00 on Sunday, and I'm leaving from Cambridge.
+The closest train I have is the TR3177 that leaves at 09:50. There's nothing earlier on that day.
+That will have to work. What is the arrival time?
+The arrival time is 10:07.
+================
+What grocery stores are here?
+There is a Safeway 4 miles away.
+What is the address?
+Safeway is at 452 Arcadia Pl.
+================
+Hello. I need help planning a train trip.
+I'd be happy to help. Are you departing from a specific station, or do you have a specific destination in mind?
+I'd like to leave from London and travel to Cambridge on Saturday around 15:00
+Would you like to depart from London Kings Cross or London Liverpool Street?
+I would like to depart from Cambridge.
+Please state your departure location and your destination. Also, is 15:00 the time you want to leave or to arrive?
+I am leaving from cambridge going to broxbourne and want to arrive by 8:30.
+How about TR8674? It leaves at 05:01.
+As long as it arrives by 8:30 that sounds good. I'll need 7 seats please.
+It does and I have booked 7 seats for you. Anything else?
+Reference number please?
+Sure, the reference number is VATL0RJL. Is there anything else I can help you with?
+================
+Hi, I'd like to find out about the Limehouse hotel.
+Yes, the Limehouse is a moderately priced guesthouse on the north side. What other information can I get for you?

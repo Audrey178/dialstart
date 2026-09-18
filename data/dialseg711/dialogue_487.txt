@@ -1,0 +1,30 @@
+Howdy! I'm in town for the night and need a place to stay. I'd like a four star joint with free parking, if you please.
+Nice! I hope you enjoy this beautiful city, I found 5 hotels for you. What is your price range?
+I don't have a price range. As long as it's nice.
+Is there a particular area of the city where you'd like to stay?
+No, I don't care about the area, either. But do you have a guesthouse?
+I have 16 guesthouses that are 4 star and have parking, do you have any other requirements to help narrow the search?
+Do any of those have free wifi?
+Yes. There are a number of hotels with wifi. Archway House is one of them that I can recommend.
+Sure, what is its address and price range?
+Archway house is in the moderate price range. They are located at: 52 gilbert road. Anythign else you need?
+What is the price range?
+I'm sorry, I only know that it is moderately priced. Can I book a room for you?
+no that's fine.
+Is there anything else you will need today?
+================
+I need to find the nearest hospital.
+The nearest hospital is Addenbrookes. The phone number is 01223245151. Do you need a specific department?
+No that's all I needed thank you!
+You are welcome. Is there anything else I can assist you with today?
+================
+Are we going to have clear skies in San Francisco on Sunday?
+It will be raining in San Francisco on Sunday.
+================
+I'm looking for a particular restaurant called j restaurant.
+That is a great cheap restaurant located in the city centre. Would you like a reservation?
+Yes please 2 people at 16:45 on tuesday
+Your booking is confirmed, 2 people on Tuesday at 16:45 for J Restaurant. Reference is H9ZG8N17. Can I help with anything else?
+================
+What is the weather report for Durham today and tomorrow?
+In Durham on Monday there will be a blizzard and on Tuesday misty.

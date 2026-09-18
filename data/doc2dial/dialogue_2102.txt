@@ -1,0 +1,19 @@
+Can you tell me about the phase 2 of the implementation of the CDL permit rule?
+================
+Dp ypou want to know about the medical certification changes?
+Yes, please.
+In this phase, the New York State DMV sended CLP holders a notification if their medical certification status appeared as "Not Certified", after which the CLP was canceled if the CLP holder didn't re-certify within 55 days.
+================
+Can the NY State reject my application if I have an open suspension in another state?
+Yes. With the CDL Permit Rule the NY State can check for open suspensions and revocations in other states and reject any application if it finds open suspensions.
+To what applications applies the CDL Permit Rule?
+It applies to the CLP and CDL license applications.
+================
+What should I do to make sure to receive the notification for when the medical certification status becomes "Not Certified"?
+We can send employers the notification of the changes if they subscribe to the NY State License Event Notification Service (LENS).
+================
+Can I get the L restriction on my CDL upgraded?
+If you do the test in a vehicle with air over hydraulic brakes, your restriction will be upgraded from an L to a Z.
+================
+Now tell me about the sanctions for CLP holders.
+It is now required that the NY State applies federally mandated commercial suspensions and revocations to CLP holders.This federally mandated commercial suspensions and revocations that affect a driver's commercial privilege will be applied consecutively one after the other with any other open commercial suspension or revocation on record.

@@ -1,0 +1,22 @@
+What is the time and date of my doctor appointment.
+You have two doctor appointments set; one on the 2nd at 2 pm and one on the 13th at 1 pm.
+================
+Are there any Chinese restaurants on the north side of town?
+There are three - Hakka, Golden Wok, and The Hotpot. Would you like more information on one of these?
+Can you tell me if one of those is located in the northern part of town?
+All three are located on the north side. Do you have a price range you'd prefer? The Golden Wok is moderately priced, while the others are expensive.
+The Golden Wok is fine. Can I get their phone number?
+The Golden Wok's phone number is 01223350688 and their address is 191 Histon Road Chesterton. Would you like to make a reservation?
+================
+Is it gonna be hail in Mountain View now?
+Is it actually stormy in Mountain View now
+================
+Whats the nearest shopping center to me, and I need the quickest route.
+Town and Country is the nearest shopping center but it has heavy traffic on route.
+Where is it located?
+Town and Country is at 383 University Ave.
+Set GPS for quickest possible route please.
+Setting GPS for quickest route now.
+================
+I need a hospital with an antenatal department, please find one for me.
+Call them at 01223217671

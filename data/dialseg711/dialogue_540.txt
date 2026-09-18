@@ -1,0 +1,33 @@
+I need to find a train that is going to arrive in stevenage by 11:45.
+The latest train arriving in Stevenage is for 10:10 and there are several: TR6334, TR8290, TR7542.
+Which one would you like to book?
+That's all up to you!
+book TR6334 and get me the train ID please
+TR6334 is the train ID, would you like to book a seat?
+Yes, book one for me please. And please make sure this is for Sunday.
+Booking was successful, the total fee is 10.24 GBP payable at the station . Reference number is : 92RW4C6C.
+I didn't need to book a seat, I just needed a train ID number.
+As mentioned before the train number is TR6334, you did ask me to book. One more time, what exactly did you need?
+Sorry about the confusion, I just need a train from Steveage to Cambridge that arrives by 11:45. I just need the train ID.
+TR2860 arrives at 10:43.
+================
+what's the weather like today
+For what city can i give you today's weather information?
+fresno, it is warm there today?
+Today in Fresno the low is 50F and high is 60F
+================
+Hi, I'm looking for train information. It needs to leave on Sunday and arrive at or around 20:45.
+There are 318 trains that fit your criteria. To narrow some information down, what is your destination, departure site and preferred departure time?
+The train should go to leicester and should depart from cambridge. I don't care about the departure time.
+There is a train leaving Cambridge on Sunday 05:21, and arriving at Leicester at 07:06 for 30.24 pounds. Would you like me to book this for you?
+No, thanks. What's the train ID?
+The train ID is TR2025.
+Thanks for the info. What else is available that arrives around 20:45?
+No, I am sorry there is not.
+================
+give me directions to the nearest grocery store
+There is Trader Joes 5 miles away: would you like to get more info?
+Sure, please send me its address on screen and pick a route to avoid all heavy traffic
+Trader Joes is located at 408 University Ave.
+Got it, thanks!
+Awesome, you're welcome.

@@ -1,0 +1,33 @@
+I need to find the nearest police station.
+The Parkside Police Station is located at Parkside,Cambridge CB11JG.
+give me the phone number too
+You can reach the police at the number 01223358966
+================
+Can I please get information for a train going from cambridge to broxbourne?
+What day will you be traveling?
+I want to travel on Friday, please.
+What time would you like to leave?
+Can you give me the train ID and price of the first train that departs after 19:45?
+Yes, it will cost 17.90 pounds and the ID is TR3342. Anything else?
+no, that's it for today
+If you need reservations or information in the future, we will be happy to assist you.
+================
+I am looking for a place to eat in the moderate price range serving Indian food.
+There are 4 places serving indian food in the moderate price range. Do you have a preferred area to dine at?
+The west.
+I have narrowed it down to Meghna which serves Indian Food. Would you like me to book this for you?
+Yes. could you please make a reservation for Saturday for 7 people at 15:00?
+Sorry, that time slot doesn't work for what you would like. Would you like to change the day or time?
+How about 14:00 then?
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : NR6VPA82.
+Excellent, that's all I need. Thank you!
+Thank you so much have a great day!
+Could you repeat the reference number please.
+Reference number is : NR6VPA82.
+================
+I'm looking for a train. The train should leave after 09:00 and should go to broxbourne.
+What day will this be on?
+On Sunday.
+TR941 leaves at 9:01 would you like me to book it?
+Yes please. I need that booked for 8 people.
+I was able to get you 8 tickets. Your reference number is V2XTDMK6. Can I help you with anything else?

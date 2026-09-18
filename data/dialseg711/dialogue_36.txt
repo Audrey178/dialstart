@@ -1,0 +1,26 @@
+where can i go to eat
+Papa Johns is located 7 miles away at 110 Arastradero Rd. Would you like directions there?
+================
+I need to find out the time and date for my tennis activity.
+Your tennis activity is the 5th at 5 pm.
+================
+Directions to a hotel please.
+The Westin is located 4 miles away and the Hotel Keen 6 miles away. Would you like directions to one of those?
+Give me the quickest route to the Westin please.
+There is moderate traffic, would you like me to put it on your screen?
+Yes, please.
+Setting route now.
+================
+I am looking for a train on sunday from cambridge.
+TR7423 cambridge london kings cross sunday 05:00 05:51 18.88 pounds 51 minutes
+Can you verify that it will arrive in stevenage by 09:00?
+Ah, no, you will need another train to get to Stevenage. TR5390 leaves at 05:21 and TR3889 leaves at 07:21. Do you have a preference?
+I don't have a preference I just need to arrive by 09:00. Can you please provide me the travel time, departure time and price?
+TR3889 departs at 07:21 and takes 49 minutes to arrive. The fee is 10.24 pounds. Would you like me to book that for you?
+================
+can i get a hospital nearby which has a haematology day unit department
+Addenbrookes Hospital is located at Hills Rd, Cambridge and has a haematology department. Do you need the phone number?
+I need a phone number, postcode, and address
+The address is Hills Road in Cambridge, CB20QQ. The phone number for haematology is 01223274679. Can I help you with anything else?
+No, thank you
+Here's the main hospital number as a backup: 01223245151. Do you have everything you need?

@@ -1,0 +1,40 @@
+I am hurt and need to find the nearest hospital. Can you help me?
+I am so sorry! Addenbrookes Hospital on Hill Road in Cambridge is nearby. Do you need information for a particular department in the hospital?
+I need the address including the postcode and the phone number, please! Quickly!
+The address is Hills Rd, Cambridge. The postcode is CB20QQ. The phone number is 01223245151. Can I help with anything else?
+================
+I need a five starts hotel close to a mall and main restaurants. The hotel should include free wifi in the room.
+I'm sorry, but there are no 5-star hotels anywhere in Cambridge. Would you like to broaden your criteria?
+How about something with 4 stars and something expensive.
+I have 2 options for you - The Huntingdon Marriott on the west side, and the University Arms in the center. Are you interested in one of these?
+Maybe. Is either one a 4 star hotel? If so, I'd like to book a room for 4 nights.
+Both are 4 stars. How many days would you be staying, and how many people are in your party? I can see if something is available.
+I need a reservation for 4 nights starting Saturday.
+How many are in your party?
+3 people. Can I get the reference number please?
+I'm sorry, but there is nothing available at that time at either hotel. Would you like to try fewer nights or perhaps a different arrival day?
+Will you try Sunday arrival?
+Yes, I tried Sunday but it isn't available. Can you shorten your stay at all?
+Yes, can you try it for 3 nights, please.
+Neither hotel appears to have three days available starting on Sunday for three people, can I look something else up for you?
+I may have been confusing you. Could you try and book a 4 star, expensive hotel for 3 nights, starting on Saturday? 3 people. Wifi please.
+Sure. I was able to book you for the Huntingdon Marriott Hotel. Reference #IHGCTXH9. Anything else I can help with?
+================
+I need a taxi at Ian Hong House to leave by 14:45.
+Okay, what is your destination?
+I want to go to the Leicester Train Station.
+Have you in a white Honda, 07040297067 is the phone number.
+================
+I'm looking for the Addenbrookes Hospital with a haematology day unit.
+Addenbrookes Hospital has a Haematology Day Unit. The number for the unit is 01223348169.
+Thanks, can I also get the postcode?
+The postcode is CB20QQ.
+================
+Yeah, hi. I could use some help finding something priced kind of moderately to stay at this weekend.
+Certainly, we have many moderately priced hotels in Cambridge. What area of town would you like to stay in?
+I would like something north. I also need free WiFi.
+That narrows it down a bit. Do you need free parking, or is there a particular star rating you'd like?
+Free parking is great but not required. The star rating isn't important.
+We have 10 listings but only 2 of them are hotels, rest are guesthouses. Would you prefer a guesthouse or a hotel?
+Doesn't matter. I just need a place with room for a party of 4 for 5 nights beginning Thursday.
+All right, I've booked you a room at the Avalon guesthouse. The reference number is S6DQRXZ2.

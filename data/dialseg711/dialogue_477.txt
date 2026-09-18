@@ -1,0 +1,34 @@
+i want to book a taxi. The taxi should leave after 21:15 and should depart from backstreet bistro.
+What is the destination?
+I'm sorry. I gave you the wrong information. I need to leave from the Fitzwilliam Museum and arrive at Royal Standard by 07:45.
+I have booked you a white Tesla. The contact number is 07099074893. Can I help you with anything else today?
+================
+find me somewhere to park
+You can park at Palo Alto Garage R located at 481 Amaranta Ave.
+Is that the quickest route?
+There is a road block nearby on the 8 mile route to the garage, but it's your closest option. Shall I set directions there?
+Yes, please set directions via a quick route.
+The route available is the quickest one
+================
+Hello, I am looking to stay in a guesthouse that includes free parking
+I have lots of them to choose from. Is there any area of town that I can check into for you?
+No. I would like it to have a star rating of 4 and free wifi.
+There are 16 such guest houses. You might like the Alexander B and B, which is rated 4 stars, yet inexpensive, and offers all the luxury the others choices do.
+That sounds great! Can you book the Alexander for 2 people? We'll need it for 5 nights starting on Thursday.
+I am afraid that was unsuccessful. Would like to book another day or a shorter stay?
+Can we try 2 nights instead then? I'll need the reference number as well.
+Your booking at the Alexander for 2 nights was successful. Your reference number is X7VU6Y8Y. Is there anything else I can help you with today?
+================
+Hello. Can you book a taxi for me? I need to travel from the Grafton Hotel Restaurant to Home From Home.
+No problem at all. What time do you want to leave and arrive by, respectively?
+leave after 22:30 and dont care when i arrive
+Alright, I've got a white skoda coming to pick you up at the Grafton Hotel Restaurant at 22:45, your contact number for them is 07935014262.
+================
+give me directions to a coffee place
+Navigating to Cafe Venetia.
+Please pick the fastest route and bring me there, thank you!
+I only have one listed and it's got heavy traffic. Do you still want to go there?
+I guess, what is the address?
+Cafe Venetia is located at 269 Alger Drive.
+Pick the fastest route for me car, thank you!
+Setting your GPS for the fastest route to Cafe Venetia now.

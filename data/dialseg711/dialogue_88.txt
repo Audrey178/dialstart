@@ -1,0 +1,31 @@
+I'd like a taxi please. I'll be wanting it to leave after 15:45
+I'd be happy to help! Where are you coming from?
+I'm coming from the gandhi.
+And can you tell me your destination please?
+I'll be going to adc theatre.
+What time would you like to leave?
+I would like to leave some time after 15:45, please.
+Alright, I have you booked, you will be expecting a grey audi, contact number 07461616519, arriving after 15:45. Is there anything else I can assist you with?
+================
+Where is there a pizza place near me?
+Pizza My Heart is 4 miles away but a car collision is being reported.
+Okay, where is Pizza My heart?
+Its address is 528 Anton Ct, I sent the directions on your screen
+Please highlight a quick route on the map for me!
+Here is a quick route to Pizza My Heart.
+Thank you very much car!
+You are welcome driver
+================
+find weekly weather forecast
+Which city do you want the weather for?
+I would like to have it for San Francisco please
+This week in San Francisco it will be foggy on Monday, dry on Tuesday, humid on Wednesday, hot on Thursday and Friday, hail on Saturday, and stormy on Sunday.
+================
+I need information on the scott polar museum
+Ok. What kind of information are you looking for?
+I need the type, the phone number and the postcode for it please.
+It is a museum, the phone number is 01223336540 and the postcode is cb21er
+Great! Thanks for all your help.
+Can I help you with anything else?
+================
+what time is my meeting

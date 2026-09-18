@@ -1,0 +1,32 @@
+show the route to my friend's house
+I don't see your friend's house nearby, but your house is 4 miles away. Would you like to go there?
+Mmm, yes, I'll give them a call from home, please show me the fastest route to go back, thank you!
+The fastest route is 56 Caldwell Street with moderate traffic. We should be there soon.
+Thank you car!
+You're welcome; drive carefully.
+================
+Can you help me find a Turkish restaurant in the expensive price range please?
+I have meze bar restaurant at 196 Mill Road City Centre.
+That sounds perfect!
+Would you like me to make a reservation?
+Yes, please. 7 people at 13:15 on monday.
+Reference number is : TXBU904T.
+================
+I'd like help with a taxi, please. I need to be picked up at museum of classical archaeology and should arrive by 9:00. Can you help?
+Yes I can book that for you, first I'll need to know your destination.
+My destination will be ugly duckling
+Booking is complete, a blue skoda will pick you up.
+Thank you. What is the contact number?
+The contact number is 07499145428. Can I be of further assistance?
+================
+I am looking for a hotel called finches bed and breakfast.
+Finches Bed and Breakfast is a guesthouse on the west side of town and falls in the cheap price range. Are you interested in booking a room there?
+Yes I am, I need a reservation for 6 people for 3 nights starting on Wednesday.
+Unfortunately, I was unable to make the reservation. Would you like to try for another arrival date or a shorter stay?
+Is there anything open for just 1 night?
+Sure. Your reference number is ZELLMALY.
+================
+I need a taxi leaving after 21:00.
+Where will you be leaving from and what is your destination?
+I am leaving from scudamores punting co and want to go to the slug and lettuce.
+Booking completed! A yellow tesla will be arriving at 21:00. The contact number is 07398361286. Thank You!

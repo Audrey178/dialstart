@@ -1,0 +1,32 @@
+You want to book a taxi. The taxi should arrive by 17:30 and should go to la mimosa.
+Ok. And where will the taxi be picking you up from?
+I will be departing from nusha.
+A black audi is booked for you, with contact number 07400946146
+================
+Are there any colleges I could visit?
+Is there a specific area you looking for?
+No. Which one do you recommend?
+There are no colleges in the area. How else may I help?
+There are no colleges in all of Cambridge? I don't believe that is true
+I'm sorry, my system went down for a minute. I can recommend Churchill College in the west. And it's free!
+================
+Hi, can you help me find a place to stay on the north side?
+I have 13 hotels on the north side of town, do you have any preferences for price range, internet or parking?
+Yes, are there any expensive ones? I also would like free parking as well.
+Unfortunately I can't find any expensive hotels with free parking.
+How about something in the moderate range?
+I found the acorn guest house. Can I book this for you?
+That sounds great! Can you see if you can get me a room starting Friday? We'll be staying 4 nights, and there will be 2 of us.
+OK, you're all set for 4 nights at the Acorn, reference #9PD946FD. Can I help with anything else today?
+================
+Is there a restaurant that serves italian food in the expensive price bracket?
+Yes, there are 5 such places. 4 are in the centre and 1 is in the south. Would you like to book at one?
+Absolutely! Thank you!
+Which area of town would you prefer?
+How about the center?
+Great, how about don pasquale pizzeria? May I book this for you?
+That sounds good. No I don't need a reservation, but could you tell me the postcode?
+Certainly, the postcode for don pasquale pizzeria is cb23nj. Would you like any other information?
+================
+Will it be misty in compton the next seven days?
+It will not be misty in Compton next week.

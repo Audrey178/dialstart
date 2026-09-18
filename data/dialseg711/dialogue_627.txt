@@ -1,0 +1,28 @@
+I'm looking for a cheap place to stay with free wifi.
+We have 10 possibilities for you. Do you have any additional preferences?
+Yes, I am looking for a hotel with a 2 star rating.
+I don't have anything with two stars, free wifi, and in the cheap range. Would you like to try a different number of stars?
+Let's try something in the moderate price range with two stars and free wifi please.
+I have two options in the moderate price range. The Ashley House and Lovell Lodge. Would you like to try one of these?
+Lets try the Ashley House please.
+When will your stay be?
+We'll arrive on Wednesday and stay 3 nights. There will be 2 of us.
+I've made your reservation, and the reference number is 5NA21JWO. What else can I help you with?
+================
+I'm interested in finding a modern European restaurant for dinner with a moderate price range on their menu.
+I pulled up 3 restaurants. Two in the centre and one in the south. Do you have a preference on location?
+No preference. Can you recommend me one and book a table for 8 people at 11:30 on Wednesday? Thanks!
+Of course! You're all set at the Restaurant Alimentum with reference number IA29XFXA. The table will be reserved for 15 minutes. Anything else I can help you with?
+================
+In the west part of town, are there any upscale pricey restaurants?
+Yes, there are 9. What cuisine would you like?
+I'm not picky; do you have a favorite? I'd appreciate it if you would choose one for me and give me the address. Thanks!
+I would suggest Graffiti, it is british food. Would you like me to book a table for you?
+No, I just need the address.
+Here is the address you are looking for, Hotel Felix Whitehouse Lane Huntingdon Road.
+Great, I think that's everything I need. Thank you for helping me.
+You're very welcome, I hope you have a great dinner. Is there anything else at all that I can assist you with?
+================
+schedule dentist appointment
+when is your dentist appointment
+It is on Sunday at 2 pm.

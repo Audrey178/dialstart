@@ -1,0 +1,34 @@
+Set a reminder for a lab appointment at 6 pm on Sunday, August 8th with sister.
+Okay, scheduling a lab appointment with your sister for Sunday, August 8th at 6pm.
+================
+Hey, I'm trying to book a taxi today
+Awesome. Where are you departing from?
+I am departing from Cambridge University Botanic Gardens and need to arrive at Pizza Hut Cherry Hinton.
+Great, what time would you like to leave by or arrive by?
+I would like to leave after 9:45. Please let me know the car type and contact number.
+A red volkswagen will pick you up. The contact number is 07597996556.
+================
+I'm looking for a train going to cambridge.
+Ok. I can help you find a train. Where will you be departing from?
+I will be leaving from Brookshite.
+Brookshite? Can you please repeat that?
+Sorry about that, i'm leaving from norwich.
+ive boked that for you trainID departure destination day leaveAt arriveBy price duration book (optional) TR9900 norwich cambridge friday 05:16 06:35 17.60 pounds 79 minutes
+Yes please book that and I need the reference number.
+You're all set! The reference number is 44LHUSZT.
+================
+find nearest chinese restaurant
+There is Panda Express 6 miles away: send you the coordinates on screen?
+Send me the quickest route to Panda Express.
+Setting quickest route to Panda Express on GPS now. Would you like the address?
+Yes, please, send it on my map, thank you!
+I sent the address 842 Arrowhead Way on your map: is there anything else I could do for you?
+================
+I am looking for a train schedule that departs from Cambridge and should go to Ely.
+Ok, is there any particular time you'd like to leave or arrive by?
+I need to get a train leaving cambridge and going to ely. I need to be in ely by 10:30 and am leaving on wednesday.
+TR5626 leaves Cambridge at 09:50 and arrives in Ely at 10:07. Will that work for you? Tickets are 4.40 GBP.
+Can you book that for 3 people and get me a reference number as well please?
+I've reserved you 3 seats on TR5626. The total is 13.2 pounds payable at the station. Your reference number is 3BMHT78A. Can I help you with anything else today?
+No, that's everything that I needed. Thanks for your help!
+I hop you enjoy your stay. Have a good day.

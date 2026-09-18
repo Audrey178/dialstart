@@ -1,0 +1,21 @@
+give me directions to the nearest shopping mall
+We are 5 miles away from Town and Country: does it sound good to you?
+Yes, what is the address?
+383 University Ave, it's 5 miles away but there is heavy traffic on our way
+Is there another shopping mall with no heavy traffic?
+Currently Town and Country is the only one i have listed. Should i set GPS anyway?
+================
+Can you find me a rest stop. I'm tired.
+Four Seasons is 7 miles away.
+Is that the closest available?
+Yes, it is, and unfortunately there is a car collision nearby, reaching there will take longer
+Oh no ok set the GPS and let's get started.
+I sent the route and the position of the hotel on your screen, drive carefully!
+================
+Over the next seven days will there be any drizzle in camarillo?
+The weather forecast doesn't call for drizzle in Camarillo this week, but it might rain on Tuesday and Wednesday
+================
+Hello I need help finding the nearest police station.
+There is a station in Parkside, Cambridge. Would you like the phone number as well?
+If you could just get me the postcode and address, that would be perfect.
+The address is Parkside, Cambridge. The post code is CB11JG.

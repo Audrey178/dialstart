@@ -1,0 +1,34 @@
+I want a restaurant in the town centre. Can you help me?
+We have 69 restaurants available. Could you specify type or price range please?
+I'm looking for a moderately priced restaurant. I'm looking to book for just myself at 14:00 on Friday.
+Okay I took the liberty of booking you into the Oak Bistro that serves traditional British food. Your reference number is BA2MQ3EB.
+================
+I was in an argument about a car accident and need help
+Parkside Police Station will help you. Their telephone number is 01223358966.
+================
+Hi, I need to book a taxi, please? I need to leave sometime after 10:30.
+I would love to help you with that. Where would you like to be picked up, and where are you going?
+I would like to be picked up at the cambridge belfy and go to the cambridge shop.
+I'm sorry, are you going to the Cambridge chop house, or did you mean the cambridge shop?
+The chop house.
+I have you booked. A yellow lexus will pick you up at 10:30. The contact number is 07463778759. Will there be anything else?
+I'm sorry, I need to leave after 10:30, could you change the reservation?
+Yes, I have you arranged to be picked up by a black Honda at 10:45.
+================
+I could really use something to eat.
+I have over 100 restaurants to choose from, would you mind narrowing down your search for me with perhaps a food type or price range?
+Expensive restaurant in the centre, please.
+Any particular type of food you're hankering for?
+Not really. Which is your favorite? I'll book that for 13:00 Thursday. There will be 6 of us.
+I'm sorry, I have not found anything for that time yet. Can you choose another day or time please? Are you sure you don't have a preference for food type?
+Let's try to book it for 12:00 then for 6 people on Thursday. I'll also need a reference number.
+Which restuarant do you want to book at?
+I'm not sure. Just something expensive. We are celebrating.
+I booked you at Curry Queen. Your table will be reserved for 15 minutes. Reference number is C06RJUNL.
+================
+I need to find the fastest route to the nearest gas station.
+Chevron is 5 miles away with moderate traffic. You want that address?
+Yes sounds good.
+Chevron is located at 783 Arcadia Pl. Do you want me to set the GPS?
+Yes please.
+GPS set to 783 Arcadia Pl.

@@ -1,0 +1,30 @@
+what will the temperature be this weekend
+For what city would you like the temperature for?
+San Jose, whats the temperature this week?
+In San Jose, it will be 30-50F on Monday, 90-100F on Tuesday, 50-60F on Wednesday, 50-70F on Thursday, 60-80F on Friday, 30-40F on Saturday, and 30-50F on Sunday.
+================
+Where can I get gas?
+I have a couple gas stations listed, both 5 miles away.
+How is the traffic to them?
+Both have moderate traffic at the moment.
+Give me the address of either one with the fastes route
+Shell is 5 miles away at 53 University Av with moderate traffic noted.
+================
+I need a taxi to pick me up from carolina bed and breakfast and take me to ali baba.
+Sure. What time would you like to leave?
+by 10:00, what is the car type and can I get a contact number?
+it is a grey volvo and the contact number is 07985302391
+================
+I am looking for a 4 star place to stay.
+What area would you like to stay in?
+I'd like it to be in the north, and to be a guesthouse.
+Great, there are 4 options for you here. I personally recommend avalon. Would you like to book?
+Yes, please book it for 5 people and 5 nights starting from wednesday.
+Your booking was successful. Reference number is : YB23KVSX. Is there anything else I can help you with?
+================
+Where can I get Chinese food?
+Mandarin Roots and Chef Chu's are both close.
+Which one has the shortest distance?
+Mandarin Roots is closer.
+Okay great, can I have the address?
+Sure, the address is 271 Springer Street, we're 4 miles away, I sent its position on your map

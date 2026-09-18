@@ -1,0 +1,42 @@
+I need to make a reservation at a hotel called El Shaddai
+Sure, could you tell me when you what day you would like to book your stay at the El Shaddai at 41 Warkworth Street?
+Just gathering information about the hotel first. Could you tell me what area of the city they're in, the price, and if they have internet connectivity?
+Sure! They're in the Centre area. They're cheap and offer internet connectivity.
+Great, I would like to book that hotel, please.
+From what day do you want to book?
+Actually I think I'll travel there myself thank you.
+Is there anything else I can do for you today, then?
+================
+find me a tea house
+We're 3 miles away from Starbucks: do you want me to highlight its position on the map?
+Yes, give me the address.
+The address is 792 Bedoin Street, I sent it on your map. There is no traffic and you should be able to reach there in few minutes
+================
+I'm looking for places to eat in the North part of town.
+its called city stop restaurant, serves european food and address is Cambridge City Football Club Milton Road Chesterton
+Is it a cheap restaurant?
+No, it is expensive.
+I need a cheap place, please.
+Royal spice is cheap and looks great.
+Thanks, will you please book a table for 6 people on saturday at 12:45?
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : Q91F26L3.
+Perfect! Thank you for all of your help.
+You're more than welcome. May I do anything else for you today?
+Wait, I might want to change my mind about that restaurant. Are there any that serve food from Corsica?
+No, there are none fitting that description, sir. Sorry about that.
+I figured, my wife asks me odd random question sometimes, had to check. I am all set, thanks.
+Do you need any further assistance?
+================
+where can i find tea around me
+The nearest tea places are Phils in 5 miles and Teavana in 6 miles: there is heavy traffic to reach Phils and no traffic on the route to Teavana.
+Let's try Teavana since it has no traffic.
+Teavana is 6 miles away at 145 Amherst St. We should be there soon.
+Please set the GPS to Teavana.
+I sent the info on your map, drive carefully!
+================
+I was just in an accident and need help right away!
+The Parkside Police station is in Parkside, Cambridge. Is this close to your location?
+Can I get the phone number?
+The phone number for the police is 01223358966.
+Great, thank you very much.
+Do you need any further assistance?

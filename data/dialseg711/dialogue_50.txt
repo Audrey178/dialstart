@@ -1,0 +1,26 @@
+is it going to snow in the next 7 days
+What city can I give you the snow information for?
+In Cleveland please, I need to know if it is going to snow in the next 7 days.
+There will be no snow for the next 7 days in Cleveland.
+================
+where is the parkside police station?
+The Parkside Police Station's address is Parkside, Cambridge. Its phone number is 01223358966 and its postcode is CB11JG.
+================
+Could you give me information about a restaurant called panahar?
+Absolutely. Panahar is a more expensive indian restaurant. It is located at 8 Norfolk Street City Centre. Their postal code is cb12lf. Their phone number is 01223355012.
+Could you book a table for me there on Friday?
+Yes, I can, for how many people and what time on Friday?
+There will be 4 of us and we would like to eat at 11:00.
+Booking was unfortunately unsuccessful. Can we try another day or time slot?
+Sure, how about 10:00?
+The 10:00 slot at Panahar was available. Your reference number is 12RTYGZ7. Is there anything else I can help you with?
+================
+Schedule dinner at 3pm next week with sister
+What date next week would you like the dinner to be scheduled?
+================
+I would love to get your help in arranging taxi service from Rajmahal to the Worth House. Can you help me with that?
+I'll need to know when you would like to leave Rajmahal or arrive at the Worth House first.
+The taxi should arrive at the Rajmahal by 16:15
+Great, I booked you a white audi the contact number is 07071131148. Anything else I can help you with.
+Wait! I made a mistake! I need it to reach the Worth House by 16:15 not the Rajmahal.
+That's correct. The taxi will depart Rajmahal and take you to Worth House by 16:15.

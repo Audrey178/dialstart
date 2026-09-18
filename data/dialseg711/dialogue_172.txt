@@ -1,0 +1,25 @@
+Schedule a yoga activity at 5 pm Wednesday with Ana.
+I will set a schedule for Yoga activity at 5pm on Wednesday with Ana.
+================
+i want to book a taxi.
+Where would you like to go?
+I want to get to The Ghandi.
+Where will the taxi be picking you up at and what time do you wish to arrive at the Ghandi?
+It should pick me up from Leverton House at whatever time is necessary to get me there by 01:45.
+I have booked a white Tesla to pick you up at the Leverton House, and will take you to the Ghandi before 01:45. The contact number is 07484372393. Is that all?
+================
+I am looking for a hotel in the expensive price range.
+There are 5 expensive hotels available. Did you have a preference as to area of the hotel?
+No, it doesn't matter. I would like a 4 star hotel with free parking though.
+There are two, one in the west and one the centre of town.
+Could you reserve the one in the centre of town for 3 nights starting Monday? There will be 3 of us.
+Unfortunately, I wasn't able to book you for the day and time you wanted. Would another day or time be alright?
+Okay, could you try the other one, please?
+I couldn't book that one either. Would you like to change your criteria?
+I would actually like to book it for 8 people, not 3.
+Sure no problem. So the hotel is huntingdon marriott hotel and your reference number for the booking is 34BAQ2WK. Is there anything else I can help?
+================
+Car I need to go to a shopping center: is there any around me?
+We're 2 miles away from Ravenswood Shopping Center and 6 miles away from Stanford Shopping Center: which one do you prefer?
+Whichever is quickest.
+Ravenswood Shopping Center should be the quickest. It is 2 miles away and the route does not have traffic.

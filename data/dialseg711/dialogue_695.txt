@@ -1,0 +1,26 @@
+get me directions to the nearest coffee shop
+The nearest coffee shop is 3 miles away. Would you like the name and address of it?
+Yes, please, and also pick the route to avoid all heavy traffic
+The name of the nearest coffee shop is Coupa and the address is 394 Van Ness Ave. The current moderate traffic route is now set on your GPS.
+================
+What is the date, time, and agenda of my next conference?
+You next conference is Tuesday at 6pm to discuss onboard new members in 100 conference room
+================
+I need to be picked up from pizza hut city centre after 04:30
+Where will you be heading to ?
+I am headed to gonville hotel.
+Great. Your booking is complete. A yellow ford will pick you up and can be reached by dialing 07017220129
+================
+Can you help me find a nightclub in the centre of town?
+I recommend soul tree nightclub.
+What is the postcode and address please?
+The address and postcode are: 1-6 corn exchange street, cb23qf. Will that be all for you today?
+================
+I am looking for a train leaving from Norwich.
+Sure. What time are you looking to leave?
+I would like to leave after 09:45
+Which day are you looking to travel?
+I am looking to go to cambridge on tuesday
+Okay, I have 14 trains on that route leaving hourly on the :16 from 10:16 to 23:16. TR0667 leaves at 10:16, arrives at 11:35, with a total duration of 79 minutes.
+Ok, do you have one that leaves at 11:16? Can you provide me with the train id for that one?
+Yes, a train leaves at 11:16 with the ID TR0839.

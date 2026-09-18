@@ -1,0 +1,40 @@
+I'm looking for a train on Saturday that will take me into cambridge.
+Where will you depart from?
+I will be departing from norwich.
+There are 19 trains do you have a time you'd like to travel?
+Yes I need to arrive by 20:00.
+I have one arriving at 19:35. It leaves Norwich at 18:16. Does that work?
+Sure, they are normally on time. Could you book that for 2 people please?
+Certainly. I have booked you on the 18:16 arriving at 19:35 for 2 people. your reference number is C4O2XOZA. Will that be all?
+================
+Everyone keeps telling me I have to stay at Cityroomz when I visit next. Have you heard of it?
+Yes. It is a moderately priced hotel in the centre of town. They don't have a star rating, but do offer free wifi. Would you like help booking a room there?
+Yes, I would like to book it for 3 people and 3 nights starting from Wednesday.
+I'm so sorry, but I was unable to book per your request. Would you like to try a shorter stay or a different date?
+Well, are there any other hotels that I can stay at during this time. I really need these dates.
+Sure. Do you want the same part of town?
+No, Please book me at cityroomz if 3 people and 3 nights starting from wednesday is unavailable can you try one night?
+One night was a success. Your reference number is KYH3R6AZ.
+Thank you so much.
+Is there anything else I can do for you?
+================
+car what is the weather going to be like in the next several days
+What city are you in?
+San Mateo. Will it be dry on Thursday?
+It will snow in San Mateo on Thursday.
+================
+I need to what trains are leaving Friday evening.
+Where are you looking to depart from?
+I'm leaving from Peterborough.
+There are two trains an hour leaving peterborough all evening. Do you know what time you plan to leave?
+Not really. I want to get there by 20:45 though.
+TR4182 leaves Peterborough at 18:19 and arrives in Cambridge at 19:09. Will this work for you?
+Yes, that's perfect. What is the price?
+The price is 16.50 pounds.
+Thank you very much. That is all for today.
+Are you certain you don't need further assistance?
+================
+I got into a car accident and need help figuring out what to do next.
+You should contact the police at 01223358966.
+Ok thanks. I'd also like to know where the nearest police station is.
+The nearest police station is in Parkside, Cambridge and the Postcode is CB11JG.

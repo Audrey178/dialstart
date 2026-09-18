@@ -1,0 +1,28 @@
+I need you to find out the time and who is attending my yoga activity.
+You have three yoga activities scheduled. One at 3pm with Jon, another at 4pm with your mother, and the last is at 3pm with your aunt. Do you need any more info?
+================
+Hello, I need information for the nearest police station please.
+The telephone is 01223358966 and the address is Parkside, Cambridge. Is there anything else I can help you with?
+Can I have the postcode please?
+The postcode is CB11JG. Can I help you with anything else?
+================
+what will the weather be like tomorrow
+What city are you wanting to know the weather for?
+I want to know if Menlo Park is going to be cloudy tomorrow?
+The weather forecast does not predict cloudy skies in Menlo Park tomorrow.
+================
+Please help me with a taxi
+Sure! where are you going?
+I'm going to pizza hut fen ditton.
+Where will you be coming from?
+I am leaving from the beautiful saint catharine's college.
+What time would you like to be picked up from your start point, or dropped off at your destination?
+Oh anytime after 11:45 a.m would be fine
+Booking completed! Booked car type : black volvo Contact number : 07089951396
+================
+I'm looking for a place to go in the centre of town.
+There are a lot of attractions in the centre. Anything in particular?
+I'd like a nightclub please.
+I recommend the club salsa? Here is their phone number, 07782218745
+What is their address and the entrance fee?
+The address is 1 Station road and the entrance fee is 5 pounds. Is there anything else I can do for you?

@@ -1,0 +1,38 @@
+I need to book a taxi.
+I can help with that! Where do you need to be picked up, where are you headed, and at what time?
+I would like to be picked up at the Holy Trinity Church, and arrive at Cocum by 3:15.
+A grey ford is booked. Contact number 07091291573
+Thanks for everything, that is all I need.
+You are welcome. Have a nice day.
+================
+what is the weather for today
+What city did you need information about?
+Fresno, please, tell me if it will be misty today
+It will not be misty in fresno today
+================
+Is there a latin american restaurant in the center?
+There are no Latin American restaurants in the centre. Would you like information about a different style of food?
+sure, what else is there?
+I have 69 total restaurants in the centre with varying cuisines. Do you have a preference?
+how about latin american food?
+I have no latin american restaurants in the centre. Perhaps another part of the city?
+Why don't we try for lebanese food instead
+There is Ali Baba, that is lebanese. Would you like me to make you a reservation?
+Yes, please. There will be 3 of us for Tuesday at 13:30.
+All right, sir, I'm happy to say the booking was successful. Would you like the reservation number?
+Of course I'll need that.
+Reference number is : B5CPU2X5. Can I assist you with anything else today?
+================
+I want to book a taxi to williams art and antiques from pembroke college.
+Sure! when would you like to arrive?
+I would like to arrive at Williams Art and Antiques at one thirty p.m.
+Okay I completed a booking for you
+I need the contact number and the type of car please.
+A yellow volkswagen is booked for you. The contact number is 07206167165.
+That's wonderful. And the taxi will arrive by 15:30, right?
+Booking completed and corrected. You will get to williams art and antiques by 15:30. Booked car type : red tesla Contact number : 07554978717
+================
+I'm looking for a place in the centre of town that is a nightclub.
+There are 5 nightclubs in the centre area, the one with the lowest entrance fee is soul tree nightclub which is 4 pounds to get in.
+That sounds like it will work. Can I get their address and postcode?
+Of course! They're located at 1-6 corn exchange street with postcode cb23qf. Anything else I can do for you?

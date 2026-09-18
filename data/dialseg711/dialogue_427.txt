@@ -1,0 +1,34 @@
+check the weather for today
+For what city would you like weather information for today?
+Find out if there is frost in inglewood
+There is snow in inglewood today.
+================
+I'm looking for a place to stay in with free wifi in the west part of town.
+How about the Hobsons House?
+Is that a guesthouse? I like the guesthouse style, and I also need something that's moderately priced.
+Yes it is a moderately priced guesthouse. Would you like me to make a reservation for you?
+Not yet. Can I have the address there though?
+Sure, it is 96 Barton Road.
+Can I also get the postcode? And do they have free parking?
+They have free parking. Postcode is cb39lh. Anything else you need?
+================
+I want a train from london liverpool street arriving at 9:30
+Which day will you be traveling?
+I want to leave on Thursday.
+Ok, I should be able to do that for you.
+I want to go to Cambridge, how much will that cost?
+There are three trains that will fit your needs, and the tickets are 16.60 pounds each. Would you like me to purchase tickets for you?
+Yes, that sounds good. Thank you.
+Would you like me to book that for you?
+Can you tell me how much the ticket is?
+Yes, there are 3 that cost 16.60 pounds. You could leave at 5:39 if you'd like. Can I book that for you?
+================
+Is there a hospital near by?
+The medical center in Cambridge is called Addenbrookes Hospital. It is located at Hills Road, in postalcode CB20QQ.
+I will need their phone number also.
+The phone number is 01223245151. Is there anything else I can help you with?
+No, that's everything. Thanks!
+welcome. at your service next time
+================
+set a reminder to see my dentist at 12 pm tomorrow
+Okay, setting a reminder to see dentist at 12 pm tomorrow

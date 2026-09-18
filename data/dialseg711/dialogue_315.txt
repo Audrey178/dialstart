@@ -1,0 +1,24 @@
+I want to eat gastropub food.
+Do you prefer an expensive or a moderate priced restaurant?
+I'd prefer moderately priced please.
+I have one available. It's called The Cow Pizza Kitchen and Bar. It's located in the center of town. Can I offer to book you a table?
+No, thank you. Can I have the postcode?
+Their postcode is cb23qf
+================
+On what date is my doctor's appointment and who is going?
+Your doctor's appointment is on the 5th with Alex.
+================
+Hi. Have you heard of Pizza Hut City Centre by chance? I may want to eat there soon.
+Sure they are located at Regent Street City Centre. would you like me to book you there?
+No, I just need the postcode and address please. Is this an Italian restaurant?
+Pizza Hut City Centre is listed as an Italian restaurant, yes. They are located at Regent Street City Centre in postcode cb21ab. Can I help you with anything else today?
+================
+show me what time i need to take my pills
+You need to take your medicine at 3 pm.
+================
+I'm looking for a moderately priced resturant in the centre of town.
+I found 21 restaurants available, do you have a type of food you would prefer?
+I would like lebanese food.
+How does Ali Baba? I recommend it. Would you like for me to book a table?
+Yes, I want to book a table for 3 people at 20:00 on thursday.
+Great, I have booked your table for ali baba thursday at 20:00 for 3. Your reference number is 5LY9WSF1. May I help with anything else?

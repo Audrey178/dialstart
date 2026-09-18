@@ -1,0 +1,21 @@
+Hi, I'd like to book a taxi from London Liverpool Street to Club Salsa.
+Before I can complete your request please let me know a departure and or arrival time. Thank you.
+I can leave any time after 01:30. Can you send me the car type I can expect and the contact number?
+You are all set. You will be picked up in a Blue Volvo at 1:45. The contact number is 07144891471. Do you need help with anything else?
+================
+Where can I get pizza?
+There is a Pizza Chicago 1 mile away.
+What's the traffic like?
+There is moderate traffic to Pizza Chicago.
+================
+Please book me a taxi to come to Rajmahal by 22:30.
+Sure! Where are you coming from?
+I want to depart from Rajmahal, not go to there.
+Ok, what is your destination?
+================
+I am looking to eat at a north restaurant in the expensive price range.
+I have about 5 restaurants in that area. What kind of food would you like them to serve?
+Surprise me, I just need the booking for 8 people Monday at 18:00. Please provide me with a reference number for this booking.
+I can make a reservation at Saigon City for 8 people on Monday evening. The reference number is ECKX7YSF. Is there anything else I can do for you?
+Thank you so much! That's all I needed.
+You are very welcome. Would you like the address for the restaurant?

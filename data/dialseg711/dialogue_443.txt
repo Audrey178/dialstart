@@ -1,0 +1,28 @@
+What time is my doctor appointment and who is attending?
+For which one would you like to know? I have one on Thursday and one on Friday.
+The one on Thursday please.
+Your doctor appointment for Thursday is at 2pm with Marie.
+================
+I need the location of Addenbrookes Hospital, if you don't mind.
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+================
+I am looking for a place to stay. I need a 2 star hotel with free parking.
+Do you prefer the north or east side of town?
+No preference there. But I"d like it to be in the moderate range please
+How about the Ashley hotel?
+Does the Ashley hotel include free wifi?
+Yes, the ashley hotel has both free internet and parking.
+Sure, sounds good. What's the address?
+The address is 74 chesterton road, postcode cb41er. Do you need more information?
+================
+get me directions to the grocery store
+Whole Foods is 3 miles away but there is heave traffic on our way
+Are any other grocery stores available with no heavy traffic?
+No, Whole Foods is the only one i have listed. Would you like the address anyway?
+Yes, I guess that will have to do.
+Its address is 819 Alma St, I sent it on your map. Drive carefully!
+================
+give me the weather for next week
+What location would you like the weather for?
+Will it be windy in Danville this week?
+It will not be windy in Danville this week.

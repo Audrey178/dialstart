@@ -1,0 +1,40 @@
+what is the date for my next yoga appointment
+Yoga is at 5 pm.
+================
+Would you be able to help me find a room that has free wifi?
+I certainly can. Do you have additional preferences?
+I'm looking for a guesthouse, and I misspoke earlier. I actually don't care about the internet, but I do need free parking.
+I have 21 guest houses, can you tell me what area you would like to be in?
+The area doesn't matter.
+Ok. The acorn guest house is in the north part of town in the moderate price range. Would that work?
+Yes. I would like to book that for 4 people for 4 nights staring on Wednesday.
+Sorry, it was unavailable at that time. Perhaps you might want another day or a shorter stay?
+Can you get it for 2 nights?
+The reservation for 2 nights was successful. Your reference number is UKSVUD20. Is there anything else I can help you with today?
+================
+Hi. I'm looking for a train from ely to cambridge, if there is one.
+Okay, what day do you want to leave?
+I would like to leave on Sunday.
+How about TR9382?
+Well I need to leave after 14:45, so if it is after that time that'll work.
+TR9823 will leave at 15:35, how does that sound?
+I think that'll work. I need to reserve two seats, can you help me with that?
+Booking was successful, the total fee is 7.04 GBP payable at the station. Reference number is : 6NJA0V8R.
+================
+HI, I am looking for a cheap place in the centre of town to eat. Can you help?
+Sure what type of food are you wanting?
+Any type is fine, just something cheap and in the centre. Could you recommend one and give me the food type?
+How about the Dojo Noodle Bar? They serve Asian Oriental.
+That would be fine. Can I have their postcode and phone number please?
+Their postcode is cb21rq, and their phone number is 01223363471
+================
+I am looking for a place to stay with free parking.
+We have many places to choose from. Do you have a specific price range or area you want to stay in?
+No, but I would like a guesthouse.
+We have 21 of those, would you like to narrow your choices down by location or price range?
+Can you give me the address of the one you recommend?
+I recommend the arbury lodge guesthouse on the northside. Its in the moderate price range and its located at 82 arbury road. Will that be all today?
+Does it have free wifi?
+Yes, they do offer free wifi and parking. Would you like reservations?
+I don't need a reservation just yet, but can you give me the address?
+Absolutely, the address is 82 Arbury Road, CB42JE. May I help with anything else?

@@ -1,0 +1,31 @@
+I need a restaurant of moderate price in the west.
+There are three moderately priced restaurants in the west. Would you prefer British, Indian, or Italian food?
+I would like to eat British food please.
+I recommend the saint johns chop house. It should suit your needs. Would you like me to make a reservation for you?
+No thanks. Can I get the address with postcode please?
+The address is 21-24 northampton Street and the post code is cb30ad.
+================
+what is the weather today in tomorrow
+In what location would you like the weather?
+I want to know if it will be humid in Alhambra today.
+No, it will not be humid in Alhambra today. It is raining with a low of 90F, and a high of 100F.
+================
+I am looking for a restaurant in the expensive price range. It should serve Sri Lankan food.
+I'm sorry but I have nothing listed. Is there another type of food you might be interested in?
+I was really hoping for Sri Lankan.
+I'm afraid there aren't any Sri Lankan restaurants in town at all. Is there something else I can search for you?
+How about gastropub?
+I found three located in the centre and one on the east. Which would you prefer?
+Are they all listed as expensive?
+Yes, they are all expensive. backstreet bistro is in the centre area, and royal standard is in the east. Would you like me to make a reservation at either of these?
+Could you please give me the phone number for the Royal Standard?
+Sure, it's 01223247877.
+================
+I'm looking for a train please.
+Certainly. On what day do you want me to look?
+on tuesday from cambridge to norway leaving at 2030 hrs
+I'm sorry, could you confirm your destination so I can get an accurate schedule.
+I'm sorry, I meant norwich, not norway.
+I couldn't get you to Norway but Norwich is much more doable. I've got the TR2181 to Norwich leaving at 20:36 with a fare of 17.60GBP. Would that suit you?
+That would be perfect. Could you book it for 1 person and provide me a reference number?
+4SSOKT22 is your reference number. What else may I do for you?

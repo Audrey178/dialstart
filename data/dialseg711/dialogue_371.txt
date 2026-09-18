@@ -1,0 +1,32 @@
+Find the address to a chinese restaurant that i could get to the quickest.
+The best option is Jing Jing, it's 3 miles away and there i moderate traffic on our way: would you like me to send you the position on your screen?
+Give me the address.
+Jing jing is located at 113 Arbol Dr.
+================
+I need a train to leave from London's Cross.
+What day would you like the train for?
+I'd like it to be for Saturday.
+I have a train that leaves London Kings Cross at 05:00 and arrives by 05:51 at a price of 18.88 pounds. Is that OK?
+Yes, it is perfect. Thank you
+I'm sorry I had that completely mixed up. There is a train leaving London Kings Cross at 5:17 and arriving in Cambridge at 6:08. Does that work?
+Yes please book that and give me the reference number of the booking.
+Yes I was able to book that and your reference number is XYVAABBJ. Cost of the ticket will be 18.88 pounds. Is there anything else?
+================
+I need a taxi to come get me from old schools to take me to loch fyne.
+Ok, what time do you want to be picked up?
+I actually need to leave after 11:00.
+Your booking is complete. A black skoda will be picking you up.
+That will be fine, could you give me the contact number?
+The contact number is 07334842640. Can I help with anything else?
+================
+What parties and am I attending and what are the dates
+You do not have any parties on your schedule at this time.
+What tennis activities are on my schedule, what are the dates, and who are they with?
+You have two tennis activities on your schedule, one on Monday with your mother, and one on Tuesday with your sister.
+================
+I am looking for a high end Indian restaurant, are there any in town?
+There are 14 expensive Indian restaurants in Cambridge. Is there an area of town that you prefer?
+The restaurant should be in the west.
+The Tandoori Palace sounds like just what you are looking for. Would you like a reservation?
+Yes please for 1 person saturday at 19:15 please.
+All right, I've made your reservation. The reference number is NGOQ9J96. Is there anything else I can help you with?

@@ -1,0 +1,44 @@
+Are there any places to go in the town centre?
+there are plenty, anything in particular you are looking for?
+Not especially, just kicking around the town centre for a few hours and looking for something to do.
+Are you sure? We have so many different places to go - I'd love to get some more input from you.
+I just want something to do in the centre of town, can you tell me what sort of places there are?
+Sure. There is architecture, boating, the cinema, colleges, a concerthall, museums, nightclubs, parks, a swimmingpool and theatres.
+Can you recommend a nightclub?
+Club salsa is a nightclub in centre. Would you like their contact information?
+Yes please. What's its entrance fee, contact number, and postcode?
+Club Salsa has an entrance fee of 5 pounds. Their postcode is cb12jb, and their phone number is 07782218745. Is there anything else I can help you with?
+No that is it, adios.
+Have a great day, good bye.
+================
+I'm looking for an expensive place to eat located in centre of town. Can you help?
+Yes I have many to choose from . Could we narrow it down by cuisine? What type of food sounds good to you?
+You know, I'd really love some latin american food. How about that?
+While we have lots of expensive restaurants in the center of town, none of them serve Latin american food. Would you like another cuisine?
+Sure, I like Indian food.
+Oh yes, we have several Indian restaurants! I recommend Panahar, located at 8 Norfolk Street City Centre. Would you like a table there?
+Yes please. Book one for Saturday at 19:45. There will be 3 people.
+There doesn't seem to be any availability for Saturday at 19:45. Is there another time slot, or possibly another day, that would work for you?
+Let's try an hour earlier.
+The booking was successful at 18:45. Your reference number is : XLWRECBF. Is there anything else that I can do for you?
+================
+Good Evening, I am looking for a place to stay that includes free parking
+Okay, I have 29 options for you. Is there an area of town that you'd prefer to stay in?
+I'm not sure. I would prefer something moderately priced.
+That narrows it down a bit. The Acorn Guest House is a nice place, with 4 stars. It's in the north area of town.
+Sounds good, I changed my mind about the internet, can you let me know if it has free wifi?
+The acorn guest house also has free internet. Shall I book you a room?
+May I just get the phone number please?
+Absolutely! The phone number is 01223353888. Is there anything else I can help you with today?
+================
+I am looking for a train leaving peterborough arriving by 8:30
+There are 35 trains do you have a destination and day?
+Yes, I'm headed to Cambridge on Wednesday.
+TR8935 leaves at 7:19 and will arrive at 8:09. Would you like me to book it?
+Can you also tell me the travel time?
+Duration for this particular trip is 50 minutes.
+================
+Where can I get gas?
+The nearest gas station is 8 miles away. Need more info?
+What is the address?
+Shell is located at 53 University Av, I sent its position to your screen

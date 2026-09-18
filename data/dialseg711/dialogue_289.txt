@@ -1,0 +1,44 @@
+Hi, can you help me find a 4 star place to stay?
+There are a total of 21 hotels and guesthouses in the city that have 4 stars. Is there a particular area or price range you would like?
+How about a place in the east side of town that is a hotel not a guesthouse
+I am sorry but I do not have any hotels in the east. Would you like to change location or type of accomodations?
+Yes, can you please change the location to centre?
+We have one 4 star hotel that is in the centre, University Arms Hotel, it has internet and parking and is expensive, would this one suit you?
+That will be fine. Can you book me a room for Saturday, please?
+Certainly. How long would you like to stay, and how many are in your party?
+I'll be arriving Saturday and staying 3 nights. There are 3 of us.
+Unfortunately, we cannot book you for those days. Could you change the number of days?
+Sure, try for two days?
+That was unsuccessful too. Wanna try something else?
+Is there another one in the Centre with that critera avaible?
+No, I'm sorry. I am searching for a 4 star hotel in the centre for 2 nights on Saturday. Is that correct?
+I need the hotel for 3 nights starting on Saturday please.
+Would you like to change the number of days you are staying. I was unable to find anything.
+No, please continue the search.
+I'm sorry, but the University Arms does not have anything available on Saturday for 3 people, for a 3 night stay. Would you like to try a different day?
+I am so sorry. Could you just change the number of people in my party to 5 and try again?
+That worked, I guess you just needed a larger room. Your reference number is PR0ABUBI. Can I be of further assistance?
+================
+I need some help with a car accident I was in.
+I'm sorry to hear about your accident, would you like the number for Parkside Police Station?
+Yes please, that would be great.
+there you go Telephone : 01223358966
+Great, thank you.
+You are welcome. Is that all for today?
+Yes, thanks for your help.
+You are quite welcome. Do you require any further assistance?
+================
+i am looking for a train. The train should depart from Peterborough and should go to Cambridge.
+There are many trains available. Do you have a specific day or time in mind?
+I would like to travel on Sunday.
+Great, and what time on sunday would you like to either leave after or arrive by?
+I need to leave after 17:15.
+can i book for you?
+Yes I need it booked for 2 people.
+The total fee is 26.4 GBP payable at the station . Reference number is : CW3O4QG9. Is there anything else I can assist you with?
+================
+Can you tell me how to get to the Parkside Police Station from my location?
+Here is the location: Address : Parkside, Cambridge Postcode : CB11JG
+================
+Schedule an appointment at 7pm today with Jeff the optometrist, please
+Okay, I am scheduling an optometrist appointment with Jeff for today at 7pm.

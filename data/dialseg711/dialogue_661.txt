@@ -1,0 +1,32 @@
+I am looking for a place to stay. The hotel should be in the centre and should be in the cheap price range
+There is not a cheap hotel in the centre area. Is there another area I can look for you?
+The hotel should be in the type of hotel and should have a star of 4,
+The cambridge belfry is 4 star hotel in the cheap price range in the west part of town. Do you want me to book this hotel?
+I need to be in the centre. Is there a guesthouse available, if there are no hotels?
+The alexander bed and breakfast is a 4 star guesthouse, located at 56 saint barnabas road.
+Great! I want to book it for 5 people and 3 nights starting from tuesday.
+Booking was unsuccessful. Do you want to try a different day?
+how about thursday?
+Booking was successful. Reference number is : TFAJJNJF
+================
+give me directions to a coffee place
+We're 4 miles away from Philz but there is a car collision nearby
+OK, please give me the address and directions via the fastest available route.
+It is located at 583 Alester Ave and I will provide turn by turn directions now.
+================
+Could you give me some details for Carolina bed and breakfast?
+Carolina Bed & Breakfast is a moderately priced, 4 star guesthouse on the east side of town. Do you need additional details?
+No, that sounds wonderful. Can you book a room for me for 4 nights starting on Friday? It will just be myself.
+Your booking was successful. Your reference number is 8IFKQGD8. Is there anything else I can do for you today?
+================
+Where's Addenbrookes Hospital?
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+I need the phone number, and postcode.
+The phone number is 01223245151 and the postcode is CB20QQ. Is there anything else I can help you with?
+Yes, please tell me when hospital visiting hours extend until.
+I'm sorry but it does not give me that information. Would you like me to call them for you?
+================
+I am looking for a place to stay. The hotel should be in the east and should have a star of 4
+I am sorry, but there are no 4 star hotels in that area, would you like me to look up another type of hotel for you?
+No, thank you. I'll have to figure something else out.
+There are 6 guesthouses in the east with 4-star ratings in the moderate to cheap range. Are you interested?

@@ -1,0 +1,19 @@
+Can I mail the paperwork?
+================
+Did you complete the form?
+I don't have the application.
+================
+Do you have the mailing address?
+No, can you give it to me?
+================
+What is your location?
+I would like to receive it by standard mail.
+================
+Express mail would be quicker, would you like to use it?
+No, I'm not in a hurry.
+================
+How will I receive the title?
+You will apply at the DMV, and it will be mailed to you.
+================
+Can I apply for just the title?
+Yes, just select title only and follow the instructions.

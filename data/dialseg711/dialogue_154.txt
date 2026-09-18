@@ -1,0 +1,36 @@
+Hi, I'm looking to book a train to Cambridge, that leaves around 16:00.
+Sure. Where would you like to depart from?
+Kings Lynn after 16:00 on Saturday, please.
+TR4235 departs kings lynn at 16:11 and arrives in cambridge at 16:58. Would you like to book passage on that train?
+What is the price on that trip?
+The price of TR4235, departing Kings Lynn at 16:11 on Saturday, is 7.84 pounds. Shall I book passage on that train?
+No. Not right now. thank you very much for your help today.
+Ok, is there anything else you need assistance with?
+No that is all for the time being. Thank you.
+You're welcome. Enjoy your trip. Are you quite sure there's nothing else I can help with?
+I actually do need the price for that train please.
+The price is 7.84 pounds.
+Thanks. That's all I wanted to know.
+You're welcome. Can I help you with anything else today?
+================
+Hello. I would like for a taxi to bring me to the cow pizza kitchen and bar by 04:30 please
+Where would you like to travel from?
+I'm traveling from leverton house.
+Ok, I have you a cab booked, you will be riding a red honda and the contact number is 07676649498
+================
+I need the surgery department of the Addensbrookes Hospital.
+The hospital is located on Hills Road Postcode CB20QQ. Each surgery department has a different number. Which surgery department do you need?
+================
+Are there any places in the south section of town the has to do with multiple sports?
+Unfortunately, I don't see any that are in the south. Would you like me to check in another area of town?
+Do you have in attractions in a type of park in the south?
+We have 2 parks in the south. I recommend Wandlebury Country Park.
+That sounds nice. Can you give me their address, postcode, and phone number, please?
+I sure can. They are located at Wandlebury Ring, Gog Magog Hills, Babraham. Their postcode is cb223ae. The phone number is 01223243830. Can I help you with anything else?
+================
+I am looking for information about a hotel called the autumn house.
+Ok. The autumn house is a guesthouse in the east. Would you like me to book a room?
+Yes, please. I would like a room for 6 people for 2 nights. We'll arrive on Saturday.
+You are booked! Reference number is : AS63WLAE.
+Thank you so much!!
+You are welcome. Do you need anything further?

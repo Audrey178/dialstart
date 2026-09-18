@@ -1,0 +1,26 @@
+Can you find me a coffee place near me?
+Coupa is 3 miles away.
+Is there any traffic on the way there?
+The route to Coupa does not have any traffic
+Can you pull up the route and put it on the screen.
+Coupa is 3 miles away at 394 Van Ness Ave. The screen has been set to display the address.
+================
+I am looking for a nearest police station
+Parkside, Cambridge police station, the telephone number is 01223358966
+I also need the police station's address and postcode, please.
+Their address is Parkside, Cambridge postcode CB11JG. Can I assist you further?
+================
+what's the weather like in downtown chicago
+The forecast is rain with the highs in the 50s and lows in the 40s.
+I need to know if there will be a drizzle in downtown Chicago car, for this Friday.
+On Friday in downtown Chicago it will be hot, there is no prediction of drizzle
+================
+Help me please, i just been robbed and don't know what to do.
+Please contact the Parkside Police Station at 01223358966.
+Thank you, what's the postcode?
+The postcode is CB11JG. Do you need further assistance?
+================
+Can you please help me find a museum?
+Sure! There are plenty of great museums to choose from. Is there a specific area of town you are looking for?
+The centre area. looking for Modern Art and the museums phone number please.
+I recommend Byard Art. Their phone number is 01223464646.

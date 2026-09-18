@@ -1,0 +1,36 @@
+set a reminder for my conference call tomorrow
+What time should I set a reminder for tomorrow's conference call?
+================
+I'm looking for a place to dine. The restaurant should serve indian food and should be in the centre.
+Sure! Do you have a price range?
+No. I'm not looking for a particular price range.
+I have several places, would you like me to try to book you into Curry Garden?
+I don't have a price range but I would like it to be in the town centre for 2 people at 18:45.
+Sure, which day will you be dining?
+book a table for 2 people at 18:45 on thursday.
+Booking was successful. The table will be reserved for 15 minutes, Reference number is : VYSFHVFC.
+thank you so much.
+No problem, is there anything else I can help with today?
+================
+I'm looking for an attraction called Cambridge Artworks. Do you have any information on it?
+Sure thing! The entrance is free! It is located at 5 Greens Road in postcode cb13ef.
+Do you have their phone number?
+Sure, the phone number is 01223902168. Can I help with anything else?
+No, I think that is good. Thanks for your help and have a nice day.
+Have a wonderful day and enjoy your trip to Cambridge Artworks!
+================
+I'd like to take the train to cambridge from birmingham new street on tuesday, can you help me with that?
+I have many trains available on Tuesday. Do you have a time preference?
+Yes, I'd like to arrive by 19:30, please.
+The TR 4631 arrives by 19:23. Would you like to book this one?
+Yes, book please and I need travel tome and price
+How many tickets would you like me to book?
+I only need one ticket today.
+Your booking was successful, the total fee is 75.09 GBP payable at the station. Your Reference number is ZCR9P2WW. Can I assist you with anything else today?
+================
+may you help me find the nearest police station
+Sure, it is located in Parkside, Cambridge.
+Thanks very much, what is its postcode?
+The post code for the police station is CB11JG.
+Great, thank you for the help.
+Is there anything else I can help you with?

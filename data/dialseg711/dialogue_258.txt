@@ -1,0 +1,30 @@
+What time and date is my next yoga activity?
+Your next yoga activity is scheduled for Sunday at 2pm.
+================
+I'd like a train to Cambridge that arrives by 11:30.
+Where are you departing from?
+I'm departing from Ely.
+I can reserve a seat on TR2704 departing at 9:35 and arriving in Cambridge at 9:52. How many tickets will you need?
+It doesn't matter to me.
+If you wouldn't like me to book you a ticket, is there anything else you need?
+Can you tell me what the travel time for that train is?
+That will be a 17 minute train ride.
+================
+I need to find lodgings on the north side of town.
+We have 13 available lodging areas in the north. Any preferences?
+Some place in the north and it does not need to have free parking
+There are 2 locations that match your criteria. The Alpha-Milton Guest House with a 3 star rating and the Avalon with a 4 star rating. Do either of these sound good?
+Is the Avalon a hotel or a guesthouse?
+The Avalon is a guesthouse. Would it interest you? If so, I can help you book a room if you like?
+Yes please, I would arrive Tuesday and need to book for 3 people. It will be a 4 night stay. Can I get a reference number please?
+I have reserved your room at the avalon, reference number 2ASA82VJ. Can I help you with anything else?
+================
+Hi, I'm trying to find Addenbrookes Hospital and they're supposed to have a medical decisions unit department, right?
+You can find them with this number: 01223596066
+Can you confirm Addenbrookes has a medical decisions unit?
+Yes, it does. The phone number is 01223596066
+Can I also get the postcode and address please?
+Certainly. The postcode is CB20QQ and the address is Hills Road, Cambridge.
+================
+Will there be drizzle in Oakland on Sunday?
+No, on Sunday the weather forecast calls for hail in Oakland

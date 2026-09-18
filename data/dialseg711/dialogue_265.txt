@@ -1,0 +1,46 @@
+Good evening. I'm kind of in a situation. The hotel I had planned to stay was overbooked and I need to find me a room pretty quickly. Can you help?
+There are many hotels available, do you have any preferences to price or area?
+Not really. But it should be in the North.
+There are two hotels on the north end, the Ashley Hotel and the Lovell Lodge. Which would you like?
+I would prefer a guesthouse thats 4 star rated. Do either of those fit the bill?
+No, I'm afraid they're both two stars. Would you like to try one of them anyway?
+Do they have free wifi at either of them?
+Yes both have free internet. Which one do you prefer?
+I would really like a four star guesthouse in the north area, I don't need parking.
+Okay, I've found several place that meet those requirements. I suggest the Avalon. Would you like me to make a reservation for you?
+First could you tell me the price range for the Avalon?
+The price range at the Avalon is moderate. Do you have any more questions?
+Yes, can you confirm if the Avalon has Internet, please?
+Yes they does, but no free parking though.
+================
+Set a reminder about the meeting at 4 pm this week with the sales team, to discuss the company picnic
+Okay, scheduling a a reminder about the meeting at 4 pm this week with the sales team, to discuss the company picnic
+================
+Can you help me find a moderate price place to stay that includes free parking?
+Acorn guest house has free parking and is moderately priced. Would you like more information?
+Does it also have free wifi and does it have 2 stars?
+No it doesn't. But the Ashley Hotel has 2 stars and free parking. It is a moderate also.
+Is there somewhere with both free wifi and parking?
+Yes. The Ashley Hotel has both free wifi and parking. Would you like to make a reservation?
+I am not quite ready to make a reservation yet, but could you please get the address for me?
+The ashley hotel is located at 74 chesterton road. Would you like any other information about it?
+Yes, do you have their postcode please?
+The postcode is cb41er. Can I help you with anything else?
+What part of town is the Ashley located?
+They are located in the north.
+================
+is it going to rain this week
+for what location do you want to know if it will rain?
+San Jose.
+This week in San Jose it is predicted to rain today and drizzle on Saturday.
+================
+Yes, I'm looking for a cheap place to eat on the east side. Do you know of anything?
+yes I have one listing for an international place called The Missing Sock. It is very popular. Would you like their telephone number?
+Yes. Please give me the telephone number.
+Their number is 01223812660.
+Thanks! Now could you make a reservation for me? I need a table for 1 on Saturday at 12:15, please.
+Unfortunately, they are fully booked during that time slot. Would you like me to try for a different time or day?
+How about 11:15?
+You've been booked for 11:15. Do you need anything else?
+May I have the reference number please?
+Your reference number is FK3AREID.

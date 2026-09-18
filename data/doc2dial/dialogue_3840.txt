@@ -1,0 +1,20 @@
+I need to change my address.
+================
+You need to report it to the DMV.
+Is your license current?
+Yes, I just have to change the address.
+================
+What if my insurance had lapsed?
+Your license and registration could be suspended.
+================
+What if I forgot to update my address?
+You must change it immediately.
+================
+What if I don't change it?
+Your license will be suspended.
+================
+What if I move to another state?
+You must resolve any issues before you leave.
+================
+How will they know if I have insurance?
+DMV works with insurance companies.

@@ -1,0 +1,26 @@
+i am looking for the Addenbrookes Hospital
+That hospital is located at Hills Rd, Cambridge.
+Can you please provide me with the complete address for the hospital?
+Hills Rd, Cambridge is the complete address. The postcode is CB20QQ.
+================
+What attractions do you have in town, preferably near the centre?
+We have 44 attractions in the centre, colleges, architecture, museums
+Can you recommend a college in the centre and tell me the entrance fee?
+There are 13 colleges in the centre of town with entrance fees ranging from free to 2 pounds 50. Do you have a preference on entry price?
+Which is your favorite? And what is its entrance fee?
+My favorite is Christ's College and there is no entrance fee.
+================
+what is the weather like in new york city
+What would you like to know about the weather in new york city?
+There will be clear skies today?
+Today in New York City it will snow
+================
+I was in a car accident. I need to contact the police, please.
+The Parkside Police Station is in Parkside, Cambridge. Is this close to your location?
+Yes I'll need their address please.
+They are located at Parkside, Cambridge CB11JG.
+Thank you. That's all I need to know for now.
+Do you need anything else?
+================
+What will the highest temperature in Seattle be today?
+There will be a high temperature of 50F today in Seattle.

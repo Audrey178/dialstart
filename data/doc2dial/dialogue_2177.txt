@@ -1,0 +1,22 @@
+I would like a copy of a TVB ticket.
+================
+Is it lost or destroyed?
+No it's not.
+================
+Do you want to print it?
+No, I want to view it.
+================
+Can an open ticket be printed?
+Yes, just provide the information.
+================
+How do I print it?
+Go online, the ticket has to be from traffic violations bureau.
+================
+Can I print all of my tickets?
+Yes, just provide information for one open ticket.
+================
+Will the ticket look the same?
+Yes, it will be the same as the office ticket.
+================
+What will I need to print it?
+The ticket number.

@@ -1,0 +1,42 @@
+What time do I have to take my medicine and who will be here?
+5 pm is the time scheduled to take your medicine and your father will be there.
+================
+I need a train to Cambridge.
+Ok, when and where are you leaving from?
+I'll be leaving from bishops stortford on saturday, and I need to get to cambridge at or a little before 14:00.
+I can get you a train arriving at Cambridge at 12:07, how many tickets will you be needing?
+Just one, please.
+I booked Train ID TR4594. Your price is 8.08 pounds. Is there anything else I can do for you?
+Yes I need the reference number for the booking please.
+Yes that is MKL2A4KD. Is there anything else I can help you with today?
+================
+Where can I find a parking garage?
+We're 1 miles away from Dish Parking and 4 miles away from Palo Alto Garage R: I suggest you the closest option since there is no traffic on our route too
+Okay, thank you, Dish Parking it is then.
+Understood. Dish Parking is located on 550 Alester Ave.
+================
+I'm looking for a train please.
+Where are you leaving from and where would you like to go?
+I plan to leave from stevenage to go to Cambridge.
+Okay. There are 70 trains that go from stevenage to cambridge. Would you like to narrow it down by day or time?
+I want to leave on Sunday and arrive by 12:15.
+trainID departure destination day leaveAt arriveBy price duration book (optional) TR1542 stevenage cambridge sunday 05:54 06:43 10.24 pounds 49 minutes TR5870 stevenage cambridge sunday 07:54 08:43 10.24 pounds 49 minutes TR7802 stevenage cambridge sunday 09:54 10:43 10.24 pounds 49 minutes TR8225 stevenage cambridge sunday 11:54 12:43 10.24 pounds 49 minutes are the opitions
+Thank you, I will check them out and get back to you.
+You are welcome. Call back anytime you are ready to book.
+That information is very overwhelming. Can you please pick the best option that meets my criteria and book for 6 people.
+I would like to book the TR7802 stevenage cambridge sunday 09:54 10:43, please.
+I think you're confused. I need the info, you're the help desk.
+I apologize for the mistake. I have booked six tickets for you and your party on the TR7802 train departing from Stevenage at 09:54 and arriving at Cambridge at 10:43.
+That's more like it. And, what's the reference number?
+Your reference number is DDBA2U1R. The total fee is 61.44 GBP payable at the station. May I help with something else?
+================
+Could you help me find a moderate priced restaurant in the centre?
+Certainly! However, there are no moderately priced restaurants in the town centre. Would you like to try a different area or price range?
+Is there anything cheap in the town centre?
+I'm sorry there are no cheap restaurants n that area. Would you like to change your price range or area?
+I really need it to be in the moderate price range, there's really nothing in the city centre? Any cuisine will do.
+I'm sorry, we must have had technical difficulties. We actually do have 21 restaurants in the centre of town that are moderately priced. Do you have a certain cuisine in mind?
+Please surprise me.
+Okay, Cotto is a British restaurant in the moderate price range. Would you like me to book it for you?
+Can I have their phone number and address please?
+The phone number for the Cotto is, 0122302010.The address us 183 East Road, City Centre. Anything else?

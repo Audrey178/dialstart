@@ -1,0 +1,31 @@
+I want to get a train to travel from Cambridge to Bishops Stortford.
+I can assist you with that. There are many options available to you leaving Cambridge for Bishops Stortford, what day and time would you like?
+I'd like to leave on Monday after 8:15, please.
+The first availabe train I have is TR7169 leaving at 9:29 and arriving at 10:07. Would that suit your schedule or would you prefer a later departure time?
+No, that sounds good.
+How many tickets would you like me to book?
+Just one ticket please.
+You have one ticket to Bishops Stortford, train ID TR7169, with 10.1 GBP payable at the station. Reference number 54B99Z9O. Can I be of further assistance?
+Thank you very much for the assistance
+You're welcome. Do you need anything else today?
+================
+Hi, I'm looking for a 4-star hotel with free wifi.
+Sure thing. I have two options for you, and they are both guesthouses. One in the east, and one in the north. Do you have a preference?
+Are either of those two cheap?
+No I am sorry, they are both in the moderate price range. Would you like to book one of them?
+Any one will do as long as it has a 4-star rating with free wifi and is cheap.
+There are no 4-star places that are cheap and have free wifi. Perhaps something not as fancy, or in a higher price range?
+I'm not sure. I really needed those specifications.
+I apologize, we have several options. The alexander bed and breakfast is a cheap four star guesthouse, in the north area, with wifi. Would you care to reserve a room?
+Yes, let's book it for 3 nights from Wednesday. There will be 5 of us.
+Okay, I've made your reservation. The reference number is 525A3U0N. What else can I help you with today?
+================
+Schedule a meeting on December 10th at 2pm with the infrastructure team to discuss the merger.
+I will make a note of the meeting for December 10th at 2pm with the infrastructure team to discuss the merger.
+================
+I'm looking for the information on a restaurant named Rajmahal, could you provide me their info?
+Sure. Their phone is 01223244955, postcode cb58rg, and address is 7 Barnwell Road Fen Ditton. Is there anything else I can help with?
+Can you book a table for 7 at 17:15 this Saturday?
+Yes I have you booked for 7 people and your reference number is 1U0TF4XA.
+================
+Can you find out who is joining me and what day my optometrist appointment is at?

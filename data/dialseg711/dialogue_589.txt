@@ -1,0 +1,18 @@
+I am looking for the Addenbrookes Hospital. the hospital should have the infectious diseases department
+Addenbrookes Hospital is located in Hills Rd, Cambridge, postcode CB20QQ. They have an infectious diseases department and their number is 01223217314. Would you like to book an appointment with them?
+Thank you very much. I will not need to book an appointment.
+Do you need any further assistance?
+================
+What is the date, time, and agenda of my next conference?
+Your next conference is on the 1st at 4pm to discuss the merger.
+================
+Do you have information on the alpha-milton guest house?
+The Alpha-Milton Guest House is a moderately priced 3 star guesthouse on the north end. The address is 63 milton road, postcode cb41xa. Their phone number is 01223311625.
+================
+please make an appointment on tuesday for me to see the doctor
+Setting a reminder on Tuesday as an appointment to see the doctor, what time should I set this?
+================
+how cloudy is it going to be for the next week
+What city are you interested in?
+San Jose
+In San Jose it will be cloudy on Monday and on Sunday

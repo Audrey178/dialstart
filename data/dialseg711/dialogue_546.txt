@@ -1,0 +1,25 @@
+find me a nearby shopping mall shopping center
+The local shopping center is Stanford Shopping Center located at 773 Alger Dr.
+OK, please direct me there via a route with no traffic.
+There is heavy traffic going into 773 Alger Dr.
+Is there another shopping center nearby? If not, please set directions via the route with least traffic.
+There are no other shopping centers nearby, sending directions.
+================
+I need to book a taxi from kirkwood house.
+I have booked you a taxi. The contact number is 07866666313. Can I do anything else for you today?
+What type of car is it going to be?
+The car arriving will be a white BMW.
+I forgot something. I need to arrive by 21:00.
+What will your destination be?
+================
+i have a dinner. when is it and who is attending
+Your dinner is the 13th at 7 pm with your aunt.
+================
+I'm looking for a place to eat in the east that is expensive.
+Sure, we have british, chinese, gastropubs, and indian restaurants. Would you like to book a table at one of them.
+How about an expensive British place? I'd like a reservation for Wednesday.
+okay, I have the Grafton Hotel Restaurant. What time would you like me to book your reservation?
+I would like a table at 14:00 on Wednesday for 5 people.
+Unfortunately they did not have that day and time available. Would you like to try for another date or time slot?
+Do they have an opening at 13:00 on Wednesday for 5 people?
+Yes, I've made your reservation. The reference number is 96IH1QYG. What else can I help you with?

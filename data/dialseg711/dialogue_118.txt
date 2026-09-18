@@ -1,0 +1,30 @@
+give me the closest fast food restaurant
+I do not have a listing for any fast food places but i do have a pizza restaurant that is 3 miles away. Would you like more info on it?
+Sure find the fastest route to a pizza place that is within 3 miles of me.
+Pizza Hut is 3 miles away, would you like the address?
+Yes, please!
+704 El Camino Real, I've already set the navigator to go there
+================
+When is my lab appointment?
+Your lab appointment is on the 8th at 7 pm.
+Thank you
+You're welcome. Marie will also be attending your lab appointment, by the way.
+================
+Help me find a restaurant called hakka please
+That restaurant serves chinese food and is expensive.
+I'd like to book a table for 3 people for saturday at 1815 please.
+Great, I have booked that for you and your reference number is XDYJMTO7.
+Thank you for your help, good day.
+You as well. Thanks for using the service!
+================
+what's the weather today
+In what city?
+The temperature in Exeter.
+It is between 60-70F today in Exeter.
+================
+I've been robbed! I need to get in touch with the police right away!
+Call 01223358966.
+What is the postcode of the police station?
+The postcode is CB11JG. Can I help with anything else?
+Can you give me their address too?
+The address for the Parkside Police Station is Parkside, Cambridge.

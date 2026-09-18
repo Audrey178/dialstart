@@ -1,0 +1,40 @@
+I need to book a taxi to the Bridge Guest House please.
+What time do you need to arrive by?
+Arrival doesn't matter. I just need to leave after 19:15 from Ashley Hotel, and I want to go to Bridge Guest House.
+Where are you departing from?
+I am leaving from ashley hotel.
+got it! your car type is a grey honda and the contact number is 07306489066
+================
+what are the directions to the mall
+There is Town and Country 5 miles away: would you like to go there?
+Yes, please.
+Navigating to Town and Country.
+Give me the address.
+Town and Country is located at 383 University Avenue.
+================
+Can you arrange for a taxi to pick me up at dojo noodle bar?
+Sure. When do you want to leave?
+i actually need to arrive by 12:15.
+You got it. Can you tell me your destination please?
+I am going to rosa's bed and breakfast.
+You're all set with a red BMW. The driver's number is 07207233794. Can I help you with something else?
+================
+I am looking for a restaurant. The restaurant should serve world food and should be in the centre
+Unfortunately, I couldn't find a restaurant that serves that kind of food in that area.
+What expensive restaurants are there?
+The cambridge chop house is expensive and it's british food. Is that okay?
+No. Try looking for a restaurant that serves Korean food.
+I found the Little Seoul restaurant. Would you like me to make a reservation?
+Yes, a table for two.
+I'd be happy to reserve for you, what day and time are you looking for?
+Thank you, I need a reservation for 2 people at 13:15 on Monday.
+GG3DCUFD is your confirmation code, may I help you with anything else?
+================
+I'd like to book a taxi to depart from Maharajah Tandoori Restaurant.
+What time would you like to depart?
+I would like the taxi to be here by 02:00.
+Where would you like the taxi to take you?
+Please take me to sidney sussex college.
+Expect a blue Tesla to pick you up, the contact number is 07189547396. Anything else I can help you with.
+no that is all i wanted from you today thank you
+great, have a nice day

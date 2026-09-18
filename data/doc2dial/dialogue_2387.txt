@@ -1,0 +1,18 @@
+Winter's coming around and I'd like to register my new snowmobile. Why can't I enter my address on the web form?
+================
+There is a limit of 20 characters for the street address and 14 characters for the city in our snowmobile registration system.
+Is your your street address or city name is too long?
+Yes.
+You can shorten it by using numbers digits instead of words for the house number.
+================
+That might work. Also why is my name shortened on my registration?
+Due to the limited space in the DMV registration system, your name may be shortened to fit on the document but it remains valid with the shorter name.
+================
+Besides the usual documentation, what information do I need to provide about my snowmobile?
+Basic information includes model year, make or brand and color.
+================
+If I don't have a current driver's license can I use another document as proof of who I am?
+Yes you must provide other kinds of proof.
+================
+Do you have more information about this topic?
+Yes click on the number link here Registration [ 13 ].

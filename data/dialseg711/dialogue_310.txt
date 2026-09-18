@@ -1,0 +1,36 @@
+Please give me the address and quickest route details for a parking garage nearby.
+Dish Parking is 6 miles away at 550 Alester Ave. There is moderate traffic. Would you like directions there?
+Yes, please give me directions via the quickest route.
+I sent all the info on your screen, drive carefully!
+================
+I got into a fender-bender with my rental car, and now I need help resolving the dispute with the owner of the other car.
+Cambridge, parkside police telephone number 01223358966.
+Can I get the full mailing address for that location?
+The address is Parkside, Cambridge and the postcode is CB11JG.
+================
+I'm looking for a place to stay on the south side of town that has free wifi.
+Sure, there are 4 places like that. Do you have a preference for lodging type or price range?
+It should be a hotel rather than a guesthouse, other than what I mentioned I have no preferences.
+I have the Lensfield hotel. Would you like to book it?
+First let me ask if they have free parking. Also, can you please tell me the star rating?
+They do have free parking and it is a 3 star hotel. How else may I assist you?
+================
+I am trying to find the Parkside Police Station.
+The contact for Parkside Police is, 01223358966. They are located in postcode CB11JG.
+================
+i need a train on tuesday out of kings lynn
+What time of day would you like to leave?
+I want to leave on Tuesday.
+Do you have a time you'd like to leave?
+I'd like to leave after 9:30.
+Is that 9:30 AM or PM?
+Looking for a train Tuesday leaving kings lynn after 9:30 to go to cambridge.
+I'm sorry, I'm not seeing any trains for that time. Would you like to try another time or a different route?
+No, I'd like a train leaving after 09:30 departing from Kings Lynn and going to Cambridge. Please take another look?
+There are no trains running at this time. Can I narrow your search in any way?
+Wow...no, I really needed that time. I guess not. Thanks anyway.
+I do have a train living at 10:11 of that would work for you.
+Yes, that works. Please book for two people. Thanks for checking again.
+It's my pleasure. You're booked with reference HXG3N56O. The total fee is 19.6 GBP payable at the station. May I help with anything else?
+Perfect. Thank you for your help. Have a great day. Bye.
+Thank you for using our service, goodbye.

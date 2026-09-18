@@ -1,0 +1,34 @@
+Do you have information about the Saint Barnabas Press Gallery?
+I do, it is located in the east and is a museum, what information would you like about it?
+================
+I need a taxi to go to saigon city and arrive by 11:00
+Where will you leave from?
+================
+I'm looking for a hotel in the west area. It doesn't need to have free parking.
+There are four possibilities on the west side. Do you have preferred price range?
+I don't have a preferred price range, but I'd like one with free wifi.
+There are 4 places that provide internet on the west side. 2 are hotels, and 2 are guesthouses. Do you have a preference?
+Do they have parking? I want one that does not have parking.
+I'm not showing anything in that area of town with no parking. Would you like to try a different area?
+Can you check and see if there's one in the north, please?
+The Avalon is a guesthouse in the north. It offers free wifi but not parking. Does this meet your liking and would you like to book a room?
+That works. Book it for 7 people for 5 nights starting with Wednesday.
+I'm sorry, but the Avalon isn't available for those dates. Would you like to book starting on another day or for fewer nights?
+How about 3 nights?
+I was able to book if for that time. The reference code is QLM5YVJD
+================
+Are there shopping centers nearby?
+They are one shopping center 2 miles away called Midtown Shopping Center.
+How is the traffic?
+Midtown Shopping Center has moderate traffic.
+What is the address?
+The address is 338 Alester Ave, I sent its position on your map
+================
+Hello! I'm looking for a moderately priced restaurant in the centre.
+There are several options available. Would you be willing to give me more information on what kind of food you are looking for?
+I want asian oriental food.
+Sure, we have yippee noodle bar in the town centre. Shall I book a table?
+Is the Yippee Noodle Bar moderately priced?
+Yes it is moderately priced.
+That sounds perfect. I don't need a reservation right now, but could you give me the address, phone number, and postcode, please?
+Sure thing. The address is 40428 King Street City Centre, postcode cb11lh, and the phone number is 01223518111. Can I help you find anything else?

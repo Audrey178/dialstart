@@ -1,0 +1,26 @@
+Need a gas station nearest me will little traffic.
+There is Chevron 8 miles away but there is heavy traffic on its direction
+================
+Will there be clear skies in Compton on the weekend?
+It will be dry on Saturday and a chance of drizzle on Sunday in Compton.
+================
+Can you give me the address and the quickest route directions to a gas station within two miles of here?
+The only gas station is Shell at 4 miles away but a roadblock is being reported.
+OK, please give me the address and directions via the shortest distance.
+The address is 53 University Av and I am setting GPS presently.
+================
+Can you find me a cinema in town that I can go to?
+Yes, what part of town would you like? There are cinemas in the south and centre of town.
+Either area is fine. Can you pick one for me and let me know their address?
+The Cineworld Cinema is in the south area of town and the address is Cambridge Leisure Park, Clifton Way. Is there anything else I can help you with today?
+Do you know the entrance fee?
+I'm sorry, the entrance fee for Cineworld Cinema is not available. Is there anything else you need?
+Yes, can you tell me their address please?
+Cineworld Cinema is located at cambridge leisure park, clifton way, cb17dy. Can I help with anything else today?
+================
+Are there any restaurants that serve proper British food in town?
+Oh yes quite a few. Which part of town will you be dining in?
+West, if possible.
+We have three: Graffiti, Saint John's Chop House, and Traveller's Rest.
+Will you give me the phone number, address, and postcode for Graffiti, please?
+Yes, the phone number is 01223277977. The address is Hotel Felix Whitehouse Lane Huntingdon Road, and the post code is cb30lx. Want to book?

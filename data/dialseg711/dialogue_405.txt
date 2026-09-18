@@ -1,0 +1,39 @@
+I am looking for a train that departs from Cambridge on Thursday.
+There's a train that leaves at 9 am and arrives at 9:51 am. Is that good?
+No, I actually need to leave after 12:00.
+Okay, and what is your destination?
+I need to go to ely after 12:00.
+I have a train that leaves Ely on Thursday at 13:50 and arrives by 14:07. Would you like to book tickets?
+Yes, that would be great. Can you book tickets for 7 people please. And I'll need a reference number for it.
+Booked! Your reference number is UCT2SJ8W. Fee is 30.8, paid at the station. Anything else.
+================
+remind me about that meeting later
+================
+Hi, I am looking for a train. Can you help me, please?
+Where do you need to go?
+I need to go to bringham new street by 17:30
+OK, what day are you traveling, and do you need to leave or arrive by 17:30?
+I am traveling on sunday and need to arrive by 17:30 coming from cambridge
+I have 10 routes that might work for you, leaving hourly from 05:01 to 14:01. I'd recommend TR6908 which arrives at 16:44. Would you like to book?
+Please give me their travel time and price of TR6908.
+Sure, the travel time is 163 minutes, and the price is 60.08 pounds. May I help with anything else?
+================
+Can you help me find a room for when I visit next week?
+I would be more than happy to. Are you looking for a hotel in a particular part of town?
+North please. I would also like it to include free parking.
+There are several to choose from. Would you like a hotel or a guestroom?
+I'd like a hotel with free wifi in the moderate price range please.
+There aren't any hotels that have both Internet and parking. Would a guesthouse suit your needs?
+Yes, a guesthouse would be fine.
+How about the acorn guest house? It has free internet and parking, four stars and is in the moderate price range? Shall I book that for you?
+No, can you just give me the address?
+Sure, the address is 154 Chesterton Road and the postcode is cb41da.
+================
+I need a taxi to pick me up from saigon city please
+Sure! when would you like to arrive?
+I'd like to arrive by 15:45.
+And where will you be going?
+I'll be heading to huntingdon marriott hotel.
+Great! I was able to book a red Audi for you!
+What is the contact number of that Audi?
+The contact number is 07062991767. Do you have any other questions?

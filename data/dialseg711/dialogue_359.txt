@@ -1,0 +1,26 @@
+Yes I would like to find Spanish food in the center of town.
+you're in luck I have two options for you. One is in the cheaper price range, the other is listed as moderately priced. Do you have a preference?
+Let's go with the cheap one. I'll need a table for 7 on Sunday at 12:15 please.
+Unfortunately the booking was not successful.
+Can you try on saturday, 7 people, at 12:15
+Yes, you're booked for Saturday with reference number V54FG5X2. The table will be reserved for 15 minutes. May I help with anything else?
+================
+I am injured and need a hospital with a cardiology department.
+The Addenbrookes Hospital located at Hills Rd, Cambridge has a cardiology department. Would you need to book an appointment?
+I would like to have the phone number.
+The phone number is 01223256233.
+================
+Where can I get pizza?
+You can get pizza at two places; Pizza My heart which is one mile away or Papa Johns 5 miles away. Which do you prefer?
+What is the address of Pizza my Heart?
+Pizza My Heart is located at 528 Anton Ct.
+================
+what is the weather today
+What city should I get the weather information for?
+Will it rain in New York today?
+No, it will not rain in New York today. It is going to be dry with a low of 20F and a high of 30F.
+================
+Could you tell me the nearest police station?
+The nearest police station is located at Parkside, Cambridge.
+Could you please give me the postcode to the police station?
+Of course, the postcode is CB11JG.

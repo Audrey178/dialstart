@@ -1,0 +1,37 @@
+I need a train that leaves this Thursday from Cambridge to Ely.
+I have 10 trains to Ely Thursday, leaving on the :50 every two hours from 05:50 to 23:50. Did you have a particular time in mind?
+I need to leave after 17:45 so anytime after that would be great.
+I have train TR7355 from Cambridge departing at 17:50 and arriving in Ely at 18:07. Would this train work for you or would you like a later departure?
+That's great. I'll need 3 tickets, please.
+Booking was successful, the total fee is 13.2 GBP payable at the station. Reference number is : WDETDX35.
+I apologize this train is going to broxbourne from cambridge. for 3 people are you able to book that?
+Sure, do you still need the train on Thursday after 17:45?
+Yes, that's Broxbourne to Cambridge on Thursday, leaving after 17:45.
+When would you like to arrive?
+Sorry. I really need to be leaving from Cambridge to go to Broxbourne, leaving after 17:45 on Thursday. Arrival time doesn't matter.
+How about TR9890? It departs Cambridge at 18:01 and arrives in Broxbourne at 19:01. It is 17.90 pounds per ticket. Would you like to book that one?
+Yes, please. I will need the reference number when you are finished.
+Your booking was a success. The total fee for 3 tickets is 53.70 GBP, payable at the station, and your reference number is TSUJXVYU. Is there anything else I can do?
+================
+Hi, I am looking for a cheap place to stay that has free wifi. Can you find anything like that?
+I have ten entries that meet your requirements! What area of town would you like?
+I don't care about the area but I need one with 3 stars, please.
+Unfortunately, I don't show any cheap hotels that have a 3-star rating. Can I look in a different price range or star rating for you?
+Can you see if there are any in the moderate range?
+We have 3 moderately priced 3 star guesthouses.
+Great! Which of those three would you recommend?
+Which are would you like to stay in?
+Please just pick the best one and book it for Thursday.
+I'm going to book you for bridge guest house, but I need to know the number of days you plan to stay and the number of people with you.
+Sure, 2 people, checking in on Thursday for 3 nights please.
+Your booking is successful! Your reference number is IZE1WK61. Can I help you with anything else?
+No that is all, thanks.
+You're welcome. Thank you for calling. Enjoy your trip!
+================
+Schedule swimming.
+What day and time should I schedule your swimming?
+On the 11th at 3 pm with Tom.
+You are now scheduled to meet with Tom on the 11th at 3pm for swimming.
+================
+give me directions home
+We're 2 miles away from home with moderate traffic on our way, I sent you the route on the screen

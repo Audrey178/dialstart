@@ -1,0 +1,30 @@
+Hello, can you set the schedule for an Optometrist appointment at 10am, on Thursday, with Marie, please and thank you.
+I will set a schedule for an Optometrist appointment at 10am, on Thursday, with Marie.
+================
+I'm looking for some info on kohinoor.
+Great! Kohinoor is an Indian cuisine restaurant in the cheap price range! Is there anything else I can help you with?
+Yes, I'd like to book a table for just me at 13:45 on Friday.
+Unfortunately reservations are not possible for that time. Would you like to try for another day or time?
+I could eat at 12:45. I hope that is available.
+That worked out for you! Your reference number is IHQK49W4.
+================
+I am looking to find a train. It needs to go to Cambridge and it has to leave on Monday.
+I have 202 trains travelling to Cambridge on Monday, could you be more specific on when you'd like to depart and from where?
+I'd like to depart from Stevenage after 19:45.
+I have one train departing at 19:54, one at 21:54, and the last one at 23:54. Will any of those work?
+Yes, 19:54 will be fine. I'd like tickets for 5 people.
+Congratulations! Your booking was successful with a reference number of DMEL46A6 and a fee of 64 GBP. Can I help you with anything else?
+================
+I would like to find a restaurant named Tandoori Palace. Do you know of that restaurant?
+I do. It's a very nice Indian restaurant on the West side.
+Can you give me the postcode for it please?
+The postcode is cb43le. May I help you with anything else?
+================
+Could you please find me a 4 star guesthouse
+I found Acorn Guest House would that work for you?
+Yes. Will you please make me a reservation?
+Sure. When will you check in and how long would you like to stay for? Will it be just for yourself?
+It's going to be for 8 people and 2 nights, starting Thursday.
+I'm afraid that isn't available. Could you book a different arrival day, or a shorter stay?
+What about for just one night?
+The booking is successful for 1 night. The reference number is NNA3OC5W. May I help you with anything else?

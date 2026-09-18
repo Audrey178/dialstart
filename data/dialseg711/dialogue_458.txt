@@ -1,0 +1,22 @@
+Schedule an optometrist appointment at 2 pm with Jon.
+I will schedule an optometrist appointment at 2pm with Jon, for what day?
+Monday sounds good.
+Scheduled optometrist appointment for Monday at 2 pm with Jon.
+================
+I am looking for a train departing Cambridge.
+I'd love to help! where is your destination?
+I need to g to london liverpool street on Saturday.
+Is there a particular time you would like to leave by?
+No, I just need to arrive by 15:00
+Train TR2895 arrives at 7:27 would that work?
+================
+Remind me that next week at 5pm I have tennis with Jon.
+Ok, I have I will remind you next week that you have tennis with Jon at 5pm.
+================
+Hello there. Any suggestions on a good seafood restaurant located in the centre of town?
+loch fyne is a seafood restaurant in the centre of town. It is in the expensive price range. Would that work?
+Yes, that will be fine. Could you make a reservation for 3 at 12:30 on Saturday?
+Your table is reserved for 12:30 on Saturday. Your reference number is 3L2HYBCY.
+================
+What day is my lab appointment, and who all will be there?
+Your lab appointment is set for the 4th and Jon will be there.

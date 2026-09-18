@@ -1,0 +1,24 @@
+Does the Addenbrookes Hospital have a psychiatry department?
+Yes it does. The phone number for the psychiatry department is 01223596102. Would you like to book an appointment?
+No, thanks but can you pass on the address and postcode please?
+Of course, Addenbrookes Hospital is at Hills Rd, Cambridge, postcode CB20QQ.
+================
+I'm looking for an expensive restaurant to go to.
+There are 57 expensive restaurants in the area. Do you have a food type preference or an area preference?
+What's your favorite place on the south side of town?
+Frankie and bennys is a good, expensive Italian restaurant in the south area. Would you like me to make a reservation for you?
+That would be great. Please make the reservation for 17:45 on Monday. Just 1 person.
+Okay, you're all set! Reference number is 3AP8E11K, and the table will be reserved for 15 minutes. May I help with anything else?
+================
+Will it be warm in San Mateo over the weekend?
+It is predicted to be warm on Saturday and the high on Sunday should reach 80F
+================
+I'd like a taxi to take me to ruskin gallery
+Sure! What is your departure site?
+I will depart from saffron brasserie at 7:15. What is the car type and contact number so I know who and where you will pick me up?
+Booking completed! A grey ford will be picking you up. The contact number is 07689877132.
+================
+Schedule dinner with my sister please.
+For what date and time?
+Please set it for the 15th of this month at 2pm
+Great, I have that all set up for you. Can I help with anything else?

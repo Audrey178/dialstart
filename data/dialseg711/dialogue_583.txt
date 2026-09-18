@@ -1,0 +1,46 @@
+Is there an expensive African restaurant in town.
+Yes, The Bedouin in the city centre is a good, expensive restaurant.
+Excellent! I don't need a table right now, but if you could give me the address and phone number, that would be great.
+It is located at 100 Mill Road City Centre and the phone number is 01223367660. Is there anything else I can help you with?
+================
+I am looking for a train. The train should leave on tuesday and should depart from peterborough
+There are several trains that meet that criteria. What destination are you looking for?
+I need to leave from Peterborough.
+How about TR5042 that arrives at 05:19?
+I'd like to arrive by 10:45, do you have something close to that time?
+There are several trains that meet that criteria. what time would you like to depart?
+Departure time doesn't matter, just want to arrive by 10:45 so whatever is closest to that arrival time.
+Great, I have a train that meets your criteria. Would you like me to book it for you?
+Wait, does this train go to Cambridge? That's my destination.
+Yes I have a train that arrives at Cambridge on tuesday at 10:38 would you like me to book that for you?
+Yes please book it.
+I'd be happy to help with your request, how many tickets do you need?
+Just one please.
+Booking was successful, the total fee is 16.5 GBP payable at the station. Reference number is : ORMU35RU.
+I didn't actually need to reserve a seat. Could you comfirm the departure time of that train?
+TR9620 leaves at 09:48. Do you need anything else?
+================
+i need a taxi pick up at london kings cross train station going to saigon city
+Ok, what time do you want to leave by?
+================
+I need a place to stay that is a guesthouse.
+Of course, in which area of town will you be staying?
+I want it in the west, and it should be moderately priced.
+There are 3 in the south all of them have free parking and internet. Would you like me to book a room?
+Yes, please book one for 4 people and 3 nights starting from Wednesday. I will need the reference number also.
+You're booked at the Bridge Guest House, ref# BWMDVCV1. Is there anything else I can help you with today?
+================
+I'm looking for a train going to london liverpool street.
+I'd love to help! where's your destination?
+I would like to go to London Liverpool Street.
+I'd love to help! Where are you departing from?
+I am departing from cambridge.
+How about TR5154 that leaves at 05:59?
+help me get price and train ID
+The price is 16.60 pounds. Train ID is TR5154. Would you like to make a reservation for this train?
+Not today, thank you. Does the train arrive by 09:15?
+No, it arrives at 7:27.
+Can you go ahead and book it and get me a price please?
+Before booking, could you please confirm either the time you'd like to depart or arrive?
+I need to arrive at 09:15.
+How about TR5154 which leaves on Friday at 05:59 and arrives by 07:27. It is 16.60 pounds and total trip is 88 minutes. Would you like me to book that?

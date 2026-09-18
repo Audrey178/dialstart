@@ -1,0 +1,44 @@
+what is the weather like in boston
+What day are you interested in?
+today and tomorrow.
+It will be between 40-50F on Monday and 20-40F on Tuesday in Boston.
+================
+I'm looking for a cheap place to stay that does not need free parking.
+I found 10 places, do you have a hotel style preference of gueshouse or hotel, or an area you prefer?
+I don't have a preference for the type but I would like a place in the east.
+There are three cheap guesthouses in the east area, however, they all have parking. Will this be okay, or would you like to look at a different area or price?
+It sounds fine. Do any of them include free wifi?
+All of them include free wifi.
+What's the phone number and star rating of your favorite one?
+Allenbell is my favorite. It has four stars. The phone number is 01223210353. Shall I book that for you?
+That'd be great. Thank you.
+You're welcome. How many people are in your party, and when will you arrive? Also, how long would you like to stay?
+I will book on my own, thanks.
+Is there anything else I can help you with?
+================
+I am looking for a train that leaves bishops stortford and goes to cambridge
+I have found several, is there a day and time you are looking for?
+I plan to leave this Saturday.
+Okay, is there a specific time you would like to leave or arrive by?
+I would like to arrive in Cambridge by 8:15.
+TR4162 arrives in Cambridge on Saturday by 08:07, will this suit you?
+tell me about the departure and travel time
+TR4162 departs at 7:29 and total duration is 38 minutes. Do you need to reserve a seat?
+================
+What's the route to my friends house within 4 miles?
+Toms house is 3 miles away but has a road block nearby on the route. Do you want the address?
+Yes please.
+580 Van Ness Ave, there is a road block nearby but you should be able to reach it fast anyway with the route I sent to your screen
+Then pick the route with the shortest distance and let's go there!
+Setting navigation now to Toms house.
+================
+I need a train from Cambridge to Norwich please.
+What day will you be travelling?
+I would like to depart on Sunday.
+We have 19 trains that go from cambridge to norwich on sunday. Would you like to depart at a certain time?
+I need to arrive by 12:30.
+We have the TR9533 that arrives at 11:55. How is that?
+I need the reference number, please.
+How many tickets do you want? Do you want me to book that?
+I only want one ticket please.
+Your train is successfully booked.Your reference number is 2ORNPXR6.

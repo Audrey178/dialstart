@@ -1,0 +1,36 @@
+Hi there. I'll be coming into the centre of town to visit relatives. Can you help me find a place to stay?
+I can definitely help with that. I have about 5 different hotels and guesthouses that are in the centre of town. Do you prefer a hotel or guesthouse?
+I'd like it to be expensive. 4 star rated.
+The University Arms Hotel is in the centre of town, falls in the expensive price range, and has 4 stars. Would you like to book a room?
+Can you see if it's available for 4 nights from Wednesday for 5 people
+It is available for four nights for five people! I've taken the liberty of booking these rooms for you. Is that agreeable to you?
+That's wonderful. What is the reference number for that booking?
+Can you also give me the address for the hotel
+I haven't the faintest. But do you have a reference number for the booking you made?
+8L6LVYYT is your reference number.
+================
+i am looking for a train. The train should leave on Saturday and should depart from Cambridge.
+I can help with that! Where will you be traveling to?
+Make that Tuesday. And I need to go to Stansted Airport.
+Okay, I changed the day of travel to tuesday for you. Do you know what time you might want to leave after or arrive by?
+I want to arrive by 19:30 please
+Train TR9495 arrives at 19:08. Would you like to purchase tickets?
+================
+I am looking for the Parkside Police Station. Can you help me?
+I have the phone number as 01223358966
+Ok, thanks. Could I also get the address and postal code? I need it for directions.
+Sure, I've attached the information: Address: Parkside, Cambridge; Postcode: CB11JG. Is there anything else I can do for you?
+================
+Oh, yes I'm hoping you can help me with finding a train departing out of Cambridge.
+Certainly! Where would you like to go?
+I need to go to Birmingham New Street.
+There are plenty of trains going there. What day and time would you like to travel?
+I would like to leave on Sunday afternoon after 15:00.
+I have a train leaving Cambridge at 15:01, and arriving on Birmingham new street at 17:44.
+What is the price on that train?
+The price is 60.08 pounds, payable at the station. May I help with anything else?
+================
+I'm looking for a place to go in the centre of town.
+We offer lots to do in the center of town. We have everything from boats and parks to nightclubs. Are you in the mood for anything particular?
+Do you have any suggestions? I would just need the postcode and phone number and let me know what kind of attraction you suggest. Thanks!
+If you are interested in architecture, there is All Saints Church. The phone number is 01223452587 and the postcode is cb58bs.

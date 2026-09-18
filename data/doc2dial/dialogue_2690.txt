@@ -1,0 +1,11 @@
+I want to sign up to MyDMV
+Alright, first of all have you encountered the ''Welcome to MyDMV''  page? Or being redirected to it.
+No, i haven't encountered it.
+What do i do if i have multiple email addresses?
+Oh, in that case just use the tool for each address to make sure you can retrieve your username. Happy to help.
+Thank you. What is the first step towards creating a MyDMV account?
+The first step is using the sign up link.
+If i created a MyDMV account previously but i don't remember the username, where can i recover it?
+You have to click the ''Forgot your username'' button to get a list of al of your NY gov ID Usernames by using your email
+Is the '' Forgot your Password '' button in the same page? Or do i have to go elsewhere to recover my password.
+Oh, it is in the same page next to the ''Forgot your username'' button.

@@ -1,0 +1,19 @@
+take me to the nearest hotel
+I am setting GPS for the nearest hotel which is a Travelers Lodge 4 miles away at 333 Arbol Dr and there is a nearby road block.
+Please direct me via a route with the least heavy traffic.
+The current route is the only one that I have available to Travelers Lodge
+Then let's go there through this route, thank you car!
+Current route plotted to Traveler's Lodge, is there anything else you need?
+================
+Will the weather be warm in Menlo Park on Sunday?
+The highest temperature on sunday is 30F in menlo park
+================
+Oh my God, I've just been robbed! I need the police please! Help!
+The Police are located in Parkside Cambridge and the telephone number is 01223358966.
+Is this the emergency number to call?
+Yes, it is the direct number to the police for help. Do you want me to transfer you to the police?
+No, that's ok. Thank you!
+Do you need any further assistance?
+================
+I'd like for a taxi to take me to autumn house from travellers rest
+Sure thing! What time do you want to leave?

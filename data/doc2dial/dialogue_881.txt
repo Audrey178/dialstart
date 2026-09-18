@@ -1,0 +1,18 @@
+Can you please tell me how I can obtain my military service records?
+You can submit a military records request to get your DD214 or other military service records through the milConnect website.
+================
+How do I sign in to milConnect to get my military service records?
+Do you have a Premium DS Logon account?
+I do not.
+================
+Can I have another person request my military service records for me?
+If the person is not your next of kin and you were discharges more than 62 years ago, they can order a copy of your military records.  The National Archives opens all records to the public 62 years after discharge.
+================
+Are there other ways to get my military records?
+Yes, there are other ways.
+================
+If I can get signed in to milConnect, how do I request my DD214 or other records?
+If you are on the signed-in homepage, click on Correspondence/Documentation.  Then select Defense Personnel Records Information DPRIS from the drop-down menu.  choose the Personnel File tab.  Fill out that form.  Then in the Document Index section you should check the boxes next to the document you are requesting and click the Create and Send Request button.
+================
+Ok, thank you, but what happens after I request my military records?
+You will then receive an e-mail letting you know we are processing your request and a second e-mail when  your request is complete and your files are ready for you to view and download.

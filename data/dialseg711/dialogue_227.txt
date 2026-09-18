@@ -1,0 +1,23 @@
+Where is the nearby hospital?
+Stanford Childrens Health is the only hospital.
+Give me the address to Stanford Childrens Health.
+Stanford Childrens Health is at 899 Ames Ct.
+================
+remind me about the date and time that he was going to be there and what the agenda is for his business meaning
+================
+search for nearby starbucks
+There is no Starbucks nearby.
+How about other coffee?
+There is a coffee place 2 miles away. Do you need the address and name?
+Yes, please, send those info on my screen and pick a quick route to go there, thank you!
+Philz is a coffee shop located at 583 Alester Ave. Setting your GPS for the quickest route possible now.
+================
+I need an expensive restaurant in the centre.
+Great! There are a lot of tasty choices. Are you in the mood for a specific type of food?
+Yes Indian sounds good to me!
+I have many to choose from. What about The Saffron Brasserie?
+Yeah, that sounds great. Would you reserve me a table for 4, Friday at 13:15 please?
+Booked, your table will be held for 15 minutes. Your reference number is GBPIJP33.
+================
+Please give me the address and directions to a gas station near my current location, avoiding all heavy traffic.
+The nearest gas station is Chevron that's located 2 miles away at 783 Arcadia Pl. In this moment there is moderate traffic on our way, I sent all the details on your screen

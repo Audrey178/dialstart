@@ -1,0 +1,28 @@
+I need a taxi. I'll be departing from la raza.
+I can help you with that. When do you need to leave?
+I'd like to leave after 11:45 please.
+Where will you be going?
+I'll be going to restaurant one seven.
+I've booked for you a black Volkswagen, the contact number is 07552762364. Is there anything else I can help you with?
+================
+I am looking to book a train. I need to leave Cambridge and go to London Liverpool Street.
+No problem, I have many options for you. Do you have a particular day of the week you would like to travel, or time?
+yes. i should leave after 13:45 and should leave on thursday
+I have a train leaving Thursday at 13:59, would you like me to book it for you?
+Could you tell me when the train arrives in London Liverpool Street?
+That train arrives at 15:27. Would you like me to book it for you?
+yes pliz.may i also get the arrival time
+The arrival time is by 15:27, do you want to book a seat?
+================
+I'm trying to find out where the Parkside Police Station is. Can you help me?
+It is on Parkside in Cambridge, Postcode CB11JG. The telephone number is 01223358966. Is there anything else I can help you with?
+================
+looking for a train going to Cambridge.
+What day and time are you wanting to travel?
+I am leaving on Sunday and need to arrive by 13:00
+How about TR3350 that leaves at 05:17?
+you can book it. get me the reference number too
+W8YHJKSV is the reference number
+================
+I'm looking for a police station, I think it's called "Parkside".
+There is a Parkside Police Station with a CB11JG Postcode, and its Telephone is 01223358966.

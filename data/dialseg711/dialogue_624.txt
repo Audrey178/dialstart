@@ -1,0 +1,42 @@
+I need some help finding a train. I'm going to Cambridge on Tuesday.
+Certainly. Where are you departing from?
+I's sorry, I meant to say LEAVING from Cambridge on Tuesday, heading to King's Lynn. I need to arrive by 16:00.
+There are eleven trains that will get you there by then, for how many people?
+What is the cost per ticket?
+The price is $9.80 pound per ticket. Would you like to book it?
+Okay thank you very much.
+We are happy to help. Can I assist you with anything else?
+No, that's everything.
+I'm sorry, I may have misunderstood. The train hasn't been booked yet, should I book it for you now?
+Sure, go ahead. Thank you.
+Alright, you're booked. Anything else you need from me?
+No, that's all, thank you!
+How many people will need a ticket for the train?
+================
+what's the forecast for the weather today
+What city would you like to know today's forecast for?
+Tell me Redwood City's forecast today, if it's going to be windy or not?
+It is not predicted to be windy in redwood City today.
+================
+I need a train that leaves on tuesday and should depart from cambridge.
+I'm finding many trains departing from Cambridge on Tuesday. What is your destination?
+I am going to Peterborough and want to arrive by 13:30.
+I have a train that departs Cambridge on Tuesday at 12:34 and will get you to Peterborough at 13:24 exactly. Would you like me to book that seat for you?
+Yes, please! I need 6 seats.
+Booking was successful, the total fee is 99 GBP payable at the station . Reference number is : NH7GXPVA.
+================
+I'm trying to find an Irish restaurant that can provide me with some unique fine dining. I expect this to be expensive, can you give me some options?
+I do not have any expensive Irish eateries, could we try something else?
+Any European restaurants? Cost doesnt matter.
+There are 5 restaurants Eraina is available in the centre of town.
+Can you recommend me one that's expensive? And book the table for 6 people at 14:00 on tuesday. Thanks!
+Okay I was able to book you at Eraina at 14:00 on Tuesday for 6 people. your reference number is 2OCXGNUP.
+Thank you so much. Have a great day!
+Would you like the address for the restaurant?
+================
+Hello, I am looking for some entertainment.
+We've got plenty of attractions all around the city, is there a particular area you were looking at?
+Nothing in particular. What do you recommend?
+I recommend nusha in the south.
+Awesome, could you please give me their phone number?
+Sure, their phone number is 01223902158. Is there anything else I can help you with today?

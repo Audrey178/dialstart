@@ -1,0 +1,38 @@
+Hi, I'd like to find a train from Cambridge to Leicester.
+Certainly, there are many trains going that route. Can you specify which day you'd like to travel?
+I would like to travel on Saturday.
+I've got a full schedule of trains going that route on Saturday. Do you have a preferred time to leave or get there?
+I'd like to arrive by 13:45.
+I have a train that arrives at 13:06. Will this do for you?
+Yes that would be perfect. Could I have the price and departure time?
+Yes the departure time is 11:21 and the cost of the journey will be 30.24 pounds.
+Great, thanks for your help!
+Not a problem! Do you need anything else?
+================
+Yes, I am attending a physician's conference and need to locate a room for tonight.
+Do you have a area or price preference?
+I am looking for a place with free wifi, doesn't need parking, and expensive price range
+I have 5 hotels that fit your criteria, are you looking for a particular area or number of stars?
+No particular area. I would definitely want a moderate priced room though.
+A and B Guest House fits your criteria. It's a 4-star guesthouse on 124 Tenison Road. Are you interested in booking there?
+Yes. I need it for 6 people for 5 nights starting on Friday.
+I'm sorry, but it's not available for your references. Would you like to try a different day or fewer days?
+Can I get it for 1 night, then?
+Yes, I've reserved you for one night.
+May I have the booking reference number, please?
+The reference number is EV6UDNPJ. Anything else you need?
+================
+I want to book a taxi to leave after 09:15 at Old Schools.
+I can help you with that. where are you going?
+I'll be going to royal standard.
+Great news! I was able to book a red Volvo for you.
+That is great news. May I have the contact number, too?
+The contact number for the Volvo is 07321527336. Do you need any other tourist bookings?
+================
+i am looking for a nearby hospital with the neurosciences critical care unit department
+phone them through 01223216297
+Thanks, I also need the address and phone number.
+Addenbrookes Hospital is at Hills Rd, Cambridge in postcode CB20QQ. Their general phone number is 01223245151 and the Neurosciences Critical Care Unit's number is 01223216297. Can I help with anything else?
+================
+Schedule a dentist appointment with my aunt on the 4th at 6pm.
+I will schedule a dentist appointment with your aunt on the 4th at 6pm.

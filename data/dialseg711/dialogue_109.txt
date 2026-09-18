@@ -1,0 +1,28 @@
+Hello, I'm looking for information on the Alpha-Milton Guest House.
+Alpha-milton guest house is in the north part of town, in the moderate price range, 3 stars rated, and has no internet or parking
+Can you make a reservation for me for 8 people for 5 nights starting on Thursday.
+I was able to successfully book that for you. Your reference number is MXWS56BV. Is there anything else I can assist you with?
+Nope, that'll do it! Thank you for all your help!
+Thank you for using Cambridge TownInfo centre.
+================
+what will the weather be like in the city
+What city are you wanting the weather for?
+Will it be foggy in Exeter over the next 7 days?
+The forecast for Exeter calls for clouds on Saturday.
+================
+I am in need of a train that can arrive by 12:45 an leave on Saturday.
+There are 150 trains that match your requirements. What is your destination, and from where are you traveling?
+I want to get to Norwich please.
+There is a train that arrives at Norwich at 10:55. Would you like to book that?
+Does it depart from Cambridge?
+Yes, the train goes from Cambridge to Norwich on Saturday. It departs at 9:36 and arrives at 10:55. There is also a train that arrives at 11:55 on the same route.
+Let me get the train ID and price for the one arriving at 11:55.
+The train ID is TR9588 and the cost is 14.08 pounds. Can I book that for you?
+================
+what's the temperature going to be like today and tomorrow
+What city can I give you the temperature information for?
+Seattle please
+Seattle will be seeing temperatures between 50-60F on Monday, and 60-70F on Tuesday.
+================
+Please find for me the location of Addenbrookes Hospital.
+Is is located on Hills Rd in Cambridge. Postcode: cb20qq.

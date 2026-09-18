@@ -1,0 +1,34 @@
+Hello! I'd like a train to Leicester, please. I want to arrive by 9:30.
+What day would you be leaving?
+I need to leave cambridge on tuesday.
+The TR2863 leaves Cambridge at 07:21 and arrives in Leicester at 09:06, costs 37.80 pounds and has a travel length of 105 minutes. Shall I book it for you?
+No, I just needed the information, thank you.
+Ok have a safe trip.
+================
+I'm looking for an expensive Indian restaurant. Can you help me with that?
+Sure, I can help you with that. There are 14 choices. Did you have a certain area in mind?
+I need the town centre.
+I have 6 different Indian food restaurants available. Might I suggest Curry Queen. It is the most highly rated in the area.
+Certainly, sounds good. Could you just get me the address and postcode?
+The Curry Queen is located at 5 Jordans Yard Bridge Street City Centre, and the postcode is cb21ug, would you like me to book this restaurant?
+================
+I need to be picked up by a taxi at la margherita today sometime today after 14:00
+Ok where is your departure site?
+I'm leaving the la margherita.
+You are booked. Your car is a yellow audi and your contact number is 07421829709
+Thank you very much!
+Happy to help! Is there anything else I can do for you?
+================
+I am looking for a restaurant in the centre of town serving italian food.
+There are 9 available. What price range do you prefer?
+II'd like a moderately priced place.
+There are two in that price range. I suggest Pizza Express!
+That sounds good enough. What's the address there?
+The address is Regent Street City Centre. Would you like me to book a table?
+================
+I need to find a place to stay in the east part of town with free parking.
+There are 6 places to stay in the east part of town with free parking. Do you have a preferred price range?
+I don't have a preferred price. I'm looking for any sort of guesthouse there and absolutely require wifi access.
+The Allenbell is on the east side of town, is a guesthouse type, and has parking and wifi. Would you like me to book it?
+Yes, please book it for 5 people and 3 nights, starting from Monday.
+Booking was successful. Your reference number is : 7NWCZEP1.

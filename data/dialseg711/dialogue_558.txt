@@ -1,0 +1,26 @@
+take me to the nearest hotel
+the nearest hotel is the westin, 3 miles away
+Give me directions.
+Navigating you to The Westin.
+Give me the address.
+The Westin is at 329 El Camino Real.
+Thank you car, just pick the fastest route and let's go there
+The fastest route has moderate traffic. Setting GPS now.
+================
+I would like for a taxi to take me to london liverpool street train station, arriving no later than 17:45 please
+I can book that for you, first I'll need to know where you'd like picked up at.
+I would like to depart from London Kings Cross Train Station.
+A white Toyota is booked for you.
+Excellent, can I get a contact number please?
+Of course. The contact number is 07689939820. Can I help with anything further?
+that's great. thanks
+I would like a taxi to take me to London liverpool street train station
+================
+What day and time do I need to take my meds?
+================
+I need a train on Tuesday, leaving from London Kings Cross.
+There are 10 trains leaving London Kings Cross on Tuesday. What time would you like to depart?
+Around 08:00 and departing for Cambridge.
+There is a train leaving at 9:17. Does that work?
+That should work fine can I get tickets for 6 people?
+I have booked the train for 6 people. 141.6 GBP is payable at the station. The reference number is OFA93O2T.

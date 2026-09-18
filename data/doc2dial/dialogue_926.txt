@@ -1,0 +1,21 @@
+I wanted to learn more about my VA disability rating
+We can help you learn about VA disability ratings and how we assign your rating .
+Can you help with my ratings because I have two disabilities and want to know more about how you do it?
+================
+can you help me with a scenario where I would have three disabilities?
+Look at the example on the combined ratings table, which I can link you to if you need it. If we added a third disability rated at 10 % disabling to our example , we would take your combined value of 65 and look for that number in the left column of the combined ratings table. We would then look for 10 in the top row and find the number where the left column and top row meet. In the example, that number would be 69.
+================
+what do you do first to calculate my combined rating?
+We start by putting your disability ratings in order , from highest to lowest percentage
+Do you want me to give you an example ?
+yes
+Okay, If you had 2 disabilities rated as 50 % disabling and 30 % disabling we would rank them in this order : 50 % , then 30 %
+================
+I got it, but what is a disability rating really?
+We assign you a disability rating based on the severity of your disability .  We express this rating as a percentage , representing how much your disability decreases your overall health and ability to function. We then use your rating to determine your disability compensation rate , so we can calculate how much money you will receive from us each month . We also use your disability rating to help determine your eligibility for other benefits.
+================
+and on that 3 disabilities question I asked , what would you round it to?
+We would then round this number up to 70 %, the rounding stays the same
+================
+do you have more info on disability compensation I can look at?
+We have a video,  YouTube Compensation 101 :What is disability compensation ?

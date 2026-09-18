@@ -1,0 +1,19 @@
+can you give me directions to the nearest starbucks
+I do not have a Starbucks nearby, but there is a Philz coffee and tea place 2 miles away, would you like more information?
+Yes, please, check if there is a route with no traffic and send me its address on the screen
+Unfortunately Philzis the only coffee or tea place that I can find. It is located at 583 Alester Ave, there is heavy traffic on this route
+================
+I need to see the Dentist this month the 6th at 7pm with Jon.
+Okay, scheduling a dentist appointment with Jon for the 6th at 7pm.
+================
+I'd like to book a taxi from Ask, departing after 19:15.
+Could you tell me where your destination will be?
+I need to go to rice house.
+Could you tell me when you would like to arrive at Rice House?
+It doesn't matter when I arrive at Rice House as long as the taxi leaves after 19:15.
+You will be picked up by a black ford and the contact number is 07635928440. Anything else?
+================
+When is my football activity and who is going with me?
+================
+Tomorrow I'm going to go in Inglewood: will I find clear skies there?
+It will be overcast in Inglewood tomorrow.

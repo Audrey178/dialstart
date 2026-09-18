@@ -1,0 +1,27 @@
+Will there be dew in Brentwood this week?
+There is no dew in the forecast for Brentwood this week.
+================
+There's some disagreement about what to do about a car accident. Can you help me with that?
+Of course, I can get you the contact information for Parkside Police Station if you'd like.
+I would like the address and postcode please.
+Okay the address is Parkside, Cambridge and the postcode is CB11JG. Anything else you need?
+================
+I am looking for a place to stay. The hotel should have a star of 0 and should be in the type of hotel
+I found the cityroomz hotel in the centre part of town. Would you like to book a room?
+The hotel should include free wifi and doesn't need to have free parking.
+Cityroomz has free wifi and does not offer free parking. Do you want me to book it for you?
+yes.book for six people and six nights. remember to also give me the reference number
+What day would you like the reservation to start?
+it needs to start on wednesday, please.
+Sorry, I was unable to complete the booking. Would you like to try booking for a shorter stay or for another day?
+How about for 5 nights?
+your booking was successful. is there anything else i can help you with?
+Actually I need the reservation to be for 4 nights, 6 people, starting from wednesday. Could you change the reservation for me please?
+No problem, I was able to book that for you and your reference number is VA5JADCK. Is there anything else I can do for you?
+================
+There's been a traffic accident and I need some help resolving a dispute about it.
+Sure! I think you'll need the police. Their contact number is 01223358966.
+Thank you so much. Do you have their address?
+Their address is Parkside, Cambridge
+================
+What time is my lab appointment and what party is attending?

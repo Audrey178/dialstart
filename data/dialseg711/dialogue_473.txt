@@ -1,0 +1,29 @@
+I'm trying to find the Parkside Police Station please.
+Their contact number is 01223358966, and they are located in postcode CB11JG.
+Thanks, what is the address?
+The address is Parkside, Cambridge.
+================
+Good Afternoon. I am trying to find an Indian restaurant to eat at. I would prefer something expensive. Can you help me?
+There are several Indian restaurants to choose from. What area of town would you like?
+I would like it to be in the center. I will need a number, address and postcode.
+The Curry Garden is good. It is located at 106 Regent Street City Centre, postcode cb21dp. The phone number is 01223302330. Would you like me to reserve it?
+Thank you for all that information. Yes, I would like to make a reservation.
+Great, when would you like the reservation and for how many should I reserve it for?
+Yes, I would like a reservation for one please.
+What day and time would you like to go?
+I've changed my mind, I don't want to book it yet. Can you give me the area, address, and phone number, please?
+Certainly. Curry Garden is in the city centre at 106 Regent Street City Centre. The phone number is 01223302330. What other information can I get for you?
+================
+I need the quickest route to a coffee shop.
+There is Philz which is currently 4 miles away from your current location.
+Is there a quick route to reach it?
+Yes there is a short route, plotting the shortest route now.
+What's the address of the location?
+Philz is at 583 Alester Ave, 4 miles away in heavy traffic. Setting navigation now
+================
+I'm looking for a restaurant. The restaurant should be in the centre and should be in the cheap price range.
+I have 2 asian oriental and 3 chinese places that fit your requirements. Do you have a preference?
+Are there any italian ones?
+There are 3 cheap italian restaurants in the centre, including a Pizza hut. Do you have any preferences?
+No, I don't have any preferences. The Pizza Hut sounds good, can I get their phone number and postcode?
+Sure, they can be reached at 01223323737 and are in the cb21ab postcode. Anything else I can help you with today?

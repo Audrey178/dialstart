@@ -1,0 +1,28 @@
+I'd like to find a train from Leiceter on Saturday.
+Where will you be heading?
+I am going to cambridge and need to leave after 12:00
+The TR7248 leaves at 12:09, would you like a ticket on that train?
+I don't need to book just yet. But can I get the arrival time and price per ticket.
+Yes the train arrives in Cambridge at 13:54 and the total cost of the journey is 30.24 pounds.
+================
+Please, I need to find a hospital in town, will you please help me?
+Addenbrookes Hospital is a great choice, their address is Hills Rd, Cambridge
+What is the phone number?
+The phone number to Addenbrookes Hospital is 01223245151. Is there anything else I may assist you with today?
+What is their address?
+Their address is Hills Rd, Cambridge Postcode : CB20QQ. Is there anything else I can do for you?
+================
+is there a chance of snow in this weeks weather forecast
+what city do you want the weather for?
+San Francisco.
+There is a chance of snow in San Francisco on Thursday and Saturday.
+================
+Can you find me a hospital with a gastroenterology department around here?
+gastroenterology hospital phone number is 01223274284
+Thank you, what is the address and postcode?
+The address is Hills Rd, Cambridge and the post code is CB20QQ. Is there anything else?
+That's all the information I was looking for today. Thanks for your help.
+Great! Have a nice day!
+================
+Will it be humid in Inglewood during the next few days?
+Today is dry, Wednesday will have clear skies, and there will be drizzle in Inglewood on Tuesday.

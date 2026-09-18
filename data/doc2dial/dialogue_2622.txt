@@ -1,0 +1,15 @@
+Hey, I came here to learn more about modifications done to vehicles that change the class of the vehicle. I'm not sure when that is the case. Can you please explain how it works?
+================
+Are you modifying a pick-up truck?
+Yes, I wanted to modify my good old pick up.
+In that case you can register a pick-up in the 'passenger' class if it meets certain conditions, depending on its unladen weight.
+Does your modified or unmodified pick-up truck have an unladen weight less than 6,001 lbs?
+Yes, that is the case.
+Then you can register it in the 'passenger' class if the pick-up truck does not have any business advertisements and it is used exclusively for non-commercial purposes.
+================
+I see.  I happen to also own a van. What if I install seats behind the driver in a van?
+In that case you must also install seatbelts that meet NY State Occupant Restraint Law requirements. These modifications must be permanent.
+That's good to know. Let's talk more about vans, shall we?
+Sure. You can register a van in the 'passenger' class if the van has at least one side window behind the driver, and at least one seat or set of seat fittings that is installed behind the driver.
+What if I plan to install additional seats behind the driver?
+Then you must also install seatbelts that meet NY State Occupant Restraint Law requirements. These modifications must be permanent.

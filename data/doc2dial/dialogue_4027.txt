@@ -1,0 +1,14 @@
+who is Aidan?
+It is a virtual assistant that can answer questions about federal student aid. Aidan uses advanced technology, artificial intelligence, and natural language processing to answer your questions.
+================
+Would you like to know what types of questions Aidan can help you with?
+yea give me an example
+================
+Did you have any common financial aid questions?
+yeah, what can you help me with?
+You could type: "What kind of grants are available to pay for college?" , to get an answer.
+Is that the type of question you wanted to ask?
+not really, but I get how it works
+================
+what else can he answer?
+You can find out your current loan account balance, learn more about grants, or get help contacting your loan servicer.

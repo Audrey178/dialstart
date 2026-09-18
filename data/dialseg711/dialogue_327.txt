@@ -1,0 +1,28 @@
+am looking for a restaurant. The restaurant should be in the west and should be in the cheap price range
+I have two choices in that area and price range. Would you prefer Italian or Vietnamese?
+I would prefer Vietnamese.
+Thanh Binh is a cheap Vietnamese restaurant in the west. Shall I book a reservation for you?
+Yes please. I'd like it to be for Tuesday at 12:00.
+How many people should I make the reservation for?
+There will be 7 of us.
+The booking was successful and your table will be reserved for 15 minutes. Your reference number is KH5F18TN. Anything else I may assist you with?
+================
+Can you help me get a taxi to pizza express Fen Ditton?
+Sure! Where do you want to depart from?
+I want to depart from sidney sussex college.
+Great. Now I'll just need a time from you please.
+I can't leave until after 11:45 please.
+Ok, you will be riding in a black bmw, the contact number is 07196618284, is there anything else I can help you with today?
+================
+I seem to have injured myself and need a nearby hospital.
+Addenbrookes Hospital is located on Hills Rd. The phone number is 01223245151.
+OK, great, thanks. I suppose I should grab the address and postal code to so I don't get lost on the way there.
+Sure, their phone number is 01223245151 and their postcode is CB20QQ. Can I help you with anything else today?
+================
+I need to book a taxi. I need it to arrive by 19:15 to go to park side pools.
+Okay, could you tell me where you would like to depart from?
+I would like to depart from A and B Guest House.
+I have your taxi scheduled. The car type is a black Volkswagen, contact number 07057340221. How else can I help you?
+================
+tell me the time of today's meeting
+the meeting is at 7pm

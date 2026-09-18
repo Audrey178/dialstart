@@ -1,0 +1,16 @@
+Hello I need information about how to change a record from the 'Passenger' class to the 'Commercial' class
+================
+do you want to register a car?
+Yes
+You can register a car in the 'Commercial' class if all the seats behind the driver are removed. Instead of the seats, you must install a permanent box or permanent shelf to transport the load.
+================
+I would also like to know how to register collection trucks?
+You can register a pickup in the 'Passenger' class if it meets certain conditions, depending on its empty weight
+And it doesn't matter if my truck is modified?
+If your modified or unmodified pickup truck has a curb weight of less than 6,001 lbs. , you can register it in the 'Passenger' class if it meets the following conditions:    the truck doesn't have any commercials    the van is used exclusively for non-commercial purposes
+================
+and is it very necessary that the modifications be permanent?
+of course These modifications must be permanent. If you use a van or light truck without the required modifications, then you must register it in the 'Commercial' registration class.
+================
+and what modifications are very necessary?
+For all vehicle modifications, you must obtain a vehicle weight receipt. You can get vehicle weight slips on most vehicle and / or metal scrap yards and at some auto parts and mechanic stores, especially those specialized in vehicle modifications and body / equipment sales and installation.

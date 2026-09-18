@@ -1,0 +1,32 @@
+what is the temperature going to be like this week
+What city can I give you the weather forecast for?
+Fresno please
+In Fresco on Monday it will be between 70-80F, Tuesday 70-90F, Wednesday 20-40F, Thursday 90-100F, Friday 20-40F, Saturday 80-90F, and Sunday 20-40F.
+================
+I'd like to find some place to go on the east side of town.
+I can certainly suggest something for you. I have 10 options. Do you prefer an entertainment venue, or perhaps a museum or park, etc?
+I would prefer just anything in the east, can you give me the address and attraction type of one?
+No problem. How does the Funky Fun House sound? It is standard entertainment and it is located at 8 mercers row, mercers row industrial estate.
+================
+Is the weather going to be dry in Brentwood on Wednesday?
+No, the weather in Brentwood will be hot on Wednesday
+OK, but will there be rain, or will it be dry?
+The weather forecast does not specifically say it will be dry in brentwood, but it does state it will be hot, the low will be 60F and the high will be 70F
+Awesome, thank you
+You're welcome!
+================
+Hi, I'm looking to book a train ticket to Liverpool Street station in London. Are there any that depart at or around 18:00?
+There is a train departing Cambridge at 17:59 on Wednesday.
+I'm actually looking for one on Friday. Are there any that will arrive by 18:00 at Liverpool on Friday?
+There is train leaving for Liverpool Street at 5:59 on Friday arriving at 7:27. Would you like to book a seat?
+Yes and can you tell me the price of the ticket?
+It would be 16.60 pounds
+Thank you, that will be all.
+Okay, have a great day
+================
+Help, I was robbed. I need to contact someone.
+Oh no! Call the police at 01223358966.
+Thank you. What's the post code?
+The postcode is CB11JG. The location is Parkside, Cambridge. Do you need any other help?
+I should be okay with their help. Thank you so much.
+You are most welcome. Don't hesitate to callback.

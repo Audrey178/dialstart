@@ -1,0 +1,34 @@
+I'm looking for a train please.
+Ok I can assist you with that. Where will you be departing from?
+I will be leaving from Cambridge.
+I found more than 1,000 trains. Do you have a destination in mind?
+I need to go to Birmingham New Street.
+Thanks. And what day will you be traveling, please?
+Monday is the day I plan to travel
+these is the schedule for that day
+I need a train going to birmingham new street leaving on monday. The train is going to cambridge leaving after 18:30.
+TR3283 leaves Cambridge at 19:01 and arrives at birmingham new street at 21:44. Do you want a booking?
+Yes. Thank you.
+Is it one ticket you need or more?
+Just one ticket please.
+Booking was successful, the total fee is 75.09 GBP payable at the station. Reference number is : BP0P7TU6.
+================
+Good Morning, I am looking for a place to on the east side that has entertainment
+Ok, cherry hinton hall and grounds is in the east side of town. Would you like the address?
+Yes, and the postcode please!
+cb18dw is their postcode.
+================
+I'd love to find an Asian Oriental restaurant. Something moderately priced.
+May I recommend yippee noodle bar, located at 40428 King street in the centre of town?
+That's perfect, thank you!
+Is that all? Would you like be to book? Anything else you need?
+Yes please book it for 3 people on Sunday at 14:45 please.
+I apologize but there were no openings for that time. Would you like to try another day or time?
+Yes, could you try 13:45?
+Your booking was successful. They will reserve your table for 15 minutes, and your reference number is Q9J4799I. Can I help you with anything else today?
+================
+Set a reminder for optometrist appointment on the 15th at 6PM with Marie.
+Okay, i am scheduling a optometrist appointment with Marie on the 15th at 6pm for you now.
+================
+Am injured and are looking for a hospital nearby it should have the children's surgical and medicine department
+Here is the information for Addenbrookes Hospital Telephone:01223245151 Address :Hills Rd, Cambridge Postcode :CB20QQ specifically, children's surgical and medicine:01223217250 Thank you.

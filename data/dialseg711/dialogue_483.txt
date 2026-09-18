@@ -1,0 +1,30 @@
+Hello, I'm looking for an expensive indian restaurant.
+What area would you like to dine in?
+Area doesn't matter. Can you pick one to recommend?
+If you'd like to eat in the city center, I recommend the curry garden. Their phone is 01223302330. Can I book you a table?
+Yes, can you please book a table for 1 for 17:15 on Thursday. Could I have the reference number please?
+Booking was successful, your table will be reserved for minutes, and your reference number is J37KC1PB. Anything else I can help you with?
+================
+what is the weather forecast in the city
+What city should I check the weather forecast for?
+Boston
+For what day would you like the forecast in Boston for?
+the next 7 days
+In Boston, it will be clear and humid Monday and Tuesday, snowy and windy Wednesday and Thursday, hot on Friday and Sunday, and drizzling on Saturday.,
+================
+I'm looking for information about a restaurant named the golden wok.
+Golden Wok is a moderately priced Chinese restaurant in the North part of Cambridge. Would you like more information?
+Could you book me a table for 5 on Saturday at 12:00?
+A table has been booked and will be held for 15 minutes. The reference number is 67II8018. May I help you with anything else?
+================
+what's the weather like this week
+What city would you like to know the weather for?
+I would like to find out if it will be dry this week in new york
+It will not be dry all week - there could be rain on Monday, Tuesday, Thursday, and Friday.
+================
+Is it possible to get any Greek food in the centre part of town?
+Sorry, I'm showing no results for Greek restaurants. Any other foods you'd like to have?
+What about Chinese food?
+Charlie Chan has some great reviews.
+book a table for 8 people at 19:00 on wednesday.
+Your booking was successful. The table will be reserved for 15 minutes. Reference number is : 1J6Y65LW.

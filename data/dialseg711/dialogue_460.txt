@@ -1,0 +1,46 @@
+I am looking for train going to cambridge please.
+Where are you planning to depart from?
+I would like to leave from the birmingham new street station please. On a Saturday.
+Okay, what time do you need to leave by?
+I need to arrive by 16:45, departure is not as important.
+How about TR3415 that arrives at 08:23?
+you can book it please. get me the reference number too
+Reference number is : PA6L738Y.
+Thank you for your help
+welcome. at your service next time
+Sorry, I should have specified but the booking needs to be for 3 people
+Booking was successful, the total fee is 180.24 GBP payable at the station for 3 tickets. Reference number is : 0UP7SB1H.
+Perfect. Thank you so much! Have a great day!
+You are quite welcome. Is there anything else I can assist you with today?
+================
+check the weather for the 7 day forecast
+What city shall I retrieve the 7 day forecast of?
+Manhattan, please.
+The forecast for Manhattan for the next 7 days is Monday, clear skies, low of 70F and high of 80F, Tuesday lowest temperature of 70F and high of 90F, Wednesday rain with low of 30F and high of 50F, Thursday drizzle with low of 30F and high of 40F, Friday hail, low of 60F and high of 70F, Saturday rain low of 40F and high of 60F and sunday lowest temperature low of 60F and high of 70F
+================
+I am looking for a place to stay. The hotel should be in the expensive price range and should have a star of 0
+Unfortunately I am not finding any hotels matching your criteria, would you like me to look for three star hotels?
+how about a star of 0?
+Sorry, still zero matches. Perhaps some other criteria?
+Ok how about a cheap priced hotel, free wifi would be a plus.
+El shaddai is a cheap guesthouse with free wifi and parking. Does this suit your needs?
+Yeah. Can you help me book it please? It'll be for 8 people
+How many days will you be staying, and what day will you be arriving?
+2 nights for 8 people starting on sunday.
+Booking was successful. Reference number is : E69CNU30. Is there anything else I can help you with?
+================
+What is the date of my optometrist appointment and who will be attending it?
+Two optometrist appointments are scheduled; one on the 12th with father and one on Saturday with Tom.
+================
+Hello, I am looking for a place to stay that includes free wifi. I would also prefer it to be in a guesthouse
+There are a number of options in Cambridge. What area would you prefer to stay in? Price range?
+The area isn't too important. But I would like something expensive.
+Unfortunately I can't find any that are expensive. Let's try a different price range.
+moderately priced would be fine.
+How about the Archway House? It's a 4-star moderately priced guesthouse with both free wifi and parking. Would you like to book a room?
+Yes, can you book that for 7 people on Saturday?
+How many nights?
+We'd like to stay for 2 nights, please.
+Booking was successful! Can I get anything else for you?
+Is there a reference number with that?
+Yes, that'll be O6F5S5XY.

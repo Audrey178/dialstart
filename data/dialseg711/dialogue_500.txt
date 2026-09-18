@@ -1,0 +1,34 @@
+Can you help me book a taxi to lan hong house, please?
+Sure thing, when you like to leave by?
+I need to get there by 7:00.
+Ok, what is your departure site?
+I'm departing from alexander bed and breakfast.
+A black audi will be arriving to pick you up. Their contact number is 07706975524. Thank you!
+Great, thank you!
+Thank you is there anything else?
+================
+I would like a restaurant in the centre and in the moderate price range.
+The Yippee Noodle Bar is a moderate priced Asian Oriental restaurant. Does that sound good?
+No, the restaurant should serve modern european food.
+Sure I have at least two choices for you. One is the De Luca Cucina and Bar and the other is the Riverside Brasserie. Both are located in the center. Would either of them interest you?
+Let's try the Brasserie.
+If you'd like a reservation I will need to know what day and time you'd like your reservation and how many will be in your party.
+Just 1 person at 13:15 on thursday
+You're all set your reference number is IVGZLYTZ
+================
+I want to book a train for Friday.
+OK, what are your departure and arrival stations, and what time are you traveling?
+I want to go from Cambridge to London Kings Cross on Friday.
+Is there a time you would like to leave by or arrive by?
+Yes, I'd like to arrive by 10:15.
+TR8026 arrives at 7:51 and TR2000 arrives at 9:51. May I book one of those?
+I'm not looking to book at the moment, can I just get the travel time and price for TR2000? Thanks!
+Sure travel time is 51 minutes and total cost of the ticket will be 23.60 pounds. Anything else I can help you with?
+================
+check the weather for today
+Where are you located?
+I am in San Mateo.
+Today in San Mateo is gonna be drizzle, with low temperature of 20F, and high of 40F
+================
+Can you help me book a taxi please?
+Yes what is your departure site?

@@ -1,0 +1,22 @@
+please give me directions to 5677 springer street
+5677 Springer Street is 1 mile away.
+================
+I have been robbed and need to know how I can get help.
+The police station in parkside can help. Their telephone is 01223358966 with their postcode being CB11JG.
+================
+I'd like a restuarant with Asian Oriental food located in the centre, please.
+The dojo noodle bar is a cheap restaurant serving asian oriental food in the centre. Would you like to book at this restaurant?
+That sounds perfect. I don't need a reservation though.
+Anything else I can do for you?
+Yes, could you just give me the contact information for the restaurant? Phone, address and postcode?
+Sure the Phone 01223363471, address 40210 Millers Yard City Centre and postcode cb21rq for dojo noodle bar. May I help with anything else?
+================
+Am looking for the nearest police station
+The Parkside Police Station address is Parkside, Cambridge, postcode CB11JG. Their telephone number is 01223358966.
+================
+take me to a chinese restaurant
+There is a Panda Express 1 mile away. Would you like the address to it?
+Yes please give me the details of this location
+Panda Express is located at 842 Arrowhead Way, 1 mile away.
+Please give me the fastest route.
+There is moderate traffic now but you should be able to get there in a few minutes

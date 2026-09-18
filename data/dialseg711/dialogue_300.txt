@@ -1,0 +1,30 @@
+Are you able to help me find an expensive British restaurant in Cambridge please?
+What area would you like the restaurant to be located in?
+I don't really have a preference. Can you recommend a restaurant? As long as it serves expensive British food I'll be happy.
+I would recommend Fitzbillies restaurant in the centre of town, would you like me to reserve a table for you?
+Yes please reserve a table for 6 people at 12:45 on thursday
+OK, I have your reservation booked. Your reference number is 0SAJLXK8. Is there anything else I can do for you today?
+================
+Yes, I was wondering what the location is of Addenbrookes Hospital.
+That hospital is located on Hills Rd, Cambridge.
+Thank you. Could you please get me the phone number?
+The main hospital phone number is 01223245151. Were you looking for a specific department?
+================
+Hello, I am looking for a train heading to Cambridge and I will be departing from Kings Lynn.
+The first train leaves on Friday at 05:11 and arrives at 05:58. Should I book it for you?
+================
+directions to coffee and tea house
+Here are directions to Teavana.
+Give me the address.
+The address to Teavana is 145 Amherst St.
+Is Teavana the closest coffee place to my current location?
+Yes Teavana is only 1 mile away.
+Is there any traffic?
+There is no traffic on the route to Teavana.
+================
+I'm looking for a cheap hotel on the east side of the city. Can you recommend anything?
+The Allenbell is a good choice for you. Would you like more information on the Allenbell?
+Yes, does it have free parking?
+Yes, it does! Would you like to book a room?
+Yes please. I'll need the address, postcode, and whether they have internet also.
+Yes, the Allenbell has Internet. The address is 517a Coldham Lane and the postcode is cb13js. What are your travel details?

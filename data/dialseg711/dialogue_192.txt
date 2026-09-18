@@ -1,0 +1,26 @@
+I need a nearby hospital.
+Hello, the closet hospital is Addenbrookes
+Can I get their main phone number please? And the postcode if you have it.
+The hospital number is 01223245151 and the postcode is CB20QQ. Do you need the number for any of the departments within the hospital?
+================
+is it going to snow in the next week
+what city can I check for you?
+Danville, please
+In Danville, it will snow on Wednesday.
+================
+Yes, I've just been involved in a disagreement regarding a car accident and I require assistance please.
+Would you like me to contact the Parkside Police for you?
+No, I just need he phone number.
+The phone number for the police is 01223358966.
+================
+What is the address for the Addensbrookes Hospital near me?
+The Addenbrookes Hospital is located at Hills Rd, Cambridge. Can I help you find the phone number for a certain department?
+Actually I need the general phone number for the hospital, please.
+I can certainly provide that to you. Their main contact number is 01223245151. Can I assist you with anything else?
+================
+I'm trying to get a taxi please
+Sure! when would you like to arrive?
+I want to leave after 05:45
+Okay, great. And where will you be traveling to and from?
+The pick up place will be wandlebury country park and the drop off at curry prince
+Alright, you are all set - your car is a grey bmw, contact number 07365045410

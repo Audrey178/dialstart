@@ -1,0 +1,26 @@
+I'm looking for a modern European restaurant near the centre, could you hook me up?
+Yes, I have 4 results matching your request, is there a price range you're looking for?
+I would like moderate price range please.
+I found de luca cucina and bar and riverside brasserie. Does either of them sound good for you?
+Yes could you book me one seat at 17:45 on a Monday?
+I'm sorry, there are no available seats at either of those restaurants. Could you try another time or a different day perhaps?
+Lets try a table for 1 on Monday at 16:45 instead.
+Okay, that worked! The table will be reserved for 15 minutes. Your reference number is : MJEOQ3R5.
+================
+What time is my optometrist appointment and who is attending?
+You have two optometrist appointments scheduled. One at 2pm with Marie and the other is also at 2opm but with Martha. Would you like to know the dates?
+================
+Hello, I would like to find the el shaddai hotel. Can you help me?
+The El Shaddai Hotel is located at 41 warkworth street, would yo+u like the phone number?
+Can I book a stay there for 1 person for 5 nights starting tuesday please?
+Your booking was successful, reference number is 8T4AJ6P9, 1 person for 5 nights starting Tuesday at the El Shaddai. Can I help you with anything else?
+================
+Where is my meeting, which parties will be attending, and what is the meeting about?
+Your meeting with the infrastructure team in in conference room 50 to go over the quarterly report.
+Please set a reminder for this, thank you!
+Currently you have three meetings schedules. The first is in conference room 50 with the infrastructure team about the quarterly report. The next is in conference room 102 with HR about signing the NDA. And the last is in conference room 100 with the executive team about signing the NDA as well.
+Thanks!
+Do you need to add any additional reminders?
+================
+Will it be warm in menlo park this saturday?
+It will not be warm in Menlo Park on Saturday.

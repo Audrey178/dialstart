@@ -1,0 +1,44 @@
+i want to find a hospital in town
+You'll find the hospital at Hills Rd, Cambridge, CB20QQ
+Can I please have a phone number as well?
+The hospital's phone number is 01223245151. Do you need the phone number for a specific department, also?
+No, I just need the postcode please.
+It's CB20QQ. Can I help you with anything else?
+Yes, what is the hospital's name, please?
+It is Addensbrookes Hospital. May I help you with anything else?
+================
+I need to find a train departing from Cambridge that arrives at 18:00
+What are the other requests?
+I need to go to leicester from cambridge, and i need to leave on sunday.
+There are many trains available. TR5173 leaves at 08:21 and arrives at 10:06. Would you like me to book that for you?
+Great can I get TR5173 booked for 3 people please?
+OK I booked that for you. The total fee is 90.72 GBP and your Reference number is : AVE1068H.
+================
+Can you arrange for a taxi to bring me to kohinoor?
+Sure! when would you like to arrive?
+I want to arrive no later than 12:45 please
+And where would you like to be picked up from?
+I'm leaving from wandlebury country park.
+I have a black volvo coming to pick you up. Their contact number is 07270738865 if you have any questions. Thank you!
+================
+Please find a train that departs from Peterborough and arrives in Cambridge by 8:45.
+Okay, and which day would you like to travel?
+I would like to leave on Saturday from london liverpool street
+The TR3390 arrives Saturday at 8:38. Would you like me to book it for you?
+Can I get travel time and price first, please?
+The trip is 50 minutes long and it is 13.20 pounds for a ticket.
+Ok thanks, Im ready to book.
+Great, I have booked your ticket, your reference number is : 9LLWMNOM. May I help with anything further.
+I'm so sorry. I didn't mean to book yet. I won't need that reservation. Could you make sure that train TR3390 is departing from London Liverpool?
+Train TR3390 is departing from peterborough to cambridge. Would you like me to look for a train departing from London Liverpool?
+Yes, please. I need to know the price and travel time for that as well.
+TR7397 leaves from London Liverpool Street on Saturday at 05:39 and arrives in Cambridge at 07:07 with travel time of 88 minutes. Cost is 13.28 pounds. Shall I book this ticket?
+================
+Can you help me find guesthouses in the west of town?
+Of course, I have two available one is cheap and one is moderate what do you prefer?
+Do either of them have a 3 star rating?
+Yes, the Hobsons House has 3 stars and meets your criteria. Would you like me to make a reservation for you?
+book it for 4 people and 3 nights starting from tuesday.
+I was able to book that reservation for you. The reference number is RL3S28T3.
+That's all I need, thank you
+welcome again next time

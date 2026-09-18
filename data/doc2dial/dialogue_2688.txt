@@ -1,0 +1,11 @@
+Hello I need information about How to Login to MyDMV
+want to know Why are you redirected to the 'Welcome to MyDMV' page?
+do not
+What should I enter when I need to log in?
+You can use the tool to reset it. You will need to enter your username and the security questions / answers Shared secrets you chose when you created your account.
+and can i use the tool?
+of course You can use the tool to reset it.
+and how can I do if I don't remember the password?
+you can use the Forgot your password tool on the same page.
+If the user you use tells me that it is not associated, how can I do it?
+Use this link to delete the login information from our system. This will prevent you from being redirected to the Welcome to MyDMV page.

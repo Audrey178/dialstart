@@ -1,0 +1,42 @@
+what is the forecast for new york city
+================
+I'm looking for a hotel (not a guesthouse) on the west side of town. Can you tell me about my options?
+The Huntingdon Marriott is expensive, and I also have the Cambridge Belfry, which is cheap. Are you interested in one of these?
+What do you have with a rating of 1 star?
+There are no 1 star hotels in that part of town. Is there another area you might be interested in?
+No, it has to be in the west. A 4 star place would be okay, as long as it is a hotel and not a guesthouse.
+No hotels meet your criteria. Would you like to change your criteria?
+Well, I definitely want a hotel in the West. I need one for 6 people for a stay of 5 nights starting Saturday.
+Sorry, there are no hotels meeting your criteria. Could you change your criteria?
+Is the Cambridge Belfry available for 4 nights starting Saturday for 6 people?
+Unfortunately, no. Can we try a shorter stay period?
+Are there any four star hotels in the west?
+Yes, huntingdon marriott hotel and the cambridge belfry.
+TO recap, I need a hotel in the West, four stars.
+huntingdon marriott hotel and the cambridge belfry are 4 star hotels in the west. The second hotel is cheap & the first is expensive, which would you prefer?
+I'd rather have the least expensive one. What star rating is it?
+It is a 4-star rating.
+OK, can you just book a 4 star hotel room in the west part of town? Any one is fine.
+Both of these hotels are booked. Would you like to change any of your parameters?
+Let me try again. I am needing a 4 star hotel in the west, for 6 people. Checking in on Saturday, 5 nights.
+That worked, thank you for summarizing for me. Your reference number is U0E4KO2T. Is there anything else I can help with?
+I need a Hotel type in the west that's 4 stars to book for 6 people for 5 nights, starting on Saturday, please recheck that you can't book that.
+I have that all worked out for you, the reference code is MQ7AMF1M. The hotel is the Cabdrife Butterfly.Is there anything else you need?
+================
+which days are rain forecasted
+In what city would you like the forecast?
+Alameda, tell me about right now
+There is drizzle in Alameda right now.
+================
+I am looking for a place to stay. The hotel should include free wifi and should be in the type of hotel
+There are quite a few hotels that fit that description. Do you have a preference as to area or price range?
+I would like something in the east with 2 stars.
+It looks like the Express by Holiday Inn Cambridge will work well for you. Would you like me to book that?
+Does it have free parking? Can you provide me with the contact details of this hotel?
+Yes, it offers free parking. The phone number is 01223866800.
+thanks. What's the address?
+The address is 15-17 norman way, coldhams business park. Would you like a reservation?
+That's not necessary, thanks.
+You're welcome. May I help you with a taxi or restaurant booking?
+================
+Who is attending dinner and what time is it?

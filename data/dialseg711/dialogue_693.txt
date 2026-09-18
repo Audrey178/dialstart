@@ -1,0 +1,36 @@
+Where is the Parkside Police Station located?
+In Parkside, Cambridge, CB11JG
+Thanks, what is their number?
+Their phone number is 01223358966.
+================
+I'd looking for a good restaurant on the east side. I'd prefer the moderate price range, if possible.
+Would you prefer Indian or Italian food?
+I would like Indian please.
+There is curry prince, and rajmahal, would either of those work for you?
+I'd like to book curry prince for 6 people at 15:45 on saturday please.
+Alright, I have you reservation made. The reference number is SMAMRCQ9.
+Great, thanks for your help.
+Is there anything else I can help you with?
+================
+I have yoga on Saturday with Marie.
+And what time should I schedule it for?
+================
+I need to find a restaurant call the nirala.
+I'm sorry but I do not have a listing for that.
+Perhaps you could try searching for "The Nirala"?
+Yes, The Nirala is located at 7 Milton Road Chesterton. It's a moderately priced Indian restaurant in the north area of town. Would you like a reservation?
+Yes, could you book a table for 5 people at 16:30 on Saturday.
+Sure. Your reference number is OY06ANHY. Anything else I can do for you?
+================
+I need a train to take me from Cambridge to Broxbourne.
+Sure. What time would you like to depart?
+I don't know. I want to get there at 08:15 though.
+Also, what day will you be travelling?
+I will be travelling on Monday.
+Alright, the latest train that fits your criteria is TR3174, which will arrive at 8:01. Is that alright by you?
+Yes that will be fine thank you. Can you tell me how long the journey will be and how much it will cost and when the train leaves?
+Yes travel time is 60 minutes and the cost of the ticket is 17.90 pounds.
+What is the exact departure time please?
+The train leaves Cambridge at 07:01. Is there anything else I can help you with today?
+Can you book me a seat on the train please?
+I'd be happy to. Just one ticket or how many would you like?

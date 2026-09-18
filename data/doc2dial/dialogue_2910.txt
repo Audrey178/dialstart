@@ -1,0 +1,17 @@
+Where can I find the FSA Virtual Assistant Aidan?
+================
+The Aidan service is currently only available to a group of pilot users
+Do you know how to find out if you are a member of that pilot group?
+Yes, I have checked
+Just to confirm it to you, when you log into your account, look for the Aidan owl icon on the bottom right-hand corner of any page on the site, on either your desktop or mobile device
+What is I don't see this icon on any page of my account?
+In that case, you are advised to check back in the near future as this service is rolled out to new users regularly
+================
+How do I find pages on the website quickly?
+The quickest way is to type "Where is"
+================
+Can you tell me again, what devices will I be able to view the Aidan service on?
+You can view Aidan on either your desktop or any mobile device that you have
+================
+Does the Aidan service record conversations with its users?
+Yes, it records all conversations, which are used to improve quality assurance, keep an accurate log of your requests and identify new skills for the Aidan service to learn

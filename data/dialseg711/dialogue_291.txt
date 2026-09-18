@@ -1,0 +1,30 @@
+Hello. I need a train leaving from London Kings Cross on Thursday. What's available?
+I have multiple trains leaving London Kings Cross Thursday. What time are you looking to leave by?
+I am looking to go to cambridge and arrive by 9:45
+I have 2 trains leaving London Kings Cross for Cambridge Thursday arriving before 9:45. Which would you prefer, one arrives at 6:08 the other 8:08?
+What's the price?
+The price per ticket is 23.60 pounds and the ride is 51 minutes long. Can I help you in booking a ticket?
+================
+give me directions to the nearest grocery store
+We're 1 miles away from Trader Joes and 2 miles away from Whole Foods: which one do you prefer?
+Let's go to Trader Joes!
+Setting navigation to 408 university ave now. Traffic is heavy, so drive carefully.
+================
+I would like to book a taxi departing from Hotel du Vin and Bistro leaving after 22:30.
+To what destination?
+It will need to take me to sitar tandoori
+Okay. I have booked a Red Lexus, and the contact number for the company is 07326176636. Can I help with anything else?
+================
+I need to find the nearest hospital please.
+I have an Addenbrookes Hospital, would that be okay?
+I need the address, postcode, and phone number.
+The address is Hills Road, Cambridge. The postcode is CB20QQ. Is there a specific department you'd like to call?
+================
+I need to book a taxi leaving from The Oak Bistro please.
+Certainly. What time would you like the taxi to arrive and for how many people?
+a taxi that arrives by 15:00, the taxi is just for me
+I can look it up, could you tell me where you would like to go please?
+I would like to go to la mimosa.
+Thank you. I have booked a grey honda for you for that time. Is there anything else I can assist you with today?
+Could I have the contact number for the car?
+Sure. The contact number is 07748558756.

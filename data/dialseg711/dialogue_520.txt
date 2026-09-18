@@ -1,0 +1,38 @@
+take me to the nearest grocery store
+The nearest grocery store is 6 miles away, Whole Foods at 819 Alma St.
+Please give directions to that store by the fastest route. Thank you.
+Setting navigation now.
+Okay, should I expect to see any traffic?
+There is a road block nearby but I already sent on your screen a route to go around it
+================
+i am looking for a place to dine. The restaurant should be in the expensive price range and should serve european food.
+There are 5 that fit your criteria, 3 in the centre of town are eraina, michaelhouse cafe, darrys cookhouse and wine shop and city stop restaurant north and cambridge lodge restaurant west.
+What do you recommend?
+I personally recommend Eraina. Would you like a table booked?
+Yes please, can I get a table for 6 at 13:45 on Tuesday?
+Sure thing, you are booked with ref. # RC9WCTWX.
+================
+Will it be windy in Corona on Wednesday?
+Corona's forecast does not predict wind on Wednesday
+================
+i want to find a hospital in town
+The local hospital is Addenbrookes it phon eis 01223245151.
+Thanks, can I get the postcode?
+Sure. The postcode is CB20QQ.
+================
+I'm in the mood for a traditional American food restaurant tonight and looking to treat myself to some expensive fine dining. Can you help me find a perfect place?
+I have gourmet burger kitchen, it's an expensive north american food restaurant. Would you like to book a table?
+Is it located in the centre of town?
+Yes, gourmet burger kitchen is in the centre of town. Would you like to book it?
+No thank you. We will just head there now.
+Sounds great! Is there anything else I can assist you with?
+That will be all, thank you.
+It's my pleasure. Have a lovely day! Bye!
+Awesome but can you give me the reference number?
+I need to know then how big is your party and exact time?
+Oh yeah sure - I need table for 3 people at 19:00 on wednesday.
+sorry but booking was unsuccessful, what about another time?
+hmm find me something chinese then
+hmm that was also unsuccessful, does different time work for you?
+yeah, actually let's try 18:00
+I booked for you ugly duckling at 18:00, your ref number is IKXBXWEO

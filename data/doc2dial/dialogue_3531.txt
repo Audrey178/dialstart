@@ -1,0 +1,21 @@
+Yes hello I filled out all of the information in the Retirement Estimator and it took a long time. When I came back from answering the door, all of the information was gone. What happened?
+================
+Oh that's too bad. Were you gone for a long time?
+Yes I guess I was.
+For reasons of security, there are time limits for viewing each page.
+================
+How much will I get if I apply for retirement benefits?
+I'm sorry but we can't provide your actual benefit amount until you go through the process of applying for benefits.
+================
+If I re-enter all of my data in the Estimator will the page crash again?
+It shouldn't, usually you will receive a warning after 25 minutes of being idle then you should be able to extend your time on the page.
+Is there an ultimate time limit?
+Yes, after the third warning on a page, you must move to another page.
+================
+Can anyone use the Retirement Estimator?
+You can use the Retirement Estimator if you have enough Social Security credits at this time to qualify for benefits.
+And there is no age restriction?
+If you are age 62 or older and receiving benefits on another Social Security record, you may not use it.
+================
+So I'll be able to have an accurate estimate of my benefits?
+Although the Retirement Estimator gives estimates based on your actual Social Security earnings, it remains just an estimate due to various circumstances such as fluctuations in future wage earnings.

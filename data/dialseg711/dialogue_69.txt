@@ -1,0 +1,36 @@
+I'm looking for lodgings that are moderately priced.
+I've found several hotels in the moderate price range. Is there a specific area of town you're looking to stay in?
+Yes, I'm looking to stay in the north.
+I've found 11 possibilities for you. Would you prefer a guest house or a traditional hotel?
+The hotel should be in the moderate price range and should include free wifi.
+How about the Acorn Guesthouse? Free wifi and moderate price range.
+I am actually looking for a hotel. Is the Acorn Guesthouse listed in that type?
+No, it is not. How about Ashley hotel?
+Sure, book me for 2 people for 5 nights starting on Monday?
+Booking was successful. Reference number is : WJFFGVWD. Is there anything else I can help you with?
+================
+search for nearby cafe
+There is Cafe Venetia 1 miles away and a couple of other farther options
+Which is the best one with the quickest route?
+The would be Cafe Venetia.
+Can I get the address?
+Cafe Venetia is at 269 Alger Dr.
+================
+I need a cheap Spanish restaurant. Are there any around?
+Yes, la raza is a restaurant serving spanish food in the cheap price range. It is located at 4 - 6 Rose Crescent. Would you like a reservation?
+I would like a restaurant in the centre.
+la raza is a cheap restaurant serving spanish food in the centre part of town. It's address is 4 - 6 Rose Crescent and it's post code is cb2311.
+Great. can you book me a table for 7 on Tuesday at 11:45 and provide me with a reference number?
+All right, I've made a reservation. Your reference number is OOG9KQ5V. What else can I do for you?
+hey, do you know any restaurants near me in the city?
+There a lot of restaurants in the city, what kind are you looking for?
+================
+Is there a place that serves coffee near me?
+There is a Philz coffee 4 miles away.
+What is the address?
+583 Alester Ave, I sent the info on your screen
+================
+I got injured and are looking for a hospital nearby
+The Addenbrookes Hospital is located at Hills Rd, Cambridge Postcode CB20QQ.
+Could you also provide the phone number please?
+I have the emergency department at 01223217118.

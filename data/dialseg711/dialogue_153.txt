@@ -1,0 +1,24 @@
+Can you locate an expensive restaurant in the south?
+I sure can. Do you prefer Chinese, Italian, Indian or Mexican food?
+I prefer Chinese food thanks.
+Peking restaurant has good reviews would you like that?
+That sounds good. Can I have the postcode and address please?
+Absolutely. The Peking Restaurant is located at 10 Homerton Street, City Centre. Their postcode is cb28nx. Can I reserve you a table by chance?
+No thank you, I don't need a reservation.
+All right, what else can I help you with?
+================
+What will the lowest temperture be in downtown Chicago next week?
+Next week the lowest temperature will be 20F in downtown Chicago
+================
+I want pizza/
+There is a Pizza Chicago, 3 miles away with Heavy Traffic at 915 Arbol Dr
+Are they any other ones in the area with lighter traffic?
+Unfortunately there aren't other options nearby but I can set an alternate route to not waste too much time in the traffic
+================
+Yes I am looking for information on Michael House cafe.
+The Michael House cafe is an expensive european restaurant located in the centre. Would you like me to make you a reservation?
+Yes, please. For a party of 7 on Friday, at 17:15.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : ALCPCA3P. Is there anything else I can help you with?
+================
+Where can I find a hospital?
+One hospital is located locally at 214 El Camino Real. There is a car collision nearby. Do you still want to go?

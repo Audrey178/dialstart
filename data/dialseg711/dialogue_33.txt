@@ -1,0 +1,40 @@
+Good day. Might you be able to assist me with a taxi going to Corpus Christi leaving sometime after 08:45?
+Sure I can do that! Where is the departure site?
+I need it to pick me up from gourmet burger kitchen.
+The car coming is a White Tesla with contact number is: 07441094025
+Thank you so much.
+Is there anything else I can help you with today?
+================
+what's the forecast report
+What city do you want the weather for?
+Cleveland
+What days are you interested in?
+Will it snow in the next two days in Cleveland?
+There is no snow scheduled in Cleveland for the next two days. The forecast for Monday is foggy, low of 40F, high of 60F. The forecast for Tuesday is hot, low of 70F, high of 80F.
+================
+Do you have any information on the University Arms Hotel? I've heard it's a nice place.
+I sure do. The University Arms hotel is a more expensive hotel in the centre of town. It has 4 stars and includes free wifi and free parking.
+I need a room for one person starting sunday for 3 nights
+Unfortunately, they don't have availability for that day and length of stay. Would you like to stay on another day or shorten the stay?
+All right, what about 2 nights?
+Booking was successful for 2 nights on Sunday for 1. Your reference number is YK9Z9AKE. Is there anything more I can assist you with?
+================
+I want to book a taxi going to Christ's College departing from City Stop restaurant please.
+When would you like to arrive by?
+Doesn't matter, but I need to leave after 14:15
+I was able to book you a black Volkswagen for 14:15, the contact number is 07944381295.
+Thank you very much.
+Will there be anything else today, or have I answered all your questions?
+================
+I am looking for a place to stay. The hotel should be in the type of guesthouse and doesn't need to include internet
+Alright, I've found several options. What price range are you looking for?
+It doesn't matter
+Alpha-milton guest house doesn't offer internet. It is rated three stars, in the north part of town. Should I book this?
+No, I need a guesthouse with free wifi.
+a and b guest house is a guesthouse that includes wifi. It's in the East side of town with a moderate price range. Should I book it for you?
+No, I just need to know if they have free parking.
+They do not have parking.
+Ok, I would prefer something else with parking.
+Allenbell looks like it would be a good choice.
+Thanks, does it have free wifi as well?
+Yes, they provide both internet and parking at their establishment.

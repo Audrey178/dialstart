@@ -1,0 +1,25 @@
+I am looking for a restaurant. The restaurant should serve italian food and should be in the moderate price range
+There are five Italian restaurants in the moderate price range. Four have pizza in their names and then there is Prezzo.
+Could I book through you a table at the Prezzo for 8 on 17:15 this Friday, as well as get the reference number for the Prezzo?
+I have booked that for you and your reference number is S6VDPMW3. Is there anything else I can help you with?
+================
+Can you tell me if warkworth house hotel has wifi.
+Yes I can confirm that Warkworth house has internet, can I help with anything else?
+Do they have free parking, and what is their phone number?
+Yes, and their phone number is 01223363682. Is there anything else I can help you with?
+================
+I'm looking for a specific restaurant. It's called india house. Can you help with this?
+Sure can. India House is an expensive Indian restaurant in the west part of town. Would you like a reservation?
+Yes for 4 people at 16:30 on a Saturday. I will need a reference number as well.
+I've made the reservation and the reference number is HD53UDCO. What else can I help you with?
+I think that takes care of everything, thanks!
+Oh, it was my pleasure. I'm here if you need anything else.
+================
+Who is going to yoga and when is it?
+Your aunt will be going to yoga with you on the 4th at 7 pm.
+When is going to be the next yoga lesson? Who will be coming with me?
+================
+I'm looking for a restaurant that serves indian food.
+Hello, I have a bunch of options for you. Do you have a specific area or price range you are interested in?
+I am looking for an Indian restaurant in the west.
+What price range are you interested in?

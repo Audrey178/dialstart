@@ -1,0 +1,32 @@
+I need a taxi to come to gallery at twelve a high street by 4:00.
+Ok, where do you need to go?
+I want to the gallery at twelve high street.
+I'm sorry, can you confirm if you're leaving from or going to Gallery at Twelve a High Street?
+I am departing from the junction and going to gallery at twelve.
+You'll be picked up at the junction, to gallery at twelve a high, by 4:00. Your auto is a grey skoda, contact number: 07355269466.
+Okay thank you!
+You're welcome. Is there anything else I can help you with today?
+================
+Hi. I am looking for a train that goes to Cambridge on Saturday. Can you help me?
+There are 5 trains departing from London Kings Cross station to Cambridge on Saturday. Each will take 51 minutes. Is there a specific time you would prefer to depart?
+I would like to leave after 12:00.
+There is a train leaving London Kings Cross for Cambridge at 13:17 on Saturday. Would you like me to book it?
+Yes, I will need to be on that train.
+Okay, how many tickets would you like?
+I need 8 tickets.
+Your booking was successful. The total fee is 151.04 GBP and the booking number is X1NEC9S5. Thank you again.
+Actually, I need to depart from Kings Lynn, not Kings Cross. Can you change that please?
+TR7178 departs from kings lynn to cambridge saturday at 13:11, arriving cambridge at 13:58, would you like to book this one?
+Yes, please book 8 tickets for that train. May I please have the reference number?
+Your reference number is POHLZ4EY and 62.72 GBP will be due at the station. The train leaves Kings Lynn at 13:11. Can I further assist you?
+================
+Where is the nearest parking garage?
+The nearest is Dish Parking at 550 Alester Ave. Would you like directions there?
+Yes, please set directions via a route that avoids all heavy traffic if possible.
+Unfortunately there is a car collision nearby but I already sent you another route that, even if longer, will allow you to reach fast enough
+================
+I am looking for a train to Cambridge on Saturday.
+certainly, do you know from where you will be departing, and at what time?
+================
+Set an optometrist appointment for 3pm on the 15th of this month with my aunt
+I will set this Optometrist appointment for 3 pm on the 15th of this month with Aunt.

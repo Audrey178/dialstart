@@ -1,0 +1,13 @@
+Hello there. I'd like some general information about who is allowed to drive in NY, please.
+Do you want to know the requirements to drive a car or motorcycle in New York State?
+Yes, please tell me.
+You must be at least 16 years old and have a valid New York State driver license or learner permit.
+So if I'm 17 years old I can drive a vehicle?
+Yes, if you have a valid New York State driver license or learner permit.
+================
+What if I become a resident of NY?
+In that case you must get a New York State driver license within 30 days.
+================
+Alright, I get that. What about visitors from other countries?
+Do you have a driver license from another nation?
+No, I have a US license.

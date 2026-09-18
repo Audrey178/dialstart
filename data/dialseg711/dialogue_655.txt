@@ -1,0 +1,29 @@
+Hello, I am looking for a guesthouse located in the centre
+Ok, there are 2 guesthouses located in the centre of town. They are in the cheap price range. Would you like to book one?
+Do they both include free parking?
+Yes, they both have free parking.
+How about internet? Can I get wifi for free?
+Yes, they both have free wifi as well.
+================
+Know any good bites around here?
+I have a wide range of places I can recommend. First, why don't I ask if there is an area in the city that you prefer to dine in?
+I would like to dine in the south, preferably Chinese and expensive.
+We have two in that area. There is "peking restaurant" and "the good luck chinese food takeaway". Would you like to book a table at one of these options?
+Can I just get the address for the Peking Restaurant?
+Absolutely - the Peking Restaurant is located at 10 Homerton Street City Centre, cb28nx. Can I help with anything else today?
+================
+I'm looking for a 3 star hotel.
+There are 6 hotels listed at 3 star. There are 2 in the north, 1 south, 1 west and 1 centre. Would you like more information?
+I don't care where the hotel is located, but I'm looking for something in the moderate price range.
+I have 4 options for you. Do you need free wifi and parking? I have 3 that offer these and 1 that does not.
+Yes please. Can you recommend me of them?
+The hamilton lodge is nice and in the north area. Would you like a booking today?
+No, thank you. Can I just get the address, please?
+The hamilton lodge is located 156 chesterton road. Would you like me to help you with anything else?
+================
+Could you let me know where in town I would find a hospital?
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+I'm looking for the postcode and phone number
+The phone number is 01223245151, postcode CB20QQ
+================
+set a date for the next tennis match

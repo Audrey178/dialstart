@@ -1,0 +1,26 @@
+Yes, I am looking for a train that will be leaving after 13:30 on Tuesday.
+What is your destination?
+The train should go to cambridge and should depart from london liverpool street.
+TR1395 leaves london liverpool street for Cambridge on Tuesday at 13:39 and arrives by 15:07.
+Could you book that for 8 people, please?
+Booking was successful, the total fee is 132.8 GBP payable at the station . Reference number is : LXVNUONW.
+================
+I am looking for a restaurant. The restaurant should be in the centre and should be in the cheap price range
+OK, I have 15 options for you, in many cuisines. Do you have a cuisine preference, or would you like me to recommend a restaurant?
+I don't have a preference. What would you suggest and can you provide me with the address and phone number?
+How about the Rice House? It is located at 88 Mill Road City Centre and their number is 01223367755.
+================
+Hi. I would like to have a taxi arrive for me at the Arbury Lodge Guesthouse by 15:00. Can you reserve that for me?
+I can certainly do that for you. What is your destination?
+I will be traveling from the guesthouse to rajmahal.
+You will be looking for a grey toyota with contact info of 07015796204
+================
+looking for a restaurant. The restaurant should be in the moderate price range and should be in the centre.
+I have many excellent options available. Do you have a cuisine preference, I should I recommend one?
+No, I don't have a cuisine preference. I just need to book for 5 people at 19:30 on tuesday.
+Great, I booked you at the Yippee Noodle Bar and your reference number is NE9Y6864.
+================
+I need a taxi at Cambridge Museum of Technology to go to the Museum of Classical Archaeology.
+When would you like to get there?
+I need to leave after 09:45.
+Booking completed! Booked car type blue audi contact number 07885719005

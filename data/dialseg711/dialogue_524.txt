@@ -1,0 +1,23 @@
+What do we have to eat in the expensive european food range?
+There are 5 options in Cambridge for expensive European food. 1 in the North, 1 in the West and 3 in Cambridge Centre.
+Nothing in the south?
+I was not able to find any expensive european restaurants in the south.
+What about Mexican restaurants?
+The Chiquito restaurant bar, a mexican restaurant, is in the south and is expensive. Would you like to book a table?
+Yes. I'd like a table for 1 person at 19:15 on Sunday.
+Your table is reserved and the reference number is TN3210RT. Will there be anything else?
+================
+i am looking for the Addenbrookes Hospital with emergency department
+The emergency department may be contacted at 01223217118.
+Can I have the address and phone number
+The number for the emergency department at Addenbrookes Hospital is 01223217118 and it is located on Hills Road in Cambridge. Is there anything else you need?
+================
+Find what the temperature will be in downtown Chicago this weekend.
+It will be between 30-60F in Chicago this weekend.
+================
+Who will be at my lab appointment and what day is it?
+================
+is it going to rain at all this upcoming week
+Which city would you like the rain forecast for?
+New York
+Yes, there will be rain on Monday this week in New York.

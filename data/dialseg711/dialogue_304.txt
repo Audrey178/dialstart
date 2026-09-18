@@ -1,0 +1,38 @@
+how many hotels are around here
+There are two hotels around here. One is 2 miles away the other is 3 miles away. Neither route has any traffic
+Pick the one 2 miles away and let's go through the fastest route
+Here are directions to Comfort Inn.
+What is the address to the Comfort Inn?
+753 University Ave, you can see it on your map now
+Set the GPS and thank you for the information.
+Setting GPS to Comfort Inn at 753 University Ave.
+================
+I need a 5 star luxury hotel with a jacuzzi.
+I am sorry but I am not finding any hotels that fit your needs.
+What about an expensive, 4 star hotel?
+I have two for you to choose from. I have the Huntingdon Marriott Hotel in the west, and the University Arms Hotel in the centre of town.
+Does either one have free parking?
+Yes, they both offer free parking, and are expensive four star hotels. Would you prefer the centre area or the west area?
+I guess the centre. Can you reserve 2 nights starting Saturday? There are 8 of us.
+Unfortunately, neither location can accommodate your request, would you like to try for a different length length of time?
+Yes. Is either one available for just one night?
+The marriott worked. Your reference number is NNFT47MW.
+================
+Hi there! I'd like to book a taxi please. Can you help me with that?
+I certainly can. When and where would you like to be picked up?
+From chiquito restaurant bar.
+Could you tell me when you would like to leave by and where from?
+I'd like to arrive at Saint Barnabas Press Gallery by 19:15, and I'm leaving from CHiquito Restaurant Bar.
+Great! Look for a yellow toyota to pick you up. The contact number is 07004136407. Anything else I can help you with?
+That is all. Thank you for your help.
+We are happy to help. Thank you for using our service. Have all of your needs been met?
+================
+Hi, I would like to find Parkside Police Station please.
+Of course, the phone number is 01223358966, the address is Parkside, Cambridge, postcode CB11JG. Is everything alright?
+================
+I'd like to find a place to eat on the west side. Something moderately priced, please.
+Certainly. On the west side, we have Saint John's Chop House, Meghna, and Prezzo. Do any of those sound good?
+Do any of those serve british food?
+Yes, saint johns chop house serves British food. Would you like to book a table, if so how many people will be dining?
+I only need the restaurant's address, phone number, and postcode.
+Saint Johns Chop House is located at 21 - 24 Northampton Street, postcode cb30ad. The phone number is 01223353110. Is there any other information you need?

@@ -1,0 +1,26 @@
+i'm taking medicine on the 1st
+Setting a reminder for the 1st to take medicine.
+================
+I got injured and I am looking for a hospital nearby
+The Addenbrookes Hospital is located at Hills Rd, Cambridge.
+I got injured. I need a phone number for a hospital near by.
+Here is the phone number for Addenbrookes Hospital, 01223245151.
+================
+I'm actually in need of a train leaving Thursday after 16:00 from Cambridge to London Kings Cross. Can you find me one?
+Certainly, the earliest train by your specifications is TR1791, leaving at 17:00 and arriving at 17:51. Would you like to book that train?
+Great. Can you please give me the travel time and price?
+Yes, the travel time is 51 minutes, and the price is 23.60 pounds.
+Thank you! That's all I needed.
+Your very welcome! Have a nice day!
+================
+What is the date of my next doctor appointment and who will be attending it with me?
+Your next doctor appointment is scheduled for Thursday at 10am with your mother.
+================
+I need to find a train from ely to cambridge.
+What day and time would you like to travel?
+I would like to leave on Monday.
+When would you like to arrive in Cambridge on Monday?
+I really just need to leave after 15:45. The arrival time doesn't really matter.
+should i book it for you?
+Yes for 5. All I would need is the reference number.
+I have booked 5 tickets for you on TR6645. Your reference number is SZYJ90EL. What else can I assist with?

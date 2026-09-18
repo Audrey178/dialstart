@@ -1,0 +1,20 @@
+is the weather cloudy right now
+What location do you want the weather for?
+Alameda.
+It is not cloudy in Alameda right now.
+================
+i want to book a taxi.
+Okay. Where is the destination?
+The destination is the museum of classical archaeology.
+When would you like to leave or arrive by?
+I want to leave after 10:15
+Where would you like to be picked up from?
+I need to depart from Curry King, please. Can I have the car type and contact number as well?
+A red BMW will pick you up, and the contact number is 07641445161. Can I help you with anything else?
+================
+I'm trying to find the Parkside Police Station.
+You can find them at Parkside, Cambridge, CB11JG
+Thanks! That's all I need.
+You're welcome. Would you like their phone number?
+I would love the phone number.
+The phone number is 01223358966

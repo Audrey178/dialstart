@@ -1,0 +1,21 @@
+Set a reminder for a conference with the vice president next Wednesday at 10 am.
+Okay, scheduling a conference with the vice president for next Wednesday at 10am.
+================
+I need a taxi to come by at 18:15 to take me to Meghna.
+I can help with that, where will you be departing from?
+I'll be departing from aylesbray lodge guest house.
+Your booking is complete. A grey lexus will pick you up.
+Awesome. Can I get a contact number please?
+Contact number : 07626056200 Anything else?
+================
+take me to the closest starbucks
+There are no Starbucks nearby. Would yo like another coffee shop?
+Yes, what else is there?
+There is one place 1 mile away, Peets Coffee, would you like the address?
+Yes, please, and pick a route with no traffic
+There is moderate traffic on our way but you should be able to reach the cafe in short time. I sent the info on your screen
+================
+what is the weather like today
+For what city would you like to know that?
+The city is Mountain View, tell me is it hot?
+The high temperature in mountain view is 70F today.

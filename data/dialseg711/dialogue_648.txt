@@ -1,0 +1,30 @@
+What is the date and time of my optometrist appointment?
+You have three optometrist appointments scheduled. One one Saturday at 9am, another on the 18th at 7pm, and one more on Tuesday at 9am.
+================
+I am looking for a museum to visit!
+Do you have a preference for which area of town?
+I don't care which part of town it's in. I don't mind doing some walking.
+How about Broughton House Gallery? It's located in the centre, at 98 King Street.
+That sounds interesting! What is the post code?
+The postcode for Broughton House Gallery is cb11ln. Is there anything else you need?
+================
+Get my home address that is near my location,
+10 ames street, we're 1 miles away and there is no traffic in this moment, I sent the route on your screen
+================
+I want to go visit a college in the east part of town please.
+I was unable to find any colleges in the east part of town.
+Okay, what about an attraction that is in the type of entertainment?
+Yes, I recommend the Funky Fun House. With a name like that, how can you go wrong?
+Sounds awesome! Is there an entrance fee?
+Unfortunately I don't have any information about the entrance fee. Is there any other information you need to know?
+Sure, just the address and phone number will be fine.
+Alright, here you are, the address is 8 mercers row, mercers row industrial estate and the phone number is 01223304705. Can I find any other information for you?
+================
+Can you help me get to zizzi cambridge after 22:45?
+Sure! What is your departure site?
+Saint Johns Chop shop house.
+Okay you are all set with a red bmw
+That is great. Is there a contact number available?
+The contact number is 07934564095.
+Great, thanks so much for your help!
+Is there anything else I can help you with, such as finding a restaurant or an attraction?

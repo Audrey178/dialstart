@@ -1,0 +1,38 @@
+I need to book a train from Leicester to Cambridge. Can you help me with this?
+There are 133 trains making that trip, do you have a day and time you would like to travel?
+I would like to leave Sunday after 15:30. Are there still any available>
+TR1784 departs Leicester at 16:09, would that work for you?
+Yes. Please make a booking for 1 and be sure to give me a reference number.
+You are all set for train TR7472. It will cost 30.24 GBP, payable at the station. The reference number is CUPCJMGO. Can I help you further?
+Great. That is all I need. Thank you for your help.
+You're welcome, enjoy your trip.
+================
+I'm looking for a hotel called the arbury lodge guesthouse.
+The Arbury Lodge Guesthouse is a 4-star guesthouse in the north area. Would like like to book a room there?
+Yes please! For 5 people and for 5 nights. Starting Wednesday.
+You are all set. The reference number is PWYHRHPR. Can I help you with anything else today?
+================
+I need to book a taxi to arrive at Ruskin Gallery by 21:45.
+Alright. I will just need to know what the departure site will be please
+I am going to be leaving from the Ruskin gallery.
+I'm confused. Are you leaving from Ruskin Gallery or going to Ruskin Gallery?
+I am leaving from Ruskin Gallery.
+Alright, where will the taxi be taking you tonight?
+I will be going to magdalene college.
+Booking completed! Is there anything else I can help you with today? Booked car type : grey honda Contact number : 07402352518
+================
+I need a hotel on the west side.
+There are 4 places in the west area. Two are listed as guesthouses and two are hotels. Would you like more information?
+Can you tell which ones have 4 stars and would be moderately priced?
+I'm sorry, but there are no hotels in the west part of town that have 4 stars and are moderately priced. Can I look for something different for you?
+Yes, how about moderately priced places to stay with 4 stars in the North? I also need free parking.
+There are six moderately priced 4 star places in the north which offer free parking. The Acorn Guest House is a popular choice.
+That sounds fine. Do they have internet access?
+Yes, they do. Would you like to book a reservation?
+================
+I need to book a train. I need it to leave on Sunday after 21:30. Can you book this for me?
+Where will you be departing from? And where is your destination?
+I'd like to go from Norwich to Cambridge, please.
+There are 2 trains leaving on Sunday. One leaves at 22:16 and arrives at 23:35 and the other leaves at 23:16 and arrives at 24:35. Do either of these work?
+Yes. Go with the 22:16. Book it for 7 people please.
+Booking was successful. The fee is 98.56 GBP and the reference number is MINORHOQ.

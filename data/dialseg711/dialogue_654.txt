@@ -1,0 +1,20 @@
+check to see if there will be rain today or tomorrow in alameda
+There will be a drizzle today in Alameda.
+================
+set an alarm for my doctor's appointment
+What day and time should I set the alarm for?
+================
+Hi! I'm looking for the nearest police station.
+The nearest station is Parkside Police at Parkside, Cambridge.
+May I get the phone number?
+The phone number for the police is 01223358966.
+enjoyed your services. keep that up
+Thank you so much. Is there anything else I can help you with?
+================
+set my route to the closest mall
+Okay, you will be heading to 773 Alger Dr to Stanford Shopping Center.
+================
+I would like information on The Cambridge Corn Exchange
+The cambridge corn exchange is a theatre in the centre area. I would be happy to book tickets for you.
+No thanks, I just need their phone number, please.
+The phone number for the Cambridge Corn Exchange is 01223357851. Is there anything else I can help you with today?

@@ -1,0 +1,46 @@
+I am trying to find a train leaving after 15:15 to go to broxbourne.
+TR5694 cambridge broxbourne friday 16:01 17:01 17.90 pounds 60 minutes
+Is there any that are closer to leaving at 15:15?
+Which day were you planning to travel to Broxbourne?
+I am looking at traveling on Sunday.
+Please confirm you are leaving from Cambridge. If yes, TR6870 leaving 16:01, hourly, is the closest time. 15:01 is too early.
+Yes, I am leaving from Cambrige. How long is the travel time?
+Booking was successful, the total fee is 14.32 GBP payable at the station . Reference number is : EWSOVUHU.
+Could you please tell me the train ID, arrival time, and travel time?
+The travel time is 60 minutes.
+I need all three things please, train id, arrival time and travel time.
+Read the previous lines please! number TR6870, arrival 17:01, travel time 60 minutes.
+================
+I am looking for a place serving christmas food in the centre of town.
+It doesn't look like there are any restaurants of that type. Would you like to try a different cuisine?
+Do you have any Indian restaurants?
+Yes, we have nine Indian restaurants in the center of town. Do you have a preference in price range?
+I actually would prefer gastropub type food and preferably in the moderate price range.
+The Cow Pizza Kitchen and Bar would be perfect for you! Would you like for me to book you a table?
+Are there any other options for gastropub?
+The Cow Pizza Kitchen and Bar is the only gastropub in all of Cambridge.
+In that case, could you give me the address and phone number?
+I sure can. The address is Corn Exchange Street, and the phone number is 01223308871. Can I help you with anything else today?
+================
+directions to local cafe
+The nearest cafe is 1 mile away. Would you like the name and address of it?
+Yes and please provide the quickest route.
+The coffee shop is named Palo Alto Cafe and located at 436 Alger Drive.
+================
+I'm looking for a place. I think it's called like Bridge House or Bridge Guesthouse or something.
+You are looking for the bridge guest house
+Could you book it for 3 people and 4 nights starting from thursday?
+Booking was unsuccessful.
+Okay, book it for 4 nights starting Saturday.
+Booking was successful. Reference number is : EPWUAWM5.
+================
+Yes, I'm looking for a Cuban restaurant in the Centre.
+I don't see any Cuban restaurants in the Centre. Would you like to look for Cuban restaurants in another location?
+Hmm okay can you search for chinese food instead then please?
+There are 10 entries here. I recommend charlie chan.
+That sounds great. Can I have their phone number and address?
+Their phone number is 01223361763. Is there anything else I can do for you?
+Yes, can I please get their postcode and address?
+It is Regent Street City Centre, CB21DB
+Thank you very much, that's all the information that I need.
+You're welcome. If you need anything in the future, feel free to check back with us. Enjoy your stay!!

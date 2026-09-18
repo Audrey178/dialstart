@@ -1,0 +1,19 @@
+Do I need to check browser compability for DMV Dial-in Search Account?
+================
+Yes. Since our security protocols are currently updating, You need to make sure that your browser is compatible to use any of the state's government websites.
+To do this, you can visit https://encryption.ny.gov/ [ 6 ] .
+So, as long as my browser is compatible to use any of the state 's government websites, it should be compatible with the Dial-in Search Account?
+Yes. Therefore, if it is not compatible, you just need to update it to the latest version.
+Okay. So i do not need to switch to different kinds of browser?I just need to update to the latest version?
+================
+Can you give me some examples of business records that I must keep in order to document the searches?
+Yes. Just update it. Examples of business records to keep can be invoices, retainer agreements and accident reports. These documents can be any kinds of document to justify the reason you perform your searches.
+================
+May i know how to contact you guys for my Dial-in Search Account?
+There are few ways to contact us. You can always come to our physical location at NYS DMV DIAL - IN Accounts Room 2316 Empire State Plaza, Albany , NY 12228. You can also email us at [ email protected ] [ 5 ] .
+================
+How do i pay for the searches that i have done?
+We would subtract the fee from the balance in your account.
+================
+Does security protocols update relates to browser compatibility?
+Yes. In order to better protect your data, we need to update it. Updating the security protocols means that latest version of browser is needed to enable the updates to be executed.

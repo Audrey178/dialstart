@@ -1,0 +1,19 @@
+I'm looking for IT standards on student aid documents
+================
+ the IT Standards Library includes documents that are specific to the Federal Student Aid IT lifecycle for all projects and lists other pertinent references that an IT project may be required to comply with dependent on the contract.
+================
+Would you like general references that could help you?
+No, I just need a few things
+================
+Do you need IT security information?
+I could use that
+We have a section that contains IT security documents used by FSA.
+================
+I will also need info on program quality assurance
+Okay, we can help you with the production readiness review process.
+================
+Do you have resources on the Office of Management and Budget?
+Yes, I can help you with that
+================
+what do the federal guidelines cover?
+The standards and guidelines they promulgate apply to all federal agencies and departments .

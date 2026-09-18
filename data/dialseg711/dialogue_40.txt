@@ -1,0 +1,38 @@
+I'm going to be in the north part of town next week. Can you help me find a place to stay?
+We have 13 places to stay on the north side of town. Do you have any preference of whether you'd like to stay in a hotel or a guesthouse?
+Let's see...I'd like to get free internet. And if you have a place with 4 stars, that would rock!
+There are quite a few that would meet those requirements. Would you prefer a cheap or moderate rate for your stay?
+Honestly, the price range doesn't matter to me. Is there anything you can recommend?
+I have the acorn guest house that is rated 4 stars and in the moderate price range.
+That sounds good. What's its phone number, please?
+The phone number is 01223353888. Would you like any other info?
+================
+Can you please help me find a place to go?
+I've found 79 places for you to go. Do you have any specific ideas in mind?
+I'd like a sports place in the centre please.
+There are no results matching your query. Can I try a different area or type?
+Okay, are there any cinemas in the centre?
+we have vue cinema
+Okay that will work. Can you please tell me their phone number, postcode and the entrance fee?
+Vue can be reached at 08712240240, the postcode is CB11PS. I do not have entrance fee information, I'm sorry.
+================
+I am looking for a train from Cambridge to Leicester.
+What day will you be leaving?
+I will be leaving on Monday.
+There are 19 trains, would you like me to book you one?
+I need to arrive in Leicester by 21:15, do you have one like that?
+There's a train arriving at 21:06. Would you like to book that train now?
+That will probably work. What is the travel time for that train?
+It will be a 105 minute trip
+================
+Where is the hospital?
+The hospital Stanford Express Care is 2 miles away: do you want me to send you its position on screen?
+Yes, Thank you
+The address is 214 El Camino Real. Should we navigate there now?
+================
+Yes, hello. I'd like to book a taxi to what I believe is a restaurant.
+Sure, I can do that. Do you know the name of the restaurant? Also, when would you like to be picked up and arrive by?
+Yes, Oak Bistro and will depart from Sheep's Green and Lammas land park fen causeway.
+Ok great, I will also need to know what your preferences are for your pick up and arrival times to book your taxi.
+I would like to arrive by 16:45. I will need a contact number and car type as well.
+I have that booked, a red ford and the contact info is 07756177529

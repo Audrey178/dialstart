@@ -1,0 +1,32 @@
+I want to find a hospital in town
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+No, I'm getting general info. I need the hospital postal code and phone number, though.
+Their phone number is 01223245151 and the address is Hills Rd, Cambridge.
+================
+I am looking for a restaurant that serves indian food.
+In what area of town would you like to eat?
+In the centre of town please. I am looking to stay in the expensive price range.
+Great, there are 6 restaurants that meet your criteria. I would suggest Curry Garden. Can I book it for you?
+Yes, could you please book it for 6 people at 14:30 on tuesday?
+Your table is reserved, ref# UQONY6CJ. Is there anything else I can help you with today?
+================
+What is the date, location, and agenda of my next conference?
+Your next conference is on the 3rd in conference room 100 to discuss dress code.
+================
+Are there any Indian restaurants there?
+Yes, there are 22. What area would you like to dine in?
+I want to dine in the west.
+WHich price range do you want? I have expensive and moderate.
+I would prefer moderate price range.
+I have found one, Can I make a booking for you?
+no, I just need to know the postcode.
+The restaurant is called meghna. The postcode is cb43lf, the address is 205 Victoria Road Chesterton. Anything else?
+================
+am looking for a train it should leave on saturday and should go to cambridge
+Ok, what is your departure site?
+I would like to leave from Huntingdon and get to Cambridge by 9:00 pm.
+Please confirm you are leaving from Huntingdon and want to arrive at 21:00.
+yes, that is correct.
+Booking was successful, the total fee is 18.88 GBP payable at the station . Reference number is : DDYPIE2S.
+Thank you for all of your help! Have a great day!
+Thank you for using our services. Do you need any further assistance?

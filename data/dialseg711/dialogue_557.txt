@@ -1,0 +1,24 @@
+find nearest coffee shop
+The nearest coffee shop is Palo Alto Coffee.
+Could you give me the address please, and the distance from here?
+Palo Alto Cafe is 4 miles away at 436 Alger Drive.
+Thank you. How is the traffic there?
+There is currently moderate traffic on the route.
+OK, please set GPS and navigate there.
+GPS is set and we are now enroute.
+================
+What time is my optometrist appointment and who all will be there?
+Your optometrist appointment is at 10am on the 8th, and your father will also be attending.
+================
+Where is the nearby hospital?
+Palo Alto Medical Foundation is at 611 Ames Ave.
+================
+Remind me about my football activity on the 1st, at 1 pm with my brother
+All set for reminder about football activity with your brother on the 1st at 1 pm!
+================
+please give me directions to 5677 springer street
+Navigating you to 5677 springer street.
+Is that route without traffic?
+Yes, the current route has no traffic.
+Ok set navigation there.
+Sounds good, thanks.

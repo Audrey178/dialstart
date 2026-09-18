@@ -1,0 +1,23 @@
+Check to see if it will be cloudy in mountain view this saturday
+It will not be cloudy in Mountain View on Saturday.
+================
+I'm going on a date and need an expensive restaurant on the north side of town.
+There are 5 restaurants that meet your criteria. Can I interest you in Asia, Chinese, European, or French cuisine?
+No, I really prefer Indian if possible.
+I'm sorry, there are no expensive Indian restaurants on the north side.
+Aww, that's too bad. Hmm, can you see if there is an expensive Asian Oriental restaurant on the north side?
+There is Saigon City. Would you like me to book a table for 2?
+That sounds good. I want to book a table for 5 people on Saturday at 17:45.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : HNO7WYMG. Is there anything else I can help you with?
+================
+remind me to swim tomorrow
+================
+what will the weather be like tomorrow
+What location do you need information about?
+What is the highest temperature in Brentwood tomorrow?
+The highest temperature in Brentwood will be high of 80F tomorrow, Monday.
+================
+Yes, please. I was just robbed and I don't know what to do next.
+I'm sorry to hear that. Please immediately call the police at 01223358966.
+Thank you very much. Can I please have their address and postcode also?
+The address is Parkside, Cambridge, Postcode:CB11JG. Do you need anything else?

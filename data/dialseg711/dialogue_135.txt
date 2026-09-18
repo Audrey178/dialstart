@@ -1,0 +1,40 @@
+find me all the nearest hotels
+The only rest stop in the area is the Four Seasons located 5 miles away. Do you need the address?
+Yes, please, send it on map along with the fastest route too
+Navigating to the Four Seasons.
+================
+I need to find a train going to cambridge from london kings cross.
+There are 70 trains meeting those requirements. What day of the week are you leaving?
+I need to leave on Saturday and arrive by 17:00.
+I have a train that fits your criteria Saturday, it leaves at 05:17 and arrives at 06:08. Would you like me to book it for you?
+No, I need to arrive by 5:00 no 6:00 can you check the schedule again?
+I have a train that arrives at 16:08. Is that what you are looking for?
+I need to arrive in Cambridge by 17:00.
+Booking was successful, the total fee is 18.88 GBP payable at the station . Reference number is : 8602X6OE.
+Thank you for your help
+Is there anything else I can help you with?
+================
+I'm looking for a particular B&B. Do you handle those?
+No, I am sorry. B&Bs are not offered.
+Oh dear well what about local guest houses instead? I need to book it for 6 people for 5 nights staring from Monday.
+Great! Your reservation at Acorn Guest House is completed. Your reference number is FO3NH9Q6
+I'm looking for a hotel called Rosa's Bed and Breakfast.
+Rosa's is located at 53 roseford road. Would you like to book this?
+yes, please! for 6 people for 5 nights starting on monday
+Booking was successful. Reference number is : 4DNPBLIS.
+================
+i want to find a hospital in town
+Addenbrookes Hospital is located on Hills Rd, Cambridge CB20QQ phone number 01223245151. Is there any department that I can book for you?
+================
+Do you have any recommendations for a restaurant in the south area in a high price range?
+Yes, there's the Good Luck Chinese Food Takeaway, Peking Restaurant, and Taj Tandoori. How do those sound?
+Do the serve mediterranean food?
+There is no expensive Mediterranean restaurant in the south.
+How about one that serves Chinese food?
+There are two expensive Chinese restaurants, the Good Luck Chinese Food Takeaway and the Peking Restaurant. Would you like to book a table with either of these?
+Can you make a reservation for 1 on Monday at 17:00 at Peking Restaurant please.
+I'm sorry but there was no availability for that time. Would you like to try another day or time?
+How about 16:00? Could you please provide me with the reference number also?
+Your booking was successful and the reference number is 1YYK3KQS. May I assist you with anything else today?
+No, that's it. Thanks!
+Would you provide me with the address?

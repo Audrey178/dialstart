@@ -1,0 +1,26 @@
+Where is the closest coffee shop?
+The closest coffee shop is Startbucks found at 792 Bedoin Street. It is 2 miles away, but there is a car collision nearby
+================
+I've been injured and I need a hospital that is close to this location.
+The emergency department's number is 0122327118. would you like me to contact them for you?
+I am injured and need a hospital.
+Okay, I have contacted the emergency department for you. Can I have your address?
+================
+Are there chinese restaurants nearby
+There is a Jing Jing nearby.
+What is the address?
+Jing Jing is located at 113 Arbol Dr.
+================
+Hi! I'm looking for somewhere to go in the centre area.
+Great! The centre has many attractions. Are you interested in a particular type?
+I would love to maybe tour a college if I can.
+We have 13 colleges in the centre area. The downing college is one that is free to enter. Would you like more information on this one?
+Yes, and do you have the address and phone number?
+Downing College is on Regent Street and the phone number is 01223334860. Is there anything else I can help you with?
+================
+I am looking for the Addenbrookes Hospital.It should also have a respiratory medicine department.
+The respiratory medicine department at Addenbrookes can be reached at 01223256645.
+Thank you, may I have their phone number and address?
+The hospital is at Hills Rd in Cambridge. Again, the phone number is 01223245151. I can book an appointment for you.
+What is their postcode?
+The postcode is CB20QQ. Do you need anything else?

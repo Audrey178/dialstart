@@ -1,0 +1,15 @@
+I need information on protecting my Social Security and other personal information.
+================
+Are you familiar with our online identity verification process?
+Yes, I'm aware of it, but I'd like more information.
+Protecting your personal information is one of our most important responsibilities and we take it very seriously. To ensure we succeed, we have a cybersecurity program in place.
+How else do you protect my identity?
+We've implemented a new id verification process.
+What does this new process entail?
+The new id verification process will require extra steps to protect your information.
+================
+What is a mySocial Security account?
+If you are receiving emails to create a mySocial Security account, please do not comply. These are phishing emails used by internet scam artists to trick you into giving away personal information.
+================
+How does the new sign in process work?
+It will offer extra security by asking you to sign in with your username and password.

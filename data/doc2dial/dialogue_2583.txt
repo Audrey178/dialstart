@@ -1,0 +1,16 @@
+I want to sign up for email reminders
+================
+Would you like to know what the reminders will cover?
+yes
+Okay, you can sign up to get email and/or text reminders before your driver license, non-driver ID card, registration or vehicle inspection expires.
+Is your driver license, non-driver ID, registration, inspection, medical certification or medical variance close to expiring ?
+My ID is about to expire, that is why I wanted to sign up for reminders so I remember to get a new one
+since your ID is close to expiring when you sign up for reminders, you might not not get electronic reminders until the next time it’s due
+================
+can I email you if I have problems with your reminders?
+Yes, you can contact us.
+can I use the email you use to send me reminders to talk to you ?
+You will receive email reminders from messages@nydmv.messagingchannel.com because you are in the DMV Electronic Reminders program. Please do not write to this email address, because you will not receive a response.
+================
+for who are the medical certification reminders you mentioned earlier?
+Commercial driver license and commercial learner permit holders can sign up to get email and/or text reminders regarding the status of their medical certifications

@@ -1,0 +1,34 @@
+Hi, I'm looking for a hotel. It doesn't need to include internet but needs to be near the centre.
+I have 3 hotels and 2 guesthouse that fit your requirements, do you have a price range preference?
+Do any of them have free parking?
+Yes, I have two guesthouses in the cheap range, and two hotels in the expensive range, all in centre with free parking. Would you have any other criteria to narrow it down?
+Yes, what are their star ratings? I'd like one with a 4-star rating.
+I see two with a 4 star rating in the centre. One is a guesthouse and one is a hotel.
+The hotel sounds good, can we book it for 2 people for 4 nights, starting Monday?
+Booking at university arms hotel was successful. Your reference number is UUZVCFBQ. Do you need anything else?
+================
+I need a taxi from Kings Lynn station at 5:15, going to HK Fusion, please.
+You are booked with a grey volvo, phone number is 07406139758. Anything else I can do for you?
+================
+I am looking for information on the Yippee Noodle bar.
+Sure! Yippee Noodle Bar is a moderately priced Asian Oriental restaurant in the centre of town. What other other information can I get for you?
+can i get the address and phone number?
+Sure, yippee noodle bar is located at 40428 King Street City Centre. The phone number is 01223518111. How else may I assist you?
+On second thought, could you book me a table for 5 people at 12:30 on Sunday?
+The Yippee Noodle Bar doesn't have a table available at that time. Would you like to try another?
+Sure, please try for 11:30 Sunday. Still 5 people. Thanks.
+All right, your table is reserved. The reference number is GVNN1K5V.
+================
+Yes, I need a train for Tuesday.
+What time of day would you like to travel, and to where?
+I'm departing from Norwich on Tuesday and need to arrive in Cambridge by 09:15.
+Train TR0339 leaves Norwich at 07:16 and arrives in Cambridge at 08:35. Would you like me to book this train?
+Yes how long is the travel time?
+Travel time will be 79 minutes total.
+================
+I need a moderately priced restaurant in the centre.
+There are 21 different restaurants that fit your criteria. Is there a specific type of food you are looking for that could narrow down the list?
+Can I get the food type and postcode of one you'd recommend?
+I recommend anatolia, it is a turkish food type restaurant and its postcode is cb21uj.
+Okay thank you very much.
+Would you like to book a table, if so how many are dining?

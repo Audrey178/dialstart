@@ -1,0 +1,30 @@
+I need to book a taxi departing from clown's cafe that should arrive by 23:00.
+And where do you need the taxi to take you?
+I need to go to the hotpot.
+Okay. I have a yellow BMW available. Would you like to book that?
+Yes, may I also have the contact number for they yellow BMW?
+Sure. It is 07635951153. Can I help you with a hotel room perhaps?
+No, you've already helped me with all I need at this time. Thank you!
+Sounds good, let me know if you need anything else.
+================
+Find out immediately the location, time, and date for my meeting.
+For which one? I have one in conference room 100 at 10am on Friday, and one in Conference room 50 at 10 am on Saturday.
+================
+what is the chance of rain next week
+Of which city do you want to know the chance of rain?
+Will it rain in Alhambra?
+It is not forecasted to rain in Alhambra next week.
+================
+give me directions to the closest grocery store
+We're 4 miles away from Safeway but there is heavy traffic in this moment: do I set the GPS to go there?
+Pick a quick route and let's go there, thank you car!
+Navigating to Safeway.
+================
+I need a taxi to pick me up at Trinity college.
+Sure thing, when you like to leave by?
+I need to leave after 24:00.
+I can help you with that. where are you going?
+I'm headed to saffron brasserie.
+I have your taxi booked.
+Can I get the car type and contact number please?
+Certainly. You'll be picked up by a red Audi and the driver's number is 07990384611. Do you need help with anything else? A restaurant reservation perhaps?

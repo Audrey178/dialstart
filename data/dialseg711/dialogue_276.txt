@@ -1,0 +1,36 @@
+Can I book a taxi today, please? I'm going to Avalon.
+I would be happy to help you. First I will need to know where you are departing from and what time you want to arrive/depart.
+Pick me up at the pizza express Fen Ditton and take me to the avalon before 21:00. Can I get the car type and contact number?
+A red lexus will pick you up by 21:00. Your contact number is 07323820078.
+I need to be at the avalon by 21:00. The taxi will have to arrive slightly earlier to get me to my destination on time.
+Oh, I am very sorry for my error. You will arrive at Avalon by 21:00. I reserved a blue lexus with new contact # 07060980339.
+================
+Thanks. I'm looking for a place to go on the south.
+Would you prefer a museum or a nightclub?
+A museum, please.
+There's one museum called byard art that fits your needs.
+Can I get the phone number for that?
+The phone number is 01223464646. What else can I assist with?
+================
+Please help me reserve a taxi from saint catharine's college
+Sure! when would you like to arrive?
+I would like to arrive by 01:15.
+Great! And what is your destination?
+I'm going to loch fyne.
+You are booked for a red lexus with the contact number 07866626052.
+================
+Can you help me find a guesthouse in the north?
+We have 11 guesthouses available in the area, what is your price range and what amenities would you like in the guesthouse?
+It should include free parking.
+how about acorn house?
+Is it in the moderate range?
+yes.its within the moderate range
+What is the star rating of this guest house, address and phone number?
+The star rating is 4. Their phone number is 01223353888. The address is 154 chesterton road, postcode cb41da.
+Great, just gathering information for now. That's everything I needed, thanks.
+Glad I was able to help. Thank you.
+================
+What is the time of my swimming activity and who is attending?
+Your swimming activity is at 4 pm with Alex.
+Thanks.
+Your swimming activity with Alex is on Saturday at 4pm. Your swimming activity with your mother is at 5pm on Monday.

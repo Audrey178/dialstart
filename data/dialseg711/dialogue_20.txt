@@ -1,0 +1,35 @@
+I'd like to book a taxi. I need it to arrive by 14:15 and my destination is Cambridge Lodge Restaurant.
+Thank you, but before I can create your booking I need to know where you'll be departing from.
+I will be departing from Jesus Green Outdoor Pool.
+Your booking was successful. Your car is a red honda and its contact number is 07924138056. Can I assist you with anything else today?
+What type of car is it? And is there a contact number?
+Yes, I can repeat it. A Red Honda car and the contact info is 07924138056. Can I help you with anything else?
+================
+when is my next meeting
+================
+I need a train from stansted airport to cambridge, please.
+There are 133 trains that make that trip, do you have a day and time?
+Yes. I need to leave on Sunday and arrive by 17:15.
+I have train TR7744 that leaves the airport at 16:24 and will get you there by 16:52. Would you like me to book you a ticket?
+How much is the ticket?
+The tickets are 8.08 pounds per ticket. Would you like to book the train?
+Not at the moment. Thank you.
+Can I help you with anything else?
+================
+Where is the police station?
+The police station is located in Parkside, Cambridge, CB11JG
+Do you have a driver who can take me there?
+Yes, of course. What is your departure site?
+I can't think straight. Give me the police phone number, so they can come to me.
+No problem at all. Please call 01223358966 to reach the police at that station. I'm certain they will be able to help you.
+I hope so. Thanks for getting the number for me.
+You are welcome. Do you require any further assistance?
+================
+Are there any multiple sports in the centre of town?
+Sorry, not in the centre. Should I check another area?
+Well, how about a theatre then? I need the phone number.
+There are several theaters in the town centre. What address are you staying at so I can find the closest one to you?
+I'm not sure yet. Which one do you recommend?
+I think the Mumford Theatre is great! Would you like more information?
+Yes, I need the entrance fee and phone number?
+They don't have the entrance fee posted but their phone number is 08451962320. Is there anything else I can assist you with?

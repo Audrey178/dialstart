@@ -1,0 +1,31 @@
+Yes I am looking to find a restaurant that is expensive in the south of town.
+There are 5 options. What food type would you like?
+What type of cuisine options do I have?
+You can choose between Mexican, Italian, Indian, and Chinese.
+I would like Mexican, I would need a table for 6 at 16:00 on Monday
+I'm sorry, but they have no openings at that time. Care to try a different day or perhaps a different time?
+How about 15:00 for 6 people on Monday?
+Yes, I've successfully booked your reservation for 15:00. Anything else?
+Could I get that reference number?
+Yes. The reference number is SEI1ME8K. The Chiquito Restaurant Bar will reserve your table for 15 mins starting at 15:00. Can I help you with anything else?
+================
+when is my next yoga class
+Your next yoga activity is on Tuesday at 7 pm.
+================
+I'm looking for a cheap place to dine that serves danish food.
+I did not find any results. Would you like to try a different cuisine?
+I've got my heart set on Danish but we could go a bit more expensive, I guess.
+I am sorry but there is no Danish food available in Cambridge. What other food interests you?
+How about asian oriental food?
+The Dojo Noodle Bar is Asian oriental and cheap. Would you like me to make a reservation for you?
+Yes, for 2 people at 17:00 on thursday.
+Your reservations were successful. The table will be reserved for 15 minutes on Thursday at 17:00 for two. Your reference number is P62W5TAA.
+================
+I need to book a taxi please.
+Okay, I will need some more information from you. What time would you like to leave?
+I need to get there by 11:45.
+Great. Can you tell me where you will be traveling to and from?
+I want to go from wandlebury country park to huntingdon marriott hotel
+07426688661 is the contact number, I have you in a grey Toyota.
+That's perfect, thanks!
+Can I help you with anything else?

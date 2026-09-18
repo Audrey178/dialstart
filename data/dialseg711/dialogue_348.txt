@@ -1,0 +1,28 @@
+I am looking for a restaurant serving chinese food in the centre part of town.
+There are several chinese restaurants in the centre area. What price range are you considering?
+I am looking for something expensive.
+How about hk fusion located at 21 Burleigh Street City Centre? Would you like me to book?
+That sounds great! Yes, please! Book a table for 3 people at 15:45 on friday.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : CDBQYMUI. Is there anything else I can help you with?
+================
+I need the route with the shortest distance to a parking garage in the area
+Webster Garage is located at 880 Ames Ct. It is 2 miles away.
+Can you provide me with the shortest distance to reach there?
+Unfortunately there is a car collision nearby but I already sent on your screen another route to reach the garage fast enough
+================
+What is the date of my Nextt dentist appointment and who will be attending it?
+Your next dentist appointment is on the 2nd with sister.
+================
+Is there a Starbucks here?
+Yes it is 3 miles away.
+What is the address?
+Starbucks is located at 792 Bedoin Street. Anything else?
+Set the GPS for there please.
+Ok, navigating to the Starbucks on 792 Bedoin Street now.
+================
+I have been robbed and am looking for help. Can you help me?
+the nearest police station is located at Parkside, Cambridge and the phone number is 01223358966
+thank you very much for your help.
+I hope you get your belongings back.
+Actually, I can't find it on my phone. Can you give me the postcode of the station?
+Absolutely! The postcode is CB11JG!

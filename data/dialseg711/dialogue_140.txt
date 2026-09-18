@@ -1,0 +1,33 @@
+Is there a Philz near?
+Just a Teavana or Starbucks.
+Which one has the closest and quickest route?
+Teavana is just 3 miles away and it has moderate traffic while Starbuck is farther and has more traffic on its way
+What is the address for Teavana?
+The address for Teavana is 145 Amherst St.
+================
+There are hotels with free wifi and parking, right?
+Yes there are plenty. What area would you like to stay in?
+The hotel should be in the centre and should be in the type of guesthouse.
+There are two hotels that fit that criteria. I would recommend Alexander Bed and Breakfast, it has four stars.
+book it for 1 people and 4 nights starting from tuesday.
+I'm sorry, your booking was unsuccessful. Would you like to book another day or a shorter stay?
+How about Wednesday?
+Booking was successful. Reference number is : QHR6UO6I.
+================
+put my optometrist appointment in my calendar
+================
+what is the weather going to be like tomorrow show me the 7 day forecast
+Where do you need the forecast for?
+I'm in San Jose.
+It will be snowy in San Jose tomorrow.
+================
+I'm looking to book a train that leaves on Wednesday after 12:45, if you could help me with this that would be great!
+I'd be glad to help. But I will need a departure site and a destination.
+I'll be going to Peterborough from Cambridge.
+I would recommend TR1879 which leaves Cambridge at 13:06 and arrives in Peterbourough at 13:56.
+I'm sorry, I had that backwards, I need a train that departs FROM Peterborough and goes to Cambridge.
+I have over 20 trains traveling on Wednesday for you. Are you departure and arrival times still correct?
+Yes they are.
+I have train TR9545 which departs at 12:48 and will get you into Cambridge by 13:38. Does that sound like it would work for you?
+Yes please book it for 1 person and provide the reference number
+Your booking was successful. The reference number is 69YAY7YC. What else may I help you with?

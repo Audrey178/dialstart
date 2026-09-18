@@ -1,0 +1,24 @@
+Hi! Could you help me find a museum to go in town?
+There are many but may I suggest the Cambridge Contemporary Art Museum?
+Sure. What is the postcode and phone number, please?
+Their postcode is cb21su and phone number is 01223324222. What else can I help you with?
+================
+I'm looking to go to dinner tonight and am in the mood for some good Bistro in the centre of town, can you find me some options?
+I'm sorry. There is no matching restaurant. Would you like to try a different food type or area?
+Hmm... let me think. Let's try maybe something italian instead.
+There are nine Italian restaurants in the centre of town! Are you looking for an Italian restaurant in any particular price range?
+Which of those nine has the best ratings? Can I please have the address and postcode.
+I recommend Caffe Uno - it's very nice. They're at 32 Bridge Street City Centre, cb21uj. Can I help with anything else?
+================
+Can you find out the time and date for my next meeting? Oh and the location.
+your next meeting is in conference room 102 on the 3rd at 11 am
+================
+Will there be dew in Danville today?
+Today's weather forecast in danville calls for stormy weather.
+================
+Am injured and are looking for a hospital nearby
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+No particular department. Could I get their phone number?
+The number for the hospital is 01223245151. Is there anything else I can help you with today?
+Can you also give me their address while I call them, to save some time? Thanks.
+Yes, it is Hills Rd. Cambridge. Postcode is CB20QQ.

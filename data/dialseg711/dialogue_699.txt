@@ -1,0 +1,32 @@
+I am looking for a train going to Broxbourne.
+Certainly. Where will you be departing from?
+I am leaving from Cambridge heading to Broxbourne.
+I have 133 trains fitting that criteria, what time would you like to leave at?
+I'd like to leave after 10:30.
+What day are you traveling? And is this a booking just for yourself?
+I am leaving on Thursday and can you please give me the travel time and price?
+Sure, train TR3262 is perfect and has a 60 minute travel time. It costs 17.90 pounds. Would you like me to book it?
+That would be perfect, thank you.
+I have you on that train and your reference number is U5N4FNSQ. Is there anything else I can help you with today?
+No that will be all for now.
+Thank you for using our service. Have all of your needs been met?
+================
+i want to book a taxi.
+Where is your departure and destination locations?
+I need to leave vue cinema and arrive at clowns cafe by 11:30.
+Okay, I have a white volvo for you with the contact number 07119414615. Anything else?
+================
+Schedule a meeting at 1pm, this month on the 11th with boss to discuss dress code.
+I will schedule a meeting at 1pm, this month on the 11th with boss to discuss dress code.
+================
+I need a taxi, please. I need to arrive no later than 10:00, and I'm leaving from cambridge lodge restaurant.
+May I ask your destination?
+I'm going to cambridge book and print gallery.
+You are booked for a black skoda with the contact number 07448493514.
+================
+I need a train leaving from Cambridge.
+Absolutely, what day of departure and what destination location?
+I am heading to London Kings Cross and would need the train for Wednesday please. Oh and I need to leave after 18:00 sometime.
+Okay, the TR8676 train leaves at 19:00 and arrives at 19:51. Would you like to purchase tickets?
+Yes I need that for 3 people please.
+I have booked your tickets. 70.8 GBP is payable at the station. The reference number is JLCUPIN6

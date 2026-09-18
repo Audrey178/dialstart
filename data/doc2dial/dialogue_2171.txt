@@ -1,0 +1,19 @@
+I need a TVB ticket
+================
+Do you want to do that online?
+No
+================
+Do you need additional information?
+Yes
+================
+Do you want to print a substitute ticket?
+No
+================
+Do you want to pick up a printed one at a TVB office?
+No
+================
+Do you need more information on what to do if your traffic ticket is not available
+Yes
+If a traffic ticket is not available to print the transaction will give you instructions on what you can do
+What if it's not available to print?
+The transaction will give you instructions on what you can do. Read all messages in the transaction carefully. If the traffic ticket was not answerable to a Traffic Violations Bureau TVB

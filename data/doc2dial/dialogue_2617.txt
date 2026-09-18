@@ -1,0 +1,19 @@
+Hello I need information about the changes from the 'Passenger' class to the 'Commercial' class in vehicles
+================
+Do you want to know the information about Automobiles?
+Yes
+You can register a car in the 'Commercial' class if all the seats behind the driver are removed. Instead of the seats, you must install a permanent box or permanent shelf to transport the load.
+================
+and how are the changes in vans?
+You can register it in the 'Passenger' class if the truck has     at least one side window behind the driver, and     at least one seat or seat accessory set that is installed behind the driver
+and these modifications are permanent?
+These modifications must be permanent. If you use a van or light truck without the required modifications, then you must register it in the 'Commercial' registration class.
+================
+and how are the modifications of the collection trucks made?
+You can register a pickup in the 'Passenger' class if it meets certain conditions, depending on its empty weight.
+If your pick-up truck has a curb weight of less than 6,001 lbs?
+Yes
+If your modified or unmodified pickup truck has a curb weight of less than 6,001 lbs. , you can register it in the 'Passenger' class if it meets the following conditions:   the truck doesn't have any commercial    the van is used exclusively for non-commercial purposes
+================
+and these modifications are made under what regulation?
+Part 106 of the DMV Regulations describes vehicles that are registered in the 'Commercial' class and in the passenger class. Part 106 also describes how some modifications you make to your vehicle may affect the correct registration class of your vehicle.

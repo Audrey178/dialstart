@@ -1,0 +1,38 @@
+Greetings! Can you help me in locating a train to get me to Cambridge?
+Certainly. Can you please tell me the location you are departing from and what day you would like to leave?
+Sure. I need to leave on Friday from Broxbourne.
+We have several trains for that day. Did you have a particular time you wanted to leave?
+I am going to need to leave sometime later than 17:15. I will need 6 seats.
+There are 7 trains available. When would you like to arrive bye?
+It doesn't matter, I just need to leave sometime after 17:15.
+I can book you on TR4322 from broxbourne to cambridge. It leaves at 17:32 and arrives by 18:32. Would you like that?
+Yes please, for 6 people.
+I booked 6 seats on TR4322, the price is 107.4 GBP and your reference number is RZUTECIJ. Is there anything else I can do for you?
+================
+I was in a car accident and I need some help
+Sure! I think you'll need the police. Their contact number is 01223358966.
+May I also have the address and the post code?
+The address is Parkside, Cambridge and the telephone number is 01223358966.
+================
+I would like to get a taxi to pick me up after 16:45.
+We can make that happen, but first I'll need to know your departure and destination locations.
+I will be going to Jesus College from the Nirala.
+Okay. A blue volvo is booked for you.
+Great, I will also need their contact number please.
+Yes, the contact number is 07047852975. Is there anything else you need?
+================
+Please connect me to the Parkside Police Station.
+The number to the local police station is 01223358966.
+================
+I need to find a 4 star hotel that also has free parking.
+I have 19 places to stay with 4 stars and parking, which area would you prefer?
+I would like to be in the north area.
+There are no hotels that fit your criteria. However, there are 7 guesthouses available. Would you like me to book one of those for you?
+Are there any guesthouses with free wifi?
+Yes, all 7 guesthouses have internet available. What price range are you looking for?
+Oh, cool. It really doesn't matter. Which would you recommend?
+How about Acorn Guest House?
+How much per night?
+It is moderately priced. I don't have an exact price.
+OK, I don't need a room right now, but can I have the post code and phone number for Acorn?
+Sure. Postcode cb41da and phone number 01223353888. Is there anything else I can do for you?

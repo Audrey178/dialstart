@@ -1,0 +1,34 @@
+Bonjour, I need a 4 star hotel with free internet, please.
+Alright, I have many options available for you to chose from. Do you have a price range you're looking for, or an area of town you'd like to stay in?
+No, I don't have a price range or area of town.
+There are 21 places that meet your needs. Would you like to narrow it down based on anything else, such as free parking or whether it's a hotel or guesthouse?
+Yes, I would like free parking. I don't care whether it's a guesthouse or hotel, though. Could you suggest a place?
+Would you like a guesthouse or a hotel?
+I don't care, a hotel or guesthouse. Pick a good four star, with wifi and parking. I need to book for Thursday.
+I have several choices. The acorn guest House has 4 stars, wifi and is moderately priced. How many nights and how many people will be staying?
+Great. I have 7 people and need it for 5 nights starting Thursday.
+Wonderful. I have booked Acorn Guest house to meet your needs. The reference number is TDUTD8DV. Is there anything else I can help you with?
+================
+find the nearest coffee shop
+The nearest coffee shop is Starbucks which is 3 miles away. Do you need the address?
+Yes, please, send it on my screen and pick a route to avoid all heavy traffic
+The address to Starbucks is 792 Bedoin Street and there is moderate traffic on the route. Would you like me to set the GPS?
+Yes please.
+I sent the info on your screen, drive carefully!
+================
+Yes, I am looking for a hospital that is here in town.
+Addenbrookes Hospital is located at Hills Rd, Cambridge, is there a particular department you're looking for?
+I just need a phone number, thanks
+The number is 01223245151. Can I help you with something else?
+That is all I needed. Thank you for your help.
+welcome. at your service next time
+================
+I need to book a train from stansted airport to cambridge, can you help me?
+Yes, what day will you be traveling?
+monday, after 11:15
+There are 13 trains that match. Shall I reserve any tickets for you?
+Can you reserve 6 tickets on the next train after 11:15?
+I reserved you 6 seats on the TR5754. It leaves at 11:24. The total fee of 60.59 GBP is payable at the station. Your reference number is : 1IBJMMM8
+================
+I want to go to Addenbrookes Hospital
+Addenbrookes Hospital is located at Hills Rd, Cambridge in postcode CB20QQ.

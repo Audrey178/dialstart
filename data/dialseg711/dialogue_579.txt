@@ -1,0 +1,36 @@
+I'm looking for a restaurant that serves kosher food in the west side.
+I'm sorry, we don't have any Kosher restaurants on the west side. Would you like to try a different cuisine type?
+I was really hoping for Kosher.
+Unfortunately, there are no Kosher restaurants anywhere in the city. Can I help you find something else?
+How about an expensive Indian restaurant? I know there are many of those!
+We have 5 in the west side. Cocum is very popular, would you like to try there?
+Sure. What's Cocum's address, phone number, and postcode?
+Here is the information you've requested for Cocum: 71 Castle Street City Centre, 01223366668, cb30ah
+================
+navigate to nearest chinese food place
+The nearest chinese restaurant is Jing Jing, 4 miles away with no traffic. Setting directions now.
+Pick the fastest route please!
+Setting navigation to 113 Arbol Dr. There is currently no traffic on the route.
+Thank you.
+You're welcome. Drive carefully; and enjoy.
+================
+Is there a moderate restaurant in the centre of town?
+Certainly, we have 21. Do you have a cuisine type or a price range?
+Yes, I'd like a moderately priced restaurant.
+Cotto is a moderately priced restaurant in the centre of town. It serves British food.
+Please give me their address and postcode.
+The cotto is located at 183 East Road City Centre and their postcode is cb11bg. Would you like me to make a reservation for you?
+================
+Someone just hit my car and then attacked me, get the cops for me now!
+Cambridge, parkside police telephone number 01223358966.
+Thank you, may I please have the address?
+They are located in Parkside, Cambridge with postal code CB11JG. Can I hep with anything else?
+Thank you for your help.
+You are very welcome. Is there anything else I can do for you?
+================
+I am looking for the restaurant Nandos.
+Would you like the Nandos in the south or centre?
+Anywhere, I would just like it to be Nandos. I would like to book a table.
+Sure, how many people will be dining on what day at one time?
+4 people, Friday, 15:45. But 14:45 is also okay. Please give me the reference number.
+Booking was successful for the 14:45 time. The table will be reserved for 15 minutes, reference number is : I915UV13. Do you need anything else?

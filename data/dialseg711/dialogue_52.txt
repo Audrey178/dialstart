@@ -1,0 +1,34 @@
+Hi, I am looking for a guesthouse that includes free parking. Do you have anything available?
+How about the Acorn Guest House in the north side of town?
+That sounds great!
+Would you like me to book a room for you?
+I will need the reference number please.
+Absolutely! When would you like to visit?
+Friday. There will be 5 people in my party, and I'll need a reservation for 5 nights.
+Perfect, I was able to book the hotel for you. The reference number is 2FD2JYN8.
+================
+I'm are looking for a train. The train should leave on friday and should go to norwich
+There are many trains available. Where will you be departing from?
+I will be leaving from Cambridge.
+At what time would you like to leave or arrive?
+I need to arrive by 11:15.
+Booking was successful, the total fee is 17.6 GBP payable at the station . Reference number is : XABOWRR6.
+Ok, thank you. Can you also give me the travel time?
+You are looking at a 79 minute journey, any further questions today?
+What is the train ID for the one you booked?
+The train ID is TR8056. Can I help with anything else?
+================
+I'd like to book a taxi to take me to cineworld cinema from gonville hotel
+What time frame would you like this to happen in?
+I'd need to arrive by 15:45 please.
+Booking completed! Booked car type : yellow toyota Contact number : 07598718295
+Ok thanks, that's all I need!
+Can I do anything else for you today?
+================
+I am looking for a train.
+I'd be happy to help with your request. What day will you be travelling and what is your destination?
+I'll be heading to peterborough on thursday
+these are the available options trainID departure destination day leaveAt arriveBy price duration book (optional) TR7098 cambridge peterborough thursday 05:06 05:56 16.50 pounds 50 minutes TR4745 cambridge peterborough thursday 05:34 06:24 16.50 pounds 50 minutes TR9932 cambridge peterborough thursday 06:06 06:56 16.50 pounds 50 minutes TR8769 cambridge peterborough thursday 06:34 07:24 16.50 pounds 50 minutes TR6688 cambridge peterborough thursday 07:06 07:56 16.50 pounds 50 minutes
+================
+Remind me about my optometrist appointment with Jon at 2 pm at the end of March
+Okay perfect, I will be sure to remind you of that. Can I help you with anything else?

@@ -1,0 +1,30 @@
+Can you help me find a restaurant that serves greek food and is expensive?
+I apologize but there are no expensive greek restaurants listed, would you like to try a different food type or price range?
+Do you have any Indian restaurants?
+We have 14 indian restaurants in the expensive category. Do you have any more information to narrow down the search?
+I do not. Is there one you can recommend?
+I can recommend one for you, but first is there a particular part of town you would like to travel too?
+Any part of town is fine, I just need the address and postcode of one you'd recommend.
+I would recommend the Maharajah Tandoori Restaurant. It's in the west end. The address is 41518 Castle Street City Centre. The postcode is cb30ah. Shall I make a booking?
+================
+Car I need to get at my friends house near my current location, please send me their address on the screen
+Tom lives at 580 Van Ness Ave.
+================
+looking for a place to dine. The restaurant should serve british food and should be in the expensive price range.
+Fitzbillies restaurant at 51 Trumpington Street City Centre fits your request. Would you like me to book a table for you?
+I would. It's a party of 6 for Monday at 15:45. Can I get the reference number when you're done?
+Your reservation has been made. The reference number is GK4F8AFS. Is there anything else I can help you with?
+No, that's everything. Thanks for your help.
+welcome next time
+================
+Im looking for a shopping mall around here.
+The Topanga mall is 4 miles away.
+What is the address?
+The address to Topanga mall is 171 Oak Rd.
+Set GPS for the quickest route to get there.
+GPS set for quickest route to Topanga Mall.
+================
+Is there rain on Sunday
+What city would you like the forecast for?
+Compton.
+It will not rain on Saturday in Compton.

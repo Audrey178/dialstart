@@ -1,0 +1,34 @@
+I need a taxi to arrive by 13:15 to primavera
+I can help book that for you, first I will need to know where you need picked up from.
+I'm departing from curry queen.
+Booking completed! Booked car type : white bmw Contact number : 07843539534
+================
+I'm looking for a restaurant, somewhere not too expensive, but not bottom of the barrel either, something in the mid range.
+There are 31. What kind of cuisine would you like?
+I would like them to serve barbecue food.
+I'm sorry but there are none that serve barbecue food. Do you have an alternate cuisine preference?
+how about gastropub food?
+All right, sir, the Cow Pizza Kitchen and Bar has gastropub food and it is in the moderate price range. Would you like to make a reservation there?
+yes please.book for five, at 1700hrs or 1600hrs and get me the reference number
+What day would you like to book for?
+On Thursday please
+Sorry, the restaurant isn't available at 17:00. Do you want to try a different time?
+How about 16:00?
+Yes, I have a reservation available for 16:00. Your reference number is GXV1UIFJ. Is there anything else you need?
+================
+give me the full weekly weather forecast
+What city would you like the weekly weather forecast for?
+Will it snow in Manhattan this week?
+It will not snow in Manhattan this week.
+================
+What time is dinner and who is going?
+You have 3 dinners scheduled, one with Alex, one with your sister, and one with your aunt.
+================
+I am looking for an expensive hotel with free parking.
+We have 5 places that offer all of that. Any preference on star rating or area?
+No, that's not important to me. But, I would prefer to stay in a guesthouse with free parking.
+Sorry, there are no guesthouse type expensive places with free parking. Perhaps you'd prefer a different type or price range?
+Cheap would be fine as well.
+Sure, the Allenbell is a 4 star guesthouse. Does that sound good?
+Yes. Can you make a reservation for 4 nights starting Wednesday? There are 5 people in my party.
+I've made your reservation. The reference number is E8NPWA4B. What else can I help you with?

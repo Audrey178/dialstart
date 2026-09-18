@@ -1,0 +1,29 @@
+Hi, I need to get a taxi out of kohinoor.
+And when would you like to leave or arrive by?
+I need to leave after 07:45.
+I'd love to help! Where are you going?
+I am going to allenbell
+Your booking is complete, a black toyota will pick you up. The contact number is 07768938666.
+Thats perfect that you for your help
+You're welcome. Do you have any other concerns?
+================
+I am looking for an expensive restaurant in the city center
+There are 33 entries that meet your request. Is there a type of food you are looking for?
+No, I really don't mind. Recommend one to me.
+How about bedouin? It is an african cuisine that is in the expensive price range.
+That sounds wonderful. Can you give me the address and postcode?
+The Bedouin's address is 100 Mill Road City Centre, and the postcode is cb12bd. Can I help you with anything else?
+================
+I'm looking for a hotel in the south part of town.
+I can help you with that. Do you have a price range?
+I don't have a preference. I'm just looking for a 4 star hotel that has free wifi.
+i have 2 locations that match your requirements, one is cheap, one is moderate. which would you prefer?
+I guess we can go with the moderately priced one.
+Aylesbray Lodge guest house is moderately priced and has free wifi. Would you like me to make a reservation for you?
+Is Aylesbray Lodge a guesthouse? If not, is there a guesthouse that fits?
+Yes, it is a guesthouse. When would the stay begin and for how long?
+================
+What is the location and time of the meeting, and who is attending?
+================
+Could you please assist me in finding a hospital in town
+Certainly the Info of the nearest hospital is as follows: Addenbrookes Hospital Telephone : 01223245151 Address : Hills Rd, Cambridge Postcode : CB20QQ

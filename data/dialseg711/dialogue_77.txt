@@ -1,0 +1,21 @@
+i have an eye doctors appointment on the 12th at 5 pm
+================
+Where is the nearest gas station?
+There is a 76 4 miles away.
+What is the address?
+The 76 gas station is located at 91 El Camino Real. It is 4 miles away through moderate traffic
+================
+Could you give me the address of the Parkside Police station?
+The phone number is 01223358966. Can I help you find anything else?
+I also need the address for the Parkside Police Station, please.
+The address is Parkside, Cambridge.
+================
+Is there a grocery store close?
+The only grocery store is Sigona Farmers Market.
+What is the address?
+Sigona Farmers market is located at 638 Amherst St. Need anything else?
+No set the navigation for there please.
+Navigation set, we should arrive shortly.
+================
+What's the temperature in Carson going to be on Tuesday?
+There will be a high of 80F and a low of 60F in Carson on Tuesday.

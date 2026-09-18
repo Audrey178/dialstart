@@ -1,0 +1,23 @@
+I'm in need of a train leaving Tuesday from Peterborough, can you help me find one?
+Sure, I can put you on TR5042 which leaves for Cambridge at 5:19. How many tickets do you need?
+One ticket just for myself, though I need to arrive by 09:45.
+Your booking was successful with a reference number of 5XO1YF9Y and a fee of 16.5 GBP. Is there anything else I can do for you today?
+That's all I need, thanks.
+You're welcome. Have a great trip!
+Thanks. Can you just confirm for me when I will arrive in Cambridge?
+Sure, you will arrive in cambridge at 06:09. May I help with anything else?
+================
+I've been a victim of a robbery. Can you help me?
+Sure! I think you'll need the police. Their contact number is 01223358966.
+Which department is this?
+The police department
+================
+am looking for a train,it should leave on sunday and should go to stansted airport
+What time would you like the train to arrive at Cambridge? Keep in mind the train ride duration is approximately 28 minutes.
+Arrival time doesn't matter so much, but I want to leave after noon. Not a morning person :)
+How about TR5985? It leaves at 12:40.
+================
+Do you have a phone number for the police?
+Yes, call them at 01223358966
+What is the address?
+The address is Parkside, Cambridge.

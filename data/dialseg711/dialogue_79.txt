@@ -1,0 +1,21 @@
+set an appointment for swimming
+================
+I need a parking garage around here.
+The nearer parking garage is Stanford Oval Parking 1 miles away but I have 2 other farther options for you
+Which has the least traffic?
+Stanford Oval Parking is 1 mile away at 610 Amarillo Ave and the closest.
+================
+I need a taxi to take me to my hotel today from saint catharine's college
+I can help you book that, what hotel are you staying at?
+I am staying at Rosa's Bed and Breakfast.
+Ok great, and what time would you like to leave/arrive?
+I should leave after 13:00.
+Alright, I've got a red ford with the contact number 07542375620. Anything else I can do for you?
+================
+Find me a chinese spot i could get to the quickest.
+The nearer Chinese restaurant is P.F. Changs, it's 1 miles away: would you like to go there?
+What is the address?
+P.F. Changs is located at 669 El Camino Real.
+================
+set a reminder for lab work on the 12th
+A reminder has been set for lab work on the 12th.

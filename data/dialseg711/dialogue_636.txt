@@ -1,0 +1,21 @@
+Another driver bumped into my rental car, but he's saying it's my fault. I need help resolving this.
+Please contact the Parkside, Cambridge police station,
+================
+I got injured and are looking for a hospital nearby it should have the teenage cancer trust unit department
+Addenbrookes Hospital is located at Hills Rd, Cambridge and has a teenage cancer trust unit. Do you need their phone?
+Yes, please. Also their address and postcode.
+Addenbrookes Hospital is on Hills Rd, Cambridge and Postcode CB20QQ. The phone for that unit is 01223274222. Anything else?
+================
+I need to book a train to travel to London Kings Cross leaving after 10:45. Can you help me with this?
+Sure! Where would you like to depart from?
+I'll be leaving Cambridge on Wednesday.
+There are trains leaving at the hour throughout the day and night. If can book one of those for you if you like.
+I need to leave after 10:45.
+I can book you on TR9781 leaving Cambridge at 11 on Wednesday. How many tickets should I reserve?
+Can you book me 6 tickets please? I will also need the reference number too.
+I've reserved six tickets for you. Your reference number is X1C6NI79.
+================
+I need to find Addenbrookes Hospital.
+The hospital is located on Hills Road. Anything else?
+May I have the hospital phone number please?
+Their telephone number is 01223245151.

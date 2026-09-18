@@ -1,0 +1,18 @@
+I need help with the security on my account, please.
+================
+Are you trying to verify online?
+Yes, I don't understand how to do it.
+I'm glad you asked! We take security very seriously.
+Are you logging in the first time?
+No, I just want to access my info.  I don't care about protecting my information.
+================
+How do I know if the email I got is really from you?
+Our emails have a ".gov" address.
+What if the email address ends in something else?
+You should be careful about opening and responding to it.
+================
+How do you know it's me accessing my account?
+We use a new identity verification process.
+================
+How can I know if the link is real or phishing?
+Hover over it so it shows the web address, it should always end in .gov/

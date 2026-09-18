@@ -1,0 +1,20 @@
+On what date is my conference? What is it about, and who will be there?
+Your conference is on Tuesday at 11 am, It is to discuss the dress code with the infrastructure team
+================
+Can you give me the address for Addenbrookes Hospital?
+I have the location on Hills Road in Cambridge, CB20QQ. Their phone number is 01223245151.
+================
+what is the forecast for this week
+What city are you seeking information for?
+San Francisco.
+Any particular details you are interested in?
+Will it be raining?
+It will only rain on Sunday in San Francisco next week.
+================
+Car I want pizza, please send me the address of any pizza restaurant nearby
+The closest pizza spot i have listed is Pizza My Heart. It is 1 mile away and the address is 528 Anton Ct.
+================
+Hi, I'm looking for a taxi. I need to leave from Golden House at 12:15.
+Sure, can I have the destination for your taxi please?
+I'm headed to the soul tree nightclub.
+I have booked a taxi for you. It is a blue ford and the contact number is 07710275202. Is there anything else I can help you with today?

@@ -1,0 +1,29 @@
+What is the date of my swimming activity and who is attending?
+I have two, which would you like to know? The one on Monday at 6pm with Ana or the one on the 20th at 10 am with Martha?
+Both.
+================
+what is the weather for next week
+What city do you want the weather for?
+Redwood City
+In Redwood City, it is expected to be 70-80F on Monday, 40-60F on Tuesday, 90-100F on Wednesday, 70-80F on Thursday, 80-90F on Friday, 90-100F on Saturday, ,and 30-4F on Sunday.
+================
+Where's the closest hospital with a paediatric intensive care unit?
+Addenbrookes Hospital. The contact number for the paediatric intensive care unit is 01223217715.
+Can I get the postcode as well?
+It looks like the Post Code is CB20QQ.
+================
+I'm looking for a hotel in the north side.
+I have many options in the north. All are in the cheap to moderate range. Do you have any further requirements?
+I'd like a 2 star hotel with free parking.
+Ashley Hotel and Lovell lodge are both available
+The Ashley Hotel sounds fine, can you book that for me please. Also, I need the postcode of that hotel as well.
+the post code is cb41er. what day would you like the reservation for?
+================
+I am looking for a train from cambridge
+Certainly, where is your destination?
+My destination is norwich.
+There are 133 trains do you have a day and time you'd like to travel?
+I need to leave Saturday after 17:00.
+I have one leaving Cambridge at 17:36 and arriving in Norwich at 18:55. Would you like to book it?
+What is the train id and price?
+The train ID is TR4018 and the cost of the journey will be 14.08 pounds.

@@ -1,0 +1,42 @@
+I need a hospital in town.
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+No thank you. I think I have everything.
+Great! Hope you have a better day.
+================
+I'm looking for a train please going to cambridge.
+I'd be happy to help with your request, to narrow it down where is your departure site and what time do you want to arrive?
+I'm looking for a train leaving from london liverpool street after 20:00 on Friday.
+How about train TR8373 that leaves at 21:39?
+its ok. book for 8 people and help me get the reference number please
+All right, that's done. Your reference number is 3S77WUWE. How else may I help you?
+================
+I need to find a local hospital.
+The Addenbrookes Hospital is located at Hills Rd, Cambridge Postcode CB20QQ
+Can you please tell me what their phone number is?
+The phone number is 01223245151.
+================
+Yes, please help me book a train on Saturday.
+We have a large amount of trains that day, is there a specific location?
+I want to go from london liverpool street to cambridge.
+What time would you like to leave?
+I want to leave after 08:45 please
+The first train to London Liverpool street is at 09:39 and arrives at 11:07 in Cambridge. Does this time work for you? or would you like later?
+Oh sorry, I wanted a train on Friday, not Saturday. Anything after 08:45 from london liverpool street. to cambridge.
+I'm sorry. There is no train leaving from london live to cambridge on friday by 8:45. Would you like to try a different day or time?
+what are the available options
+I apologize for the earlier confusion, we do have trains leaving every two hours starting at 09:39 until 01:07am. Which time works for you?
+Tell me the arrival time of the 09:39 train please
+Sure. The 9:30 train leaves London Liverpool Street on Friday and arrives in Cambridge by 11:07. Would you like me to book that?
+yes, i will book that
+Of course, how many tickets will you need?
+I just need one ticket please.
+I have you booked on the TR0637 train. The total cost is 16.60 GBP, and the reference number is KQMHCZNL. IS there anything else that I can help you with?
+================
+I need a tax arriving by 17:00.
+Sure! where are you going?
+I am going to visit queens' college
+What is your departure site?
+I'm departing from ask.
+I have a black honda for you with contact number 07810177049.
+Wonderful. Thank you.
+Can I assist you with anything else?

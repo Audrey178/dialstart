@@ -1,0 +1,17 @@
+I have questions about using Aidan.
+I can help you with that. Aidan is a virtual assistant that can answer common questions about federal student aid.
+================
+Are you aware of the different tasks that Aidan provides?
+No.
+================
+How secure is using Aidan?
+Very secure. The Federal Student Aid handles and stores your data taken from interactions with Aidan.
+================
+What languages does Aidan speak?
+English is currently the only language Aidan can speak.
+================
+Will my information be shared with third parties?
+No. The Federal Student Aid will never share your information with third parties.
+================
+How advanced is Aidan?
+Right now, Aidan is still in the early stages of development beta mode, but it continues to learn and acquire new skills.

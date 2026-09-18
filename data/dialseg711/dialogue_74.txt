@@ -1,0 +1,38 @@
+I need to book a train leaving leicester after 12:15. Can you do that?
+Where would your destination be?
+I would like to go to Cambridge on Sunday and leaving after 12:15 please.
+There are 11 choices that are available. At what time would you like to arrive?
+the sooner the better but now rush actually
+First train leaves at 13:09 and then every hour. Do you want me to book for you?
+yep, for 5 people at 13:09
+tickets booked for 151.19 GBP, your ref number is DNL05V8N
+================
+I am looking for a place to stay. The hotel should be in the east and should include free wifi
+There is one hotel and 6 guesthouses in the east with free Internet. Do you prefer a certain price range?
+no, I just need it on the east side.
+how about the leverton house?
+Sure, I'd like to book it for 2 people for 3 nights starting on wednesday.
+Sorry, but the hotel isn't available during that time. What about changing the date?
+how about 2 nights instead?
+Booking was successful.Reference number is : HDTPOS34. Is there anything else I can help you with?
+No, that's all I need. Thank you very much.
+You are welcome. I can help with attractions and restaurants, if you wish.
+================
+Please give me an address and directions via the fastest route to a coffee or tea place around me.
+Coupa is 7 miles away from here in moderate traffic. The address is 394 Van Ness Ave
+================
+I need a train from london liverpool street station on wednesday.
+What is your destination, please?
+I am heading to Cambridge for an important visit. Can you get me there by 11:00?
+There is one train leaving at 7:39 arriving at 9:07 would that work for you?
+That should be perfect. How many tickets can I get?
+You can buy up to eight tickets.
+Just one is fine.
+Ok. The price is 16.60 pounds for 1 ticket. Do you want me to book it?
+Could you tell me the travel time please first?
+Yes, it's 88 minutes. May I help with anything else?
+================
+what is the weather in new york city
+What can I tell you about the weather in New York?
+I'd like to know the weather overcast in the next weekend
+It will be overcast on Sunday for this weekend in New York.

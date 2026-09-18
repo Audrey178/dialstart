@@ -1,0 +1,26 @@
+can you give me directions to the nearest hotel
+The Westin is at 329 El Camino Real.
+Thank you, please pick a route with no traffic and let's go there!
+Going to The Westin.
+================
+i am looking for the Addenbrookes
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+No, but I do need the hospital's postcode, please.
+Addenbrookes' postcode is CB20QQ. Do you need anything else?
+================
+Hi there. I heard someone mention the Bloomsbury Restaurant and I was wondering if you could give me some information for them.
+Sure the Bloomsbury is located at Crowne Plaza Hotel 20 Downing Street and their postcode and telephone number are cb23dt and 08719429180 respectively. Is there anything else you need?
+I'd like to make a reservation for 6 at 11:00 on Sunday.
+Your table for 6 at 11:00 on Sunday at Bloomsbury is reserved (Reference #7354C6CL). Is there anything else I can do for you today?
+================
+Is there a local hospital that has a cardiology department?
+Addenbrookes Hospital located at Hills Rd, Cambridge has cardiology. Do you need their phone number?
+I just need their address and postcode please
+Their address is Hills Rd, Cambridge, postcode CB20QQ
+================
+I'm in the centre of town and need suggetions on things to see.
+I have 44 entries for attractions. Are you looking for architecture, colleges, parks, nightclubs, or maybe a museum?
+Nothing particular. What is your favorite attraction in the centre of town?
+You might enjoy the Cambridge Punter. It's a boat.
+Sounds fun. Do you know the entrance fee?
+I'm sorry, it is not listed. But if you'd like to call them the phone number is 07807718591. Can I help you with anything else?

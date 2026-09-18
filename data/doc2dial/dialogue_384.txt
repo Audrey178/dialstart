@@ -1,0 +1,16 @@
+I'm trying to learn more about the online identification process and I want to know how to protect myself from phishing. Are there any resources I can use to get informed about it?
+================
+Do you want to know how to avoid security problems?
+Yes, that's correct.
+good advice is to always keep your browser up to date.
+And about phishing?
+You can get more information about phishing by going to OnGuard Online.
+================
+What other tips can you give me to avoid phishing email?
+You must know that Social Security sends emails from no-reply@ssa.gov, subscription.service@subscriptions.ssa.gov, and ThankYou@ssa.gov. If you get an email from any email address that does not end in .gov you should be careful before opening attachments or clicking any links in the email.
+================
+Are you guys doing anything to protect our privacy and information?
+yes, we are using a new identity verification process.
+================
+Please, give me more tips about security when dealing with suspicious emails.
+Always verify the legitimacy of the information given in the email, before clicking anything in the email. Verify if the phone numbers, website or any other information present in the mail are valid by searching that information in a search engine. Also, do not respond to any email requesting personal information.

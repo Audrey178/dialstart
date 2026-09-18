@@ -1,0 +1,21 @@
+what's the weekly weather report for the city
+What city would you like weather information for?
+Cleveland
+In Cleveland, it will be 60-70F on Monday, 80-100F Tuesday, 90-100F Wednesday, 40-60F Thursday, 90-100F Friday, 40-60F Saturday, and 80-90F Sunday.
+================
+i want to book a taxi. The taxi should leave after 21:15 and should depart from backstreet bistro.
+Where is the destination?
+I want to go to the cambridge punter.
+Your booking is completed. A yellow Toyota will pick you up at 21:15. The contact number is 07441929231. Can I help you with anything else today?
+================
+I am involved in a car dispute, I need help.
+The Parkside Police Station will be able to help you. Call the station at 01223358966.
+================
+Hi, how are you? Can you help me find an expensive place to stay that includes free wifi?
+We have 5 such places! Any preference on area?
+Yes, I need a hotel in the north, close to the airport, thanks.
+Unfortunately, there are no expensive hotels in the north that include free wifi. Would you like to change your criteria?
+Well, can you check in other areas?
+I recommend either the Huntingdon Marriott Hotel in the west or the University Arms Hotel in the centre. Would one of them work for you?
+Could you give me the phone number of the Marriott please?
+The phone number for the huntingdon marriott hotel is 01480446000. Is there anything else I can assist you with today?

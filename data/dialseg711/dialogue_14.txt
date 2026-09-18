@@ -1,0 +1,32 @@
+Will it be humid in exeter tomorrow?
+The weather forecast in exeter tomorrow will be hot
+================
+Can you give me any info on whether you have any 2-star hotel or guesthouses somewhere in town?
+Yes, there are three! How about Ashley Hotel?
+Does it have free wifi and free parking?
+Yes, the Ashley offers both free wifi and free parking. Would you like to make a reservation?
+Yes, make a reservation for 2 for 3 nights starting Wednesday.
+That booking was unsuccessful. Would you like to try a different day, or a different length of stay?
+How about trying another 2-star hotel with free wifi and free parking?
+Would you like to try Express by Holiday Inn or Lovell Lodge?
+Yes, the Express is fine. I need it for 2 people and for 3 nights starting Wednesday. I need the reference number, please.
+Booking was unsuccessful. Do you want to change the preferences?
+Let me look over my notes quick. I need a hotel, not a guestroom, with 2 stars. Free Parking & WiFi. 3 nights starting Wednesday, 2 people.
+We have three, what area of town would you like?
+Area doesn't matter. Just book me one and hand me the reference number.
+Alright, you have a reservation at the ashley hotel. The reference number is O1T3GRKQ. Can I help you find anything else?
+================
+I need to find a hospital nearby that has a hepatobillary and gastrointestinal surgery referral center
+Addenbrookes Hospital located at Hills Rd, Cambridge has that department. Would you like the phone number to that direct department?
+No, I just need the postcode.
+Certainly. The postcode is CB20QQ. Anything else I can help you with today?
+================
+what's the weekly forecast for cleveland
+It will be warm most of the week. At first, it will be foggy, then hot, then dry, then wet, then foggy, and then stormy. Is that helpful?
+Sorry, I might have misspoken. - I actually want to know what the lowest temperature will be in Cleveland during the next week.
+It will be 40F on Friday in Cleveland.
+================
+Where is the closest shopping center?
+The nearest shopping center is 7 miles away.
+What is the address?
+Ravenswood Shopping Center is at 434 Arastradero Rd.

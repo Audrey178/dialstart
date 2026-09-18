@@ -1,0 +1,24 @@
+get me the weather forecast for the next 7 days
+For what city would you like the forecast?
+New York
+Over the next 7 days, snow, rain, fog, overcast and clear skies, along with a blizzard are predicted in New York.
+================
+I'd love to find an expensive German restaurant.
+I'm sorry, there are no German restaurants in the area. Is there another cuisine I could search for?
+how about one that serves european food?
+I have several european restaurants to choose from. Did you want to dine in a certain area of the city?
+I don't care which area. Just need to find a table for 5 people at 15:00 on Saturday. I will need the reference number once booked.
+I think you'd enjoy Eraina, so I've booked you a table there. The reference number is 0IT4QD59.
+================
+Would you happen to have information on the Lovell Lodge?
+Yes! This hotel is located in the north. It has a 2 star rating and is in the moderate price range. Is there anything else I can assist you with?
+Can I get the phone number and address please?
+The address for Lovell Lodge is 365 Milton Road, and the phone number is 01223425478. Is there anything else I can help you with?
+================
+Info for lab appointment
+Your lab appointment is on Thursday at 1 pm, Marie will be attending.
+================
+Would you help me find a nearby hospital please? I've been injured and need medical attention.
+Addenbrookes Hospital is nearby. The telephone is 01223245151 and the address is Hills Rd, Cambridge,CB20QQ
+Thank you, that was everything I needed.
+You're welcome. I hope you get to feeling better.

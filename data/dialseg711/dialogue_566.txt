@@ -1,0 +1,36 @@
+I would like to book a taxi departing from Panahar.
+Could you tell me when you would like to depart and when you would like to arrive?
+Yes I'd need to arrive by 3:00 at cambridge arts theatre.
+That booking has been completed. Your reservation number is 07869081756 and you will be picked up by a blue audi. Can I help with anything else?
+When should I expect it?
+I can't tell the exact arrival time, but expect it a little before 3. It will get you to the theatre by 3.
+================
+I am looking for a place to stay. The hotel should have a star of 4 and should include free wifi
+Try the a and b guest house or arbury lodge guesthouse
+Are either of those in the cheap price range?
+In what section of town are you looking to stay? I have 8 different lodgings that fit your requirements.
+I am not really picky.
+I would like the arbury lodge guesthouse
+Is it cheap?
+No, but the alexander bed and breakfast is in the cheap range and has wifi. It's in the centre of town. Would you like me to reserve a room for you?
+That sounds good, yes. I need 4 nights booked for me, beginning Friday and for 7 people.
+I'm sorry. Alexander bed and breakfast is fully booked. Do you want to book starting another day or for a shorter stay?
+Yes, 3 nights please and can I have a reference number
+I've booked that reservation. The reference number is 1G6A07OI. Can I assist with something else?
+================
+I am looking for an Eastern restaurant, medium price
+There are 3 restaurants available in the moderate price range in the East of town. Would you like to go to Curry Prince?
+Yes, please. What is the address, postcode, and phone number?
+Yes the Curry prince is located at 451 New market Road Fen Ditton with a postcode of cb58jj. Their telephone number is 01223566388.
+Okay thank you. Can you tell me their hours of operation?
+I'm sorry. We do not have hours of operation in our database.
+================
+I was robbed a few minutes ago and need assistance.
+Please contact the Parkside, Cambridge police station.
+I need the address including postcode of the police station and also the phone number.
+Of course. Their address is Parkside, Cambridge postcode CB11JG and phone number is 01223358966.
+Thank you. That's all I needed.
+You are more than welcome!
+================
+I really need to have an appointment scheduled for tennis on the 7th at 11 am.
+I am scheduling tennis on the 7th at 11 am.

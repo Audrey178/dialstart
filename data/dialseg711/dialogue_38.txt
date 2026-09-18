@@ -1,0 +1,22 @@
+I need help finding a train leaving Cambridge after 20:45.
+Many trains leave Cambridge around 20:45, what is the destination?
+I need to get to london liverpool street.
+I have several options for you, and the price and exact departure time varies by day of the week. Do you have a day preference?
+I would like to leave on Thursday
+Train TR3695 leaves 21:59 and arrives on 23:27. Would you like to book it?
+================
+I am looking for a place serving Indian food in the west.
+The Tandoori Palace is an excellent choice, though it's a bit expensive. Would you like a table there?
+Yes, please book for 3 people at 13:15 on Monday. Include reference number, please.
+You are all set for 13:15 Monday. Your reference number is 36NIKCYF. Can I help you with anything else?
+================
+I need to find out the time and the parties attending my yoga activity.
+You have two yoga activities scheduled. One at 3pm with Ana and another at 4pm with Jeff. Would you like to know the dates as well?
+I'm sorry i didn't get that. You have two yoga activities scheduled. One at 3pm with Ana and another at 4pm with Jeff. Would you like to know the dates as well?
+================
+Hi, I am looking for a hospital, the Addenbrookes Hospital. Where is that please?
+The hospital is located at Hills Rd, Cambridge. The postal code is CB20QQ. Do you need more information?
+I need their phone number, please.
+Their general phone number is 01223245151. Is there anything else you need?
+That would be it. Thank you.
+welcome. at your service next time

@@ -1,0 +1,18 @@
+I think someone is trying to scam me by e-mail by using you guys as a cover.  What should I do?
+================
+Are you sure the e-mail did not come from Social Security or one of our marketing firms?
+yes, I am mostly sure
+Okay, in that case don't respond to the email or click on any links contained in the email message . We recommend you report the incident by forwarding the suspicious email to the U.S. Computer Emergency Readiness Team US - CERT at phishing-report@us-cert.gov or go to   http://www.us-nocert.gov/nav/report_phishing.html .
+================
+and how do you guys protect my account so no one signs in and looks at my info?
+When you sign in to your account ,you will complete two steps Enter your username and password, then you enter the security code we send by text message or email
+Okay, I hope you guys really take care of our info, right?
+One of our most important responsibilities is protecting your investment and personal information .Social Security takes this responsibility very seriously , and we have a robust cybersecurity program in place to help us succeed .
+Is this all new with the signing in and code?
+we are using a new identity verification process . that Requires you to sign in with a username and password for extra security
+================
+what other steps can I take to make sure no one uses you guys to try to scam me?
+If an email includes a business name , telephone number , or website link , verify the legitimacy of these items by searching for the official number or website in a search engine .Do not respond to emails requesting personal information .Reputable businesses and public agencies will not ask you for personal information in an email .
+================
+ what are some places I should look out for?
+here are two that we know of; https://www.socialsecurity.gov.gmx.de/ and http://www.socialsecurity.gov.bx.co.rx/setup

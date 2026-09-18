@@ -1,0 +1,34 @@
+Hi, i need to book a taxi to go to funky fun house. I need to leave after 8:45.
+Where will you leave from?
+The taxi should depart from the cambridge punter
+Alrighty. I have a grey ford for you with the contact number 07266756209. Anything else you need?
+================
+I need a train to Cambridge on Saturday. I'll be departing from Peterborough.
+In order for me to find the best train to suit you, can you provide me with a preferred departure or arrival time?
+We'd like to arrive by 12:45.
+There are 14 trains that arrive by 12:45. What time would you like to leave?
+What's the latest train I can take that will still get me there by 12:45?
+The latest train leaves at 11:48 and arrives at 12:38. The cost per ticket is 13.20 GBP. Would you like to book this train?
+Yes, for 7 people. Please give me reference number.
+Perfect. I have booked your trip. Reference # K3MJOHZK.
+================
+I've just has a dispute involving an auto accident. I need some help urgently!
+The number to reach the Parkside Police Station is 01223358966. I suggest you give them a call. They can help with the accident.
+Thank you. What is the postcode for that station?
+The postcode is CB11JG.
+Thank you that's all!!
+Thank you for using this system
+================
+I'm looking for a restaurant that offers British food in a moderate price range, can you help me with that?
+Yes I have many in the center of town and on in the west. Do you have a preference for area?
+Let's try the west.
+I have one in the west called Saint Johns Chop House. Would you like a reservation here?
+For now, can I just get the phone number and postcode?
+Their number is 01223353110. Postcode is cb30ad.
+================
+Hi! I need a taxi from little saint mary's church to trinity college. I sure hope you can help me!
+Sure thing, when you like to leave by?
+I need to leave after 24:45.
+Your booking is complete, a grey toyota will be picking you up.
+I'll also need the contact number.
+Of course, the number is 07655357606. Can I help with anything else?

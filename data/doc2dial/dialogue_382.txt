@@ -1,0 +1,18 @@
+Hi, i've been reviewing information about the online verification process, an specially about online fraud. In your system, how can i be sure if a communication from you is legit?
+================
+Ok. The most of the email from social security will have away to verify them. The most common one  is the .gov extension in the email address, so you better check that out when reviewing any mail regarding social security.
+Have you received any mail which doesn't end in .gov?
+Yeah, i have received some of those, that's why i'm asking.
+Very well. I'm sure you have taken the right measures, but i must say to you to be cautious before any suspicious email. Do not open any attachments or go clicking any link. The current social security addresses are no.reply@ssa.gov, suscription.service@suscriptions.ssa.gov and thankyou@ssa.gov.
+================
+Umm, better write that down. Say, the other day i was told that i should create a social security account online, but i don't understand those process very well, you could give me some option?
+Sure. If you are unable to create an account online, you can always visit your local social security office to create an account in person.
+================
+Ok, that's good to know i have options. Say, i'm pretty sure about what to do, but anyways, what should i do if a receive a suspicious email?
+If that happens and you are not sure about email's origin, please do not respond to the email or click on any link inside, reporting the suspicious email to the U.S computer emergency readiness team.
+================
+And in that regard, how can i verify a link of a picture?
+ You can hover the link or image with your mouse and check the address. It should end with .gov as in the following https://www.ssa.gov/myaccount.
+================
+What is phishing, sorry to ask?
+It's a practice where you use techniques to fraud a person.

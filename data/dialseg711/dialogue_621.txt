@@ -1,0 +1,28 @@
+what's today's and tomorrow's forecast
+What city do you want the forecast for?
+I want to know the temperature in danville
+For what day would you like to know the temperature?
+today and tomorrow
+Today Monday, will be a low of 90F, high of 100F and tomorrow also a low of 90F, high of 100F.
+================
+I'd like a train from Leicester to Cambridge, please!
+On what day will you be travelling?
+I will be traveling on monday and need to arrive by 14:15
+Train TR5054 leaves Leicester and arrives in Cambridge at 13:54. Would you like to book this train?
+Sounds great. Can you please book it for 2 people?
+Of course. Your total will be 75.59 GBP payable at the station. Your reference number is PCJMQZXO. Can I help you with anything else?
+================
+want to book a taxi
+Where are you going & where should it pick you up?
+I am departing from sala thong and need to go to abbey pool and astroturf pitch. I need to arrive by 16:45.
+Booked! Your car is a yellow toyota. Contact number: 07041103823.
+================
+Find out the time and parties attending for my yoga activity.
+You have two yoga activities scheduled; one on Monday at 6 pm with father and one the 15th at 6 pm with mother. Is that all?
+================
+I am looking for a train that goes to Cambridge around 10:45
+What day will you be traveling?
+I will be traveling on Thursday, and departing from Stevenage.
+There are 3 trains that match your search. Do you want to book one?
+No, can you just let me know the travel time for this trip?
+The travel time from Stevenage to Cambridge is 49 minutes.

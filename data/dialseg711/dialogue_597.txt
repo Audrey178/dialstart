@@ -1,0 +1,17 @@
+Where can I go shopping?
+Ravenswood Shopping Center is 7 miles away.
+Would you give me the address of the location and directions by the quickest route?
+The address for Ravenswood Shopping Center is 434 Arastradero Rd. with no traffic reported.
+================
+Set a reminder for my football activity at 3pm this Tuesday, with mother.
+Setting a reminder for football activity with mother on Tuesday at 3 pm.
+================
+can you give me directions to the nearest starbucks
+The nearest Starbucks is 6 miles away at 792 Bedoin Street.
+That's good, pick a route to avoid all heavy traffic please
+There is no traffic in this moment, I've set the navigation there
+================
+i want to book a taxi. The taxi should depart from pizza hut cherry hinton and should arrive by 01:30.
+Do you have a destination and time preference?
+Yes, I want to book so I can get to kohinoor by 01:30.
+Booking completed! Booked car type : red bmw Contact number : 07276200225

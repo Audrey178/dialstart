@@ -1,0 +1,37 @@
+I need to find a place to go for entertainment.
+Which part of town would you prefer?
+I would like it in the centre, please.
+We do not have any entertainment in the centre. Would you like to pick a different area?
+Are there any museums in the centre?
+I'm sorry I am not finding any museums in the centre of town. Is there any other part of town that could work for you?
+No, I am only looking for entertainment or museums in the centre of town. Can you look again?
+The Broughton House Gallery is a great museum in the centre. It's free to get in, and it's located at 98 king street. Can I help with anything else?
+================
+Where can I get groceries?
+Sigona Farmers Market sells groceries.
+Is it within 5 miles, by chance?
+Yes, it is only 3 miles away.
+Is there any traffic?
+There is moderate traffic. Is that ok?
+================
+I would like a taxi to curry king please.
+Sure, first I'll need to know where you need picked up from.
+I'm departing from sheep's green and lammas land park fen causeway.
+I can help you with that. When do you need to leave?
+I just need to be sure to arrive by 07:15.
+I have a black bmw with contact number 07975360345.
+When will the taxi pick me up?
+Would 6:45 be a convenient time for you to leave?
+Will that get me to my destination on time?
+Yes, the trip takes about fifteen minutes so you will arrive in time even if there is a little traffic.
+================
+set reminder for laboratory request on this month on the 12th
+================
+Hi, I'm looking for a train departing from Stansted Airport. I'd like it to arrive at the destination by 9:15.
+Sure! It looks like we have four morning trains daily the are early enough for you. What day are you planning to travel?
+I need to leave on Thursday.
+We only have trains going to Cambridge then, is that your destination?
+Yes, I want to go to cambridge. Can you make a booking for 7 people and give me the reference number?
+I have train TR9084 that leaves the airport at 08:24 and gets to Cambridge at 08:52. Would that train work for you?
+Yes, that's great can I get 7 tickets please?
+Alright, your 7 tickets for the TR9084 train has been purchased for 70.7 GBP. The reference number is CVJZNB86. Is there anything else I can do for you?

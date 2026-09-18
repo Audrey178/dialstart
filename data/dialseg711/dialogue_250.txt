@@ -1,0 +1,46 @@
+Hi, Are there any expensive Indian restaurants in town?
+Yes, there are quite a few! What area of town would you prefer?
+I would prefer a restaurant in the west side of town.
+Tandoori Palace is in the West part of town, located at 68 Histon Road, Chesterton. Can I make a reservation for you?
+Actually, I just need the number and address.
+The Tandoori Palace is located at 68 Histon Road Chesterton, postcode cb43le, and their phone number is 01223506055. Can I help you with anything else?
+================
+find starbucks
+There is a Starbucks 4 miles away.
+What is the address?
+Starbucks is at 792 Bedoin Street.
+Pick a route to avoid all heavy traffic and let's go there, thank you!
+Setting route for minimum traffic to Starbucks now.
+================
+I need a taxi from finches bed and breakfast to Ian hong house. Please be here at 13:45. What is your phone number? What type of car?
+Can you please provide me with a destination and arrival time? Thank you.
+I need to arrive to Ian hong house by 13:45.
+Your taxi is booked. Your car is a blue volkswagen and contact number is 07602572766
+================
+I'd like to find a cheap place to stay.
+I can certainly help you with that. We have 10 listings for cheap lodgings. Do you have any other requirements?
+I would like for it to be located in the center of town.
+Sure. I found 2 guesthouses. One with 4 stars and one with 0 stars. Do you have a preference?
+No, I don't have a preference. Do those places have wi-fi?
+Yes, they both do. The Alexander B&B is our inexpensive 4 star guesthouse. Would you like me to see if I could book you room?
+I am not ready to book yet. Thanks for the information.
+You are very welcome! Is there anything else I can assist you with?
+================
+I am looking for a train to go to London Kings Cross.
+There are several available option to travel to Kings cross today. What time would you like to travel?
+I need to travel after 9am
+There are 56 trains. How does the TR2000 train that leaves at 9 am sound?
+that will be ok. thank you for your help
+Can I look up anything else for you?
+That's on Wednesday, right?
+No, that's on Friday, actually. On Wednesday, I have TR6583 departing Cambridge at 9:00, going to London King's Cross. Will that work for you?
+Okay very good. What's the train ID on that please?
+TR6583, would you like for me to get you tickets?
+Yes please book that train for me.
+Sure, will you be traveling alone?
+Yes it's just going to be me.
+I've booked you a ticket. The fee is 23.6 GBP, payable at the station. The reference number is 3XI4V3C1. Is there anything else I can assist with?
+No, that's all. Thank you.
+thanks for your service
+Have a nice day.
+Have a great day. Let me know if you need any other help.

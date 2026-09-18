@@ -1,0 +1,15 @@
+Hello there, I have some questions about the loan simulator.
+================
+Do you know what you need to do to get the most realistic results?
+No, I'm aware of that.
+Where can I learn more about the calculations of the simulator?
+You can learn more about Loan Simulator calculations on our website.
+================
+I'll check it out later. Is there a way I can help with improving this tool?
+Yes, you can contact us to share your feedback, ask questions, and request new features.
+================
+Can I share the loan simulator with others?
+Of course, we invite you to share this tool with friends and family.
+================
+Oh, before I forget it: how do I get the most accurate results?
+Provide complete and accurate information when using Loan Simulator. Keep in mind, this tool can't predict your future payments with 100 % accuracy.

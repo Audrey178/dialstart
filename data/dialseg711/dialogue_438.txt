@@ -1,0 +1,29 @@
+Are there cheap places to eat in the centre part of town?
+There are several in that price range at the centre. What type of food would you like?
+Good I like chinese food please.
+Charlie Chan looks great. Need a reservation?
+Yes, I need a reservation for 7 people on Friday at 17:45. Could I get the reservation number?
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : VX834JA0.
+================
+Hi, what time and date is my swimming activity?
+================
+am looking for a train,it should leave after 14:15 and should depart from london kings cross
+Is your destination Cambridge or another location?
+Yes, my destination is cambridge.
+What day would you like that train? The TR8842 train departs Friday at 15:17 would you like me to book?
+I need the arrival time
+The arrival time is 16:08.
+================
+Will it be overcast in Cleveland on Sunday?
+Yes, it will be overcast in cleveland on sunday
+================
+I'm looking for an expensive vietnamese place to eat, can you help me find one?
+It doesn't look like there are any expensive Vietnamese restaurants. Would you like me to look for a different cuisine type or price range?
+Are there any British food joints?
+Graffiti is in the west part of town in the expensive price range, would you like to book that?
+Yes, please book a table for 6 on Thursday.
+What time shall we make that booking for?
+Make it for 11:15 and please give me a reference number.
+Alright, your table for 6 has been booked for Graffiti for Thursday at 11:15. Is there anything else I can do for you?
+Yes, can I please have the reference number as well for the booking?
+Of course, the reference number is 1JR8K2OP. May I assist you with anything else?

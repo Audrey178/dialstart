@@ -1,0 +1,32 @@
+I'm interested in a place called restaurant one seven. What can you tell me about it?
+Restaurant One Seven serves british food! It is moderately priced!
+Awesome! Can you book a table for me? 4 people at 15:30 on Monday. Thanks!
+Okay I have you booked there for Monday at 15:30 and your reference number is 0J39OJVT.
+================
+I was wondering if you could tell me where the Addenbrookes Hospital is?
+The address is Hills Rd, Cambridge and the postcode is CB20QQ
+what is their phone number?
+The main phone number is 01223245151.
+================
+I am looking for a train to Cambridge.
+What time do you want to leave?
+I would like to leave after 15:15
+I'd love to help! Where are you departing from?
+leicester.also get train ID, travel time, and price
+16:09 17:54 37.80 pounds 105 minutes thats all you could need sir
+I will need the train ID also please.
+TR7878 leaves leicester Friday at 16:09. Would you like to book a seat?
+I don't need to book a seat, I just needed the train ID.
+The train ID is TR7878. Is there anything else I can assist you with?
+================
+I'd like to find a hospital please, it needs to have an antenatal department.
+Sure. Addenbrookes Hospital has one, their phone number is 01223217671 and address Hills Rd, Cambridge
+================
+Are there any 3-star hotels, guesthouses, or B&B's that have wifi that you don't have to pay for?
+There are 5 places to stay that match your criteria. Do you have a pricerange in mind?
+No, but the hotel should be in the north.
+I have found the Hamilton Lodge. It is a guesthouse in the north. Would you like more information about it?
+Yeah, how much does it cost?
+It is listed as moderately priced.
+Thanks, what is the address and does it have free parking?
+Hamilton lodge is located at 156 chesterton road, and yes it does have free parking.

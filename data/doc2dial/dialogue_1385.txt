@@ -1,0 +1,14 @@
+Hello there, I'm here because of a higher level review.
+================
+Do you want to request a higher-level review?
+No, I don't want to request one.
+================
+Have you scheduled an informal conference?
+No, I haven't.
+What I wanted to know was which benefit type to choose in the review form. Can you help me with that, please?
+Of course. The most common benefit type is compensation, but if you're unsure, check your VA decision.
+Can I select multiple benefit types?
+You can't select multiple benefit types.
+================
+Oh, that's too bad. Well, what can you tell me about the national cemetery administration?
+Please refer to your decision for instructions on how to submit the form.

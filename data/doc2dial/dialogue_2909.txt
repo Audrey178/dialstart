@@ -1,0 +1,17 @@
+II need assistance with using Aidan.
+I can help you with that. Aidan is a virtual assistant that is capable of answering common questions about federal student aid.
+================
+Do you know what tasks that Aidan can assist you with?
+No. I don't.
+================
+How does Aidan work?
+Aidan uses advanced technology, AI, and natural language processing to answer common Federal Student Aid questions.
+================
+Is it possible for another person to use Aidan if they use my phone?
+No. As long as you protect your log in credentials and log out each time you are done using Aidan.
+================
+Is Aidan capable of learning new things over time?
+Yes. Although Aidan is in the early stages of development beta mode, it is still capable of learning and acquiring new skills.
+================
+How secure is my information when using Aidan?
+Your information is very secure. FSA handles and stores all data from your chats with Aidan.

@@ -1,0 +1,36 @@
+I'm looking for a museum to visit in the centre of town.
+There are eleven museums in the city centre. Might I recommend the museum of archaelogy and anthropology?
+Tell me more about the anthropology museum please.
+The museum of archaelogy and anthropology is free to get into and is located at the University of Cambridge on Downing Street. Their phone number is 01223333516.
+What is their postcode?
+Their postcode is cb23dz. If you would like to reach them directly, their phone number is 01223333516. Anything else I can help with?
+================
+I need a taxi from thanh binh.
+Great. I can help with that. What will your destination be?
+Prezzo is my destination
+Your booking is complete, a grey honda will pick you up.
+================
+please give me directions to the nearest starbucks
+The nearest Starbucks is 6 miles away at 792 Bedoin Street.
+================
+I need to book a taxi please.
+Where would you like to go to and from?
+I want to go to hobsons house from bloomsbury restaurant
+Okay, what time do you want to leave?
+I want to leave bloomsbury restaurant after 11:45, please.
+Your booking is now completed.
+What are the details for the taxi, please?
+You will be picked up by a black Audi. The contact number is 07866049938. Is there anything else I can do for you?
+No that is all I needed today.
+You are more than welcome!
+================
+Hello. Are there any trains leaving after 8:00 on Saturday?
+What is your destination?
+im going to kings lynn
+Where will you be leaving from?
+I would be leaving from Cambridge.
+There is a train leaving at 9:11 would that work for you?
+Yes, that would be fine. What's the train ID and travel time for that one?
+the cambridge train leaves at 9:11 on sunday.
+Can you give me the ID for this train and the overall travel time?
+The ID is TR6088 and the total travel time is 47 minutes. Can I be of further assistance today?

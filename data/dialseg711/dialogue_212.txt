@@ -1,0 +1,40 @@
+I need a train to Birmingham New Street that arrives by 8:00.
+Where are you departing from?
+I am leaving from cambridge on tuesday
+Okay, I've got a training leaving at 5:01 and arriving by 07:44, will that be good?
+Perfect. I'd like 8 tickets please.
+Okay I have booked you 8 tickets on this train. Your reference number is E4459YTN. Is there anything else?
+================
+I'm heading to Club Salsa, and I need a taxi.
+I'll be happy to get one for you, what time would you like to leave?
+I need to be at club salsa by 6:00 leaving la tasca.
+I have booked a taxi for you. It is a blue lexus and the contact number is 07417152476. Is there anything else I can help you with?
+================
+I'm going to need a train on Wednesday. I need to arrive by 16:00.
+Where are you departing from?
+I will be departing from Leicester.
+What will be your destination?
+I am going to cambridge
+There are trains arriving in Cambridge 6 minutes before the hour throughout the day. Which time would be best for you?
+As long as i arrive close to 16:00 I am good.
+TR 8292 arrives in Cambridge at 14:54 on Wednesday. It costs 37.80 pounds. How many tickets can I book for you?
+I don't actually need to book at the moment. I just need to know the departure time and travel time for this train, if you don't mind.
+Sure. The TR8292 departs at 13:09. The ride is 105 minutes long. Do you have any other questions?
+================
+I'm looking for an Australian place to dine in. I need it to be cheap.
+I'm sorry, there aren't any cheap Australian restaurants in town. Would you like me to look for a different restaurant type?
+Are there any that have Asian Oriental food?
+There is a very nice and cheap Asian restaurant called Wise Buddha. Here is the address and phone number.
+Could you book me a table for 4 on Friday at 14:00?
+There was no Wise Buddha restaurant, sorry. I booked a table for 4 at J Restaurant. Reference number is WPA3IY8C. I think you'll like it. Anything else?
+================
+Can you help me book a train on Sunday?
+Where is the destination?
+I want to go to Ely.
+There are a number of trains leaving Cambridge for Ely on Sundays. Do you have a departure time in mind?
+I need it to leave after 08:15 please.
+can i book for you?
+Yes please book just one ticket for me.
+TR1159 leaves at 9:50 and the fee of 3.52 pounds is payable at the station. Is there anything else I can assist you with?
+Yes, what is the reference number for the reservation?
+The reference # is T27B8DUJ. Is there anything else I can help with today?

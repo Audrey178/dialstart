@@ -1,0 +1,15 @@
+Hello I need information about How to Verify a Title or Lien Status
+================
+do you want to do it online?
+Yes
+You can check the status of vehicle titles and liens online. Sorry, the service is not available for boat titles.
+Has it been 90 days since you made the request?
+do not
+================
+and what information should I give?
+Provide your contact information if you are a credit institution, include your lien code.Provide complete and accurate information for the vehicle or vessel in question.
+and do I have to give the embargo code?
+Provide your contact information if you are a credit institution, include your lien code.
+================
+and what does the verification service show?
+The status verification service shows the title was issued by the DMV

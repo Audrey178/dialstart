@@ -1,0 +1,17 @@
+I just received a time limit warning. How long can I stay on this page?
+================
+For security reasons, time limits have been put into place for each page. Were you on the page longer than 25 minutes?
+Yes. I had to take a phone call for work and when I came back to the computer, the warning popped up.
+The warning pops up after 25 minutes, but you can extend the time, if needed.
+================
+What can the retirement calculator do for me?
+It can provide you with retirement benefit estimates based on your Social Security earnings record.
+================
+Are the time limits set for every page or for the entire thing?
+They are set for each page.
+================
+Will the calculator give me the actual amount of retirement benefits I can expect to receive?
+No, because your information may change over time, it can only give you an estimate of what to expect.
+================
+How many warnings will it give me before I'm made to move to the next page?
+It will give you a total of 3 warnings.

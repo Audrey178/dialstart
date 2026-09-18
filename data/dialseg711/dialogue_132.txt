@@ -1,0 +1,34 @@
+Reserve a taxi to jinling noodle bar for me
+Sure! when would you like to arrive?
+I need to arrive by 24:15
+Where will you be leaving from?
+I will be leaving from pembroke college.
+A grey volvo will be picking you up at pembroke college. Their contact number is 07248087755 if you have any questions.
+Thanks so much for your help!
+You are welcome. Do you need any other Cambridge bookings?
+================
+I am looking for a 0 star hotel to stay at somewhere in the north area.
+I have one place that suits your needs. It is the City Centre North B & B. They are located on 328a Histon Road. They offer both free wifi and parking.
+Is that place cheap?
+Yes. City Centre North B & B is in the cheap pricerange.
+Ok, that's awesome. Can you book me a room there for Saturday for 8 people and 2 nights?
+I'm sorry. The booking was unsuccessful. Would you like to try for another day or a shorter stay?
+Sure, how about just for one night?
+Success. The reference number is MOUX96ZE.
+================
+what's the forecast for today
+What city can i give you the forecast from?
+Inglewood, please. Is it gonna be windy today?
+It will not be windy in Inglewood today.
+================
+Car, remind me to take my medicine at 2 pm, Monday August 8th. I need you to add Jeff to the parties involved.
+Setting reminder to take medicine on Monday August 8th at 2 pm with Jeff.
+================
+Hello! I would like to go to a restaurant in the east, please.
+There are nine restaurants in the east. Do you want a certain price range?
+Moderate price please
+I have two Indian Restaurants and one Italian restaurant. Do you have a preference?
+I would like to try the Italian one. What is the restaurant's name, please?
+It is Pizza Hut Fen Ditton.
+Can i get the address, postcode too, please?
+The address is Cambridge Retail Park Newmarket Road Fen Ditton, postcode cb58wr. Anything else?

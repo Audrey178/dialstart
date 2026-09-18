@@ -1,0 +1,16 @@
+I can't figure out the protection on my account.
+================
+Do you need to verify your identity online?
+Yes, I'm stuck at the verification process.  Why is it here?
+We want to make sure your sensitive information stays protected.
+How are you protecting me?
+We implemented a new verification process.
+================
+The link in my email looks okay.  Is it safe?
+Not always.  Links in an official email always direct to an official site.
+================
+Can I verify through email?
+Yes, make sure you add NO-REPLY@ssa.gov to your contact list.  Otherwise the verification link might go to spam.
+================
+So how do I know if it's a real email from you?
+Most of our emails come from a .gov address.

@@ -1,0 +1,37 @@
+Is there a grocery store within 5 miles?
+There is a Safeway located 7 miles away; would that do?
+How's the traffic to there?
+At this time there is a car collision nearby.
+What is the address?
+452 Arcadia Pl, I highlighted it on your map
+================
+Could you recommend a Chinese restaurant for me to try?
+Sure I have them in all price ranges all over the city. Do you have an area you prefer?
+The centre of the city, with a moderate price range, please.
+Okay, I was able to find 3 restaurants for your preference. I have jinling noodle bar, Ian hong house, and shanghai family restaurant... is there any preference on one of these?
+No, I don't have a preference, I would like a reservation on Sunday at 11:15 for three people.
+Unfortunately I was not able to book that restaurant.
+How about for 10:15?
+I was able to get you a table for 3 on Sunday at 10:15 at the Shanghai Family Restaurant. Your reference number is SFWTQUB7. Is there anything else?
+================
+I am looking for a train.
+Alright. Where are you headed?
+I'm head to Leicester from Cambridge on Saturday.
+What time are you planning to leave?
+Anytime after 8:45.
+TR3371 leaves at 09:21 and arrives at 11:06. It is 30.24 pounds. Would you be interested in that?
+I meant to say I want to leave after 20:45.
+Great, I have TR9209 that meets your criteria and is 30.24 pounds. Would you like me to book it?
+Yes, please. I booking for one person.
+Pardon me, did you say you are traveling on Saturday or Sunday?
+I am traveling on Saturday.
+Okay, I have TR7610 that leaves at 21:21. The price is 30.24 pounds. Would you like me to book it?
+Yes please, for one person.
+Okay, booking was successful. Your reference number is MHMRVMR4. Anything else?
+================
+I need to book a taxi going to sidney sussex college.
+Alright. I will just need to know what time you'd like to arrive there or when you prefer to leave
+I have to arrive by 12:15
+Not a problem - where should I have the car pick you up?
+I need to be picked up from curry prince. Please let me know what kind of car to expect and a number they can be reached at.
+I have booked a red Audi for you. The contact number is 07354896778.

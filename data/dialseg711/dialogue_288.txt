@@ -1,0 +1,24 @@
+what's the weekly weather report for the city
+What city would you like the weekly weather report for?
+Will it be humid in Corona next week?
+The forecast for Thursday is supposed to be humid for Carson.
+================
+in which day do i have doctor's appointment
+doctor's appointment is on monday at 7pm
+Thanks
+You are most welcome
+Thank you.
+you are welcome.
+================
+I need to find a hospital.
+The Addenbrookes Hospital on Hills Road in Cambridge offers many services.
+Can I get the phone number and full mailing address of the cardiology and coronary care unit department at that hospital?
+their details are Addenbrookes Hospital Telephone : 01223245151 Address : Hills Rd, Cambridge Postcode : CB20QQ
+================
+find route to the hospital
+Navigating you to Stanford Children's Health.
+================
+I'm looking for information on the Parkside Police Station.
+The Parkside Police Station address is Parkside, Cambridge, Postcode CB11JG. The Telephone number is 01223358966. Is there anything else I can help you with?
+Was that that the full address for the police station?
+yes that was!

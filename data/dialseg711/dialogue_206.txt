@@ -1,0 +1,26 @@
+What time is my dentist appointment and who is going?
+I have you set for two. One is at 2pm with Jon, and one at 4pm with Ana
+================
+is it snowy in fresno
+Which days are you interested in?
+Monday's forecast in Fresno.
+It will not snow in Fresno on Monday.
+================
+I'd like to find a resturant that serves cheap Chinese food!
+Charlie Chan is located in the centre and it is cheap! Would you like me to book it for you?
+Yes, go ahead and book it and please send me the address.
+The address is Regent Street City Centre. What day and time would you like to book? How many people?
+I do not need to book it. What is the postcode and the area please?
+The postcode is cb21db
+================
+Where can I go shopping?
+You can go shopping at Topanga Mall at 171 Oak Rd.
+Do you have a quick route to reach it?
+It's 7 miles away and there is heavy traffic on our way, it won't be fast
+================
+I'm looking for a restaurant. The restaurant should serve italian food and should be in the expensive price range.
+Okay. Do you want to dine in a specific area?
+I am looking in the centre of town.
+We have 4 expensive italian restaurants in the center of town. Two are in Market Hill City Centre. Shall I just pick one for you?
+Yes, surprise me please! it's for 8 people at 16:30 on Tuesday.
+Booking was successful at don pasquale pizzeria. The table will be reserved for 15 minutes. Reference number is : OYESLS03. Can I help with anything else?

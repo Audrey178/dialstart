@@ -1,0 +1,40 @@
+Hi, I'm looking for a restaurant called pizza hut cherry hinton, can you help me find it?
+Yes sure would you like their address or phone number?
+No, I wanted to make a reservation there.
+I'd be happy to make you a reservation, for what day/time and how many is in your party?
+Just one person on Sunday at 19:45
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : CKO62HOH. Is there anything else I can help you with?
+================
+Car I need to get to some rest stop, I'm tired, please find something in the local area
+Hotel Keen is 6 miles away.
+What is the address?
+Hotel Keen is at 578 Arbol Dr.
+Is there any traffic on the way there?
+No, there will not be any traffic on the way to Hotel Keen
+================
+A hotel in the north with free parking, please.
+I have 5 hotels that meet your needs 2 are moderately priced and 3 are expensive. Do you have a preference?
+Is there any with a 4 star rating and includes free wifi?
+Unfortunately there are none on the north side of town that fit your criteria. Would you like me to look in another part of the city?
+No thank you.
+I have Ashley Hotel or Lovell Lodge on the North side of town. They both have free wifi and parking. Can I book one of those for you?
+Do either of those have 4 star ratings?
+No, I'm sorry. There are several guesthouses with 4 stars. Kirkwood House is in the north and has fee parking and WiFi. Can I reserve a room?
+What is Kirkwood House's address, postcode, and price range?
+Kirkwood house is a moderately priced hotel and its address is 172 chesterton road, cb41da.
+================
+Car I need a parking garage closest to my position: help me please!
+Webster Garage is 4 miles away.
+Is that the closest one? If so send me the address as soon as possible.
+Webster Garage is at 880 Ames Ct.
+is that the closest one with no traffic? if so, give me directions
+Here are directions to Webster Garage.
+plot the fastest route to webster garage with no traffic
+There is moderate traffic on our route but you should reach fast anyway. I sent the info on your screen, drive carefully!
+================
+Am looking for the Parkside Police Station
+You can contact them at Parkside, Cambridge, CB11JG
+Can I also get their phone number please?
+Absolutely, their phone number is 01223358966.
+Thanks for all of your help!
+You're welcome. Is there anything else I can help you with today?

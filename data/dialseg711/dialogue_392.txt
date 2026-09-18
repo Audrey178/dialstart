@@ -1,0 +1,30 @@
+I need a taxi to take me in time for my reservation to tang chinese today
+Where will you leave from?
+I am leaving from the backstreet bistro.
+Alright. I will just need a time from you please.
+I want to arrive by 18:00
+Booking is complete, a grey tesla will be arriving at 18:00. The contact number is 07243724592. Do you need any further assistance? .
+================
+i want to find a hospital in town
+Addenbrookes Hospital is nearby, at Hills Rd, Cambridge. Do you need a particular department?
+No, can I get the phone number, address, and postcode?
+The phone number is 01223245151, The address is Hills Rd, Cambridge. The Postcode is CB20QQ.
+Great, that's all I need today! Thank you!
+welcome. at your service next time
+================
+find me a nearby parking garage or parking lot
+Civic Center Garage is nearby.
+What is the address?
+270 Altaire Walk. The garage is 4 miles away and you should be able to reach it quickly despite the moderate traffic
+================
+Am looking for the Addenbrookes Hospital
+Addenbrookes Hospital is located on Hills Rd, Cambridge. Is there a particular department you'd like the phone number for?
+No, but do you have the postal code by any chance?
+The postal code is CB20QQ. Is there anything else I can help you with?
+================
+Find me a gas station that I can get to the quickest without any traffic
+The nearest gas station is located at 91 El Camino Real, but there is a roadblock nearby.
+Anything else around?
+I'm sorry but this is the only option in a 6 miles range
+Ok, please give me directions via the fastest route.
+There is a road block nearby, I sent on your screen a slightly longer road that will allow you to reach faster

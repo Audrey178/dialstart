@@ -1,0 +1,30 @@
+Please give me the address and directions to a coffee shop via the quickest route.
+Peets coffee is located at 9981 Archuleta Ave, 1 mile away in heavy traffic. Setting directions now.
+Can we avoid the heavy traffic at all?
+We will avoid the heavy traffic to Peets..
+================
+Help me reserve a taxi please
+Okay, what is your departure site?
+I will be leaving from pizza express Fen Ditton
+Okay. Can I get a time that you'd like to leave after or arrive by?
+I'd like to arrive at the Sidney Sussex College by 12:45, please.
+Great, you will be picked up in a white toyota, the contact number is 07519220407. Is there anything else I can do for you?
+================
+I'm interesting in info about 3-star hotels and such that offer free wifi.
+I have two hotels that match the description of 3 star ratings. Are you looking for a hotel in the centre or south area?
+the location doesn't matter so long as it has free wifi
+The Gonville Hotel is supposed to be great and it offers free wifi. Would you like me to book you a room?
+book it for 5 people and 2 nights starting from monday.
+Sorry, it looks like the hotel can't accommodate you for that amount of time.
+Perhaps starting sunday instead?
+Great, your reference number is O8VH7VL6. Is there anything else I can help with?
+================
+Book me a taxi to vue cinema
+Sure thing, when would you like to get there by?
+I want to leave after 08:30 from la mimosa
+I can definitely help! Where are you departing from?
+As I said, I will be leaving from La Minosa.
+I've booked a yellow Tesla for you, the contact number is: 07908194770
+================
+I am looking for a nearest police station
+The Parkside Police Station address is Parkside, Cambridge, postcode CB11JG, and the telephone is 01223358966.

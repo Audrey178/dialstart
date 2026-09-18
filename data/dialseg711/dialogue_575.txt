@@ -1,0 +1,32 @@
+give me this week's high temperature
+What city do you want the weather for?
+Give me the temperature in downtown Chicago for the week.
+In Chicago, it will be 90-100F Monday, Wednesday, and Friday. On Tuesday and Thursday it will be 60-80F, Saturday will be 30-40F, and Sunday will be 70-80F.
+================
+I need help, i just been the victim of a robbery.
+Are you hurt?
+I am not hurt but I need to get in touch with the police, can you send me the address?
+Sure, here it is: Parkside, Cambridge.
+================
+I need a taxi today arriving at 21:00.
+I need a little more information. Where are you leaving from?
+Oh I'm sorry - I need to be picked up at the whipple museum of the history of science.
+What is your destination?
+I want to go to restaurant two two.
+And do you want to be picked up from whipple museum at 2100 or get to restaurant two two at 2100?
+I'd like to arrive at Restaurant Two Two by 21:00 please.
+Great I have you booked in a grey lexus and the contact number is 07398176919.
+================
+Oh I'm not feeling so well. Where is the nearest hospital?
+Addenbrookes Hospital is your nearest hospital. Their emergency department's number is 01223217118. Do you need anything else?
+Okay thank you.
+Is there anything else I can do for you today?
+What is the hospital's phone number?
+Which department do you need the phone number for? The main phone is 01223245151, but I can also give you a phone number by department.
+Can you provide me with the address please?
+Addenbrookes Hospital is on Hills Rd, Cambridge. Can I do anything else for you today?
+================
+Hello, I am looking for People's Portraits Exhibition at Girton College, can you help me?
+Yes. I see the exhibition. Would you like the address?
+yes, I would like the area and the postcode.
+It is located in the west, at postcode cb3ojg. Anything else for you today?

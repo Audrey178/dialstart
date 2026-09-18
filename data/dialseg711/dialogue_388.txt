@@ -1,0 +1,32 @@
+Hi! I would like to book a taxi that will take me to Pizza Hut Cherry Hinton. I will be departing from Parkside Pools.
+What time would you like to leave?
+I want to leave after 02:00
+I can book a Black Ford for you. The contact number of the company is 07708238835. Can I help with anything else?
+Thank you very much.
+We are happy to help. Do you require any further assistance?
+================
+Yes, I would like a train ticket for Sunday. I'm going to London Kings Cross.
+Sure. Where will you be leaving from?
+I'll be leaving from cambridge, and I need to get to kings cross by 10:00.
+The TR3207 leaves at 07:00 and arrives at 07:51. Would you like that one?
+That sounds good. Please book it for 6 people and can I have the reference number?
+Train TR3207 is booked for 6 people. The reference number is BAAL6J4H and the total fee is 113.28 GBP payable at the station.
+================
+I need a taxi to come to broxbourne train station by 21:15.
+Sure! Where are you coming from?
+I am coming from bankok city.
+Please confirm. Are you departing from broxbourne train station or bankok city?
+To be picked up from bangkok city, must arrive at the broxbourne train station by 21:15. Please give me contact number and type of car as well.
+Your booking is complete. A blue lexus will be picking you up. Their contact number is 07268032250. Anything else?
+================
+Is it gonna hail in Mountain View this week?
+In Mountain View it will be hail on Saturday
+================
+I need a place to stay in the expensive range.
+I found 5 expensive hotels, do you have a particular area you would like to stay in?
+Yes, I would like to stay in the west.
+I have the Huntingdon Marriott Hotel. Would you like me to book it for you?
+Is it a 4 star place?
+Yes, it sure is. Would you like to reserve a room?
+Once you find the hotel you want to book it for 2 people and 4 nights starting from tuesday.
+Booking was successful. Reference number is : V4BVJWHG. Is there anything else I can assist you?

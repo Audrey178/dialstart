@@ -1,0 +1,44 @@
+I am looking for a restaurant. The restaurant should be in the centre and should serve persian food
+I am sorry. There are no person food eateries in the centre. Would you like to find a different type of food?
+Yes, I am looking for a moderate price range.
+I'm sorry, we have no persian restaurants in the centre.
+What about modern european foods?
+Riverside brasserie looks good. Would you like a reservation?
+Yes, I want a reservation for 8 people at 16:00 on Sunday.
+Sorry, the restaurant doesn't have any openings for that date and time.
+================
+Could you help me find a guesthouse on the west side?
+There are two guesthouses on the west side, one cheap and one moderately priced.
+Does either of those offer free parking?
+Actually, they both offer free wifi and free parking. Finches B & B is cheaper, and the Hobsons House is more moderately priced. Which do you prefer?
+Let's go with Finches. Can you book me a room for 2 people on Saturday? We'd like to stat for 4 nights.
+I've booked your stay. Do you need anything else?
+Just the reference number thanks
+Sure thing, your reference number is E7R5KNP0. Would you like me to help you find anything else today?
+================
+I need a train to Stevenage.
+Absolutely. From where would you like to depart?
+I am leaving out of Cambridge. I need the ticket for Sunday.
+TR5390 is the first train of the day leaving at 5:21 would that work for you?
+Unfortunately I need to leave after 09:30, is there one available then?
+Sure thing, train TR8464 leaves at 11:21. Will that work?
+That will probably work fine. Can you tell me the travel time for that train?
+The first train of Sunday leaves at 11:21 and arrives by 12:10. Does that meet your requirements?
+By travel time, I mean the duration of the train trip.
+I'm sorry. That comes out to a 49-minute train ride. Does that sound agreeable to you?
+Yes that will be fine.
+Am I booking one ticket?
+No, that's not necessary. I can book it later. Thanks. Have a good day.
+Thank you for using our system!
+================
+I'd like to find a panasian restaurant in the centre of town please.
+Unfortunately, I was not able to locate a panasian restaurant in that area. Would you like me to look in another area or for a different type of restaurant?
+Oh no. Well I'll take chinese food then.
+Great choice! We have 10 restaurants in that area. Do you have a preference on price?
+No, I don't care about the price. Which one looks good?
+Tang Chinese is listed at expensive. Would you like more information?
+Can I have the phone number, address and postcode?
+Yes, the address is Napier Street City Centre, the postcode is cb11hr, and the phone number is 01223357187.
+================
+Which one is gonna be the lowest temperature today and tomorrow in Fresno?
+Tuesday will have the lowest temperature of 30F in fresno

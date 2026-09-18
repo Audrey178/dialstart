@@ -1,0 +1,17 @@
+Hello, i want to get some info about removing a lienholder from a title, please.
+================
+Is there a lienholder in your title certificate?
+No, not in this moment.
+================
+But are you into any lien in this moment that you need proof for?
+No, none of that either.
+================
+Anyhow, what i wanted to know is if in any case i get a lien in my certificate, can i get it transferred?
+Yes you can do it. You also can give the new owner the original proof that any lien listed on the title was satisfied. Of course, is advised that you keep a copy for yourself.
+Do you know if the new owner is applying for a registration and title certificate?
+No, i think not.
+And what about if i can't provide any proof being the new owner?
+In the case the new owner doesn't provided the proof, the lienholder is listed on the title certificate of the new owner.
+================
+um. where i can find more info about electronic lien transactions?
+For that, please refer to document ELT-1 for Electronic Transfer Program Business User Manual.

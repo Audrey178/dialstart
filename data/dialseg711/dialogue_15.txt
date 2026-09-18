@@ -1,0 +1,40 @@
+Hello, I'm looking for a train. I need to leave on Wednesday from Norwich.
+Any idea where you want to go?
+I am looking to go to Cambridge.
+To help narrow down the choices, what time would you like to depart at?
+i'm leaving after 09:00.
+how about TR1180 that leaves at 09:16?
+What is the Price and travel time?
+It is 17.60 pounds per person and the travel time is 79 minutes.
+Ok great, can you book it for me please?
+You are booked fee will be 17.6 payable at the station, the refernece number is BT2I3WGS. Anything else today?
+================
+I need a hotel on the north side with free parking.
+Okay, there are 11 places to stay that might work. Would you prefer a guesthouse or a hotel?
+I'd prefer a moderate price guesthouse.
+That leaves us with about 7 options. Can I suggest the Acorn Guest House? It is a 4 star moderately priced guesthouse in the north.
+That sounds fine. Would you make a reservation for 4 people, 3 nights starting Monday?
+Your booking was successful and reference number is 3ZYK9LO1. Is there anything else I may assist you with?
+================
+Is there a nearby rest stop?
+Hotel Keen and The Westin are both nearby.
+Which has the least amount of traffic at the moment.
+They both have none.
+What is the address for Keen?
+578 Arbol Dr, we're 2 miles away from it. Set the navigation there?
+================
+what time is my optometrist appointment
+You have two optometrist's appointments scheduled; one for the 2nd at 4 pm with father and one the 12th at 10 am with Jeff.
+================
+Can you find me a guesthouse with free parking?
+I certainly can look for that for you. It looks like I have several. Do you prefer a certain price range?
+No, but I'm looking for something with at least two stars.
+Sorry, we don't have anything that matches the options that you've selected. Would you like to search for a different option?
+Do you have a hotel that is four stars then?
+We have several! Do you wish to stay in a certain part of town?
+The location doesn't matter, but I would prefer a guesthouse if possible.
+I would recommend the Acorn Guest House then. It has 4 stars, free wifi, free parking and is moderately priced. Would you like to book a room?
+Yes please. There are 8 of us and we'll be arriving on Saturday.
+Can you please give me how many days you will be staying?
+I'll be staying for 5 nights.
+I have you book for that time, the reference code is UA3N0Q3R.

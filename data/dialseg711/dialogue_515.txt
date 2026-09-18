@@ -1,0 +1,46 @@
+Hi, I'm trying to find a restaurant called HK Fusion. What info can you get me for that?
+HK Fusion is a Chinese restuarant located in the centre of town, at 21 Burleigh Street City Centre.
+What is the phone number and food type?
+It's a chinese restaurant, and the phone number is 01223355909. May I help with anything else?
+No I think that's all I need to know. Thanks for the help.
+Thank you for using our service. Have all of your needs been met?
+================
+I'm curious about the 3-star lodging options available in Cambridge.
+There are no 3-star lodgings available in Cambridge. Shall we check 4-star locations instead?
+Sure. Check only for hotels which include free parking also.
+There are no 4-star lodgings available in Cambridge that meet your criteria. Shall we check 5-star locations instead?
+Yes, please try 5-star hotels with free parking.
+Unfortunately, I couldn't find anything with 5 stars.
+try out 1 night then
+I do not have 4 or 5 star hotels in that area. Can I try something else?
+I want to stay at a 3 star hotel with free parking.
+I'm sorry for the confusion. There are two expensive hotels with 3 stars and parking. Do you prefer the centre or the south?
+The centre will be fine. Thank you.
+All right, sir, that would be the Gonville Hotel on Gonville Place.
+Ok, could you book it for 8 people starting Wednesday for 2 nights please.
+I'm sorry, Booking was unsuccessful. Would you like to try a shorter stay?
+Yes, could you try for one night?
+Very good, sir. That worked and I have a reference number for you: PU74EXCQ.
+================
+I'm in need of a train that leaves from Peterborough and arrives by 18:30.
+There are several trains available. Could you specify which day?
+I would like to travel on Monday and my destination is Cambridge.
+I have a train that leaves at 5:19 and arrives by 6:09. Does this work for you?
+Okay, can you book that for me? I'm traveling alone.
+I was able to book you that ticket on train TR3021. Your total fee will be 16:5 GBP. Your reference number is UC2OKH53. Can I help with anything else?
+================
+I'm looking for an Italian restaurant on the south side of town.
+Sure we have either pizza hut cherry hinton or frankie and bennys. Would you like to book a table at one of these places?
+Great! I'd like a table at Frankie and Bennys for 7 people at 14:00 on Friday.
+I'm sorry, that time is not available. Would you like to book another day or time?
+How about at 13:00 at same time?
+Your table is reserved at 13:00 on Friday. Your reference number is RQ2L5TKR.
+================
+I am looking for a train to London Kings Cross that departs after 08:15.
+What day would you like to travel?
+I'll be travelling on a Wednesday.
+Are you departing from cambridge station?
+Yes. What do you have available?
+The TR2000 leaves cambridge going to london kings cross on friday at 09:00. It arrives in london kings cross at 09:51. How does that sound?
+That's great. Please book me two tickets.
+The booking was successful and the fee is 47.2 GBP payable at the station. Reference number is E2N0JHSY. May I assist you with anything else today.

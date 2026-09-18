@@ -1,0 +1,22 @@
+i want a reservation that has expensive price range and should be in the centre
+I have 33 options for you, is there a particular cuisine that you are interested in?
+i want british food
+Fitzbillies restaurant serves british food in the centre area, would you like a reservation?
+No that won't be necessary. I'll just need the phone and address please.
+They're at 51 Trumpington Street City Centre, and their phone number is 01223352500. Is there anything else I can help you with?
+================
+Can you help me? I was in a car accident dispute.
+The Parkside Police Station's phone number is 01223358966
+What is the address and postcode, please?
+The address is Parkside and the postcode is CB11JG. Can I help you with anything else?
+================
+I'd like a taxie from my home please.
+Certainly. And where would you like the taxi to take you?
+I'm heading to the river bar steakhouse and grill. I am so hungry!
+Ok, what time do you want to leave?
+================
+I would like to schedule a meeting at 5 PM on August 3rd with HR to discuss dress code.
+Scheduling a reminder for your meeting with HR to discuss the dress code at 5 m on August the 3rd.
+================
+How do I find the closest police station?
+Hello! It is located at postcode CB11JG. If you need directions I recommend calling them at 01223358966. May I help you with anything else?

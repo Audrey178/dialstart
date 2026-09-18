@@ -1,0 +1,13 @@
+Hello I need information about MyDMV Account Terms of Service
+INTRODUCTION
+and what happens when someone signs up for an account?
+I dont know
+you know what to do after completing your registration?
+if i wanted to know
+After completing your registration, you can use your permanent login username and password to access applications and services.
+and after they verify what will happen?
+Upon validation of your identity, you will be allowed access to use the DMV's secure web applications. This process is designed to protect the security of your personally identifiable information.
+and what should i do when i register?
+To register for an account, you must first select a Login Username and Password and provide your identity information. Your username, password, and identity information are stored in a secure directory called NY.gov, which is maintained by the New York State Office of Information Technology Services.
+and the password will I put it?
+When you sign up for an account, a temporary password will be emailed to you. You must use the temporary password to complete the online registration process.

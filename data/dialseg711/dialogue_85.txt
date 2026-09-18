@@ -1,0 +1,30 @@
+i am looking for a train. The train should go to ely and should depart from Cambridge.
+Of course, what day would you like to travel?
+I would like to leave after 09:00 on Sunday.
+There are many departure times available. Did you have a specific time in mind?
+I just need to leave after 9:00. Can you book for 7 people?
+You are all booked for 7 people on TR1159 leaving at 9:50 and arriving by 10:07. Reference #433N59V4. Fee is 24.64 payable at the station. Anything else?
+================
+remind me about that meeting later
+What day and time is the meeting?
+at 7 pm, this Tuesday with HR to discuss the merger.
+I have set a reminder for Tuesday at 7 pm to discuss the. merger with HR
+================
+yes I need information on how to proceed with a car accident dispute
+I would recommend beginning by calling or visiting the police, if you have not already. The local station may be reached by phone at 01223358966.
+Where is this police station located?
+Address : Parkside, Cambridge Postcode : CB11JG there you go
+Thanks. I won't need anything more.
+Thank you for using our services.
+================
+What is the address for find pizza hut city centre?
+The address for that restaurant is Regent Street City Centre.
+Thank you, can you book a table for 2 on Friday at 18:00
+I'm sorry. The restaurant is fully booked at that time. What other day or time slot would be good for you?
+Please try Friday at 17:00. It should be less crowded then.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : CQV6JDS3.
+================
+what is the current temperature
+For what city would you like to know the temperature?
+Manhattan
+The forecast for Manhattan shows today's low is 60F and the high is 70F.

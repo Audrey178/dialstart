@@ -1,0 +1,18 @@
+I want help with employment
+Are you a service member or Veteran with a service-connected disability?
+I'm a veteran
+You might be interested in the Vocational Rehabilitation and Employment Self-Employment track. I can help you find out if you can get help starting your own business .
+================
+How can I  get help starting my own business through the Self-Employment track?
+You may be eligible for these benefits if you are a service member or Veteran with a service-connected disability and you meet certain requirements
+Would you like to know what the requirements are?
+yes I would
+Do you have an employment barrier or handicap?
+no I don't
+I'm sorry but you are not eligible
+================
+if I get a disability claim for being handicap I can get help?
+Yes, if you meet the requirements the VR&E Self-Employment track can help you start your own business.
+================
+what kind of help would it be?
+You would receive help with developing a proposed business plan, analysis of your business concept, and training in small-business operations , marketing , and finances

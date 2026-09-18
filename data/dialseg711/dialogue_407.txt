@@ -1,0 +1,30 @@
+give me directions to starbucks
+I'm sorry but there are no Starbucks around here. Would you like to get the address of some other coffee? There is Coupa 3 miles away.
+Yes show me the address.
+394 Van Ness Ave is the address for Coupa.
+================
+I am looking for an Italian restaurant in the expensive price range.
+Certainly, there are several expensive Italian restaurants. Would you prefer the centre or south of town?
+Can we do the centre of town?
+Stazione restaurant and coffee bar is in the centre of town.
+Phone number and postcode, please.
+The phone number is 01223352607, and postcode is cb23nj
+================
+Hi I'm looking for a train for Tuesday.
+Okay what time would you like to depart from Cambridge and arrive in London Kings Cross on Tuesday?
+I need to depart after 19:15. Can you please provide me with a price?
+The next train departs at 21:00. The price is 23.60 pounds per ticket. Can I book this train for you?
+Yes please book this train for me, Thank you.
+How many tickets do you need?
+I am not ready to book the train yet. Thanks for the help.
+Can I be of further assistance to you today?
+================
+Will it be windy in redwood city today?
+It is not predicted to be windy today in redwood city
+================
+I am looking for a train that departs from cambridge after 14:00.
+There are hundreds of those! What day are you traveling and what's your destination station?
+I need to leave from Kings Cross on a Saturday please.
+Sure, Are you leaving, or going to london kings cross?
+I am going to London.
+Okay, I'd recommended TR6203 leaving at 15:00 and arriving at 15:51, total duration 51 minutes. The price is 18.88 pounds. Would that work for you?

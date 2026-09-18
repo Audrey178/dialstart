@@ -1,0 +1,28 @@
+I'm looking for a 4-star place that's moderately priced.
+I can help you finding a room that suits your needs. I have about 11 different options. Can you tell me what area of town you prefer?
+The east would be best.
+There are three options, two of which have both free parking and free wifi. Would you like to book at one of them?
+I do need free wifi.
+How about the carolina bed and breakfast? They have free wifi. I can book for you.
+No. I may decide later. Could I get the address though.
+The address is 138 perne road and the postcode is cb13nx. Is there anything else I can help you with today?
+================
+show me the locations of all of the nearby motels
+There are The Westin 4 miles away, and the Comfort Inn and Hotel Keen, both 5 miles away
+Pick one in the area and avoid all heavy traffic please
+Then let's go at The Westin hotel, there is no traffic and it's nearby. The address is 329 El Camino Real
+================
+when is the next cloudy day
+What city are you asking about?
+Mountain View on Tuesday please.s
+It will not be cloudy in mountain view on tuesday
+================
+Can you locate the nearest police station please?
+The nearest police station is in Parkside, Cambridge, CB11JG
+Can you read me the address for that location, and phone number as well?
+The address is Parkside, Cambridge. And their number is 01223358966.
+================
+I need to find the nearest hospital, I'm injured!
+The nearest hospital is the Addenbrookes Hospital located on Hills Road, Cambridge.
+Thanks, what is the postcode?
+The postcode is CB20QQ. Can I do anything else for you?

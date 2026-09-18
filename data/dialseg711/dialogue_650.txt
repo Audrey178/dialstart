@@ -1,0 +1,24 @@
+Hi, I want to catch a train from Peterborough to Cambridge. Can you please tell me what the schedule is for the rout?
+I would be happy to help. What day are you wanting to take the train?
+I want to arrive by 15:45 on tuesday.
+Booking was successful, the total fee is 16.5 GBP payable at the station . Reference number is : 3XNW24TQ.
+================
+I am looking for a restaurant. The restaurant should be in the south and should serve french food
+There are none. Would you like to try a different cuisine or area?
+How about a restaurant that serves modern european food?
+Restaurant alimentum has gotten good reviews!
+Great, I would like a reservation for 7 people on Friday at 19:00. Please give me the reservation number.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : NCHJ21BD.
+Thank you for your help
+May I help you with anything else? Do you need a taxi?
+================
+how's the weather in new york
+What would you like to know about New York's weather?
+What is the current weather?
+The current weather in New York is drizzling. There is a low of 20F and a high of 30F today.
+================
+I am injured and need a nearby hospital.
+Addenbrookes Hospital is located at Hills Rd, Cambridge, postcode CB20QQ the telephone number is 01223245151. Is there anything else I can help you with?
+================
+Find out if it will be cloudy on Monday in Cleveland.
+It will be clear on Monday in Cleveland.

@@ -1,0 +1,38 @@
+I'm looking for a place to eat, maybe Austrian food.
+We have no austrian restuarants. Sorry. Is there another type of restaurant I could look up for you?
+Hmm I guess I could try british food instead
+There are 11 british restaurants in the centre of town. Do you have a price range?
+Moderate price range would be great.
+There are 5 British restaurants in the moderate price range, do you have a specific area you would prefer?
+No, the area does not matter. I need a table for 5 people at 12:15 on Friday. If that time doesn't work then 11:15. I also need the reference number.
+I would recommend the oak bistro located in the Centre. Will this work for you?
+Do they have a table available on Friday at 12:15?
+Your table is booked, ref# U0ZZRFL7. Is there anything else I can help you with?
+================
+I need to book a train departing from Cambridge after 9:15.
+Where are you heading to?
+I am going to Stevenage, on Wednesday.
+I was able to find a train for you at 9:21. Would you like me to book it for you?
+Could you tell me what the price of this trip is?
+It should cost around 12.80 pounds. Anything else?
+Yes, what's the train ID and what time does it arrive?
+TR8913 will arrive by 10:10.
+================
+I am looking for a place to stay. The hotel should be in the expensive price range and should be in the type of guesthouse
+I'm sorry there are no results for an expensive guesthouse, would you like to try another type, such as hotel?
+Well I'm really looking for that expensive guesthouse type. How about something in the north with free parking included?
+There are no results for expensive guesthouse in the north. Would you like to try something else?
+how about something in the moderate price range?
+How about acorn house? I hear it's lovely.
+Sure, please make a reservation for 2 people 2 nights starting on thursday.
+Sorry, the hotel can't accommodate you for that time frame. want to change dates?
+Can we make it 1 night then?
+Booking was successful for one night. Reference number is : FJFV11JA.
+================
+When is my optometrist appointment and who is attending?
+Two are scheduled; one on the 13th at 9 am with Marie and one on Wednesday at 11 am with Tom.
+================
+I just got injured and I need to know where the nearest hospital is.
+Addenbrookes Hospital is on hills road. Postcode CB20QQ. The phone number is 01223245151.
+Thank you so much.
+No problem! Is there anything else I can help you with today?

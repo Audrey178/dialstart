@@ -1,0 +1,18 @@
+Schedule a meeting.
+when is your meeting?
+at 10 am on thursday with management to discuss dress code
+Okay, I have that meeting all scheduled for you. Can I do anything else?
+================
+Car I want to have some tea! Is there anything in the area?
+There is Philz, Teavana, and Cafe Venetia.
+Which one is in the shortest distance?
+Both Cafe Venetia and Philz are 1 mile away through moderate traffic
+================
+What time is dinner and who is it with?
+Dinner is at 7 pm with Jon.
+================
+Will it be warm in Brentwood on Sunday?
+Snow is predicted in Brentwood this Sunday, the high temperature should reach the 70Fs
+================
+I need information for my upcoming conference.
+Your conference with the sales team is on the 10th at 6 pm in the 100 conference room to discuss the dress code.

@@ -1,0 +1,18 @@
+Please tell me about the diesel opacity emissions inspection.
+================
+this inspection is not required in other areas of NY states or for vehicles registered outside of the state. Nonetheless, if the vehicle has an MGW of more than 8500 lbs then the NY State Department of Environmental Conservation, the NY State Department of Transportation, or the NY State Police can do a test for any diesel-powered vehicle.
+did your vehicle failed a roadside inspection?
+No, it didn't fail any inspection.
+================
+Can you tell me when and where a diesel inspection can happen?
+The diesel emissions inspection is made at the annual safety inspection and it's done at a diesel emissions inspection station.
+================
+how often must get an inspection a vehicle with a MGW of over 8500 pounds?
+Vehicles with a MGW over 8500 pounds must get an annual diesel emission inspection.
+and if the vehicle is newer than model year 1997 and with a GVWR less than 8501 pounds?
+if the vehicle is also a non-exempt diesel-powered vehicle registered in NY state then it must get an annual OBDII emissions inspection and are exempt from the diesel emissions inspection.
+What would be the case if the diesel-powered vehicle is registered in NY State and is older than model year 1996 with a GVWR less than 8501 pounds?
+in that case, the vehicle is exempt from the OBDII emissions inspection , the low - enhanced emissions inspection , or the diesel emissions inspection.
+================
+what is needed to become a diesel emissions inspection station?
+the station have to buy a DMV-approved smokemeter. The station can only perform the inspections if it is licensed to conduct a safety inspection for diesel-powered vehicles.

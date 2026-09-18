@@ -1,0 +1,40 @@
+Car I'm desiring some tea
+We're 1 miles away from Coupa and there is also Teavana 4 miles away: which one do you prefer?
+I want the route that is the quickest and has the least traffic
+Then I suggest you Coupa, it's only 1 miles away and with no traffic on our way. Would you like me to set the navigation there?
+Yes, set the navigation to Coupa please.
+I sent all the directions on your screen, enjoy your trip!
+================
+I'm looking for a train. The train should depart from cambridge and should go to broxbourne
+What day are you traveling?
+I'm traveling on tuesday and I want to arrive by 16:15
+TR6357 leaves at 05:01 and arrives at 06:01. Would you like me to book a ticket for you?
+No, but I do need the price.
+Alright. The price for TR 6357 is 17.90 pounds. Anything else?
+================
+Can you found me a swimming pool in the south part of town?
+Unfortunately I was unable to find a pool at the south part of town, however we have some north east and at the centre
+What about a type of park?
+There are five, including wandlebury country park in the south.
+Wandlebury country park is fine. Can I get the entrance fee?
+Actually, they have free entrance. They are located at Wandlebury Ring, Gog Magog Hills, Babraham. Their phone number is 01223243830. Their postcode is cb223ae.
+Thanks for the info. I will give them a call.
+You're welcome. Can I help you find anything else?
+================
+I have to get to the gandhi by 09:15. Can you help me?
+I would be happy to help with your request, where will you be departing from?
+I'm departing from Golden Wok.
+I've booked you a blue lexus, the contact number is 07462575401.
+Wonderful, thank you so much.
+Is there anything else i can help you with today?
+I accually should depart from thanh binh.
+Booking completed! Booked car type : blue lexus Contact number : 07462575401
+Great, thanks for your help.
+Do you need any help with anything else?
+================
+I am looking for a restaurant. I would like something cheap that has Chinese food.
+I've heard good things about the lucky star. Need a reservation?
+Yes, could you make a reservation for 1 at 20:00 on Saturday?
+Your booking was successful. The table will be reserved for 15 minutes. Reference number is : FDLFKTZM.
+Thank you so much for your help!
+You're welcome. Thank you! Have a good day now!

@@ -1,0 +1,28 @@
+Hi! I'd like to book a taxi to Travellers Rest, please, and I need to get there absolutely no later than 11:45.
+Your car type is the Grey Skoda and its contact number is 07506457479.
+I need to go to travellers rest. Is that OK?
+Hello, I sent you the car type and contact number earlier. Is there anything else I can help with?
+================
+Where's the conference happening? Who's going to be there and what are we talking about?
+You have several conferences on your schedule, which one in particular would you like information about?
+Please choose a random one.
+Your conference is in conference room 102 with the vice president to go over the budget.
+================
+Hello, I'm looking for the museum of classical archaeology, could you tell me more about it?
+Certainly, the museum of classical archaeology is located at sidgwick avenue and has free entrance, phone 01223335153. Do you also need the postcode?
+Yes, I'd like that. Thank you so much!
+The postcode for the Museum of Classical Archaeology is cb39da. Is there anything else I can help you with?
+================
+Set a reminder for doctors appointment on August 14th at 4pm with my sister
+Reminder for doctors appointment on August 14th at 4pm with your sister is set
+Sorry, can you confirm that that has been set one more time?
+A reminder for your doctors appointment on August 14th at 4pm with your sister has been set.
+================
+So, I need a guesthouse with free parking.
+There are 21 guesthouses with free parking. Is there a particular area or price range you'd like to look at?
+Yes, I would like it to be in the south and in the moderate range please.
+I have two options. The Aylesbray Lodge Guest House and the Bridge Guest House. Both offer free wifi and parking. Can I help arrange a room for you?
+Yes, that would be great. I would be happy with either of those options.
+Great! Lets go with aylesbray lodge guest house. Would you like me to book that for you?
+No thank you. Could I get the postcode please?
+Yes, it's cb17sr.

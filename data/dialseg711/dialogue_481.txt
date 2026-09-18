@@ -1,0 +1,29 @@
+Hi, I am looking for an expensive restaurant in the east.
+Royal Standard is an expensive gastropub in the east. Would you like to book a table?
+That won't be necessary. Can you just give me their address and phone?
+The address is 290 Mill Road City Centre. The phone number is 01223247877. Is there anything else I can help you with?
+================
+give me a quick route to a grocery store
+The nearest grocery store is 4 miles away, a Safeway at 452 Arcadia Pl.
+Is that the quickest route?
+Yes.
+================
+I need a train that leaves on Sunday for Broxbourne.
+I have 19 trains going to broxbourne on Sunday. To help narrow it down, where would you like to depart from and what time?
+I want it to leave from cambridge after 09:15.
+Let me look up those times for you. One minute.
+Not looking to book, can I just get the train ID, price, and travel time? Thanks!
+I'm sorry, I'm not finding that fits those criteria. Is there a different time you could leave?
+There are no trains going to broxbourne from cambridge on Sunday after 09:15?
+No, I'm sorry, it doesn't appear that those trains run on Sundays. Is there a different day you could travel? Also, will you leave from Broxbourne or Cambridge?
+I need to go TO Broxbourne FROM Cambridge on Sunday, leaving any time after 9:15. Please check again with those details, please.
+I'm terribly sorry -- you are correct. There are trains every hour, at one minute past. There is a 10:01 train on Sunday, for example. Travel time is 60 minutes.
+Great. What's the train ID and price?
+The TrainID is TR9580 which leaves at 10:01. The price From Cambridge to Broxbourne is 14.32 pounds. Do you need additional information?
+Yes, what is the duration of the train ride?
+The duration is six minutes. Can I get you a ticket?
+================
+what are some nearby restaurants
+There are two Chinese restaurants nearby, Mandarin Roots 4 miles away and P.F. Changs 6 miles away
+Pick the quickest one and show me the quick route to reach, please
+The quickest route is to Mandarin Roots which is 4 miles away and located at 271 Springer Street.

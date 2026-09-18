@@ -1,0 +1,22 @@
+There will be a blizzard tomorrow in Grand Rapids?
+There will not be a blizzard in Grand Rapids tomorrow.
+================
+where is the nearest hotel
+There is no hotel located locally.
+Where is the closest and fastest route to a rest stop?
+There is no traffic to The Westin that is 4 miles away. The address is 329 El Camino Real
+================
+Is it currently rainy in Fresno
+No, in Fresno the weather is foggy now
+================
+can you give me directions to the nearest hotel
+The nearest one is Comfort Inn 7 miles away. There is also a road block nearby
+OK, please give me the address and directions via a quick route.
+Setting navigation to the comfort inn at 753 University Ave now.
+================
+Can you help me find a hospital nearby?
+The nearest hospital to you is at Hills Rd, Cambridge. would you like their phone number?
+I would like the address and phone number please.
+Sure, the phone number is 01223245151 and the address is Hills Rd, Cambridge.
+Can you verify that the hospital has a transplant high dependency unit?
+Yes, it does. Here is the unit's phone number: 01223216811. Do you need any other information?

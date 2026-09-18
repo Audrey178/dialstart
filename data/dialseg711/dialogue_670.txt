@@ -1,0 +1,36 @@
+I need a taxi to come to backstreet bistro by 19:30.
+Where would you be coming from?
+I'm coming from sesame restaurant and bar.
+I can book you a Grey BMW with the contact number 07216877402. Is there anything else I can do for you today?
+================
+I am looking for a place to stay. The hotel should include free wifi and should be in the type of hotel
+There are a total of 9 hotels currently that match your descriptions. Is there a certain price range or are location you need the hotel to be in?
+it should be in the moderate price range
+The 2 hotels in the north have 2 stars. The one hotel in the centre has 0 stars.
+Okay, it needs to be 4 stars. What about Guesthouses?
+Unfortunately there are none in the moderate price range. Would you perhaps consider an expensive price?
+how about a guesthouse instead?
+There are several 4-star guesthouses with wi-fi in the moderate price range. Would you prefer to stay in the east or the northern part of town?
+It doesn't matter to me what part of town it's in. What's your favorite?
+I do like the Avalon. It's a very nice place and it fits your requirements.
+Ok, can we book that for 4 people, for 3 nights starting Tuesday?
+2UOVP3E0 is your confirmation, may I get you anything else?
+================
+I need to book a taxi from riverside brasserie.
+Sure I can help with that. May I have the time you want to leave riverside brasserie, or the time you need to arrive at the destination?
+I would like to arrive by 24:00.
+Alright, and what is your destination?
+I am headed to curry prince.
+Perfect. You are all booked and can expect to be picked up in a white Tesla. The contact number is 07030002227. Will you be needing anything else?
+================
+Please help me, I've just been robbed and I need to report this to the police.
+The local police station's number is 01223358966.
+And the address for the police station please?
+Yes, it is Parkside, Cambridge.
+================
+Hello, I am looking for something to do in the west part of town. It sould involve multiple sports.
+Unfortunately none of those places exist here. Any other preferences?
+Hm, can you tell me about what entertainment venues might be on the west side of town instead?
+There's a fun place called Whale of a Time at unit 8, viking way, bar hill.
+Thank you, can I please get an address and postal code. Is there an entrance fee that will be charged.
+The address is Unit 8, Viking Way, Bar Hill in postcode cb238el. I'm sorry, I do not know if there is an entrance fee. Do you need anything else?

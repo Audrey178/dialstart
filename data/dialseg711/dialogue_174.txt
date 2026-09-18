@@ -1,0 +1,31 @@
+I am looking for a place to dine. The restaurant should serve african food and should be in the centre
+There is one African restuarant in the Center. It is named Bedouin, and is expensive. Their phone number is 01223367660. Would you like me to book for you?
+First, what is the address please?
+bedouin 100 Mill Road City Centre
+Thanks, what's the price range and phone number?
+It's an expensive restaurant and the number is 01223367660.
+================
+what is the temperature going to be like this week
+What location do you want the temperature for?
+Boston next week.
+The temperature in Boston on next week will be low of 40F and high of 50F on Monday, low of 80F and high of 100F on Tuesday, low of 80F and high of 100F on Wednesday, low of 40F and high of 50F on Thursday, low of 90F and high of 100F on Friday, low of 20F and high of 30F on Saturday, low of 60F and, high of 70F on Sunday
+================
+I am looking for a place to stay. The hotel should include free wifi and should be in the type of guesthouse
+There are many results for a guesthouse with free wifi, to help narrow the results what area are you looking to stay in?
+I am unsure about the area, right now. I would like the accommodations to be at least 4 star and have a moderate price.
+And will you need parking at the guesthouse?
+No. I shouldn't need parking.
+How do you feel about the A and B Guest House? It covers all your needs and is in the eastern area. Would you like a phone number or address?
+If it is 4 stars in the moderate price range that sounds fine. I need it for 3 nights for 3 people starting Sunday.
+I'm sorry that many nights is not available. Could you try a shorter stay or another day perhaps?
+Okay, how about on Monday?
+Great, I've got you booked on Monday for three nights. The reference number is 8BPFXM28. Is there anything else I can help you with?
+================
+I need a taxi to pick me up at curry prince at 08:15.
+Where is your destination and what time would you like to arrive by?
+My destination is kettle's yard, and anytime after 8:15 would be fine. Please notify me of the car type and the contact number. Thank you.
+Ok, I have booked you a grey Audi for an 8:15 pickup. The contact number is 07249275156.
+================
+give me the full weekly weather forecast
+What city are you interested in?
+Will it rain in Boston next week?

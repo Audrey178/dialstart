@@ -1,0 +1,28 @@
+Hi, I want to find some water and go boating somewhere around town. What do you have listed?
+I have some great choices for you. There are two places in the centre of town, one in the north and one in east. Do you have a specific location?
+I think maybe the north for this trip.
+The Riverboat Georgina is in the North of town. It's located at Cambridge Passenger Cruisers, Jubilee House. May I help you with anything else?
+================
+I need to schedule a dentist visit.
+what time would you like a dentist visit scheduled?
+Please schedule it for 7pm on the 12th of this month
+Okay great, I have that all scheduled for you. Can I help with anything else?
+================
+I'm looking for a guesthouse to stay at with a four star rating
+Certainly, there are 18 options. Is there an area of town that you prefer?
+Yes in the north and it should be 4 stars and have free wifi please.
+I found the acorn guest house! It has free wifi and parking, four star rating and is in a moderate price range! Would you like me to book it?
+Yes! I would like a booking please.
+How many guests and how many nights would you like the reservation for?
+On second thought, I am not quite ready to book yet. Could you send me their postcode, please?
+The postcode is cb41da.
+Thanks so much for your help!
+Your welcome. Can I help you find anything else today?
+================
+Find my friend's current address please.
+Jill lives at 347 Alta Mesa Ave.
+Please send me on screen the fastest route to reach her!
+There is moderate traffic but we're just 2 miles away, I sent the best route on your screen
+================
+I would like to know what time and day my tennis is.
+Your tennis activity is on Monday at 3 pm.

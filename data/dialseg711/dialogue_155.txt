@@ -1,0 +1,27 @@
+When is my dentist appointment and who is coming?
+================
+On Thursday will it be overcast in Exeter?
+The weather forecast for Thrusday in Exeter is frost
+================
+I'm looking for a train on Sunday that leaves after 17:15.
+What are your departure and arrival destinations?
+I'll be leaving from cambridge and heading to stansted airport.
+Ok there are 7 choices. Is there a particular time you'd like to arrive at your destination?
+not really, it just needs to leave after 17:15.
+There are plenty of choices starting at 17:40 and leaving every hour onwards. Do you want me to book it?
+Yes, book it for 7 people at 17:40
+Booking was made, ref number is 6QWLFWW5! Do you need anything more?
+================
+what is the weather next week
+What city are you wanting to know the weather for?
+Mountain View please.
+In Mountain View, it will be 30-40F Monday, 80-100F Tuesday, 90-100F Wednesday, 90-100F Thursday, 70-80F Friday, 90-100F Saturday, and 70-80F Sunday.
+Will it be hot any of the days?
+The only day of the week it will be hot is on Monday with a high of high of 40F.
+================
+take me to the nearest starbucks please
+There is no Starbucks nearby, but Palo Alto Cafe is 3 miles away. Would you like to go there?
+Yes please, but please avoid all traffic.
+There is moderate traffic on our way but you should reach fast anyway, I sent the route on your screen
+Could you confirm the address please?
+The address is 436 Alger Dr. Setting navigation now via the quickest route.

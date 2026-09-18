@@ -1,0 +1,35 @@
+I need a train leaving cambridge after 17:30.
+Okay, is there somewhere specific you would like to travel to?
+I want to go to Stansted Airport on Saturday.
+How many tickets would you like?
+I am not sure yet, could you tel me how long the train takes to get there?
+The train ride lasts 28 minutes. Would you like to book a ticket now?
+No, thank you.
+Ok, is there another train I can check for you?
+No that is all thank you.
+Okay don't hesitate to call us if you need further assistance.
+================
+I'm looking for a place to stay in the center of town that has free wifi.
+I have five matches for your requirements. Do you have preferences for price range or quality ratings? For example, the Alexander B&B is inexpensive, but rated 4 stars.
+By chance, is that a guesthouse? And does it offer free wifi and parking?
+Yes, the Alexander B&B is a guest house, and offers both free WiFi and free parking.
+Wonderful. Can you book a room for 6 people coming in on Friday for 5 nights?
+That booking was successful, your reference number is 3KW6V911. Is there anything else I can help do for you?
+================
+Good afternoon, I need to make arrangements to leave Stevenage on Monday by train. Would you help me please?
+What is your destination?
+Cambridge is my destination
+There are several options. What time would you like to depart?
+I wish to leave sometime after 14:15.
+How about TR5825?
+thats still alright. give me the reference number too please
+How many tickets do you need, please? Is it one?
+I need 2 tickets please.
+The booking was successful, your reference number is 8C5GS6IL. The total fee will be 25.6 GBP, payable at the station. Is there anything else I can help you with?
+================
+where can i go to eat
+There are 3 pizzeria and a chinese restaurant in the area: what would you like to eat?
+I'd like pizza! Which pizzeria is the closest one?
+There is moderate traffic to Pizza My Heart 1 mile away at 528 Anton Ct
+Can you show me a quick route to reach there?
+Certainly, setting navigation now.

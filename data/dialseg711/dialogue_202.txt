@@ -1,0 +1,31 @@
+Hi there. I need to book a train from Cambridge to Broxbourne.
+Is there a day you need to leave? Do you have a time you need to leave or arrive?
+I'm sorry, I actually need to travel from Broxbourne to Cambridge. And yes, I actually do need to leave after 13:00 on Tuesday.
+All right, the TR8199 train leaves at 13:32 on Tuesday. Would you like me to purchase tickets for you?
+Yes, that would be great. I need 8 seats.
+Alright, I have your 8 tickets purchased for the TR8199 train. Your reference number is ZJ8KWJQ9. Is there anything else I can help you with?
+================
+am looking for the Addenbrookes Hospital
+Addenbrookes Hospital is located at Hills Rd, Cambridge, postcode CB20QQ. Is there a particular department you're looking for?
+================
+Please help me arrange for a taxi
+Where is your departure site?
+I'd like to leave aylesbray lodge guest house by 12:15
+Ok, and what is your destination please?
+I'm going to ask.
+Ok, please let me know when you know.
+Ok, we want to be at the tall monument.
+I do not see anything called Tall Monument. Is there another name for it?
+We actually want to go to Ask.
+Booking completed! Booked car type : yellow audi Contact number : 07180084574
+================
+what is the temperature going to be like this week
+What city are you in?
+Danville!
+================
+I am looking for a place to dine. The restaurant should be in the expensive price range and should serve italian food
+I have the cafe uno in the centre of town. Would that work?
+No, I just realized I'll be in the south area. Are there any that meet my criteria in the south?
+Yes, Frankie and Bennys is in the south and meets your criteria. Would you like me to make a reservation?
+Yes could you book me a table for two Sunday at 11:15?
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : ZYQX1TYK.

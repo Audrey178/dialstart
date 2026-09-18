@@ -1,0 +1,13 @@
+I need help with the retirement benefits planner
+================
+Do you need help with the online calculator WEP version?
+yes I do
+The calculator allows you to estimate your Social Security benefit
+Will you be working on something that needs more accurate estimates?
+no , just something to get an idea of what to expect
+whats with the retirement age being different?
+If you qualify for benefits as a Survivor your full retirement age for survivors benefits may be different .
+Why does it do that thing when I enter my birhtday? it doesn't seem right
+If your birthday falls on January 1st  we will figure your benefits as if your birthday was in the previous year .
+someone helped me before and we got different numbers, is that normal or were we using some other calculator?
+The Online Calculator is updated periodically with new benefit increases and other benefit amounts, so it is not uncommon that your benefit estimates will differ from time to time.

@@ -1,0 +1,14 @@
+hello I need information about How to pay insurance criminal penalty
+================
+You must first determine if you can pay, do you want to know more about it?
+Yes
+================
+do you know if you can pay?
+Yes
+ok you can pay if your insurance expiration is 90 days or less
+if it is less than 90 days
+================
+And if I pay, will they restore the service?
+Your payment does not guarantee that the DMV will restore your registration or close any other suspensions or revocations you have. It is your responsibility to know if the DMV restored your registration before driving the vehicle. You can check the status of your driving privilege and vehicle records through MyDMV [2].
+What if the insurance period is greater than 91 days?
+in this case you can't pay

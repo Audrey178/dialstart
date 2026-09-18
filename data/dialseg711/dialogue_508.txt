@@ -1,0 +1,40 @@
+I'm looking for somewhere to eat in the centre part of town, somewhere nice, price is no object.
+There are quite a few restaurants. What cuisine would you like?
+I would like the restaurant to have Indian food.
+How about Curry garden? It looks great.
+That sounds good. I would like to book a table for 2 people on Friday at 17:15.
+Sorry, the restaurant can't accomodate you. Want to try another day or time?
+I will get back to you. Thank you for the help.
+You're welcome. I look forward to when you call us again.
+================
+direct me to the nearest starbucks
+There is no Starbucks nearby.
+Then tell me about another coffee nearby here and pick the fastest route to reach
+Palo Alto Cafe is only 3 miles away.
+================
+Are there any proper hotels in the south?
+Yes, the Lensfield Hotel is an expensive hotel in the south with 3 stars, free wifi, and free parking. It's located at 53-57 lensfield road cb21en. Would you like to book?
+Ok, are there any hotels in the cheap price range in the south part of town?
+I'm not finding any. Would you care for another part of town?
+Can we check for guesthouses?
+Rosa's bed and breakfast is a guesthouse in the south area that meets your preferences. Would you like me to make a reservation for you?
+Yes, that will work.
+When would you like to visit?
+I don't need a reservation right now, but does Rosa's B&B have internet?
+Yes they do! Do you have any other questions about Rosa's?
+I really need internet. Can you tell me if they have free wifi?
+Yes, Rosa's absolutely has free WiFi. Can I book a room for you?
+No, that's fine!
+Sure. Is there anything else I can help you with today?
+================
+I'd like a train to Leicester to arrive by 9:45.
+Okay, where would you like to depart from?
+I'd like to leave from Cambridge, please.
+There are 28 trains, do you have a day preference?
+I need to leave on Tuesday.
+Train TR2863 leaves on Tuesday at 7:21 and arrives at 9:06. Would you like me to book?
+I sure would, thanks. I will need seats for 8 people.
+Your reference number is : XNMIHQHK, the total fee is 302.39 GBP payable at the station. Is there anything else I can do for you?
+================
+I want a museum, please? Please include address, postcode, and area.
+I suggest Byard art. The address, postcode, and area are 14 king's parade, cb21sj, and it is located in the south.

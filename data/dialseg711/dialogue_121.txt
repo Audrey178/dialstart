@@ -1,0 +1,25 @@
+remind me that i have a doctors appointment at 5 pm
+================
+Please give me the address and directions via the quickest route to the nearest gas station.
+The Valero and Shell are both 3 miles away, but there is a road block nearby. Do you prefer one one?
+Let's try to go to Shell.
+Okay, there is moderate traffic on the route to Shell. You will find it at 53 University Av
+Ok car assitant, plot the quickest route to Shell.
+Setting navigation to Shell now.
+================
+check to see if i have any meetings or conferences in the near future
+Go over budget is scheduled for Monday at 3pm in 100 conference room.
+================
+Yes, I'm looking for a moderately priced restaurant in the centre.
+There are quite a few moderately priced restaurants in the centre of town. Do you have a food type preference?
+No, maybe you could book me at your favorite for Saturday? There will be 8 of us, at 17:30.
+Well, my personal favorite is Copper Kettle. I've booked you a table for 8 on Saturday at 17:30. Your reference number is LSQYZI7O.
+Great, thanks so much!
+You're welcome. Do you need anymore assistance today?
+================
+Car I need to get to a shopping center: please pick the quickest one around here
+The closest shopping center to you would be Ravenswood Shopping Center at 434 Arastradero Rd.
+I need a route with no traffic please.
+I have one route with moderate traffic.
+That is fine. Thank you
+Okay great, we will navigate there then. Anything else?

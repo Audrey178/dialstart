@@ -1,0 +1,28 @@
+what's the temperature
+Is there a particular city you would like to know the temperature for?
+yes, Menlo Parl, Find out the temperature for Friday, please.
+The temperature in Menlo Park is predicted to have a low of 20F with a high of 30F on friday.
+================
+i want to book a taxi.
+Where would you like to be picked up from, and what is your destination?
+I am going to camboats, from little saint mary's church.
+What time would you like to get there?
+I need to arrive by 13:15 please?
+Ok, I book a black volkswagen for you. The contact number is 07746689138.
+Great, thanks so much for your help.
+You're very welcome. Is there anything else I can assist you with?
+================
+find me a hotel nearby
+There is The Clement Hotel 4 miles away and Comfort Inn in 5 miles: which one do you prefer?
+Can I have the address of a rest stop?
+Sure! The The Clement Hotel is at 657 Ames Ave, it's just 4 miles away with no traffic on our route
+================
+What is the date, time, and agenda for my next conference?
+Your conference is on Tuesday at 6 pm to onboard new members.
+================
+What shopping centers are around?
+Town and Country is the only shopping center.
+Ok find me the shortest distance and give me the address please.
+The address is 383 University Ave and the location is 6 miles away.
+Thank you!
+You're welcome! Should we navigate there now?

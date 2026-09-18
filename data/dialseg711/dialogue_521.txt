@@ -1,0 +1,31 @@
+Will it be overcast today in Grand Rapids?
+No, today is gonna be foggy in Grand Rapids
+================
+I'm looking for an upscale, expensive place to eat on the west side of town.
+What type of food are you looking for?
+I'm really in the mood for Jamaican food.
+I'm sorry. There are no restaurants matching your criteria.
+How about some indian food?
+Okay now I have many options would you like a reservation at one of them?
+I would. Can you book me a table for 1 on Tuesday at 11:45?
+I'm sorry, all 5 restaurants meeting your criteria are booked at this time. Would you like me to try a different time slot?
+Yes, can you try 10:45?
+I was able to book you a table at Rice Boat on Tuesday at 10:45. The reference number is YTG3EOGF.
+================
+Good evening, where would I find a hospital in town please?
+The Addenbrookes Hospital is on Hills Rd., in Cambridge.
+Can I please have a phone number, post code and address please?
+The phone number is 01223245151, address is Hills Road, Cambridge, and the postcode is CB20QQ.
+================
+I am looking for a restaurant that is in the centre of town and serves light bites food.
+we dont have any restaurant like that.
+Do you have any expensive restaurants?
+No expensive restaurant
+Could you try Chinese food, instead?
+I found 4 different expensive Chinese restaurants that you could try. How does HK Fusion sound to you?
+That sounds good. Can you book a table for 5 people at 11:15 on wednesday please?
+I'm sorry I am not able to book for that day/time, would you like to try another time or different restaurant?
+Yes, how about 10:15 instead. I also need the reference number.
+I was able to book it for 10:15. You reference number is 7HQZ1TD6.
+Thank you for your help.
+Is there anything else I can help you with today?

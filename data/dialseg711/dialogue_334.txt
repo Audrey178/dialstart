@@ -1,0 +1,28 @@
+I am injured and need to find a nearby hospital.
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Does this sound close to your location?
+Yes, it does. Can I get the post code and phone number for that location?
+The postcode is CB20QQ, and the phone number is 01223245151. I can look up a specific hospital department for you.
+================
+Are there any theatres in town?
+There are 5 theatres in town. Do you have a preference for a specific area?
+No, which one do you think is the best?
+I'd recommend the Cambridge Arts Theatre, myself.
+That sounds good. Can I get the address and postcode, please?
+The address is 6 Saint Edward's Passage and the post code is cb23pj. Do you need the phone number as well?
+That won't be necessary. Thanks for the help!
+Have a nice stay in the town, and enjoy the play in the theatre.
+================
+Hello! I need a hospital with a oral and maxillofacial surgery and ent department please.
+Addenbrookes Hospital provies oral and maxillofacial surgery and ent department. Would you like directions on how to get there?
+If you could give me the address, that would be great!
+The hospital is located at Hills Rd, Cambridge. Do you need any other information?
+================
+I'm trying to find a good museum in town.
+There are a multitude of museums in town. What side of town are you in?
+I am open to any side of town!
+Would you be interested in Broughton House Gallery?
+That would be great. Can I get the postcode, please?
+Sure. The postcode is cb11ln. Is there anything else I can answer for you today?
+================
+Find my home address for me around here in this area.
+Your home is at 5671 barringer street.

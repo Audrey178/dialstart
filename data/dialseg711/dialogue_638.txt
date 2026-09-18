@@ -1,0 +1,36 @@
+I need information on Addenbrookes Hospital please.
+Which information were you needing?
+Can you provide the phone number for me?
+The phone number for the hospital is 01223245151.
+Can I also get the address? Thanks!
+The hospital is located at Hills Rd, Cambridge, Postcode: CB20QQ. Do you need further assistance?
+================
+I'm looking for a restaurant that serves traditional european food, that's not too expensive or too cheap.
+Galleria serves european food and is in the moderate price range in the centre of town.
+Great that would be perfect for me, can you provide me with booking options for that restaurant?
+I could book that for you if you let me know when you'd like to dine there and how many people will be joining you.
+Actually, I don't need booking. I just need the postcode, address, and phone number.
+Certainly. galleria, postcode cb21uw, address 33 Bridge Street, and phone number 01223362054.
+================
+Can you find me a cheap hotel with free parking?
+Most of the cheap options we have are guesthouses, though I do have one hotel in the west. Do you have a preference?
+How many stars does this hotel have, and does it have wifi?
+It has a 4 star rating and wifi yes.
+Can you tell me the name and phone number of that hotel please?
+It is the Cambridge Belfry hotel and the phone number is 01954714600. Do you need any other details?
+================
+I'm wanting Indian food, is there a restaurant that serves that near the centre of town?
+How about kohinoor a cheap restaurant in the centre located at 74 Mill Road?
+Thank you. I'd like to book a table for 6 people for Wednesday at 18:15. Also can you provide a reference number to confirm.
+You are booked at Kohinoor. Reference number is ZMZLMLR9. The table will be reserved for 15 minutes.
+Reference number ZMZLMLR9, got it, thank you.
+Is there anything else I can help you with today?
+================
+I am looking for a train. I need to leave Cambridge and I would like to arrive by 09:45.
+Could you tell me your intended destination please?
+I need to get to the Stansted Airport on Thursday.
+I have four different trains that would get you to Stansted Airport by 9:45 on Thursday. What time would you like to leave?
+It doesn't matter what time I leave, just so I arrive by 09:45.
+How about TR7966? It leaves at 05:40?
+Sure. can i just get the travel time and departure time please
+Train TR2547 arrives at Stansted Airport Thursday at 8:08. Travel time is 28 minutes, and you would leave at 7:40. Can I book it for you?

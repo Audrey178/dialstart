@@ -1,0 +1,19 @@
+How is the weather this week in Inglewood?
+What days are you interested in?
+The whole week.
+In Inglewood, it will be overcast Monday, frost on Tuesday, clear on Wednesday, raining on Thursday, dry on Friday, misty on Saturday, clear on Sunday.
+================
+Help! I'm injured and need a nearby hospital!
+So sorry to hear that! The Addenbrookes Hospital can help. They are located at Hills Rd, Cambridge
+Can you give me their full address?
+The address is Hills Rd, Cambridge, postcode CB20QQ. Their telephone number is 01223245151.
+================
+i AM looking for a train. The train should depart from Bournemouth and should leave on Sunday.
+Where is your destination for that day?
+================
+Where is there a coffee or tea place around. Find me one that will get me there the quickest with the least traffic
+Teavana would be the closest one. Wold you like directions to this location
+Yes please tell me the route, traffic, and where it is.
+There is no traffic to Teavana at 145 Amherst St.
+Ok, map a route to Teavana and let's go
+GPS set to Teavana.

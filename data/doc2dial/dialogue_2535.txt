@@ -1,0 +1,19 @@
+Hello, I have some questions about renewing a business license.
+================
+Of course. Do you want to learn more about the license period?
+Yes, that'd be nice.
+All business registrations and Inspection Station licenses are valid for 2 years.
+================
+Ah, that's good to know. By the way, can you suggest a topic for me?
+More Info.
+Wow, now that is a great topic. Can you suggest another topic?
+Yes. More Info.
+================
+That just blows my mind. Let's talk about more information then. What if my license is expired? What can I do about that?
+You can renew if the facility certificate or Inspection Station license expired within the last six months.
+================
+Can I also renew a license before it expires? In advance?
+Yes. You can renew it if the facility certificate Inspection Station license will expire within the next 60 days.
+================
+Great. What do I need to renew it online?
+To renew the license online, you must have the Facility Number from your Business Certificate and the Validation Number from your Business Certificate, for example.

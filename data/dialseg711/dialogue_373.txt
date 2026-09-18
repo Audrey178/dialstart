@@ -1,0 +1,36 @@
+I am looking for a train departing from Cambridge.
+There are many different options for trains departing Cambridge. What date and time do you need a train on?
+I need to get to Peterborough on Friday, and I have to leave after 12:30.
+The first train leaving after 12:30 is TR5650 and leaves at 12:34 to get you to Petersborough at 13:24. Would this suit your needs or would you like a later one?
+I'd like to book this train for 7 people, if possible.
+You're all booked! 7 tickets from Cambridge to Peterborough at 12:34. Your reference number is I9UBCZW2.
+================
+I AM looking for a restaurant. The restaurant should be in the expensive price range and should be in the east.
+Do you have a specific food type that you prefer?
+Are there any swedish places?
+I'm sorry. I didn't find any matches.
+Darn, alright. Can we search chinese instead then please?
+Yes, there is one match. A restaurant called Yu Garden.
+Thanks, could you book a table for 6 people on Monday at 15:15?
+The reservation was successful and they will hold the table for your party for 15 minutes.
+Thank you very much. What is the reference number?
+Reference number is : 768CRNLY. Is there anything else I can assist you with?
+================
+I am looking for information on the leverton house hotel
+Leverton house is a guesthouse located in the east area. It's a 4 star hotel in the cheap price range. They offer internet and parking. Their phone number is 01223292094
+================
+I'll need a taxi to pick me up today after 02:45
+Certainly. Can you tell me your departure and destination locations?
+I'm departing from nusha and I want to go to pizza hut city centre.
+You're all set! Booked car type : yellow tesla Contact number : 07359534792
+Thank you so much, you've been very helpful.
+We are glad to help. Do you need any further assistance?
+================
+I'd like to find a train Tuesday departing from Leicester.
+I have 19 trains departing on tuesday from leicester, I can narrow it down a bit if you have a preferred time to leave at or arrive by.
+I would like to leave after 11:15.
+I have many available. Is your destination Cambridge or do you have another location in mind?
+Yes I would like to go from leicester to cambridge and leave after 11:15 please.
+The first available train leaving after 11:15 would be train TR4354 which departs at 12:09 and arrives at 13:54. Would you like me to book you a ticket for this train?
+Yes I'll need 4 tickets please.
+Perfect. I was able to book for tickets on that train and your reference number for the journey is PLYNP1VG. Anything else I can help you with?

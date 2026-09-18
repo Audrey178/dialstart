@@ -1,0 +1,34 @@
+I need to find a grocery store.
+Sigona Farmers Market is the only grocery store.
+What is the address?
+638 Amherst St, I sent its position on your screen
+================
+i want to book a taxi.
+Sure, i can help you with that. Where will you be departing from?
+I want to leave from the train station.
+Can you tell me what time you would like to leave?
+I want to leave london kings cross train station after 02:00
+Okay, and what is your destination?
+Oh, I'm sorry I need to get to gallery at twelve a high street.
+I'm sorry, I don't understand. What is the gallery name you want to travel too?
+It's called gallery at twelve a high street.
+I have booked you a white ford. The contact number is 07064257037
+Perfect!! Thank you for all your help.
+Got it, your booking has been completed! Look out for a blue tesla, contact number 07520411520. May I assist with anything else?
+================
+I need a train to peterborough from cambridge on sunday.
+There are many trains, beginning at 05:19, do you have a time preference?
+I would like to leave after 18:15 please.
+Is there a time you need to arrive by?
+No, thank you. I just need the train ID and price of the ticket.
+Train TR6662 leaves at 18:19 and the price is 13.20 pounds. Is there anything else I can do for you today?
+No thanks that is all I need. Thanks for the assistance.
+thanks too for choosing us
+================
+I would like to book a taxi that should leave at 12:45 and depart from the Museum of Classical Archaeology.
+I can do that for you. Where would you like to be taken?
+I'd like to be taken to the Kirkwood House.
+Ok, you're taxi is booked. A Grey Skoda will be picking you up at 12:45. The contact number is 07655027973. Can I help you with anything else today?
+================
+Look in mountain view and tell me if there will be hail this weekend
+This weekend in Mountain View there will be stormy weather on Saturday and misty on Sunday

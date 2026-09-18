@@ -1,0 +1,42 @@
+Yeah, I need a train on Sunday.
+I can certainly help with that. Where would you like to depart from?
+Departing from Cambridge
+Can you please tell me your destination?
+The train should go to Bishops Stortford and leave after 14:45.
+The first train after 14:45 TR3600 leaves at 15:29. Would you like to book the train?
+Can you tell me the travel time first?
+The first train leaves at 15:29 and arrives at 16:07, the duration is 38 minutes
+That sounds great, that's all I wanted to know.
+Can I help you find anything else, today?
+================
+I'm interested in places that you can get a 1-star room for the night.
+We dont have any one star hotels
+The hotel should be in the cheap price range and should include free wifi.
+I have The Cambridge Belfry, it is cheap and has wifi. Would you like me to book it for you?
+Is it a 4 star place?
+It is a 4 star hotel.
+Sure, please book it for 4 people for 5 nights from saturday.
+Booking was successful. Reference number is : XQ9KI92A.
+Thank you for your help.
+Thank you for using our services. Do you need further assistance?
+================
+I am looking for a restaurant. The restaurant should be in the north and should serve italian food
+da vinci pizzeria at 20 Milton Road Chesterton.
+Is that restaurant cheap?
+Yes the restaurant is cheap.
+please get me the you get phone number and address
+The phone number is 01223351707 and the address is 20 Milton Road Chesterton. Would you like to make a reservation?
+No thank you. I don't a reservation. That is all the info I need today.
+You're welcome. Please call us again and have a nice day.
+================
+I need to know where the Addenbrookes Hospital is please.
+Addebrookes Hospital is located at Hills Rd, Cambridge. Is there anything else you require?
+I need the postcode and phone number.
+The postcode of Addenbrookes Hospital is CB20QQ, and the main phone number is 01223245151. Are you looking for a particular department?
+No specific department. I will call Addenbrrokes Hospital, CB20QQ at phone number 01223245151.
+Do you need any further assistance?
+================
+which days are rain forecasted
+What city do you want to hear the rain prediction for?
+Manhattan on Saturday please.
+It will be overcast in Manhattan on Saturday.

@@ -1,0 +1,34 @@
+Is there a hospital in Cambridge that has a plastic and vascular surgery department?
+Addenbrookes Hospital has the department you you are looking for. Would you like me to book an appointment for you?
+Could you send their phone number please?
+Yes, their number is 01223274280.
+Thanks for your help.
+You are welcome. Can I help you find a taxi?
+================
+I am looking for a place to dine. The restaurant should be in the east and should serve swiss food
+I don't have any restaurants that meet that criteria. Are you interested in something different?
+No, I am only interested in a restaurant that serves swiss food and is in the east.
+I am sorry but there are no restaurants in the east that serve Swiss food.
+How about international food?
+The missing sock will meet your needs. Need to book a reservation?
+No, I just need the postcode.
+The post code is cb259aq. Is there anything else I can help you with?
+================
+where's the closest place to park
+Palo Alto Garage R is the closest place to park.
+Give me the address.
+481 Amaranta Ave, it's 2 miles away with moderate traffic on our route
+================
+Hi, I am looking for a 4 star hotel or guesthouse that includes free wifi. Can you help me?
+Sure thing, looks like we have several options here. Do you want to stay in a certain part of town, or do you have a price range you're looking for?
+I might, but first do they have free parking?
+I have 19 places that meet your needs, all with free wifi and free parking. If you're not picky about area, I recommend the Archway House.
+Okay sounds great. Can you give me the address, phone number, and price range?
+The Archway House is in the moderate price range. Their address is 52 gilbert road. The phone number is 01223575314. Do you need any other information?
+================
+Hi, I'd like to book a taxi leaving from Archway House, please.
+What is your destination and what time would you like to leave?
+My destination is saigon city and I need it to leave after 10:45.
+Ok expect a Red Tesla at 10:50. Their number is 07532982082.
+Okay perfect. Thank you!
+You are welcome, can I help you with any thing else?

@@ -1,0 +1,25 @@
+schedule a work meeting for the conference room this tuesday at 10
+Okay, setting a reminder on Tuesday for your work meeting in the conference room at 10 am.
+================
+I'd like a train to Cambridge that arrives by 19:30.
+Where are you departing from?
+I'm departing from Ely.
+Do you have a day you would like to travel?
+Yes, Wednesday. I also need the departure time and price, please.
+The latest train arrives at 17:52 on a Wednesday, departs at 17:35 and the cost of the ticket is 4.40 pounds.
+================
+I am looking for the Addenbrookes Hospital
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+Can I get the phone number for the emergency department?
+I have it listed as 01223217118.
+Thank you, could you please provide me the address for the Addenbrookes Hospital.
+The address is Hills Rd, Cambridge.
+Does it not have a building number or something? Where on Hills Rd?
+No, it does not.
+Okay. I will call them for directions. Thanks for your assistance.
+Is there anything else I can help you with?
+================
+Schedule
+Your schedule is empty.
+Please schedule a 2 pm yoga activity with Jeff on August 14th.
+Okay , setting a reminder for your yoga activity with Jeff on August the 14th at 2 pm.

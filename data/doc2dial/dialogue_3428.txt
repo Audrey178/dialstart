@@ -1,0 +1,15 @@
+Hey, I need a hand with estimating my aid online.
+Of course. Would you like to estimate your federal student aid , but aren't yet ready to apply for aid?
+Not quite. I'm ready to apply.
+================
+Can I simply fill in the college grants that I hope to receive or do I need an accurate number?
+Yes, you can fill in the amounts of state and college grants, and any scholarships, that you expect or hope to get.
+================
+What kind of questions do I need to fill out when I use FAFSA4caster?
+You answer financial and other questions that are used to estimate your federal student aid eligibility. You may be able to answer most of the questions easily, but some of the questions may ask you to reference your personal records for instance, your federal tax information or your bank statements.
+================
+Do you have any information regarding FAFSA4caster?
+Yes, we do have information provided by FAFSA4caster.
+================
+What happens when I select "calculate"?
+Once you select "calculate", FAFSA4caster summarizes the cost, the total aid entered, and the difference the net cost of attending college. our estimated Expected Family Contribution (EFC) also appears.

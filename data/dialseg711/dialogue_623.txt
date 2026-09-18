@@ -1,0 +1,30 @@
+I want to eat at an expensive gastropub restaurant
+There are two gastropub's in the centre of town in the expensive price range, would you like me to book one?
+Yeah, I need a reservation for 4 people on saturday at 12:30 please
+Would you like me to book your reservation in the centre of town or east?
+The center of town would be best.
+Your reservations are complete at the Backstreet Bistro. Your reference number is 7H01DZW5.
+================
+Hi I need a taxi to pick me up at the Hamilton Lodge and take me to the funky fun house.
+What time do you need to leave Hamilton Lodge or arrive at the Funky Fun House?
+I need to leave after 21:00 please.
+Ok, a white Volkswagen will pick you up. The contact number is 07626227594.
+================
+Find out some information for my swimming activity, parties joining me and date.
+Okay which one, I have two. One is the 8th with Jeff and the other is on the same day with Martha.
+The one on the 8th.
+Both swimming activities are on the 8th, the one at 10am is with Martha and the other at 2pm is with Jeff.
+Thanks for your help, goodbye.
+My pleasure.
+================
+I got injured and I am looking for a hospital nearby
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+I just need the phone number
+The phone number is 01223245151. Is there anything else I can help you with?
+No, that's all. Thank you!
+You're welcome. Please call us if you need anything else.
+================
+I'm looking for a hotel called the Arbury Lodge Guesthouse. Do you have a listing for this?
+I am sorry, but this hotel is not in my records. There is another hotel that is very nice it calls Super 5.
+Are you sure, but if not, book the Super 5 for 8 people for 5 nights starting Monday. I will need the reference number.
+Sorry about that - the Arbury Lodge guesthouse is, in fact, in my database. Your room is reserved, reference #N3CVYHHJ. Can I help with anything else today?

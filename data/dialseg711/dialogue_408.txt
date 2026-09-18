@@ -1,0 +1,34 @@
+i am looking for the Addenbrookes Hospital with acute medical assessment unit department
+Addenbrookes Hospital is located at Hills Rd, Cambridge. It has the department you're looking for. Would you like the phone number also?
+Yes, please. I need their telephone number.
+The acute medical assessment unit can be reached at 01223348314.
+================
+I need a train from cambridge to ely.
+No problem. What day will you be leaving, and is there a particular time you would like to board?
+Yes, I need to leave on Friday sometime after 15:30.
+I have a train that leaves Cambridge at 15:50 and arrives in Ely at 16:07, would you like me to book it for you?
+Yes, I also would like the reference number.
+Sure thing. The number is FAC22HSG. Anything else I can do for you?
+I'm sorry, I forgot to specify that I need 6 tickets. Could you change that for me?
+Surely, I have made that change and the new reference number is YWF1K74N. Is there anything else I can do for you?
+================
+Book a taxi
+Okay. I will need your departure site, destination, and a time please.
+I want to be picked up from allenbell after 16:45 and taken to mumford theatre
+Do you need to arrive by a certain time?
+================
+Can you help me find a train? I am looking for that departs from Cambridge on Saturday.
+There are 202 trains leaving from Cambridge on Saturday. Can you give me a destination point so that I can narrow it down for you?
+I would like to go to Birmingham New Street and the train should leave after 14:15.
+The TR3735 leaves at 15:01, will that suit you?
+That would be great. Can you get me 7 tickets on that train?
+Alright, you booking was successful, your confirmation number is KU1R7NQO.
+Ok. Is that also the reference number? Thanks.
+That's correct, the number I gave you was the reference number you'll need. You'll need to pay 420.56 GBP when you get to the station. Is there anything else?
+Okay. Thank you very much.
+Is there anything I can help you with today?
+================
+I would like help booking a taxi please. I will need the Taxi to pick me up at the Peterborough Train Station at 18:45
+Okay, could you please tell me where you would like to travel to?
+i would like travel to the good luck Chinese food takeaway. I also need the contact number for the taxi.
+Taxi has been booked and it is a black bmw and the contact number is 07820748832. Can I help you with anything else?

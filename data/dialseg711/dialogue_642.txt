@@ -1,0 +1,42 @@
+I would like to reserve a taxi from rosa's bed and breakfast.
+Sure! when would you like to arrive?
+I want to arive by 23:00.
+Got it. And what is your destination please?
+I will be going to cityroomz.
+I have confirmed you booking, a yellow volvo will pick you up.
+What is the contact number, please?
+The contact number is 07854319661.
+================
+please find me directions to a nearby place i can get some coffee
+Here are directions to Palo Alto Cafe.
+Yes thanks and make sure to get me the quickest route please.
+There is no traffic on the quickest route to Palo Alto Cafe. Would you like the address?
+Yes please.
+The address is 436 Alger Dr, and it is 5 miles away.
+Thank you. Can you set GPS to navigate us there?
+GPS is set for Palo Alto Cafe at 436 Alger Dr which is 5 miles away with no traffic.
+================
+I was wondering if you could help me in finding a train to the airport.
+Sure. Where will you be leaving from?
+I will need to leave from Cambridge if that's ok
+What day are you travelling?
+On Wednesday. I need the train to arrive by 19:15.
+I have a train that arrives earlier at 18:08 and one that arrives just before your specified time at 19:08.
+I'd like to book 3 tickets on the train arriving at 19:08, please. And would it be possible to have a reference number for the booking?
+OK, you have 3 tickets reserved on TR4447, departing Cambridge at 18:40, arriving Stansted at 19:08. Total fee is 30.29 GBP. Reference #5VRJSMSE. Will that be all today?
+================
+I want to find an expensive restaurant located in Cambridge centre.
+What type of food would you like?
+I am in the mood for Chinese food, please.
+I have found 4 restaurants that fit that description. How does HK Fusion sound?
+Perfect. I need a table for 1 at 19:45 on thursday.
+OK I have that booked the reference number is EBZIPGV2.
+Great that is all I need. Thanks.
+You're welcome, please call us again in the future. Have a great day.
+================
+Hello, I need a train to come in at 8 am.
+Where would you like the train to take you?
+I need to leave from cambridge and get to Kings Lynn by 8:00 on Saturday.
+The TR2973 leaves from cambridge on Saturday at 07:11 and arrives at kings lynn at 07:58. If you want one that leaves more time there is one an hour earlier.
+That one will work, can you get me 7 tickets please?
+Alright, I've booked that and it was successful. Your Reference number is D2D4VN6F and the total fee is 62.72 GBP. Anything else?

@@ -1,0 +1,50 @@
+Hi, I would like to travel Stevenage from Cambridge by train. Could you please tell me when the next train is leaving?
+The next train departing is TR8306 on Friday at 5:54 set to arrive by 6:43. Would you like to book that?
+I actually need to leave on Saturday.
+Let me confirm you are traveling from Cambridge to Stevanage this Saturday. Also, what time do you want to leave or arrive?
+I am in Cambridge traveling to Stevanage on Saturday. I want to arrive in stevenage by 12:45.
+Train ID TR3259 Price 10.24 pounds Reference number is : 1P6X7B88.
+I'll also need the travel time please.
+The travel time is 19 minutes.
+Ok, great. Thanks!
+Thank you for using our services, do you need any further assistance?
+================
+I need information on the fitzwilliam museum
+Ok, I can help you with that. What kind of information do you need?
+Can I get the phone number, address, and area it is located in?
+Of course, the Fitzwilliam Museum is located in the centre area of town, at Trumpington street, and can be reached at the phone number: 01223332900. Do you need anything else?
+================
+Are there any Australian food places in the south part of town?
+I was not able to find any Australian restaurants in the south part of town
+Are you sure? I am really looking for an expensive Australian place to dine in the south.
+Yes, there are no expensive Australian restaurants in the south part of town. Would you like to look in a different area?
+No, lets keep the same area but see if there might be an Indian restaurant instead.
+How about Taj Tandoori? It is an expensive Indian restaurant in the south side.
+Okay. I want to book a table for 5 people at 16:30 on sunday.
+I was not able to book you a table for this time. Would you like to try a different day or time?
+Can you see if a table is available at 15:30?
+I was able to book a table of 5 for 15:30 at Taj Tandoori on Sunday. Your reference number is HJZCPH80, your table will be reserved for 15 minutes.
+Great thank you for your help today.
+It was my pleasure. Was there anything else I could assist you with?
+================
+Please book me a taxi to arrive by 12:45 to the city stop restaurant.
+And where are you departing from please.
+I'll be departing from jinling noodle bar
+That's great, thank you, have a nice day.
+Ok I need to book this taxi and I need the contact number and car type please.
+A grey Audi is booked to come pick you up.
+contact number please !
+Certainly, the contact number is 07809487521. Is there anything else?
+================
+Hi. I was wondering if there are any Eastern European type restaurants in the south part of the city?
+Unfortunately, there are no eastern European restuarants in the south part of the city. Is there anything else you want?
+I'm looking for an expensive eastern european place in the south.
+Unfortunately, I don't happen to have any listing that meets what you were looking for. Would you like me to try either a different area or type of restaurant?
+How about a Chinese restaurant?
+Certainly, we have two expensive Chinese restaurants the good luck chinese food takeaway, and peking restaurant. Would you like a reservation at one, if so for how many?
+I would like a reservation for 2 to the peking restaurant.
+OK, and what day and time would you like that reservation?
+I'd like to make a reservation for Saturday at 11:45. And there has been a change in plans, I will be dining alone.
+Your reservation is complete. Would you like anything else?
+Can I get the reference number for that reservation?
+Yes, the reference number is KNL2J63Q.

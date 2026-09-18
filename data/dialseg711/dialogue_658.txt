@@ -1,0 +1,30 @@
+My wallet was stolen. Can I get some help?
+You should contact the police at 01223358966. The Parkside Police Station is located in Parkside, Cambridge CB11JG.
+================
+Quickest route home.
+There is moderate traffic on the route.
+Please pick the quickest route for me and let's go there, thanks!
+Setting navigation to quickest route home.
+How far away am I right now and what is the address?
+There is moderate traffic on the 4 mile route home
+And what is the address?
+Home is located at 10 Ames Street. Setting navigation now.
+Thank you car!
+You are welcome driver!
+================
+Where is the closest police station located?
+The closest police station is located at Parkside, Cambridge.
+Could I have the postcode please?
+The postcode is CB11JG.
+Thank you so much for all of your help.
+Take their phone number just in case: 01223358966. Anything else?
+================
+Please set a reminder that I have a conference call with the VP on August 14th at 6pm.
+Okay setting your reminder for your conference call with the VP on August 14th at 6pm
+================
+I'd like a taxi to the ugly duckling
+What time would you like to depart at?
+I need to actually arrive by 19:15.
+Where will you be departing from today?
+I will be departing from parkside police station.
+Your grey Honda is booked, and the contact number for the driver is 07817450562. Can I do anything else for you today?

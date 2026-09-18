@@ -1,0 +1,18 @@
+What is the time limit for each page?
+================
+Time limits are placed on each page for security reasons. Did you spend more than 25 minutes on one page at a time?
+No. I just wanted to make sure that I'd have time to complete each page.
+================
+How does the Retirement Calculator work?
+It can give you estimates based on your Social Security earnings record.
+How accurate is the estimate given by the calculator?
+The calculator is intended to give you an idea of what your amount will be. Of course, your actual benefit amount may differ because your earnings can increase or decrease in the future.
+================
+What happens if I spend more than 25 minutes on one page?
+After 25 minutes, you will receive a warning message which will allow you to extend your time on the page, if needed.
+================
+How do I know if I'm eligible to use the retirement calculator?
+Most individuals who have enough Social Security credits at this point in time can use the calculator.
+================
+So, if I need more time to complete a page, I can extend the time limit?
+Yes, this is correct. The warning message will allow you to extend the time.

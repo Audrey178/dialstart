@@ -1,0 +1,25 @@
+I need to get a train from cambridge to Norwich.
+I have a train leaving at 12:36 and arriving at 13:55. Is that ok?
+Actually no, I need a train leaving on Monday after 20:30.
+I have a train which leaves at 20:36. Would that work for you?
+book for 4. get me the reference number please
+Booking was successful, the total fee is 70.4 GBP payable at the station. Reference number is : RI594OCX.
+================
+I am looking for a train that leaves Saturday going to ely, do you have a train with those details?
+There are 10 trains on Saturday that go to Ely from Cambridge. What time do you need to leave or arrive, and how many tickets do you need?
+I need to arrive by 13:00.
+There is one train that arrives at 12:07. That trainID isTR0718.
+I need a booking for 4 people.
+I've done that. The price will be 14.08 GBP payable at the station. Your reference number is IR7HSMG4. Any else I can do for you?
+================
+I need a taxi to leave from the gallery at twelve a high street to arrive by 15:30
+Where will you be going?
+I'm going to the nirala.
+Great, you are all set. A yellow honda has been booked and the contact number is 07621058499. Can I help with anything else today?
+================
+I am looking for a train leaving after 11:45
+OK, what are your departure and arrival stations, and what day are you traveling?
+I'll be leaving Stansted Airport Friday to head toward Cambridge.
+Ok, I have the first available train leaving at 12:24 and arriving at 12:52. Would that train work for you or would you like to leave later than that?
+That would work for me can I get a train for 7 people?
+Yes, you're booked on TR1387 with reference number 78BZSVSW. The total fee is 70.7 GBP payable at the station. Anything else I can help you with?

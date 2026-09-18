@@ -1,0 +1,44 @@
+I aM looking for a train. The train should depart from peterborough and should leave after 12:30.
+There are a number of trains that could work for you. Do you have a time you'd like to arrive by? Or a day of the week you'd like to travel?
+I'm headed to Cambridge on Tuesday.
+Train TR7307 leaves Peterborough at 12:48 Tuesday, and will arrive at Cambridge by 13:38. Would you like me to book it for you?
+I don't want to book yet but could you tell me the travel time?
+should i book for you?
+No I JUST told you I only want the travel time!
+Train TR7307 Leaves at 12:48 and arrives by 13:38. Is there anything else that I can help you with today?
+================
+I need a taxi departing from tang chinese.
+Ok, what is your destination?
+I need to get to Downing college.
+Great. Now I will just need a time.
+I need to arrive by 19:30
+Alright. I have a white bmw and the contact number is 07454674026. Anything else?
+No that is all I needed.
+I'm sorry, I thought you wanted to leave at 19:30. You are booked for a yellow bmw with the contact number 07816577086 arriving at 19:30.
+Great. Thank you very much.
+Can I help you with anything else?
+================
+Yes, I'm going to need a train on Sunday.
+There are 404 trains departing on Sunday. Can you give me a departure point and a destination point, please?
+i want to go from norwich to cambridge
+Is there a certain time you would like to leave Norwich by?
+I would like to arrive in Cambridge by 14:15.
+I have eight trains arriving by then, how many passengers?
+I need a booking for two passengers.
+Booked, Your reference number is 845YKY14. You pay 28.16 at the station. You will leave at 12:16 and arrive at 13:35. Trainid: TR5225.
+================
+Hey there. Can you help me find a swimming pool here in the city?
+We have four such places. Got a preference for area?
+Not really, no. Any area will do. Can you recommend one and provide me the phone number?
+The parkside pools is in the centre area, phone number 01223446100. Can I help you any further?
+================
+I am looking for a train to cambridge.
+Alright, what day are you looking to travel?
+I want to travel this Sunday, please.
+Okay, and what time do you want to leave?
+I need to leave after 19:15.
+I have several trains that meet that criteria, where are you departing from?
+I will be leaving london kings cross.
+TR1681 will be departing london kings cross at 19:17, would you like to reserve a seat?
+Yes, thank you. Can you book it for 3 people and provide the reference number for me?
+There we go, all set. The reference number is AM5KZM91.

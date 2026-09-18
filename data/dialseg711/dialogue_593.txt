@@ -1,0 +1,24 @@
+I need a taxi at 24:00 to take me to Milton Country Park.
+Where will you leave from?
+I'm departing from anatolia.
+Booking completed! Anything else I can help with today? Booked car type : black tesla Contact number : 07553660538
+================
+show me the route to coffee shop
+We are 2 miles away from Teavana: would you like me to send you its address on screen?
+Is it the quickest to get to from my current location?
+Yes Teavana is the only place close to you at 2 miles away located at 145 Amherst St. Do you want me to set the GPS?
+Set GPS on route to avoid heavy traffic.
+I found some alternate road, follow your GPS and let's hope to not get lost... Just kidding!
+================
+when should i take my medicine next
+You should take your medicine next on Tuesday at 3 pm
+Please set a reminder for medication
+reminder has been set
+================
+what is the weather forecast for the upcoming week
+What location are you asking about?
+Fresno
+For Fresno this week, it will be windy on Monday, humid on Tuesday, drizzling on Wednesday, overcast on Thursday, drizzling on Friday, hot on Saturday, and drizzling on Sunday.
+================
+What is the date and time of my optometrist appointment?
+You have two optometrist appointments scheduled; one on the 2nd at 9 am and one on the 6th at 10 am.

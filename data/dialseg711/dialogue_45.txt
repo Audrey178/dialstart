@@ -1,0 +1,30 @@
+I am looking to leave for bishops stortford after 15:15 by train.
+Certainly. Where are you departing from?
+I'll be leaving from Cambridge.
+I have several trains, when would you like to arrive by?
+The arrival time does not matter, but it should leave on Sunday after 15:15.
+Booking was successful, the total fee is 8.08 GBP payable at the station. Reference number is : V6E0H0GJ. Is there anything else I can help with?
+Were you able to book it for 4 people?
+I was able to book 4 tickets. The total fee will be 32.32 pounds, payable at the station. The reference number is BPUJ9ISP. Can I help you with anything else?
+================
+Car, will you schedule a Doctor's appointment for me? Set it for 11 am, tomorrow, with Jon.
+I sure will. It's all set! Anything else?
+No, thank you so much!
+Okay, i will schedule your doctor appointment with Jon for tomorrow at 11 am.
+================
+I am looking for a train departing from london liverpool please.
+I'll be glad to help. You would like to from london liverpool street to what destination, please?
+Cambridge. I'd like to leave after 10:00 on Friday.
+I have seven trains, could you tell me when you would like to arrive by ?
+Just any time after 10:00, can I get the train ID of one of them please?
+TR7943 leaves at 11:39
+================
+what is the date time and location of my next conference
+Your next conference will take place on Thursday at 1 pm in conference room 50.
+================
+Can you help me find a taxi to old schools?
+Where will you be departing from?
+I'm departing from thanh binh.
+What time would like to get there?
+I need to get there by 11:15.
+Alright I've got a blue volkswagen and the contact number is 07339810111. Anything else I can do

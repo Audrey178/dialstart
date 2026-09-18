@@ -1,0 +1,23 @@
+I need a gas station with the least amount of traffic.
+76 at 91 El Camino Real is the only gas station that I can find. It is 4 miles away through heavy traffic
+OK, please give me directions via the route that seems to avoid most heavy traffic.
+There is no current route without heavey traffic.
+================
+Hi, is there a restaurant in town called the rice boat?
+Yes there is. rice boat is an indian restaurant in the west. Would you like to book a table?
+Yes, please! I'd like a table on Sunday for 5 people at 20:00.
+I'm sorry, but that time is unavailable. Is there another time you would like?
+Could you try booking for 19:00 instead?
+Booking was successful for 19:00. The table will be reserved for 15 minutes. Your reference number is : BL1DL1ZO. Can I do anything else for you?
+================
+Could you help me find the Cambridge Belfry?
+The Cambridge Belfry is a cheap hotel. The address is Back Lane, Cambourne and the phone number is cb236bw.
+Thank you. Can you book it for me?
+Of course. When would you like to stay?
+I would like to check in on Saturday for 2 nights. There will be 4 of us.
+Your reservation was successfully made. The reference number is PJ9D98BY. Can I help you with anything else?
+================
+Car I'm desiring to have pizza: is there any restaurant within 2 miles?
+I have a pizza restaurant located 1 mile away.
+What is the address?
+Dominos is at 776 Arastradero Rd.

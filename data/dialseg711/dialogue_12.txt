@@ -1,0 +1,30 @@
+In mountain view, will there be frost today or tomorrow?
+No, in Mountain View there will be clear skies today and dry tomorrow
+================
+I need some train schedule information, please.
+Is there a specific destination you need to depart from?
+Yes, the train should arrive by 18:15 and should depart from ely.
+What is your destination?
+I want to go to Cambridge, please.
+trainID departure destination day leaveAt arriveBy price duration book (optional) TR8519 ely cambridge friday 05:35 05:52 4.40 pounds 17 minutes TR8510 ely cambridge friday 07:35 07:52 4.40 pounds 17 minutes TR3976 ely cambridge friday 09:35 09:52 4.40 pounds 17 minutes TR0212 ely cambridge friday 11:35 11:52 4.40 pounds 17 minutes TR0236 ely cambridge friday 13:35 13:52 4.40 pounds 17 minutes there is a sample
+Thanks, that's all I need.
+Did you say you were leaving on Friday?
+I need to leave on Thursday, not Friday.
+I see. All right, I've adjusted that information for you.
+================
+Where is the nearest pizza place?
+The nearest pizza place is Round Table located 4 miles away. Do you want the address?
+Yes, please, and pick the quickest route to get there too
+113 Anton Ct, there is no traffic and you should be able to reach there quickly
+================
+I am looking for the Addenbrookes Hospital.
+The hospital is located at Hills Rd, Cambridge in postcode CB20QQ.
+Can I have the phone number please?
+The phone number is 01223245151. Is there anything else?
+That will be all. Thank you for your help.
+Great! Have a nice day!
+================
+what is the weather for next week
+What city do you need weather information for?
+Will it be cloudy in Los Angeles next week?
+It will be cloudy on Tuesday in Los Angeles.

@@ -1,0 +1,32 @@
+i want to book a taxi. The taxi should depart from broxbourne train station
+Where would you like to go?
+I need to leave by 20:15 and am headed to city stop restaurant.
+I have booked you a blue BMW for a 20:15 pickup. The contact number is 07753733237. Can I help you with anything else today? .
+================
+I've just been robbed and I need some help.
+I'm sorry to hear that. There is a police station on Parkside, Cambridge CB11JG and the phone number is 01223358966. Can I help you with anything else?
+================
+what is the forecast for today and tomorrow
+Which city would you like today and tomorrow's forecast for?
+I would like to know if it will be foggy in Alhambra
+It's not gonna be foggy in Alhambra today or tomorrow
+================
+Hi. Could you help me find an expensive restaurant that serves Catalan food?
+Unfortunately, I don't show anything available meeting those requirements. Can I try a different price range or type of cuisine for you?
+How about something in the centre of town
+I was able to find bedouin in the centre of town in the expensive price range.
+The Bedouin serves Catalan cuisine?
+The Bedouin serves African food.
+Oh okay. I must have been mistaken. Let's try something that has italian, is expensive and in the centre of town.
+How does don pasquale pizzeria sound to you?
+Sounds good, lets book it for 4 people at 14:00 on Wednesday, and I'll need a reference number please.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : CORC123E.
+================
+I need a taxi to take me to finches bed and breakfast
+Sure! What is your departure site?
+I'm departing from aylesbray lodge guest house.
+Okay, when do you want to leave?
+Anytime after 11:45 will be fine.
+Your booking is now complete.
+Can I have the car type and contact information?
+I have a red bmw with contact number 07394368470.

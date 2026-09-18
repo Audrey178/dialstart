@@ -1,0 +1,17 @@
+is it going to snow next week
+You want me to check if it's going to snow in what city this week?
+Inglewood
+There is going to be snow next week on Saturday in Inglewood.
+================
+Remind me that I have a meeting with my Boss on the 13th of next month at 5pm
+Okay setting reminder for your meeting with your Boss on the 13th of next month at 5pm.
+================
+give me the forecast for the next 7 days
+What city would you like to hear the 7 day forecast for?
+Redwood City please.
+Redwood City is forecast to be cloudy and cold with a chance of a blizzard; lows in the 20s are expected with highs near 60.
+================
+What hospitals are located in town?
+Addenbrookes Hospital is located on Hills Rd, Cambridge.
+Great. Can I get the phone number, address, and postcode please?
+Sure! The phone number is 01223245151, the address is Hills Rd, Cambridge, and the post code is CB20QQ.

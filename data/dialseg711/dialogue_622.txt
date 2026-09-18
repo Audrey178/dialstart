@@ -1,0 +1,26 @@
+Tell me if it will rain in Alameda in the next 48 hours
+No, it's not gonna rain in Alameda today nor tomorrow
+================
+Can a taxi pick me up at carolina bed and breakfast?
+When do you want to leave by?
+I want to be sure and leave after 24:00
+What is your destination?
+I want to go to lensfield hotel
+The taxi is booked for 24:15. It is a yellow Volkswagen.
+I'll also need the contact number please.
+Your contact number is 07744553058. May I help you with anything else?
+================
+What is the date of my next dinner and who will be attending it?
+Your next dinner is on the 1st with Alex. Do you need the time also?
+================
+I'll be needing a taxi from nandos city centre
+Where will you be heading to?
+I need to go to the castle galleries.
+What time would you like to leave?
+I need to leave after 04:30.
+Booking completed! Booked car type : blue toyota Contact number : 07920865012
+================
+what's the temperature going to be like this week
+You want the weekly temperature for what city?
+Cleveland
+The temperature in Cleveland this week is showing lows of 20F and highs in the 100Fs

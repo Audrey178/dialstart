@@ -1,0 +1,26 @@
+What day and time is my yoga class?
+Your yoga activity is on the 3rd at 10 am.
+================
+Hello, I am trying to find a place to stay that has free wifi and 3 stars. Do you have anything like that?
+I have 5 results that match your criteria, do you have a certain area of town you'd like to stay in or a price range you're looking for?
+Are any of them a hotel? I don't want a guesthouse.
+Yes there are two hotels. One in the centre and one in the south. Any preference?
+No preference, I need it for 2 nights starting from Monday for 3 people, and I need a reference number please.
+OK, you are booked into the Gonville Hotel, located in the center of town on Gonville Place. The reference number is G6FAO56J.
+================
+I need to find a hospital please.
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+No, but can you give me their phone number and address please? Thanks!
+Phone number is 01223245151 and their address is Hills Rd, Cambridge Postcode CB20QQ
+================
+is it snowing next week
+What city would you like to know if it will be snowing in?
+Compton.
+It will not snow in Compton next week.
+================
+I am looking for a cheap restaurant in the centre part of town.
+You have lots of good cheap choices in that part of town! What type of food sounds good to you? There are Italian restaurants, Indian, Spanish, Chinese, and more.
+How about Chinese? can you book me a table for 3 people at 18:15 on a Sunday?
+I'm sorry, none of the Chinese restaurants are available at that time. Is there another day or time that would work for you?
+Ok, I'll try for a little earlier, how about 17:15?
+Booked at Charlie Chan! Your table will be reserved for 15 minutes. Reference number is YGWCXMK4.

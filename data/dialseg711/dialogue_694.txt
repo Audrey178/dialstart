@@ -1,0 +1,28 @@
+I'm looking for British food. I want the restaurant to be in the town centre.
+Sure, there are quite a few British restaurants in the centre. Would you prefer something expensive or moderately priced?
+It doesn't matter. Please give me the phone number to the restaurant you choose.
+How about The Copper Kettle? The phone number is 01223365068.
+Perfect, thank you very much for your help
+Welcome. Anything else I can help you with?
+================
+find me the best parking spot
+There are two nearby parking garages. Dish Parking and Webster Garage.
+What is traffic like on the route to those locations and can you send me directions to the one without any traffic?
+Webster Garage is located 2 miles away, though there is a car collision nearby. Would you like directions there?
+Yes, please give me directions via the fastest possible route.
+Setting navigation to 880 ames ct now.
+================
+Is there a hospital close by?
+Hello, thank you for calling. Addenbrookes Hospital is on Hills Road in Cambridge. Are you looking for a particular type of doctor?
+I need the address, postcode and phone number for Addenbrookes Hospital.
+The Addenbrookes Hosptial phone number is 01223245151. They are located on Hills Rd, Cambridge, post code CB20QQ.
+================
+Hi I need to find a place to dine serving Vietnamese food in the cheap price range.
+Thanh Binh is a restaurant serving Vietnamese food in the cheap price range.
+Thank you!
+You're welcome
+Can you book me a table for 7 people at 12:00 on saturday?
+Okay, got it. Your table has been reserved. The reference number is U2OY8B4T.
+================
+Schedule a dentist appointment at 3 pm on the 11th of this month with father.
+I will set your Dentist Appointment for 3pm on the 11th of this month with Father.

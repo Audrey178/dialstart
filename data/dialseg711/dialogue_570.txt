@@ -1,0 +1,23 @@
+What date is the football game and who is attending?
+You have 2 football games, one on the 18th with your aunt and one on the 14th with Ana.
+================
+I need a taxi departing from avalon.
+Can yo let me know what time you want to leave?
+Yeah, after 20:00 would be ideal
+You got it. What is your destination?
+I am going to the fitzwilliam museum.
+Your booking is complete, a black honda will be picking you up.
+can I please have the contact number?
+The contact number 07928549844.
+================
+Please help me! I've just been robbed!
+The telephone number for the Parkside Police Station is 01223358966.
+Thank you, could you also provide me the postcode and address?
+They are in Parkside, Cambridge CB11JG.
+Thank you so much, I appreciate your help!
+Is there anything else I can help you with?
+================
+Set a reminder for an optometrist appointment at 4pm, August 3rd. Make sure my Aunt is there.
+================
+Find home address that is within the distance of 5 miles.
+Your home is 3 miles away and there is no traffic on our way, I sent its position on your screen

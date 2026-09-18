@@ -1,0 +1,28 @@
+I'd like you to tell me about great Indian restaurants in the area. It's okay if they are expensive.
+There are a total of 14 different expensive Indian restaurants located throughout the city. Is there a particular area of town you would like to eat in?
+No. Choose one for me.
+Curry garden has good reviews, would you like to book there?
+Sure! Can you book a table for 8 people at 17:30 on Friday?
+Sure. Your reference number is QLMRQ3H2. Anything else?
+================
+I need the address for the Parkside police station.
+Certainly! Their address is Parkside, Cambridge postcode CB11JG. Can I help with anything else?
+Yes, I'll also need their phone number.
+Their phone number is 01223358966. Can I help you with anything else?
+================
+i want to book a taxi. The taxi should go to da vinci pizzeria and should depart from the missing sock.
+Do you know what time you would like to arrive?
+By 02:00 please.
+Booking completed! Booked car type : black toyota Contact number : 07381507010
+================
+Schedule a optometrist appointment for Thursday at 5pm. My father is joining me.
+Your optometrist appointment with your father has been scheduled for Thursday at 5pm.
+================
+Where can I get tea?
+I have a couple listings for tea places. Which are you interested in?
+The closest one.
+Palo Alto Cafe is 4 miles away.
+What is the address?
+Palo Alto Cafe is at 436 Alger Dr.
+Please pick the quickest route and let's go there!
+Plotting fastest route to 436 Alger Dr. 4 miles away with moderate traffic

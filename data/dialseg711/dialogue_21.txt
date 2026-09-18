@@ -1,0 +1,36 @@
+What is the date and time for dinner?
+For which one? I have you set for three.
+The soonest one please.
+I have the soonest dinner listed for 8pm on the 2nd with your sister.
+Thanks.
+You are welcome driver.
+================
+I wasn't planning to stay in town tonight, but it looks like I'm going to have to. Can you help me find a pretty cheap room?
+The the cambridge belfry is a hotel in the west part of town in the cheap price range. Would you like me to book a room for you?
+I am looking for a cheap place to stay including free parking
+The Cambridge Belfry is cheap and includes free parking and wifi. Would you like to book a room?
+How many stars does it have? I'd like a cheap place in the west with 4 stars and free parking.
+Yes, the Cambridge Belfry is a cheap 4 star hotel that includes free parking.
+Do they have internet there?
+Yes, there is free internet provided. Would you like me to book a room?
+Sure you can book that for me, thank you!
+I would be happy to book a room. Please let me know your arrival day, how many nights you're staying, and the number of people who will be staying.
+================
+take me to the nearest starbucks
+I am unable to locate starbucks. However there are two coffee or tea place nearby, Cafe Venetia and Philz
+What is the address of Philz?
+Philz is at 583 Alester Ave.
+Which of the two are closest?
+Cafe Venetia is the closest, it's 3 miles away with no traffic on the route. Set the GPS to to there?
+================
+Can you help me find a hotel called a and b guest house?
+It is in the east, and moderately priced. Would you like to book a room?
+Can I get the address and phone number, please?
+The address is 124 tenison road, postcode cb12dp. The phone number is 01223315702. Anything else?
+================
+I want to book a taxi to pick me up Travellers Rest to take me to Finches Bed and Breakfast.
+Sure! when would you like to arrive?
+I would like to arrive at the restaurant no later than ten o'clock a.m.
+I have confirmed a taxi booking for you, a red tesla will be picking you up.
+Ok great, can I have the contact number?
+Sure its 07915006170. Is there anything else I can do for you?

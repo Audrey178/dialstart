@@ -1,0 +1,36 @@
+I'm trying to find an expensive restaurant in the centre of town.
+Okay, there are a lots of options. What type of food would you like to eat?
+Belgian food please
+I don't have any restaurants that meet that criteria. Is there another type of food or area you would be interested in?
+Ok, how about Chinese food then?
+How about Tang Chinese? They are an expensive Chinese restaurant at Napier Street City Centre. Would you like me to make a reservation?
+No, I don't need a reservation. Just the phone number and post code please.
+their phone number is 01223357187. and port code is cb11hr
+Great! Thanks so much.
+You are quite welcome. Is there anything further I can assist you with?
+================
+I need a taxi to take me to the cambridge punter please
+I need a cab to take me to the cambridge punter with an arrival time of 02:00
+================
+I need you to remind me of my football activity at 3pm, Saturday with Ana.
+Okay, i will set a reminder for a football activity Saturday at 3pm with Ana.
+================
+Yes, I'm looking for a place to go in the south.
+Sure let me help you with that. Which type of attraction would you like to visit?
+Can you recommend any good museums there?
+The byard art is the only museum in the south and the entrance fee is free.
+What is their phone number?
+01223464646 phone number
+Can you tell me the postcode?
+The postcode is cb21sj. Is there anything else that I can help you with today?
+================
+I'd like to find an expensive place to dine that specifically serves italian food.
+Okay. Would you like to go to the centre or south part of town?
+I would like the south part of town please.
+Frankie and Bennys meets you criteria, would you like me to make a reservation for you?
+Yes, please. There are 4 of us for this Friday at 16:00.
+Booking was unsuccessful. Perhaps another day or time?
+how about 15:00 instead?
+Okay, that worked, and I've successfully booked your table. I can give you the reference number, if you'd like.
+Yes, I will need the reference number.
+Your Reference number is : VRU8VSG0. Do you need any further assistance?

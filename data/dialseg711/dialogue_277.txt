@@ -1,0 +1,21 @@
+I'd like the address to a friend who lives close to where I am, with directions for the fastest route possible.
+Jack's house is located at 864 Almanor Ln in heavy traffic. Setting directions now.
+================
+In new york will it be foggy this week?
+the weather is not predicted to be foggy in new york this week
+================
+I am looking to eat moderate priced British food
+I have five eateries that are British in that price range, do you have a preference of area?
+I want it to be in the centre.
+restaurant one seven is a restaurant meeting your preferences. There are 3 others that also meet your preferences.
+That one sounds good. Can I get the address and post code?
+The address is De Vere University Arms Regent Street City Centre. The post code is cb21ab.
+Great, and what is the phone number?
+The number is 01223337766.
+================
+how cloudy is it going to be for the next week
+What city can I give you this weather information for?
+boston please
+It's not gonna be cloudy in Boston during the next week
+Thanks.
+No problem.

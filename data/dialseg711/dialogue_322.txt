@@ -1,0 +1,19 @@
+Set a reminder for a lab appointment on the 13th at 4PM with Jeff.
+Setting a reminder for your lab appointment with Jeff at 4 pm on the 13th.
+================
+get me directions to the mall
+Town and Country at 383 University Ave. would you like the route put on the screen?
+Yes, please, and avoid all heavy traffic if possible!
+Setting navigation to 383 University Ave, 3 miles away, now.
+================
+what time do the lab results come in
+================
+I need a place to eat in the south that serves italian food.
+Pizza hut cherry hinton, and frankie and bennys are both in the south part of town serving italian food.
+I would like Pizza hut cherry hinton. What is the postcode?
+The postcode for that restaurant is cb17dy. Did you need anything else?
+================
+car is it going to snow today
+What location are you asking about?
+I am in Mountain View
+It will not snow today in Mountain View.

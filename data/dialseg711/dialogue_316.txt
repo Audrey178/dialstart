@@ -1,0 +1,42 @@
+Hi! Could you find me a train to Stevenage on Thursday?
+There are 10 trains meeting your preferences. Would you like me to book one of these for you?
+Would you be able to get me to Stevenage by 18:45?
+Where would you be leaving from?
+I'll be leaving from cambridge.
+TR4765 will arrive in stevenage by 18:10 on Thursday, do you want to book a ticket?
+I would like to book 7 tickets please. I will also need the reference number. Thanks
+Sure, your reference number is : UIJ42C5L. Is there anything else I can do for you?
+No, that is all I need. Thank you so much for your help. Have a nice day.
+Thank you for using our service. Are you certain you don't need any further assistance?
+================
+Can you locate me a hotel on the east side with free parking. Please provide me with the reference number.
+We have listings for 5 hotels and 1 guesthouse on the east side with free parking. Do you have a price range in mind so we can narrow it down?
+I would like one with four star. I don't care about the price.
+I have 5 guesthouses that meet that star requirement. The Allenbell, Autumn House, and Leverton House are all cheap. Carolina B&B and Warkworth House are moderate. Do you have a preference?
+Let's try the Allenbell. Could you make a reservation for 1 person, for 5 nights starting Wednesday?
+No problem. Your reference number is GWQNWQXD. Anything else?
+================
+Hello there. I am trying to locate a train for Monday.
+Sure. Where will you be going?
+I am going to Cambridge.
+All right, and where would you like to depart from?
+I'll will be leaving from London Liverpool Street.
+I've got 10 trains that are on that route. Do you have a preferred departure or arrival time?
+I need on that will leave London after 21:00.
+I have two trains that will leave after 21:00. One leaves at 21:39 and one leaves at 23:39. Which would you prefer?
+What time does the one that leaves at 21:39 arrive in Cambridge? Also, what is the train ID?
+The train ID is TR5906 and it arrives by 23:07 in Cambridge. Would you like me to book that one for you?
+No I don't need to book it right now. Thanks for the information.
+You're very welcome. Is there anything else I can help you with today?
+================
+I'd like a taxi to take me to the missing sock and need to be there by 14:15
+Ok. What is your departure site?
+I'll be leaving from a and b guest house please.
+I have booked you a yellow audi, the contact number is 07771726102. Will there be anything else?
+================
+Hi! Are there any guesthouses in town that have free parking?
+Yes, indeed. We have more than 20. Do you have any additional preferences?
+I would like something cheap and a 4-star rated guesthouse would be better.
+How about the alexander bed and breakfast? It's got a 4 star rating and is cheap.
+Can you make me a booking for 6 of us starting on sunday for 5 nights?
+Yes. I made a reservation for you at the Alexander for 6 people, 5 nights, starting Sunday. The reference number is Y7X3UYY5. Can I help you with anything else?

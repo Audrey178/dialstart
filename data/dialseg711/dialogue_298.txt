@@ -1,0 +1,27 @@
+give me directions to the local coffee shop
+I see one nearby coffee shop which is Cafe Venetia located at 269 Alger Dr it is 4 miles away and there is no traffic.
+Would you give me route details please?
+Providing directions to 269 Alger Dr now.
+================
+I am looking for the Addenbrookes Hospital, can you please help me?
+Addenbrookes Hospital is located at Hills Rd, Cambridge, CB20QQ and their phone number is 01223245151.
+================
+Are there any hotels where the wifi doesn't cost extra?
+Yes of course we can arrange a hostel that does not charge for wifi as extra. Do you have a brand in mind?
+no, it just needs to include parking and wifi
+which offers wifi for free?
+I would appreciate it if you could tell me which hotel includes free wifi and free parking. Thanks.
+Actually there are 29 options to choose from, sir. What price range are you looking for?
+any price range. be a hotel, has free parkin. get me the address too
+How about the Ashley hotel. The address is 74 chesterton road.
+that would be great. What's the area?
+The Ashley Hotel is in the north. Would you like me to book accommodation for you?
+================
+Hello, I'd like to book a taxi from Restaurant Two Two to the Museum of Classical Archaeology.
+Sure, I can help with that. When would you like to leave or arrive?
+I need to be picked up by 11:00.
+Alright. Your taxi will pick you up at the restaurant at 11:00. It will be a yellow skoda. The contact number is 07543428756.
+Thank you, that's all.
+Thank you for using our service. Have all of your needs been met?
+================
+remind me to get a shot

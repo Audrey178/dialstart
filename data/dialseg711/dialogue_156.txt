@@ -1,0 +1,28 @@
+Are there any trains leaving from Cambridge on Thursday?
+Yes there are. What is your destination?
+I'm heading to Broxbourne.
+We have trains leaving hourly from Cambridge to Broxbourne, starting at 5:01 for 17.90 pounds. What time would you like to leave?
+I am looking for one that will arrive by 15:00
+TR2125 leaves at 09:01 and arrives at 10:01. Would you like me to book that for you?
+Yes, I would also like the reference number for the booking please.
+Okay, how many tickets would you like?
+I need that for 6 people.
+You have 6 tickets on TR125 leaving Thursday at 9:01. Reference number is PPP9YI7K. 107.4 GBP will be payable at the station. Can I help you further?
+================
+I need to find the nearest police station.
+Parkside Police Station in Parkside, Cambridge, postcode: CB11JG, telephone number 01223358966. Can I help you with anything else?
+================
+Yes, I need a taxi to take me to the Addenbrookes Hospital.
+I don't think you want a taxi, but here's the address: Hills Rd, Cambridge.
+Yes, thank you for your help.
+enjoyed your services. keep that up
+================
+how hot is it going to be this week
+Which location did you want temperature information for?
+durham please
+The high for this week is 80F in durham
+================
+search hotels near me
+The Comfort Inn is the only rest stop nearby. It is 6 miles away and there is a car collision nearby
+Find an alternate route please.
+Setting navigation to 753 University Ave now.

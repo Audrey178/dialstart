@@ -1,0 +1,23 @@
+I need a cheap restaurant please.
+Sure, I can help you with that. Do you prefer a specific area in town? Or maybe you'd like a certain kind of food?
+Yes, portuguese food would be nice.
+Nandos has restaurants in the south and the centre of town. Would you like to book either of those?
+Yes I would like to book Nandos in the south for 1 person at 15:30 on Monday.
+I'm sorry, there are no tables available for Monday at 15:30. Would you like to try for a different day or time?
+Can you see if they have an opening at 14:30 instead?
+I made you a reservation at Nando's south, at 14:30 on Monday. The reference number is HB047XSI. They'll hold the table for 15 minutes. Do you need anything else?
+================
+I need a taxi going to dojo noodle bar.
+Ok, what is your departure site?
+I will be departing from ashley hotel.
+What time would you like to leave?
+I want to leave the hotel after 7:00, please.
+Alright. I have a black tesla for you and the contact number is 07403696873. Is there anything else you need today?
+================
+I have just been robbed and i am seeking assistance
+I am sorry to hear that. You can contact the police at 01223358966. The address is Parkside, Cambridge CB11JG. Can I help you futher?
+================
+is it going to be raining this weekend
+What city should I check for rain this weekend in?
+Los Angeles, thank you!
+In Los Angeles it will be cloudy on Saturday and it might snow on Sunday, no rain

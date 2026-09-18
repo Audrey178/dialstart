@@ -1,0 +1,28 @@
+Find me a local hotel in my area.
+Hotel Keen and The Clement Hotel are near.
+Which has less traffic?
+There is moderate traffic on the way to Hotel Keen and heavy traffic to The Clement Hotel. Should we go to Hotel Keen?
+================
+Can you find information about nightclubs?
+Yes, would you like to find a nightclub in the centre or south part of town? Most of them are in the centre.
+Location doesn't really matter. Is there an entrance fee?
+Yes, all of the listed entrance fees are 5 pounds. The Club Salsa is nice.
+Club Salsa sounds right up my alley. Can I get the address and phone number please?
+Club Salsa's address is 1 Station road and their phone number is 07782218745.
+Okay, great! Thanks for your help!
+You're welcome. Can I help you with anything else?
+================
+What will the highest temperature be in Menlo Park on Tuesday?
+60F is the highest temperature in menlo park on tuesday
+================
+Set a reminder to take medicine at 10am on the 11th with my brother
+Okay, setting a reminder to take medicine with your brother on the 11th at 10 am.
+================
+Where is the closest hospital?
+Stanford Childrens Health is 5 miles away.
+What is the address?
+899 Ames Ct, we're 5 miles away, I sent the info on your screen. Anything else?!
+Let's go there through the fastest way and with least traffic too, please
+Displaying the route now. There is moderate traffic on the way there.
+Thank you
+You are welcome!

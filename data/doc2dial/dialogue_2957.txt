@@ -1,0 +1,17 @@
+How do you come up with the amount of financial aid I will get?
+The schools you list on your Free Application for Federal Student Aid form will use several pieces of information to calculate your aid.
+================
+is it the same for determining how much non-need financial aid we will receive?
+The school will use a formula to determine how much non-need based aid you can get.
+Would you like an example on how the aid is determined?
+yes
+Okay, lets say your COA is $16,000 and you’ve been awarded a total of $4,000 in need-based aid and private scholarships, you can get up to $12,000 in non-need-based aid.
+================
+how does the need based aid work if my cost is the same as your example?
+If your COA is $16,000 and your EFC is 12000, your financial need is $4,000, so you aren’t eligible for more than $4,000 in need-based aid.
+================
+how is my non need financial aid determined?
+The school takes your cost of attendance and subtracts any financial aid you have already been awarded
+================
+how is the EFC used/
+The EFC is an index number that college financial aid staff use to determine how much financial aid you would receive if you were to attend their school. The information you report on your FAFSA form is used to calculate your EFC.

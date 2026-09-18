@@ -1,0 +1,30 @@
+Quick, find a hospital for me!
+The local hospital is Addenbrookes Hospital their telephone number is 01223245151.
+What is the postcode
+Post code is CB20QQ.
+Is there valet parking at the hospital?
+I'm sorry, that information is not available. Is there anything else I can help you with?
+================
+I'm .looking for a train departing from stevenage.
+I'd love to help! where's your destination?
+I need to go to Cambridge on Friday.
+I have 10 different trains that day from Stevenage to Cambridge. What time would you like to leave?
+I want to leave sometime after 13:30.
+Ok, I have TR7785 that leaves Friday at 13:54. Would you like me to book it?
+Yes, please, for 3 people.
+Booking was successful, the total fee is 38.4 GBP payable at the station. Reference number is : JPLBE5HV.
+================
+does the forecast call for snow today
+There is no snow in the forecast today.
+================
+I am in need of a taxi to the cambridge punter please
+I'd be happy to help, where will you be leaving from?
+I will be leaving from Magdalene college.
+What time do you want to leave or arrive by?
+I want to leave after 16:45.
+Booking completed! Booked car type : yellow lexus Contact number : 07556697926
+Great, thanks for your help.
+You're welcome! Is there anything else I can help you with?
+================
+Hi, can you tell me the details of local hospitals? I'm looking for a hospital that has the Cambridge eye unit department.
+The phone number is 01223257168.

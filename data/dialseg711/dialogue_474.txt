@@ -1,0 +1,42 @@
+will it rain this week
+What city can I give you the rain forecast for?
+Los Angeles, please
+In Los Angeles is gonna rain on Sunday
+================
+Hi, I'm looking for restaurants in the area that serve British cuisine. Could you give me some suggestions?
+There are many Indian restaurants in the city. Could you tell me in what area you would like to eat?
+Is there something available in the west?
+Yes, there are 3. Would you like something in the moderate or expensive price range?
+I don't care about the price range. However, I need to confirm that the restaurant serves British food and is in the centre of town.
+The Restaurant One Seven meets your specifications of british food in the centre of town. Would you like me to book that for you?
+Yes. For 6 people at 19:30 on friday, please. I'll need the reference number.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : 59JRJR4E.
+Great thanks so much!
+Is there anything else I can help you with?
+================
+I need to book a taxi to pembroke college from prezzo.
+When would you like to leave?
+I would like to get there by 13:00.
+Ok, what time would you like to leave?
+I want to get there by 13:00.
+I've booked for you a white Volkswagen, the contact number is 07750608995.
+Ok, that's all I need. Thanks!
+Is there anything else I can help you with?
+================
+i'm looking for some takeout chinese food
+You can pick between Tai Pan and Jing Jing, both 4 miles away, or P.F. Changs, 6 miles away
+I'd like to try Jing Jing, let's go through an alternate route and in the quickest way
+Jing Jing has a route to 113 Arbol Drive with moderate traffic but we should still get there quickly. Is that going to work?
+Is that the quickest way?
+Yes, it is the quickest way to reach, I've set the GPS and you could follow the route on your screen
+================
+Are there any 4-star hotels which are moderately priced?
+We have 11 guest houses which are moderately priced, but no hotels.
+A guesthouse is fine. I'm looking for a place in the north with free parking.
+Acorn guest house is available if that works for you.
+That's good. Can you book it for 3 people?
+For how many days and starting what day?
+Starting Friday for 4 nights. There will be 3 guests.
+I'm not able to book for those nights. Would you want to try a shorter stay?
+Yes, that would be fine. Is there a room available for one night?
+I was able to get you 1 night at the Acorn Ref# E45FQB5O. Can I help you with anything else today?

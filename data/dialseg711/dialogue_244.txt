@@ -1,0 +1,23 @@
+i am looking for a train that leaves on thursday and arrives by 09:15
+Where are you departing from, please?
+I am leaving from Cambridge where I am now.
+What is your destination?
+I'm going to london liverpool street.
+Booking was successful, the total fee is 23.6 GBP payable at the station . Reference number is : XFCGPXHA.
+================
+find me a hotel nearby
+There are 2 hotels nearby. The Clement Hotel and Four Seasons
+Tell me the one that I can get to the quickest
+You will be able to get to Four Seasons the quickest. It is located at 465 Arcadia Pl and is 6 miles away
+================
+I'd like to dine for expensive british cuisine.
+Of course, let me help you with that. In which area of town would you like to eat?
+Any area is fine. Can I have the postcode for your favorite one?
+Sure! I recommend travellers rest. Their postcode is cb30df. Is there anything else I can help you with?
+================
+Could you help me find a museum to visit?
+We have 23 museums in Cambridge. Do you have a particular part of the city you'd like to go?
+I don't have a preference. Can you recommend me one?
+Sure. I really enjoy Castle Galleries. It's conveniently located in the town centre and has free admission.
+That sounds good. What is the phone number there?
+The number there is 01223307402. Anything else?

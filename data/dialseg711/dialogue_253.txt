@@ -1,0 +1,32 @@
+Is it currently windy in fresno?
+It is currently cloudy in Fresno - I do not have wind data.
+================
+I am looking for a place to stay. The hotel should be in the type of guesthouse and should include free parking
+There are a number of guesthouses in the area with free parking. Do you have a preference for price range or area that you want to stay?
+The hotel should have a star of 3 and should be in the south.
+How about Bridge Guest House?
+Sure, please book it for 8 people for 3 nights starting on monday
+Booking was not successful. Perhaps another day or shorter stay?
+advice me on another booking duration
+Could you choose a different check in day perhaps, or a shorter stay?
+Are you sure that didn't work? 8 people and 3 nights starting from monday?
+Sorry, there must have been a glitch in the system. You are booked at bridge guest house starting Monday for 3 days, 8 guests. Reference # is 7CKEPRO5
+================
+directions to the nearest takeout chinese restaurant
+We are 1 miles away from tai pan: does it sound good to you?
+================
+Can you find me a hotel in the northern area that isn't to cheap or expensive?
+I have the ashley hotel and lovell lodge. Which one would you like?
+The Ashley Hotel sounds good. Does it have free parking?
+Ashley hotel does have free parking
+Thanks. Coulc you book a room for me, just one person. It will be three nights starting Sunday.
+Booking was successful. Reference number is : LCFYMN3F
+Great, thank you for all your help.
+Is there anything else I can help you with?
+================
+what's the weekly forecast
+What city would you like to know the weekly forecast for?
+Is it going to be dry in San Jose this week?
+It will be dry in San Jose on Tuesday.
+Is Tuesday the only day it will be dry?
+Yes, it will only be dry on Tuesday in San Jose.

@@ -1,0 +1,36 @@
+i need help i have robbed
+Please contact the Parkside, Cambridge police station,
+What's the phone number, address, and post code?
+The telephone number is 01223358966, address Parkside, Cambridge with postcode CB11JG
+================
+am looking for a train. The train should leave on monday and should depart from cambridge.
+There are many trains available. Do you have a specific day or time in mind?
+I would like to travel on Monday after 12:00.
+What is your destination?
+I want to go to leicester.
+The next train after 12:00 leaves at 12:21. Would you like to purchase tickets for that train or is there anything else I can help you with?
+I'd just like the travel time and train ID for that one please.
+12:21 and time is 105 minutes. May I hemp with anything else ?
+Yes, can you please tell me the train ID that departs at 12:21?
+My apologies, the ID is TR4096 and the duration is 105 minutes. Is there anything else that I can help you with?
+================
+I need a place to stay that has free wifi.
+What type of lodging would you prefer? And do you care about price or area?
+I would like to stay in a guesthouse.
+What area would you like to stay in?
+I don't have a preference.
+Do you have a preference on price range?
+I would like someplace expensive.
+I'm not finding anything meeting that criteria. Would you like to try a moderately priced guesthouse?
+What about an expensive hotel?
+The gonville hotel is expensive with free wifi. Shall I book it for you?
+What is their postcode?
+The postcode for Gonville Hotel is cb11ly. What else can I help you with today?
+================
+I need a taxi that leaves from funky fun house and arrives by 06:15
+Certainly. What is your destination?
+My destination is Curry Garden.
+ok it is a white audi and the contact number is 07088332164
+================
+Will it drizzle in Los Angeles today?
+It will not drizzle in Los Angeles today.

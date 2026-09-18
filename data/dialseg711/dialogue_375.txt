@@ -1,0 +1,14 @@
+I have been hurt in an accident, can you provide the nearest hospital?
+The nearest hospital is Addenbrookes Hosipital. Would you like the address and phone number?
+I need the postcode, thanks.
+The post code is CB20QQ, Hilld RD Cambridge phone number 012232455151
+================
+show me traffic for going home
+There is no traffic listed going to 10 Ames Street.
+Then pick the fastest route and set the GPS to go there, thank you!
+Setting navigation now.
+================
+search for nearest fast food restaurants
+The best option for fast food nearby is Pizza My Heart with moderate traffic to the location at 528 Anton Ct.
+Thank you car, set the GPS to go there please!
+GPS route is set to Pizza My Heart, 8 miles away with moderate traffic.

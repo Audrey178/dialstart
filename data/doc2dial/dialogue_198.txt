@@ -1,0 +1,19 @@
+Hi, I need help with a retirement benefits planner.
+================
+Are you aware of the Government Pension Offset?
+No, I don't know anything about the Government Pension Offset.
+================
+Do you need information on how to calculate your benefits if you are affected by the Government Pension Offset?
+No, I don't think so.
+================
+Would you like information about if you will be eligible for the spouse's benefits?
+Yes that would be helpful to know about.
+Do you need to find the estimated amount of retirement benefit that your spouse would be eligible to receive at full retirement age?
+No, I already know the estimated amount.
+Ok, great. Now do you know that you have to divide this amount in half and round down to the nearest dollar?
+Oh! Well I didn't know that, so that is really good to know.
+================
+Also, to get your estimate you will need the estimated monthly amount of your Social Security benefit as a spouse before the effect of the Government Pension Offset.
+================
+Now, lets say that I retire before my full retirement age, how will my benefit amount respond and was the reduction based on?
+Your benefit amount as a spouse will be reduced and the reduction will be based on your date of birth.

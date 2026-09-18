@@ -1,0 +1,42 @@
+I am looking in town for a hospital with a paediatric clinic
+Addenbrookes Hosptial on Hills Rd. in Cambridge has a paediatric clinic.
+================
+I would like to find a hotel that has 4 stars and included free parking
+I have 3 hotels that meet your criteria, 2 are in the west and one is in the centre. Do you have a preference?
+The hotel should have a star of 4 and should include free parking.
+University Arms hotel has 4 starts and free parking. Would you like me to book it for you?
+yes, please. 8 people for 2 nights starting on saturday.
+Booking was successful. Reference number is : 1VQQLH6R
+================
+i am looking for a train from london kings cross and leaves on wednesday
+There are 10 train departures that may match your needs. The earliest train departs at 5:17. Does this work for you or would you like a different time in particular?
+I am looking to book a train that arrives by 13:30. Are there any that fit that description?
+Yes, TR2417 arrives at 12:08. Would you like me to book it?
+No, I just need to know how much it is.
+TR2417 is 23.60 pounds, would you like to book a seat?
+Sounds great. Is TR2417 the train ID?
+Yes it is.
+I will also need the departure time please.
+TR2417 departs at 11:17. Do you need any further assistance?
+================
+how many hotels are around here
+There is just The Westin, it's 4 miles away
+How is the traffic?
+There is a car collision nearby, it might cost us lot of wait
+Okay, where is the Westin?
+The Westin is at 329 El Camino Rea 4 miles away with a car collision is nearby,
+Is there a quick route to reach it?
+I sent the best possible route on your screen, please drive carefully
+================
+I really hope you can help. I need a place to stay in the south with free wifi. Do you have any recommendations.
+There are four options available, do you have a preference for the price range?
+No, but I do need a place with free parking.
+We have ones with free parking in the south in the cheap, moderate and expensive range. Do you have a preference for hotel or guesthouse?
+I don't have a preference for the price range or the type of lodging. Could you recommend one of them to me?
+How about the bridge guest house? It is moderately priced and has both internet and parking?
+I think that is good
+Would you like me to book a room for you?
+No, I just need an address and postcode. Is it a guesthouse or hotel?
+Its a guesthouse and its located at 151 hills road. The postcode there is cb28rj. Would you like me to book a room there for you?
+No that won't be necessary, thank you.
+Was there anything else I could help you with today?

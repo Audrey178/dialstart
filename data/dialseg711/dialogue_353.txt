@@ -1,0 +1,30 @@
+Car I need a parking garage in the shortest distance, please help me!
+Stanford Oval Parking is 1 mile away.
+What is the address?
+The address to Stanford Oval Parking is 610 Amarillo Ave.
+================
+I am looking for a train.
+Alright, where will you be leaving from, or where are you heading?
+The train should go to cambridge and should depart from stansted airport.
+Alright, I have many options for you depending on the day of the week or times you wish to travel. Do you have a preference?
+leaves at 1900hrs, arrives on sunday and booked fir one person.get me the reference number too
+Booking was successful, the total fee is 10.1 GBP payable at the station . Reference number is : 70MPLUW8.
+================
+I am looking for an Italian restaurant in the west part of town
+Okay I have found 2 restaurants. One is in the moderate price range and one is in the cheap price range.
+I want the cheap one please
+La Margherita fits the bill. Great place. Can I make a reservation for you?
+Yes, Please. I'd like it for 3 people at 6:45pm on Saturday.
+That booking was successful. Your reference number is 3LWL9XAA.
+================
+I would like to catch a train leaving Cambridge on Sunday.
+Where would you like to travel to ?
+I need to get to Leicester on Sunday.
+There are 19 trains do you have a time you'd like to travel?
+I want to leave after 10:15
+I have one leaving Cambridge at 10:21 and arriving in Leicester at 12:06. Would you like to book tickets?
+================
+I would like to eat in the Center of town at a expensive place.
+For Town Centre, there are African, Asian Oriental, and British options. Which of these would you prefer?
+How about African? I'd like to book a table for 7 at 16:15 on Tuesday.
+I have booked a table at bedouin African restaurant for 7 people at 16:15 tuesday. Your reference number is VAZCWIS6. May I help with anything else?

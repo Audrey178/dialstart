@@ -1,0 +1,26 @@
+I need to find a nearby hospital. Quickly, please.
+The address is Hills Rd, Cambridge, post code CB20QQ, Addenbrooke hospital.
+What is the phone number?
+The phone number is 01223245151.
+================
+i'd like to know where i can get some chinese takeout
+There is a Chinese restaurant 5 miles away named Chef Chu's, would you like the address?
+Yes please and make sure that I get the quickest route.
+The address is 593 Arrowhead Way, there is heavy traffic now but I've set an alternative road to get there a little quicker
+================
+what's the weather forecast for the next week
+What city do you want the weather for?
+Chicago
+In Chicago, it will be 90-100F for most of the week, the only exceptions are Monday and Saturday. It should be 30-40F on Monday and 60-70F on Saturday.
+================
+I need to get a taxi from Funky Funhouse.
+Where will you be headed to?
+I need to go to nusha and I would like to arrive by 04:30
+its booked! it is a blue tesla and the contact number is 07906334474
+================
+I need to find a hospital in town please.
+Certainly, Addenbrookes Hospital's telephone number is 01223245151. Is there anything I can do to help?
+What is the address?
+Addenbrookes Hospital is located at Hills Rd, Cambridge, Postcode :CB20QQ. Do you need any other information?
+Please give me the phone number.
+The phone number is 01223245151. Is there anything else I can do for you?

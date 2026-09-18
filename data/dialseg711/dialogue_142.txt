@@ -1,0 +1,38 @@
+Can you help me book a train? I would like to leave after 10:15 on Saturday.
+I can help with that! What are your departure and arrival stations?
+I'm coming into Stansted Airport and i want to go to Cambridge. Is there a train for that?
+TR6310 leaves Cambridge at 10:24 QM on Saturday. It costs 8.08 Pounds. Would you like me to book that for you?
+No, thank you.
+Is there anything else that I can assist with?
+How long is the ride?
+The ride is 28 minutes. Would you like me to book a ticket?
+No but can you tell me how much the ticket costs?
+The travel time of the journey is going to be 28 minutes.
+Great and what will be the cost of each ticket?
+The cost per ticket is 8.08 pounds. Would you like more information?
+================
+what time is the group meeting
+the meeting is at 3pm on friday
+================
+I need to find a hospital with an emergency department.
+I've got Addenbrookes Hospital at Hills Rd, Cambridge. Would you like the number?
+Yes, please. May I also have the postcode?
+The post code is CB20QQ, anything else you need?
+No, that's all. Thanks for your help!
+The phone number for the emergency department is 01223217118 if you needed that too. Have a good day.
+Can I have their address?
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Do you need any more information?
+Yes could I have their postcode as well?
+Certainly the postcode is CB20QQ. What else can I do for you today?
+================
+Hi, Have you heard of the J Restaurant? I'd like some information about it.
+It's a cheap Asian Oriental restaurant located in the centre area of town. Would you like to book a table?
+No thanks. That's all I needed to know.
+Sure. Is there anything else I can do for you before we go?
+================
+I have been hurt, I need to find a hospital nearby, and I need one with an infusion department.
+Addenbrookes Hospital has infusion services. They can be reached at 01223245151.
+Please call an ambulance.
+I am unable to do that. I can phone the police, call you a cab, or book you an appointment at the hospital. How can I help you?
+Don't worry about it.
+Are you sure you don't want any more assistance?

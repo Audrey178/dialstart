@@ -1,0 +1,40 @@
+Do you have any information on the Addenbrookes Hospital?
+Yes, the hospital is located on Hills Rd, Cambridge. Would you like the phone number?
+Yes I need to know if they have a gastroenterology department.
+The main hpospital number is 0122324515. The number for their gastroenterology department is 01223274284.
+Thanks, what is the postcode?
+The postcode is CB20QQ. Do you need any further assistance?
+================
+Hello. Could you help me locate a good moderate restaurant in the south of the city?
+There are 2 options. Pizza hut cherry hinton serves Italian food and Restaurant alimentum serves modern European food.
+Do you have anyplace that serves Chinese food?
+I'm sorry, there are no Chinese restaurants located in the south that is moderately priced.
+OK I will go with Italian food and pick the Pizza hut cherry hinton. Thank you for your help.
+Would you like me to book that for you?
+Yes, please book a table for 4 people at 19:00 on Sunday. Thank you.
+Booking was unfortunately unsuccessful. Can we try another day or a differen't time slot?
+How about 18:00?
+Good news! Your reservation has been booked for Sunday at 18:00 for 4 people. The reference number is YJ0B5W19. Is there anything else I can help you with?
+================
+I'd like for a taxi to take me to gonville hotel today
+And where will you be leaving from?
+I'll be departing from j restaurant.
+What time would you like to depart at?
+I'd like to leave after 21:15.
+Booking completed! Booked car type : white honda Contact number : 07694199231
+================
+find a tea shop
+There is a Starbucks 3 miles away.
+Give me the address.
+The address is 792 Bedoin Street, it's 3 miles away and there is heavy traffic on our way
+================
+Hi! I would like to find a hotel to stay in. I don't care about the parking.
+I'll be glad to help. What area of town are you looking for?
+The area is not too important, honestly. But I would like it to be a hotel and have a 4-star rating.
+Does price matter, because I can find you a cheap one or an expensive one?
+Cheap one, please.
+The cambridge belfry meets your criteria! Would you like me to book that for you?
+Yes, please! Book it for 7 people and 3 nights starting from wednesday.
+Booked! Your reference number is 2CAJEN22.
+Great! Thanks!
+You are most welcome. Is there anything else I can help with?

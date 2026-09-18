@@ -1,0 +1,24 @@
+what day is my next tennis match
+The next tennis activity is Thursday at 10 am.
+================
+how hot is it going to be this week
+What city would you like weather information for?
+I need to know if it is going to be hot in Exeter this week.
+This week in exeter the temperatures do not show that it will be hot. The warmest day of the week will be Sunday with highs in the 80F
+================
+I need more information about Nusha.
+Nusha is entertainment in the south and their address is unit g6, cambridge leisure park, clifton road. Can I help you with anything else?
+Can I get the postcode?
+Yes, the postcode is cb17dy. Can I help you with anything else today?
+Thanks, I know that Nusha is the south, but I need the name of the area.
+Sure, the area is just known as the south of town, but the address is unit g6, cambridge leisure park, clifton road and the postcode is cb17dy. Does that help?
+================
+what is the temperature for the next 7 days weather forecast
+What city are you wanting the temperature for?
+================
+I want to visit the museum of archaelogy and anthropology and need a taxi to take me
+Sure! when would you like to arrive?
+I need to arrive by 04:45.
+Okay. Where are you departing from, please?
+I am departing from The Missing Sock.
+You are booked for a yellow Honda with the contact number 07575380490. Is there anything else?

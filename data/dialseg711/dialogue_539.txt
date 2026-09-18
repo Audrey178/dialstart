@@ -1,0 +1,30 @@
+What date is my yoga activity and who is attending?
+I have two driver, one on Tuesday with Alex, and one on the 16th with Marie, which one?
+================
+give me directions to the local coffee shop
+Thre is Coupa at 394 Van Ness Ave. It's 6 miles away but there is no traffic on the route
+================
+I'm looking for a guesthouse to stay in on the east side. You know of any?
+There are 6 guesthouses all with 4 star ratings that fit your request. Would you like to add any other specifications?
+The guesthouse should be expensive.
+I do not have any guest houses in the east that are expensive. Do you want to change areas or maybe modify the price range?
+Okay, I guess I could go for something different. Do you have anything on the cheap side?
+I have 3 guesthouses in the east. All are 4-star rated and all of them have free wifi and parking. They are the Allenbell, Autumn House and Leverton House.
+I actually want something in the expensive price range, sorry.
+I apologize. There are not any expensive guesthouses in the east area. There is a hotel that is expensive, or we could try a different area.
+I'm sorry for changing my mind again but cheap is fine. You had mentioned Autumn House. What is their address, please.
+The phone number is 01223575122. Would you like me to book that for you?
+First I need the address please. Also, can you tell me if they have free parking and wifi?
+Yes they have internet and parking at Autumn House. They are located at 710 Newmarket Road, CB58RS. Can I help you with anything else?
+================
+find the nearest restaurant with chinese take-out
+These nearest restaurant is PF Changs, located 7 miles away with no traffic. Would you like directions there?
+Yes please.
+P.F. Changs is located at 669 El Camino Real.
+Ok, plot a route there using the quickest route and avoiding heavy traffic.
+I sent the directions on your screen, enjoy your trip!
+================
+what is the weather like for tomorrow night
+Where would you like to hear the weather report from?
+brentwood
+Tomorrow is gonna be humid in Brentwood

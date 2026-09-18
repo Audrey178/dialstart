@@ -1,0 +1,19 @@
+Look at today and tomorrow and tell me if there will be any snow in san francisco
+It will not snow in the next 2 days in San Francisco.
+================
+What date is my football activity and who is attending?
+You have two football activities scheduled. One on the 17th with Jeff and one on the 18th with Tom.
+================
+what the nearest gas station by me?
+The nearest gas station is Chevron at 783 Arcadia Pl
+OK, please direct me there via the quickest route.
+Setting navigation to the Chevron now.
+Should I expect any traffic?
+There is heavy traffic expected on this route. This is the only gas station I can find at this time.
+================
+I am injured and need to get to a hospital that has a pediatric clinic.
+Sorry, I couldn't find that department in the nearby hospital.
+where else could i possibly find the department
+My apologies, I actually did find it. Their phone number is 01223348313
+Thank you, could you also give me the postcode and address, please?
+The postcode for Addenbrookes Hospital is CB20QQ, and the address is Hills Rd, Cambridge. Is there any other way I can assist you?

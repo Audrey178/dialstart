@@ -1,0 +1,50 @@
+where's the nearest shopping mall
+The Midtown Shopping Center is located 1 mile away. Would you like directions there?
+Yes sounds great.
+Its address is 383 University Ave, there is heavy traffic on the route and I already sent the quickest one on your screen
+OK, please give me directions via the fastest available route.
+The current route is the fastest one available.
+================
+I'm looking for an expensive restaurant in the centre.
+I have many. Could we narrow it down a bit by the type of cuisine you may be looking for?
+I'd like to try Indian cuisine. I a table for three at 15:45 on Monday.
+I can't seem to find a table that is available at that time. Would you be interested in trying a different day or a different time slot?
+Yes, let's try for 14:45 instead.
+Booking at Curry Garden was successful. The table will be reserved for 15 minutes. Reference number is : 3HVUQFTT. Is there anything else I can help you with?
+================
+I am looking for a train leaving London Kings Cross and arriving by 14:30.
+Where are you departing from and what day would you like the train for?
+I am leaving from london kings cross and I'd like to leave on thursday.
+Sure thing. What will your destination be?
+I'm going to Cambridge
+you have plenty of trains leaving from 5:17 every second hour onwards. Do you want me to book one?
+yes please book me something around 10 for 7 people
+booking was done for 165.2 GBP, your ref number is UR40DXM4
+================
+Where in the east can I find a restaurant that serves venetian food?
+I'm sorry there are no results for a venetian restaurant in the east, would you like to try a different area?
+I prefer the east but I am open to other areas of town.
+Do you want me to look at the center of the town?
+Yes see if there are any venetian restaurants there
+No there are not. Want to try a different restaurant type?
+How about indian food?
+I have 9 restaurants in the cetre that are Indian. Do you have a price range?
+I would like expensive.
+There are five expensive indian places in the centre but i recommend panahar, would you like more info or a booking?
+I'm sorry to trouble you but is there an expensive Indian restaurant in the east? It would be more convenient.
+There are five, would you like me to book you one?
+Yes, book one of the expensive Indian places in the east please.
+Which day would you like to dine?
+I would like to go on Monday at 18:00 please.
+I would love to help! how many people?
+It will be a party of 6.
+None of the restaurants were available for that time. Would you like me to try a different time?
+Yes. Please try 17:00.
+THANKS VERY MUCH
+Thank you also. Could I receive the reference number for the reservation, please?
+I've booked you a table at pipasha restaurant. The table will be reserved for 15 minutes. Your Reference number is MIRO0QRD. Anything else I can help with?
+================
+I want to book the el shaddai hotel.
+No problem. Just give me a date, how many days, and how many people to accommodate please!
+I am looking to book it for 4 nights for 5 people starting Tuesday.
+I have made that booking for you. Your reference number is E31YXTP1.

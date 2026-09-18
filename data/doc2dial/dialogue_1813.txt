@@ -1,0 +1,16 @@
+Can a motorist know if I searched his records using the dial-in search account?
+================
+Yes, we will if asked. All the records of searches are public.
+What info would the motorist get when asking if his records were searched?
+As I mentioned before, all the search records are public records.
+================
+Are your security protocols strong enough to protect the data?
+Our security protocols are being upgraded to ensure the protection of your data.
+Would the upgrading of the security protocols affect the compatibility of my browser?
+Due to the upgrading of our security protocols, you should make sure your browser is compatible.
+================
+What kind of clients usually use the dial-in search account service?
+The most common clients are attorneys, security personnel, insurance and private investigators and process servers.
+================
+How can I verify if my browser is compatible?
+You can visit https://encryption.ny.gov/ , there you will be informed if your browser is incompatible.

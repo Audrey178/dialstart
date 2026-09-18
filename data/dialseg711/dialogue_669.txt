@@ -1,0 +1,26 @@
+navigate me to the nearest grocery store
+We're 2 miles away from Sigona Farmers Market: is it be okay to go there?
+================
+I would like to book a train for Monday departing from kings lynn and arriving at Cambridge at 14:45.
+What time would you like to leave by?
+Can you please provide me with the departure time of the train arriving by 14:45 or just before?
+The departure time is 13:11.
+What time is it scheduled to arrive?
+The departure time is 13:11. May I book some tickets or provide you with further assistance today?
+================
+give me directions to the nearest car parking area
+There is Webster Garage 2 miles away with moderate traffic on our way
+Can I have the address?
+880 Ames Ct, it's 2 miles away and there is moderate traffic on our way
+================
+I need a recommendation for some entertainment in the city.
+I'd be happy to help you. Whale of a time is in the west side of town, and funky fun house is in the east. Would you like more information?
+Do you have anything else closer to the centre of town? Or perhaps a theater?
+The cambridge arts theatre is in the centre area. Would you like more information?
+Yes please, can I have the phone number and entrance fee.
+Sure. The phone number is 01223503333, but I'm not sure of the fee.
+================
+i am looking for the Addenbrookes
+Addenbrookes Hospital is at Hills Rd, Cambridge CB20QQ.
+Can I please have the phone number for the hospital?
+The general number for Addenbrookes Hospital is 01223245151. Can I do anything else for you?

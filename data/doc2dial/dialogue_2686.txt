@@ -1,0 +1,15 @@
+I'm having trouble with your MyDMV site.
+Are you being redirected to that page from somewhere else?
+Yes.
+What do I do when it says my username is not correct?
+Yes that happens sometimes.
+Is there a way to get out of this infernal loop?
+Yes you can use this link to clear out your sign in information from our system. It should stop you from being redirected to the Welcome to MyDMV page.
+Wouldn't it be easier if I could sign in using my personal NY government account?
+As it so happens, New York State keeps your personal identity separate from your government employee identity. Therefore, you will need to create a personal account with a different username than the one you use for work.
+================
+Is there more information about this MyDMV service?
+Yes click on this MyDMV link here.
+================
+What happens if I forget my password?
+You can use the tool to have your username which might be your email address emailed to you. In this instance, you will need to enter your name and email address.

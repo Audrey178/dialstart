@@ -1,0 +1,13 @@
+What is the date of my next tennis activity and who will be attending?
+You have two tennis appointments scheduled for the same time and date; both on the 2nd at 11 am but one with father and one with Jeff. Is that a problem?
+================
+Will it be misty in Los Angeles today?
+No, today is gonna be cloudy in Los Angeles
+================
+Will the weather be warm tomorrow in Los Angeles?
+In Los Angeles on Tuesday the day will be warm with a high of 70F.
+================
+Can you help me find a hotel called Bridge Guest House?
+Certainly! The Bridge Guest House is a moderately priced accomodation in the south. Is there other information you would like to know?
+Do they have free parking?
+Yes, they do! Would you like a room?

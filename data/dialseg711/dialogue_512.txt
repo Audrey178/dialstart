@@ -1,0 +1,30 @@
+Can you help me find a college in the centre of town?
+There are a whopping 13 colleges in the centre of the city. Would you like me to suggest one for you?
+Which is the best college in the Centre and how can I contact them by phone?
+there are many options . can i recommend one for you
+Please recommend one in the centre and I would also like the phone number.
+christ's college is nice.
+That sounds great, can I please get their phone number?
+Of course, their phone number is 01223334900. Is there anything else that I can help you with today?
+================
+I need a taxi arriving by 16:45.
+Sure! Where are you coming from?
+I want to leave from nandos, city center.
+Great. And where will you be traveling to?
+I'm going to parkside police station to turn myself in.
+Ok, your contact number is 07037812928 and it will be a black volvo. Is there anything else I can help you with?
+================
+Where is the closest Chinese restaurant?
+The closest Chinese restaurant is 4 miles away.
+What is the address?
+Jing Jing's address is 113 Arbol Dr.
+================
+I need a taxi to pick me up at curry king.
+OK, and where are you headed and at what time?
+I want to go to the Lime House.
+Alright, and now I'll just need to know a time you either would like to arrive by or leave after please
+The taxi should arrive by 20:00 and please also let me know what type of car will pick me up and give me the contact number of the driver.
+A white BMW will pick you up and the contact number is 07606671583. Can I help with anything else today?
+================
+show me nearby parking
+There is a parking garage 5 miles away through moderate traffic. The Civic Center Garage is located at 270 Altaire Walk

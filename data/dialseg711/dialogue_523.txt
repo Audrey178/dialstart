@@ -1,0 +1,30 @@
+Will there be hail in Los Angeles today?
+It will be raining but not hailing in Los Angeles today.
+================
+give me directions to the nearest parking garage
+Palo Alto Garage R is the nearest at 2 miles away. You will find it at 481 Amaranta Ave
+Thank you very much car! Please bring me there through a quick route
+The quickest route has moderate traffic. Is that going to do?
+Yes sounds good.
+Navigation set. Anything else?
+================
+Am looking for the Addenbrookes Hospital
+What department of Addenbrookes Hospital? For example, they have a cardiology department.
+I just need the main phone number for the Addenbrookes Hospital please.
+The phone number for the hospital is 01223245151.
+================
+Hello, I am trying to find a hotel located in the west part of town. Any ideas?
+We have two options available. Would you prefer expensive or cheap?
+Either would be fine. I would like it to have a five star rating.
+I apologize neither is five stars. Would you like to try something else?
+Is there a 4 star hotel available in the west part of town?
+There are 2 hotels available. The Huntingdon Marriott Hotel in the expensive price range and the Cambridge Belfry in the cheap price range. Do you have a preference?
+Sure, let's go with the Cambridge Belfry. Please give me its postcode and address.
+The post code is cb236bw. The address is Back Lane, Cambourne. Do you want me to book it for you?
+================
+I am looking for a place to go in town.
+There are many places, do you have a particular destination type in mind?
+I'm looking for a theatre. Can you recommend one?
+I have four theatre's in the centre and one in the south. Do yo know which area you would like?
+Area doesn't matter. Please choose your favorite and tell me the area and postcode and address if you could
+I personally love the mumford theatre. Its in the centre at anglia ruskin enterprise, east road and the postcode is cb11pt. Will that be all today?

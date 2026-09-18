@@ -1,0 +1,34 @@
+I need a taxi today after 05:45
+Okay. Where do you want to leave from?
+I'll need to be picked up at holy trinity church, heading to byard art.
+I have you all booked. Red Tesla, 746155219.
+Great. Thank you!
+Can I help with anything else?
+================
+where's the closest place to park
+The closest parking garage is 4 miles away. Would you like the address and name of it?
+Yes please.
+The parking garage is the Webster Garage, 3 miles away at 880 Ames Ct
+================
+Yes, I am looking for information for the Kirkwood House. Can you help me?
+I would love to help! This is a guesthouse located in the north. It is moderately priced and has a four star rating. Any thing else?
+Does the Kirkwood House have free parking and wifi?
+Yes Kirkwood house has both internet and parking available, would you like help booking a room?
+I'm not sure about that... maybe I could just get their phone number from you?
+The phone number for the kirkwood house is 01223306283. May I assist you with anything else today?
+================
+Can you help me find a hospital close by for an injury I have?
+I have information for Addenbrookes Hospital at Hills Rd, Cambridge. If you have a certain department you would like to contact, I can get that number for you.
+I just need the adress and the postcode if you have it.
+The address is Hills Rd, Cambridge and Postcode is CB20QQ.
+================
+I need a tax to curry garden.
+I can definitely help with that - what time would you like to leave and/or arrive?
+I need to arrive by 19:00.
+Great. And can you tell me where you'd like to be picked up from?
+i need to leave from archway house.
+Okay, what time would you like to leave?
+I would like to leave archway house in time to arrive at curry garden by 19:00.
+Ok I have a blue volvo with contact number 07401999983.
+Thank you that's all I needed.
+You're welcome, will that be all?

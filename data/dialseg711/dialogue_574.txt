@@ -1,0 +1,34 @@
+what is the weather supposed to be like for the next week
+What city should i check the weekly weather report for?
+San Francisco, will there be a blizzard, anytime this week?
+There will not be a blizzard in San Francisco this week.
+================
+i need a taxi leaving after 11:15 going to kohinoor
+Where will you leave from?
+I will be leaving from worth house.
+Booking completed! Booked car type : blue ford Contact number : 07318036253
+================
+what's the temperature
+What location do you want the temperature for?
+I need to know the temperature for Seattle on Monday car.
+Monday;s temperature will be a low of 30F, high of 50F.
+================
+Hey I'm looking for the Addenbrookes Hopistal. Please make sure it has the medicine for the elderly department.
+I just double checked and there is a medicine for the elderly department at Addenbookes Hospital. They can be reached at 01223245151.
+What is the hospital's postcode?
+The postcode is CB20QQ.
+awesome thats all thank you!
+Is there anything else you need help with?
+================
+I need to find a guesthouse with a 3 star rating
+We have four such guesthouses. Do you have a preferred location?
+No, I don't. I want one that includes free wifi.
+Bridge Gue House, Hamilton Lodge, and Hobsons House are all available if you'd like one of those?
+Please book the Hamilton Lodge, for 6 people.
+I'd be happy to. How many nights would you like to stay? And I'll need to know the day you would like to start your stay.
+I'll be staying 2 nights starting on wednesday. Oh, and there are 6 of us.
+I'm sorry, my reservation attempt was unsuccessful. Will another day or length of stay work?
+Can you try the same parameters at another hotel?
+Of course, could you tell me the area you would like to stay in so I can narrow it for you?
+The are does not matter, just three stars and wifi at a guesthouse please.
+I've got you a reservation for 6 at Hobson's House for 2 nights. Your reference number is 4WNGILMF.

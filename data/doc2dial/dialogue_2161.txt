@@ -1,0 +1,13 @@
+Hello, I am looking into how I can add a user.
+================
+I can help you with that. Will you need an additional user ID?
+No I do not.
+Will I need the NY State Driver license?
+Yes you will.
+================
+Ok, good to know. Now, how do I remove a user?
+No problem, you can remove a user by following a list of steps. The first on is to log on to LENS.
+Was it a LENS user that left?
+No, not at all.
+Do I log onto LENS next?
+Yes, you log on next.

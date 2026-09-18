@@ -1,0 +1,28 @@
+I'm looking for a cheap place to dine, preferably in the centre of town.
+Sure, are you interested in Chinese food?
+Yes, what restaurants are there?
+There is the Charlie Chan, Rice House and Golden House. Would you like to book a table at one of these?
+Charlie Chan sounds good. Thank you!
+What day and time, and for how many people, would you like to book?
+I'd like to book 4 people at 14:15 on Friday.
+All right, I've booked that for you. Your reference number is IYQ8FY20. Can I help you with anything else?
+================
+What will be the lowest temperature in grand rapids over the next seven days?
+The lowest temperature in Grand Rapids over the next seven days will be 20F on Saturday
+================
+I'm looking for a particular restaurant. Its name is called city stop restaurant.
+City Stop is located in the north of the city, and serves European food. May I help with anything else?
+What is the postcode and their phone number?
+City stop's post code is cb41uy and they can be reached at 01223363270. Would you like a reservation?
+================
+what's the temperature going to be this week
+What city are you asking about?
+alhambra
+Temperature in Alhambra this week ranges in the mid 60, 70, and 80s
+================
+I've been injured and I need to find a hospital.
+I'm sorry about your injury. Addenbrooks Hospital is located at Hills Rd, Cambridge CB20QQ. Is there any additional information you need?
+Yes I will need the phone number also.
+01223245151 is the number. Is there anything else I can do?
+I need the address and postcode.
+Address: Hills Rd, Cambridge, Postcode: CB20QQ. Can I help with anything else today?

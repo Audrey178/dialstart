@@ -1,0 +1,28 @@
+I need a taxi to take me to yippee noodle bar by 9:45
+Absolutely, where will the taxi be picking you up from today?
+The Rajmahal please
+All right, a blue skoda will come for you. Should you need to contact them, the number is 07714291108.
+================
+Can you find me the closest hospital to me?
+The closest hospital, Stanford Express Care is 8 miles from your location
+How's the traffic?
+There is a car collision nearby.
+Can we avoid the collision?
+Yes, I can help you avoid the collision.
+Great, please give me the address and details via the quickest route.
+The address is 214 El Camino Real, I highlighted it on your map together with the quickest route
+================
+is it going to rain sometime this week
+What city are you inquiring about?
+Redwood City, please.
+It will drizzle on Wednesday and Thursday in Redwood City.
+================
+I'm hurt and I need the nearest hospital.
+The nearest hospital is Addenbrookes Hospital.
+Can I get the address and phone number?
+I'm just going to call an ambulance.
+No thank you, just give me the address, postcode, and phone number please.
+Addesbrookes Hospital is located on Hills Rd with the postcode CB20QQ. The direct phone number for the emergency department is 01223217118. Are you sure I can't book you an ambulance?
+================
+Will it be humid in San Jose next week?
+It will be humid on Tuesday and Sunday in San Jose.

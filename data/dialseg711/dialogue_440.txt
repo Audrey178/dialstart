@@ -1,0 +1,36 @@
+I need to book a taxi from warkworth house.
+I will need a little more information before I can book it. What is your destination and what time do you want to depart/arrive?
+i want to go to rosa's bed and breakfast and would like to arrive by 3
+I have booked you a taxi from Warkworth house to Rosa's Bed and Breakfast. You will arrive by 3. The taxi is a blue skoda. Contact number: 07517822602
+Thank you for your help today.
+Certainly. Is there anything else I can do for you?
+================
+I got injured and I am looking for a hospital nearby. the hospital should have the acute medical assessment unit department
+Addenbrookes Hospital has an acute medical assessment unit. The hospital is at Hills Rd, Cambridge, postcode CB20QQ.
+================
+Hello! I would like a taxi, please. I will by departing from Cambridge Arts Theatre and going to Peking Restaurant.
+I can book that for you. What time would you like to leave the theatre?
+I would like to leave after 12:15. Please let me know the car type and contact number.
+The car is a blue Honda and the contact number is 07344292445. Anything else I can help with?
+================
+Hi, I'm looking to catch a train to Norwich. Are there any that depart at or around 17:00?
+There are departures most days from Cambridge at 17:36. Would you like any more information of train times or help booking a train?
+Does that train leave on Friday?
+Yes! We have 7 trains leaving on Friday to Norwich. What time would you like to arrive by?
+No preference.
+The train closest to your preferred departure time is TR3833, going from Cambridge to Norwich at 17:36. Would you like me to book that for you?
+Sure thing, I'd like 7 tickets please.
+Booking was successful, the total fee is 123.2 GBP payable at the station. Your Reference number is : P8ID3JSB.
+Thank you!
+You're welcome. Can I help with anything else?
+================
+I am looking for the Addenbrookes Hospital, this hospital should be the one with an infectious diseases department.
+Okay, that department's number is 01223217314. Would you like any other assistance?
+Can I please have the address as well?
+Ok, the Addenbrookes Hospital is located on Hills Rd in Cambridge. The postal code is CB20QQ. Can I help you with anything else?
+Just to clarify; the hospital does have an infectious diseases department, correct?
+Yes indeed they do. The number I gave you earlier (01223217314) goes straight to Infectious Diseases. Is that everything you needed today?
+Yes, that's all I need. Thanks.
+Thank you again! Is there anything else I could help you with?
+What is the address?
+Addenbrookes Hospital is located on Hills Rd in Cambridge. The postal code is CB20QQ.

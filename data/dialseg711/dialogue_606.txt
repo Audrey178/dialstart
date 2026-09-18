@@ -1,0 +1,50 @@
+i want to find a hospital in town
+Addenbrookes Hospital is on Hills Rd, in Cambridge. Do you need anything else?
+Could I have the phone number, postcode please.
+The phone number is 01223245151. The post code is CB20QQ. Is there anything else I can do for you?
+No, that's all I need today. Thank you for your help!
+welcome. at your service next time
+================
+I'm looking for a place to stay. Are there any guesthouses that are moderately priced?
+Oh, yes. I have about 15 different options for you. Is there an area of town you prefer to stay in?
+No, I really don't care what area, but I would like it to have a 4 star rating.
+I have several 4-star guesthouses. Might I suggest the Warkworth house. It's located in the east and offers both free wifi and parking.
+That sounds perfect so long as it has free parking.
+It certainly does. Would you like to make a reservation?
+Yes. I'll need it for 4 people starting on Saturday. We'll be there for 5 nights.
+I'm sorry, the Warkworth is unavailable for your dates. Perhaps you are flexible with your dates?
+Well, is it available for at least 4 nights?
+I'm sorry, four nights isn't possible either.
+Actually, I misspoke. I need the room for 5 people, for 5 nights, starting Saturday. If that doesn't work, 4 nights is fine.
+Your reservation for 5 people has been made for a 4 day stay at Warkworth House, arriving Saturday. Your reference number is 6DF5Q5QJ. Is there anything else I can do?
+================
+what is the weather forecast for the weekend
+Which city would you like the weekend forecast for?
+I am trying to find out if it will be warm in Oakland this week
+In Oakland it will be warm on Thursday
+================
+I want to eat at a moderately priced restaurant please
+What type of food would you like?
+Belgian please, i'm craving that lately
+We need some more information. Where are looking to eat?
+I prefer to eat in the center of town, please.
+No, I did not find any restaurants in the centre.
+Hmm.. How about somewhere else in town, what is available?
+I'm sorry but I don't have any belgian places in the centre. Can I try a different area?
+Why don't we try turkish food instead
+There are two Turkish restaurants in the centre of town. They are Efe's restaurant and Anatolia.
+Either would be fine. Can you book for 1 at 20:00 on Tuesday?
+I'm sorry, it looks like they are both booked during yoir preferred time and day. Would you like to try something else?
+Yes try 19:00 and please give me the reference number.
+Booking was successful at efes restaurant. The table will be reserved for 15 minutes. Reference number is : QXZ05J29.
+Thanks so much! You've been helpful.
+Have a nice day
+================
+I am getting into birmingham new street train station and will be needing a taxi to take me to my hotel
+Sure! when would you like to arrive?
+I need to leave after 14:45
+I'd be happy to help! Where are you coming from?
+I want to be picked up from birmingham new street train station
+I can help you with that. where are you going?
+I'm heading to express by holiday inn cambridge.
+Alright I've got you a grey toyota with the contact number 07779524494. Is there anything else you need?

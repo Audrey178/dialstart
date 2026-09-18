@@ -1,0 +1,37 @@
+Hi, I'm looking for a train that leaves after 13:45 on Friday.
+No problem. Where is your departure area and destination?
+I need to go to stansted airport and will be departing from cambridge
+The closest to 13:45 is 14:40, which is the TR1316. It arrives at Stansted Airport at 15:08. Do you still want to book it?
+Yes, can you book it for 7 people and give me the reference number?
+Booked! Reference number is FQB8ZKSP. You will pay 70.7 GBP at the station.
+================
+I am looking for a place to stay in the east.
+What price range are you looking for?
+It doesn't matter as long as it has free parking. Are there any with 5 stars?
+There are several places available, however, I do not know if they have free parking, but they do have parking. Are you looking for a hotel or a guesthouse type place to stay.
+It doesn't matter to me whether it's a guesthouse or hotel, but I really want it to have free parking. Can you check on that again, please?
+I'm sorry there are no hotels that match that criteria. Would you like to try something with a different number of stars?
+Can you try a 4 star hotel instead, please?
+There are 5 guesthouse's that meet that criteria. Do you have a preference on the price range?
+I don't care about the price range. Can you book it for 4 nights? There will be 7 of us and we will be arriving on Friday.
+I was able to book a room at Carolina bed and breakfast, the reference number is 168T25C6. Is there anything else you need help with?
+================
+Hello, I have been robbed. Can you please help me get in touch with the police?
+Parkside Police Station is in Parkside, Cambridge. Their number is 01223358966. Anything else I can do for you?
+Can I please have the postcode as well?
+The postcode for the Parkside Police Station is CB11JG. Can I help you with anything else?
+Was Parkside the address of the police station? If not, can I have the address please?
+Yes, Parkside is the address.
+Thank you that will be all for now.
+Great. Thank you for contacting Cambridge Towninfo Centre.
+================
+I need to leave Cambridge on Sunday by train.
+The first train to leave Cambridge departs at 5:00, and goes to London kings cross.
+That will be fine I guess. It will arrive by 19:15, I'm sure?
+TR2045 will arrive closer to that time, it arrives at 18:58. Would you like tickets for that one instead?
+Yes, let's go ahead and book that.
+My apologies, I believe there was an error in the database lookup. TR2045 is not available but TR3353 arrives at 17:51 on Sunday. Shall we book that instead?
+Yes, please give me travel time and departure time, please.
+Certainly. The departure time is 17:00 and the travel time is 51 minutes. I have booked your ticket. The reference number is BJJ3GXMX. Can I help with anything else?
+No, that's all I need, thank you.
+Thank you for using our system!

@@ -1,0 +1,28 @@
+Where is a nearby parking garage?
+We're 6 miles away from Dish Parking
+How is the traffic?
+There is moderate traffic near Dish Parking.
+================
+I'd like to find a moderately priced hotel on the east side.
+Unfortunately, there are no hotels meeting your needs. However, there are three moderate price guesthouses in the east. Are you interested in more information?
+Sure. Do any of those have free parking?
+Yes, Carolina B&B and Warkworth House both have free parking.
+Could you give me the address and postcode of the Warkworth House please?
+Absolutely. It is in Warkworth Terrace, postcode cb11ee.
+================
+Where can I get some tea.
+I have a place called Philz that serves tea. Would you like more info?
+Yes, please! Send me the fastest route with no traffic
+The address to Philz is 583 Alester Ave. I am now setting GPS for fastest route with no traffic.
+================
+I want help booking a taxi
+Okay, what is your destination?
+I am going to the Cambridge county fair next to the city tourist museum.
+And when would you like to leave?
+I want to leave after 16:45
+And where will you be leaving from?
+Leaving from travelers rest
+Booking completed! Booked car type : white ford Contact number : 07267142867
+================
+Will it be foggy in Redwood City on Wednesday?
+It should not be foggy on wednesday in redwood city

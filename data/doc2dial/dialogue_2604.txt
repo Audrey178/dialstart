@@ -1,0 +1,12 @@
+Tell about how to remove the restriction by mail
+================
+Do you want to remove a CORRECTIVE LENS restriction?
+No, not that kind of restriction
+What if the Vision Test Report MV-619 has a print date of 9/03?
+The form is valid for 6 months after the date of the eye test
+And what if the form has a print date of 3/04 or later?
+In that case, the vision care professional marks a box on the form to indicate if the form is valid for 6 months or for 12 months after the date of the eye test
+How long is the form valid for?
+For 6 months after the date of the eye test
+Can you repeat what if the form has a print date of 3/04 or later?
+Sure. The vision care professional marks a box on the form to indicate if the form is valid for 6 months or for 12 months after the date of the eye test

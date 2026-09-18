@@ -1,0 +1,22 @@
+Schedule a meeting on Monday the 1st at 11am with the sales team to discuss the company picnic.
+A meeting on Monday the 1st at 11am has been scheduled with the sales team to discuss the company picnic.
+================
+I am looking for a particular restaurant. Its name is called prezzo
+Prezzo is an Italian restaurant in the west. Their phone number is 01799521260. Would you like me to make a reservation for you?
+Yes please, 4 people at 11:00 on Friday. Can you please provide me with the reference number?
+You booking was successful. The table will be reserved for 15 minutes. Reference number is : WYZGXOVQ.
+================
+I need to find a taxi departing from alimentum.
+I would love to help you with this! Where are you wanting to go and what time are you wanting to leave or arrive by?
+I would like to arrive by 03:15 and go to Ali Baba please.
+I was able to book a taxi for you. It is a yellow Volkswagen and the contact number is 07800170336. Do you need anything else?
+================
+what time is the doctor's appointment
+Your doctors appointment is tueday at 2pm
+================
+I'm looking for a restaurant serving barbeque in the centre of town.
+Sorry, there are no barbeque restaurants in the centre. Can I help you find something else?
+Can you find a restaurant that has asian or oriental food?
+Yippee noodle bar serves asian oriental food.
+Could you give me their postcode please?
+Yes, Yippee Noodle Bar is in postcode cb11lh. Can I be of any further assistance today?

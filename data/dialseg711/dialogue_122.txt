@@ -1,0 +1,36 @@
+I want to get a taxi and leave at 345. I need to go to saigon city.
+Ok, what is your departure site?
+I need to be picked up at all saints church, please.
+Booking is complete, a grey volvo will be picking you up.
+Could you give me the contact number for the taxi?
+Sure, the contact number is 07640034506. Is there anything else I can help you with today?
+================
+I am looking for a hotel near the mall. The hotel should has free indoor parking, even it doesn't include internet.
+Ok. There are several hotels with parking available. What specific area of town are you wanting?
+I want to be in the area with the mall. Which hotel is the closest to the mall?
+That would be in the centre of town. I have two options for you. Gonville Hotel and University Arms Hotel. Would you like more info on one of those?
+Do either of those hotels have free wifi?
+Both the Gonville and the University Arms have free wifi and free parking. Would you like to make a reservation at one of those?
+I will try booking at the Gonville for 3 people and 4 nights starting from Sunday.
+Sure, you're all set. Your reference number is H8OMGIP5. May I help with anything else?
+================
+Hi I was just robbed... Can I get some help?
+the nearest police stations number is 01223358966
+Thank you, could you also give me the postcode?
+The post code is CB11JG. Is there anything else I can help you with today?
+================
+Need a coffee place within 4 miles with the quickest route.
+Starbucks is 2 miles away.
+That's good, please pick the fastest route to go there
+Setting GPS for quickest route. Do you need any more info?
+Yes I need the address please.
+792 Bedoin Street, you can see it on your map!
+================
+I have been involved in a car accident dispute and i do not know where to go from here
+Contact the Parkside, Cambridge police station at 01223358966.
+Thank you very much I will call them now.
+Ok, do you require any further assistance?
+Can I get the address as well?
+The address to the police is Parkside, Cambridge.
+Thank you for your help.
+Before I let you go, are there any other questions that I can assist with today?

@@ -1,0 +1,34 @@
+What time and date is my lab appointment?
+You have three lab appointments scheduled. The first is on the 5th at 4pm, the next is on the 10th at 11am, and the last is on the 19th at 11am.
+================
+I am looking for a German restaurant in the west.
+There are no German restaurants available in the west. Would you like to try a different area or different food type?
+How about one that serves british food instead?
+There are three british restaurants in the west. What price range are you considering?
+I'm looking for meals under 30$ a person. I need to book for 3 at 16:15 on Wednesday.
+The restaurant Saint Johns Chop House is the only restaurant to your specifications with a moderate pricing. Would you like me to make a reservation?
+Yes please and I will need a reference number.
+Your booking is successful and your reference number is CZT3LA0M. Is there anything else I can help you with?
+No thank you. That is great.
+Thanks!
+================
+Will it be hot in Redwood City on Monday?
+There will be a high of 80F and a low of 70F in Redwood City on Monday.
+================
+I need a restaurant. Something expensive and italian.
+I was able to get a couple of options for you, is there a certain area you would like to go to?
+I would like to go to the centre, please.
+How about stazione restaurant and coffee bar?
+Okay, that sounds good. I need a table for 7 at 11:30 on Thursday.
+Booking was unfortunately unsuccessful. Let's try another day or time slot.
+Okay, will you try 10:30 instead?
+You are booked for 10:30. Your reference number is 4H1DRIF8. Is there anything else I can assist you with?
+================
+I need to book a taxi.
+I can do that for you. Where would you like to be picked up and what is your final destination?
+I have to be to whale of a time by 16:15
+I'd be happy to book that for you, where do you need picked up from?
+I would like to leave from the gallery at twelve a high street.
+Your taxi is booked. It is a yellow skoda.
+Thank you. Can I get a contact number?
+The contact number 07123859913.

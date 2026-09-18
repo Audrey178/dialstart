@@ -1,0 +1,40 @@
+what's the temperature in city
+In what city?
+Find out the temperature in inglewood on sunday
+The low temperature will be 80F and the high will be 90F on sunday in inglewood
+================
+Can you find me a guesthouse with free parking?
+I have a few guest house that offer parking, is there a certain pricerange you are looking for?
+No, anything with availability is fine. I also don't care if it has internet or not.
+How about leverton house? They are located in the east and are cheap.
+I changed my mind about the internet. Does Leverton House have free wifi?
+Leverton house has internet. Would you like help booking a room?
+No, I just really need the postcode. Is this a moderate?
+The postcode is cb58rs. Can I help you with anything else today?
+Yes. What is the price range for Leverton House?
+Leverton House is in the cheap price range. Is there any other information I can get for you?
+================
+I want to find a hospital in town
+The Addenbrookes Hospital is on Hills Road in Cambridge.
+I need the address, postal code, and phone number
+The phone number is 01223245151 and the postcode is CB20QQ.
+Do you requre furthuer assistance?
+Addenbrookes Hospital is located on Hills Rd in Cambridge. Do you need anything else?
+Does the address not have a street number?
+No, it does not.
+Thank you for your assistance
+You are quite welcome. Do you require any further assistance?
+================
+Hello, I'm in need lodging that has free wifi and zero stars.
+Great! I found three results! Two are in the centre and one in the north. Which would you prefer?
+I would prefer one that is a guesthouse.
+There are 2 options: one in the North and one in the town Centre. Which would you like?
+Can I have the pricing and address of the one in the centre of town?
+I cannot see the price but it does say it is cheap. Their address is 41 Warkworth Street. Would you like me to book it of you?
+I am not ready to book just yet. Thanks for your help.
+Certainly, is there anything else you need?
+Yes, could you tell me the name of the lodging that you mentioned, please?
+The name of the guesthouse is El Shaddai.
+================
+What is the address of the local hospital?
+Stanford Express Care is at 214 El Camino Real.

@@ -1,0 +1,36 @@
+navigate me to the nearest hotel
+There is no hotel listed that is near you.
+I need a rest stop that is quick and near me.
+The closest rest stop is The Westin.
+Could you please give me the address and set the navigation there?
+The address for the Westin is 329 El Camino Real and the GPS has been set.
+================
+I am looking for a train from Cambridge to Birmingham New Street.
+The next train leaving from Cambridge for Birmingham New Street departs Friday at 5:01, and will arrive by 7:44.
+I need a train that departs after 08:30 on Friday.
+I have a train leaving Cambridge arriving at Birmingham New Street on Friday at 9:01. Would you like me to book this for you?
+Yes please, that sounds perfect.
+And how many tickets will you need for your trip?
+Actually, I don't need booking. Please just give me the train's travel time and price.
+The travel time is 163 minutes, and the price is 75.10 pounds. How else can I help?
+================
+i want to book a taxi. The taxi should depart from la Margarita and should go to riverboat Georgina.
+What time would you like to arrive?
+I would like to arrive by 17:15.
+I have a white tesla booked. The contact number is 07032807056. Anything else today?
+================
+I am looking for a hotel with a three star rating and a cheap price
+I'm sorry, but there are no hotels that match your criteria. Would you like to change your price range or stars requirement?
+Do you have a guesthouse that meets my requirements?
+Unfortunately no. Is there another type of hotel you are interested in?
+I would like a guesthouse that meets all my previous criteria, except now I want one in the moderate price range and it doesn't need to include internet.
+I found the Alpha-Milton guest house in the north side. Would you like to book a room?
+Not yet. But I would like their telephone number.
+Their phone number is: 01223311625
+================
+I'm looking for a train out of cambridge on Saturday.
+No problem! Where do you plan to go on Saturday?
+I want to go to Kings Lynn.
+Alright, when do you want to leave and arrive?
+Arrival time is not important, but the train should leave after 14:30.
+Booking was successful, the total fee is 7.84 GBP payable at the station. Reference number is : QA65LM7A. Is there anything else I can help with?

@@ -1,0 +1,16 @@
+Hello, I have a few questions about the accuracy of the loan simulator.
+================
+Of course. Do you want to get the most realistic results then?
+No, because I'm certain none of the results are actually reliable.
+================
+I entered the wrong data. Can I start from scratch with the whole simulation?
+Yes, you can.
+================
+What is the loan simulator intended for?
+Loan Simulator is a new tool to help you make decisions about your student loans.
+================
+Does the school determine how much I need to borrow?
+Yes, and here you can see how choice of school affects how much you may need to borrow.
+================
+Can the simulator help me pick a plan for my studies?
+Yes. You can use it to find a repayment plan that meets your needs and goals or to decide whether to consolidate.

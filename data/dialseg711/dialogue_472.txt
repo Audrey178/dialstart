@@ -1,0 +1,30 @@
+I would like to book a taxi to the stevenage train station leaving gourmet burger kitchen.
+Sure. When would you like to leave the burger kitchen?
+It doesn't matter as long as I arrive by 02:15.
+Alright, I have a yellow Tesla picking you up, the contact number for the taxi is 07013106336
+================
+i was robbed and need help
+Oh dear! Parkside Police Station's phone number is 01223358966. Anything else I can do for you?
+That's great, may I have their address and postcode please?
+The address is Parkside, Cambridge. Postcode is CB11JG
+================
+Hi. I would like to book a taxi to the Chiquito Restaurant Bar. I will need to be picked up at the Ely Train Station.
+What time would you prefer?
+I need to arrive by 13:15 please.
+I have booked your taxi from ely train station to chiquito restaurant bar to arrive by 13:15. Booked car type red toyota, contact number 07582230600. May I help with anything else?
+================
+I'm looking for a place to dine. The restaurant should serve japanese food and should be in the centre.
+There is one restaurant called wagamama that fits your needs.
+I'd like somewhere expensive, is it?
+Yes it is.
+Then that will be good. I need a reservation for 4 on Friday night please.
+What time would you like to dine?
+I'd like to eat at 17:30
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : FFAIB546. Can I be of any other assistance today?
+================
+I'm are looking for a train. The train should depart from peterborough and should leave after 10:15
+What day would you like to depart?
+It will be Sunday, from peterborough to cambridge, I will need the price of the ticket as well.
+The closest match I have is the TR8509. It leaves at 10:19.
+That sounds good. What is the train fare, please?
+It costs 13.20 pounds. Do you need any other information?

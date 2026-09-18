@@ -1,0 +1,44 @@
+show me the closest location where i can get chinese food
+The closest chinese restaurant is PF Changs, located 5 miles away.
+OK, please give me an address and directions via a route that avoids all heavy traffic.
+P.F. Changs route set to 669 El Camino Real with only moderate traffic noted.
+================
+I need to book a tax departing from gandhi.
+What is your destination and when would you like to depart?
+I'm going to broxbourne train station and i need to arrive by 02:00
+I have you in a Red Lexus, 07595414661 is the number to call if you need to speak to them.
+Wonderful, thanks for your help.
+My pleasure. Do you need any other assistance while in town?
+================
+Hello, I'm looking for a train from Cambridge to Norwich.
+Certainly, there are many trains going that route. Can you specify which day you'd like to travel?
+Sorry. I want to leave on Saturday after 20:30.
+There is a train Saturday at 20:36. Does that work for you?
+Yes that works great can I book that for 5 people please?
+I have confirmed booking for 5 tickets, your reference number is CID6UHHF. The total fee is 70.4 GBP payable at the station. Can I help with anything else?
+================
+Hi! Can you give me some information on the Golden Curry restaurant?
+The golden curry is an expensive indian restaurant located in the centre of town. Is there anything else you would like to know?
+That sounds great. I would like a table for 5 people at 19:00 on tuesday.
+Unfortunately, that day/time are unavailable. Would you like me to try a different time or day?
+Okay try 18:00 instead.
+That time is available, so I've made your reservation. The reference number is OSHZUPSD. What else can I do for you?
+That's all that I needed today, thanks!
+Great. Glad I could help. Enjoy your meal.
+================
+Could you help me find a moderately priced 4 star hotel?
+Unfortunately, I don't have any hotels meeting those requirements, but I do have several guesthouses that do. Would you be interested in one of those?
+Yes, I think that would be fine. Something in the north, please.
+I have 7 guesthouses in the north that are moderately priced and 4 stars, are you looking for internet or parking?
+Not really. As long as it's in the north it's good.
+When and how long are you wanting to stay? I can see what is available.
+I need it for 4 nights starting on wednesday.
+One more question. How many people are in your party?
+Please make the reservation for 2 people.
+There are 7 guesthouses that fit your needs. May I recommend Arbury Lodge Guesthouse?
+Sure, that sounds fine. Can you book that for me?
+There is no availability at Arbury on Wednesday, unfortunately. Would you like to try a different hotel?
+Sure, choose one for me.
+Unfortunately, there is no availability at any of the 7 guesthouses for your needs. Do you want to book for another day or for a shorter stay?
+How about for 3 nights?
+That did the trick. I was able to book for 2 people for 3 nights starting Wednesday at the Acorn Guest House. Reference number is G591ZUVT.

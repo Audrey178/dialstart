@@ -1,0 +1,28 @@
+I am looking for a place to stay. The hotel should be in the west and should be in the cheap price range
+the cambridge belfry is a hotel in the west in the cheap price range. it has 4 stars and free internet and parking. will that work for you?
+no, I need a guesthouse.
+How about finches bed and breakfast?
+id apreciate if thats offered
+Finches Bed and Breakfast is a 4-star guesthouse in the west in the cheap price range with free internet and parking. Would you like to book a room?
+I'll contact them myself thank. Can you tell me their address, including postcode?
+Their address is 144 thornton road and the postcode is cb30nd
+================
+I am looking for a taxi from yu garden arriving by 14:30
+I'll need a destination to give them before I can book that for you.
+I'd be going to holy trinity church. I'll need the car type and contact number as well.
+The car that is reserved for you is a grey Toyota, and the contact number is 07997985529. Can I do anything else for you?
+================
+I'm needing a place to dine. It needs to be an expensive Brazilian place.
+Unfortunately, I don't happen to show any restaurants that meet that criteria. Would you like me to try looking for a different price range or cuisine type?
+British food, then.
+We have six. Do you have an area preference? Graffiti, on the west side, is popular.
+All right, I'll try that. I need a reservation for a party of 5 at 11:00 on Thursday.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : P15GVV9V. Is there anything else I can help you with?
+================
+is the weather cloudy right now
+What location do you want to know if it's cloudy?
+Grand rapids
+It is not cloudy in grand rapids right now
+================
+I'd like to find information for the restaurant called The Missing Sock.
+The missing sock serves cheap international food and is in the east. Would you like more information?

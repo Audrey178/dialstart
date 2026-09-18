@@ -1,0 +1,26 @@
+I'm looking for a museum in town.
+There are many great museums to choose from. Is there a specific area of town you are looking to visit?
+No specific area. Can you recommend one for me?
+The Byard Art museum located in the south area of town is very nice. Would you like information about it?
+Yes, give me the phone number please.
+Sure! The phone number is 01223464646.
+================
+Do you know of the Parkside Police Station?
+It's address is Parkside, Cambridge with Postcode CB11JG
+Thank you, what is their phone number?
+Their phone number is 01223358966. Is there anything else I can do for you?
+================
+I'd like to book a taxi, please. I need to get from the lensfield hotel to peking restaurant.
+What time do you want to be picked up at the lensfield hotel?
+================
+Can you please help me find a hospital in town?
+The closest hospital would be Addenbrookes Hospital located on Hills Road in Cambridge. Their phone number is 01223245151. Did you need a phone number for a particular department?
+No thank you, but can you also give me their postcode?
+Sure thing. Their postcode is CB20QQ. Is there anything else I can help you with?
+What is their address?
+Addenbrookes Hospital is located at Hills Rd, Cambridge CB20QQ. May I help with anything else?
+That's all I needed. Thank you!
+Glad to help. Have a good day.
+================
+Will it hail in Danville today and tomorrow?
+No It should not hail in Danville today or tomorrow

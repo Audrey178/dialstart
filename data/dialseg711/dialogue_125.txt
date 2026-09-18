@@ -1,0 +1,23 @@
+i want to find a hospital in town
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+No particular department. I just need the phone number please.
+The phone number is 01223245151. What else can I help you with?
+I need the street number, please.
+There is no street number. Anything else I can do for you?
+================
+I need to book a taxi to take me to Williams Art and Antiques. I need to leave after 24:30.
+No problem - where should I have them pick you up?
+I'll be leaving from vue cinema.
+You are booked for a blue bmw with the contact number 07889414601.
+================
+Can you set my calendar for Football activity at 1pm, the 4th, with Tom?
+Okay, setting a reminder for football activity with Tom for the 4th at 1pm.
+Thanks.
+My pleasure driver!
+================
+I was involved in a car accident and need help sorting it out.
+Where did the accident occur? Are there any injuries?
+I am not familiar with the area, but I am more concerned about the current car accident dispute.
+Have you contacted the police?
+Not yet. Can you help me with locating the postcode?
+The postcode for Parkside Police is CB11JG. Do you need further assistance?

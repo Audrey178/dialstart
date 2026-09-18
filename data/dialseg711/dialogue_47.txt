@@ -1,0 +1,25 @@
+are there clear skies in the forecast today
+What city would you like to find out if there are clear skies in?
+Brentwood, please.
+Snow is predicted in Brentwood today
+================
+confirm dentist appointment on the 12th at 4:50 pm
+I am showing your dentist appointment is on Monday at 10 am.
+Okay I need to find out the location, the agenda, and who is joining please.
+I see that there is no information for the requested items, would you like to update them now?
+Yes I would, thanks.
+I'm ready to update that whenever you are.
+It will be at Central Hospital with my sister to get a tooth pulled.
+================
+what's the weather forecast for tomorrow
+what city can i tell you the weather for?
+Boston.
+Drizzle, with a low of 40F and high of 60F is predicted in Boston tomorrow.
+================
+Can you locate the nearest police station?
+Sure, it is in Parkside, Cambridge.
+Can I have the pone number and address, please?
+The police station phone number is 01223358966 and it is located at Parkside, Cambridge.
+================
+Is it going to rain in Exeter over the next few days?
+There is no forecast of rain this week in Exeter.

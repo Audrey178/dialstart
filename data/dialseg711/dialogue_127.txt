@@ -1,0 +1,36 @@
+Can you help me find a hotel called Alpha-Milton Guest House?
+Sure. It's at 63 milton road. Would you like the phone number?
+Can you book me a reservation for four people for four nights starting Monday?
+Your reservation is all set. Your reference number is 4R3BMWNK.
+================
+Is durham stormy right now?
+Yes, it appears as if it is currently stormy in Durham.
+================
+I am looking for a place to dine. The restaurant should be expensive and should serve Chinese food.
+Would you like the restaurant in a specific place?
+Not in any specific area please. I need to book a table for 3 at 14:00 on Saturday.
+Unfortunately, it looks like all the options are booked for that day/time. Would you like me to change the time or possibly the day?
+how about 13:00 then?
+Yes, I can book you at the yu garden for 13:00.
+What is the reference number for my booking?
+Your table is reserved for 15 minutes and your reference is P3VZVZGY. Can I help you with anything else?
+================
+I'm looking for a guesthouse to stay at with free wifi please.
+We have 23 locations like that. Any area preferences?
+In the north area, please.
+That narrows it down to 10 locations. Do you have any kind of price range in mind?
+No, I don't care about price, but I do need to have free parking.
+I believe I would like Worth house.
+That`s fine. What is their address, please?
+Worth House is located at 152 Chesterton Road. Would you like to make a reservation?
+No thank you. Do they offer free parking?
+Yes, they do.
+Wonderful. I just need their postcode then please.
+Yes, it is cb41da.
+================
+I need a train that leaves on Wednesday with an arrival of 12:30.
+Where will you be travelling to and from?
+I'm traveling from Cambridge to the London Liverpool Street.
+The TR1047 leaves at 05:59 and arrives by 07:27. Is that alright?
+Yes, that sounds fine. I need 7 tickets please.
+Great. The reference number is 8BGCYRD5 and the total fee is 132.8 GBP. Can I help with anything else?

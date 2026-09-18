@@ -1,0 +1,30 @@
+Hello. Can you suggest a french restaurant in the north end?
+I have one restaurant in the North end called two two in the expensive range.
+I am interested in the one in the north. Could I have their postcode and address?
+Sure! Restaurant Two Two is located at 22 Chesterton Road Chesterton in postcode cb43ax. Will that be all for today?
+================
+make a note that at 5 pm on the 12th i have yoga
+Okay, making note of your yoga appointment at 5 pm on the 12th.
+================
+Can you tell me about a nice guest house in your city? I don't care how much it costs.
+There is the Acorn Guesthouse that is located in the north side of town. Would you like me to make a booking?
+Are they expensive? I would like something nice. And do they have free parking?
+They're a moderate guesthouse with free wifi and parking. Would you like to book a room?
+Please check for something expensive first. If you don't see one, then we can come back to that.
+It looks like all of the places in the expensive price range are hotels rather than guesthouses. Would you like to consider a different price range?
+Yeah, that's fine. Oh, and I need free parking!
+So to clarify, you need a guesthouse with free parking, and a moderate price range is acceptable? If so, I have 12 different options for you.
+Yes, that's right. Which of the 12 options would you recommend?
+How about Archway House? It's at 52 Gilbert Road cb43pe, and the phone number is 01223575314. Would that work for you?
+That's great. Please make a reservation for 1 on Monday. I'd like to stay 3 nights.
+Your booking was unsuccessful. Would you like another day or a shorter stay.
+Yes, would you try 2 nights instead, please?
+Booking was successful. Reference number is : JAKCI7JO. Is there anything else we can help you with today?
+================
+Set a reminder for the conference with the executive team at 5pm on Monday August 7th.
+Ok, conference with executive on August 7th for 5PM is set
+================
+Hi, can you help me book a taxi to go from Jinling Noodle Bar over to Tenpin?
+I'd be happy to help you, when would you like to arrive at tenpin?
+I would like the taxi to arrive in Tenpin by 21:45.
+Booking completed. Please look out for a grey BMW! Contact number is 07914917823. Is there anything else I can help with?

@@ -1,0 +1,24 @@
+Will it be cloudy in Manhattan today and tomorrow?
+The forecast does not predict it to be cloudy today or tomorrow in Manhattan
+================
+Send a taxi to the Parkside Police Station to go to Little Seoul
+Do you have a frame of time you would like to arrive or leave in?
+================
+Will it be cloudy in Los Angeles on Thursday?
+It's not gonna be cloudy in Los Angeles on Thursday, the weather forecast calls for hail
+Thank you
+You are welcome.
+Bye.
+You're welcome.
+================
+Another driver bumped into my car. He says its no big deal and wants to drive off, but I'm not so sure. Can you help?
+What was the location of the accident? I can send the police.
+I can contact the police myself. What's the address including postcode, and also phone number for the police?
+Contact the Parkside Police Station at Parkside, Cambridge, postcode CB11JG. Phone number is 01223358966.
+================
+I need help finding a restaurant please.
+What kind of food are you looking for and do you have a certain area you would like to visit?
+I would really like to find someplace serving thai in the centre of town.
+Bangkok city serves thai food in the centre. Do you want me to make a reservation?
+Yes, I need a table for 4 people at 19:30 on Sunday.
+You are booked for Bangkok city. Your reference number is 64OEFCHO. The table will be reserved for 15 minutes. Anything else?

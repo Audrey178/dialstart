@@ -1,0 +1,40 @@
+I'm interested in finding an expensive guesthouse to stay at during my visit to Cambridge
+I'm sorry I don't have any matches. Should we try a different price range?
+Can you search for hotels instead of a guesthouse?
+I have expensive hotels in the east, centre, and south areas of town. Do you have a preference?
+The east would be great.
+There is one in the east. It is express by holiday inn cambridge. Do you need a booking?
+Does the Holiday Inn Cambridge have free parking? I forgot to tell you I need that.
+Yes, it has free parking. Would you like me to book that for you?
+No, what is the phone number for the hotel?
+It is 01223866800. May I help with anything else?
+Yes, can you please tell me how many stars it has?
+It is a 2 star hotel. Would you like me to make those reservations?
+================
+Hello, I am looking for a hospital in town. Can you please help me find one?
+The Addenbrookes Hospital should suit whatever need you have.
+Can I have the address, please?
+The address is Hills Rd, Cambridge. Is there anything else I can help you with?
+Can you give me their phone number and postcode, please?
+The telephone number is 01223245151 and the postcode is CB20QQ. May I help you with something else?
+================
+Please help me find a restaurant that serves british food near the centre of town.
+There are seven restaurants in the centre of town that serve british food ranging from moderate to expensive. Is there a particular price range you are looking for?
+I don't care about the price.
+Ok then. I suggest the oak bistro. It's located at 6 Lensfield Road. Would you like a reservation?
+No thanks, but could I please have the postcode?
+The post code is cb21eg. Can I assist you further?
+Can you please tell me the phone number?
+The phone number is 01223323361.
+Great, thanks for all your help.
+No problem. Did you need anything else?
+================
+There will be any hail in Danville during the week?
+There is no hail in the forecast in Danville this week.
+================
+I sure hope so. I've been injured and I need a hospital.
+The closest hospital is located at Hills Rd, Cambridge.
+Do they have a children's oncology and haematology department?
+Yes, their number is 01223217231.
+Can I please have the address and postcode?
+The address is Hills Rd, Cambridge and the postcode is CB20QQ.

@@ -1,0 +1,38 @@
+i am looking for a train going to birmingham new street and should leave on thursday
+Where will you departing from?
+I am departing from Cambridge and want the train to arrive by 17:15.
+Okay, what time do you want to leave?
+It doesn't matter, just as long as it arrive by 17:15.
+How about train TR5961?
+tell me the price and travel time please
+05:01 07:44 75.10 pounds 163 minutes there you go
+================
+Find me a pizza place within 3 miles and avoid all heavy traffic
+Pizza My Heart is at 528 Anton Ct. It is 4 miles away and there is no traffic.
+Send me directionsome please.
+I updated the map on your screen with the current navigation info: enjoy your trip!
+================
+Please help me book a taxi to nandos
+Sure. What is your departure site?
+I'm leaving from riverboat georgina.
+Okay, and what time would you like to leave or arrive by?
+I would like to leave after 09:45.
+Okay I have a yellow lexus with the contact number 07014284224.
+================
+I am looking for a restaurant.
+What type of food are you looking for?
+I'm looking for unusual food. And I want a place in the centre of town.
+I don't have anything matching unusual but I do have an African restaurant in the center of town as well as some gastropubs. Would either interest you?
+I'll take something that is cheap.
+There are a total of 15 restaurants that are cheap in the centre. Is there another type you would like to try?
+Do you recommend a restaurant that is a little more different then the rest?
+I would recommend golden house
+Is that Italian? I would like an Italian restaurant, please.
+Okay, how about the pizza hut city centre? I heard it's pretty good.
+Okay, that sounds good. I need to make a reservation for 2 people on Tuesday.
+What time would you like to visit?
+How about 13:15?
+I was able to book the table for you. It will be reserved for 15 minutes. The reference number is 97AAF776.
+================
+Will it be foggy in downtown Chicago on Tuesday?
+Yes, it will be foggy downtown Chicago on Tuesday.

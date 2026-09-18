@@ -1,0 +1,32 @@
+take me to the closest mall
+Stanford Shopping Center is the closest mall at 2 miles away located at 773 Alger Drive.
+================
+I am looking for a train departing from london kings cross
+Sure. Where are you going?
+I would like to go to Cambridge, after 11:15
+Okay, and what day do you want to make the trip?
+I want to leave on Monday.
+Great, TR5720 from london kings cross to cambridge leaves monday at 11:17. Can I book this for you?
+Actually, can I have the price, and the travel time please?
+The cost is 23.60 pounds and the trip will take 51 minutes.
+================
+Where is the closest shopping center located at?
+The closest shopping center to you is located at 338 Alester Ave, about 5 miles away.
+Please give me directions via a quick route. Thank you.
+I am sending the directions now. There is no traffic en route to Midtown Shopping Center.
+================
+I am looking for a train for three people from the stansted airport to arrive by 12:45. I need to leave on Thursday and go to Cambridge.
+What time would you like to leave by?
+I don't care when I leave I just want to arrive by 12:45
+There is one that leaves at 11:24 on Thursday. Would you like me to book that for you?
+Yes, that would work. I need 3 tickets please.
+Your 3 tickets are booked, the reference number is C3VMMP9M and the total fee of 30.29 GBP is payable at the station.
+Thank you so much, that is it for today.
+Glad I could help. Hope you have a great day.
+================
+can you please take me to a coffee house
+You best bet for coffee is 6 miles away at Coupa located at 394 Van Ness Ave.
+What is the traffic like, and can you send me directions?
+There is moderate traffic on the way to Coupa at 394 Van Ness Ave. Anything else?
+That's is, please set the GPS to go there, thank you!
+setting route.

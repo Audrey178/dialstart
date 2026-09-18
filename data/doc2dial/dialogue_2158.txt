@@ -1,0 +1,16 @@
+How do I add a user to my account?
+================
+Email us your information to get an additional user ID.
+I don't need another ID.
+================
+How do I change the user that's logged in?
+Are you doing someone else's duties?
+Yes I am.
+Email us to request another ID.  Never share ID's and passwords.
+I can't just login with the old one?
+No.  We don't provide support for people using other people's ID.
+================
+What do I do if the person with the LENS login quit and I can't get into the system?
+Email us with the user and LENS customer number so we can disable their access.
+Can I remove a user that no longer works here?
+Yes, log into LENS to remove them.

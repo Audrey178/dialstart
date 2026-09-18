@@ -1,0 +1,36 @@
+i just got injured, where is the nearest hospital?
+what is your location so i can reach the nearest hospital for you.
+I don't know the address, I'm in Cambridge.
+Addenbrookes Hospital is at Hills Rd, Cambridge, Postcode CB20QQ. The phone number is 01223245151. Is there a specific department you would like to contact?
+================
+Is there a train schedule for sunday?
+There are many trains on Sundays. Do you have a departure point or destination in mind?
+Yes, departing from Cambride going to London Kings cross.
+What time would you like to leave?
+I don't have a preference for leave time. I need to arrive in London Kings Cross by 14:00.
+there is the information TR7423 cambridge london kings cross sunday 05:00 05:51 18.88 pounds 51 minutes
+Well, that is pretty early, but I think it will work. Thank you so much!
+Booking was successful, the total fee is 18.88 GBP payable at the station . Reference number is : VJGOO2N8.
+Great, thanks for your help.
+Do you need any further assistance?
+================
+I would like information on booking a hotel for Friday night in Cambridge.
+Are you sure you are looking for a hotel?
+I'm sorry. First I need to find a hospital.
+I have Addensbrookes Hospital near you. They are on Hills Rd. Their main number is 01223245151, but if you need a certain department I can get the number for you.
+I need the Post Code as well.
+The Postcode for Addenbrookes Hospital is CB20QQ. Can I help with anything else?
+Yes, what about for hotel for friday night?
+What type of hotel are you looking for?
+I'm sorry I don't need a hotel. That was all. Thank you!
+Pardon me for saying so, but you sound somewhat confused. Would you like me to contact the police to assist you in getting to the hospital?
+No I am alright. Thank you.
+Thank you for using our service. Have all of your needs been met today?
+================
+Someone just robbed me! I need some help urgently please!
+Cambridge, parkside police telephone number 01223358966.
+What is the address for the parkside police?
+The only address I have for them is Parkside, Cambridge.
+================
+Hello, I'm looking for a hospital in town.
+Addenbrookes Hospital is on Hills Rd, Cambridge. Is there a particular department you need?

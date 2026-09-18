@@ -1,0 +1,30 @@
+Yes I need the nearest police station, I was in a car accident.
+The Parkside Police Station is the closest in postcode CB11JG, their phone number is 01223358966
+================
+Look at the seven day forecast and see if it will be hot in oakland
+It's not gonna be hot during the next week in Oakland
+================
+Where do I live?
+Your home address is 5671 barringer street.
+================
+Hi, I'm looking for a restaurant in the moderate price range that sells north indian food.
+Unfortunately there is not hotel with those characteristics. perhaps you could try other types of cuisine?
+I'm looking for a restaurant, not a hotel. Can you try again?
+My apologies. I meant to say restaurant not hotel. Unfortunately, there aren't any restaurants that are that price range that serve north indian food.
+Okay. How about one that serves italian food?
+We have 5 locations that match your criteria. What area of town would you like it in?
+I would like it to be in the east area of town please.
+The Pizza Hut in Cambridge Retail Park Newmarket Road Fen Ditton seems to meet your requirements.
+Sounds good, can I get the phone number and postcode, please?
+The number there is 01223323737 and the postcode is cb58wr. Anything else?
+================
+I need a train going to Cambridge.
+Where are you leaving from?
+The train should depart from kings lynn and should leave on thursday.
+There are 19 total trips available to you
+I wish to leave after 8:15.
+How about TR3447?
+can i get the price and time travel please
+trainID departure destination day leaveAt arriveBy price duration book (optional) TR3447 kings lynn cambridge thursday 09:11 09:58 9.80 pounds 47 minutes
+Would you be able to send that in a different format? I just need a price and travel time, that list is confusing.
+Sorry about that. The travel time is 47 minutes and the cost is 9.80 pounds. Anything else I can do for you?

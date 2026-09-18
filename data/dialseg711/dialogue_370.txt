@@ -1,0 +1,30 @@
+I need to find the closest hospital.
+The closest hospital is at 214 214 El Camino Real.
+Ok set the GPS there please.
+I did. Do you need any other info?
+================
+what's the weather forecast for the next week
+What city do you need next weeks weather forecast for?
+Im in Boston, I need to find out if it will be windy this week.
+I have Tuesday with a low of 80F, high of 90F and Windy. The only windy day in fact.
+================
+I need a taxi to get me to holy trinity church no later than 15:30
+Ok, what is your departure site?
+I'd like to be picked up from don pasquale pizzeria. Please also provide the car type and contact number, one the booking is made?
+Sure thing. A blue honda has been booked. Contact number is 07835205390.
+================
+I'm looking for a restaurant that serves Indian food located in the centre.
+Sure, there are several Indian restaurants in the centre of town. Would you prefer something cheap or expensive?
+Could you get me a table for Sunday at someplace nice? There will be 8 in my party and we'd like to eat at 17:30.
+I've successfully made a booking at Curry Garden! This is your reservation number PCMH26UY. How else may I assist you?
+================
+I need a taxi to arrive at 09:00 at the Riverboat Georgina.
+I can definitely help! Where are you departing from?
+I'm leaving from riverboat georgina.
+I'd love to help! Where are you going?
+My destination is pizza hut city centre.
+Your booking is complete, a red volkswagen will pick you up.
+Thank you, may I have the contact number?
+Sure! The contact number is 07803183128.
+Thank you so much for your help!
+Can I help you with anything else today?

@@ -1,0 +1,32 @@
+what will the weather be like in the city
+In what city would you like the weather information for?
+I'd like to know if the weather will be hot in San Jose during the next week
+The temperature in San Jose will reach a high of 100F on Sunday.
+================
+Hi, can you look up Darrys Cookhouse and Wine Shop for me?
+I sure can! Darry's Cookhouse is an expensive modern european restaurant in the center of town. They are located at 40270 King Street City Centre. Can I make you a reservation by chance?
+That's it. Can you make a reservation for me? There are 5 of us and we would like to reserve Sunday at 11:45 if possible.
+Reservation made. The reference number is FIQY6RR9.
+Thank you for the helpful information!
+No problem at all. What else can I do for you?
+================
+check forecast for new york
+The weather this week will be hail and rain on Thursday and Sunday, with the lowest temperature being 20F and the highest 90F, Monday will be the only hot day.
+Will it be overcast on friday?
+On Friday it will be cloudy on New York
+================
+I need a reminder for my doctor appointment on the 1st at 2 pm with Ana.
+Scheduling doctor appointment for the 1st at 2 pm with Ana.
+================
+Could you help me find a hotel on the west side with free WiFi?
+I have four hotels listed that fit your criteria ranging in price from cheap to expensive. What price range are you looking for?
+Price doesn't matter, really. But I would like to get free parking too, in addition to the wifi please.
+All 2 hotels and 2 guesthouses match your needs. May I recommend the Cambridge Belfry?
+Is that a hotel? I need a hotel and not a guesthouse.
+Yes, it is a hotel. Can I book it for you?
+That would be great, thanks. We'll be arriving on Sunday.
+How many people are staying, and for how many days?
+6 people for 4 nights.
+Sorry but I was unable to book. Do you wanna change the day you book or the number of days?
+How about two nights?
+Yes, that did it. Your reference number is X5XFGMK0. Can I assist you with any other plans today?

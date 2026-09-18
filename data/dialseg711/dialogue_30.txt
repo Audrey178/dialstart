@@ -1,0 +1,26 @@
+I need a train that is leaving on sunday and leaving after 13:30.
+I would be happy to help you. I have 221 trains departing Sunday, what day/time will you be departing and what is your destination?
+I need to leave Cambridge after 13:30 to go to Stevenage.
+I have trains leaving to there, what time would you like to arrive by?
+That really shouldn't matter, I just need the booking for six.
+Okay, you have six tickets reserved on TR4550. The total fee is 61.44 GBP payable at the station, and your reference number is P9P4UBVH.
+================
+I need a taxi please to express by holiday inn cambridge
+Okay, I will need to know where you are leaving from and what time you would like to leave.
+I will be leaving from leverton house arriving by 06:45.
+Booking is complete. Your car is a white tesla and contact number is 07609996919.
+================
+is it going to be cloudy in the next 7 days
+What city can I give you this weather information for?
+I'm in Boston but i will only be needing info on the next two days.
+It will not be cloudy in Boston in the next two days.
+================
+I need a restaurant located in the centre for a moderate price.
+Sure, I can help you with that. I have 21 restaurants available. Would you like a certain type of food?
+I am looking just for any restaurant available for 5 people at 13:45 on saturday.
+I was able to book Yippee Noodle Bar and your reference is 7J4EXP7M.
+Great! Thank you very much!
+Is there anything else I can help you with?
+================
+Will the weather be hail in Alhambra during the next seven days?
+There shouldn't be any hail during the next seven days in Alhambra

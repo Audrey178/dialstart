@@ -1,0 +1,18 @@
+Hello. I recently made some modifications to my vehicle, and would like to know if those have changed its class. It is registered as commercial.
+================
+Is your vehicle a Pick-up Truck?
+That's right. A beautiful Pick-up.
+Good. If your vehicle meet some requirements, based on its unladen weight, then you can register it as a "Passenger" class.
+Do your vehicle's unladen weight is less then 6.001 lbs?
+That would be a yes. It weights 5.765 lbs.
+Excellent. That would be one of the criteria used, being the other ones the following: Vehicle doesn't have any business advertisements; and the truck is exclusively for non- commercial purposes at all.
+That applies for those trucks that go over 6.000 lbs? I guess not, right?
+You guessed right. For those, aside the non-commercial use, must meet the following: A camper top, with one or more side windows completely encloses the truck bed and having seats, seat fittings or camping equipment installed in the truck bed.
+================
+Good. Where can i see differences between classes?
+You can refer to DMV Regulations and specifically on Part 106 of such rules.
+I'll be able to find what kind of modification made possible that my vehicle be one or another class?
+That's correct. Part 106 describes how your modifications affect your vehicle's class.
+================
+What if i have a van instead?
+For those, vehicle must have at least one side window behind the drive and at least one seat or seat fitting.

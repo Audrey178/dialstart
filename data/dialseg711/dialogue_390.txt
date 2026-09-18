@@ -1,0 +1,32 @@
+Can you help me, I've been mugged?
+you can get help here Parkside Police Station Telephone : 01223358966 Address : Parkside, Cambridge Postcode : CB11JG
+Thank you, I will contact the Parkside Police Station by calling them at: 01223358966.
+Are you injured? Do you need hospital information?
+================
+I need to find a hospital in town with a cardiology and coronary care unit.
+Addenbrookes Hospital, Address: Hills Rd, Cambridge, Postcode : CB20QQ. cardiology and coronary care unit 01223256459
+Okay thank you for the info.
+You are very welcome. Is there any other info I can look up for you today?
+That is all. Thank you very much.
+OK, just let us know if there is anything else you need.
+================
+Find the closest parking garage.
+Palo Alto Garage R is 2 miles away.
+Give me the address to it.
+Palo Alto Garage is located at 481 Amaranta Ave. Do you want me to set the GPS?
+Okay, will I encounter any traffic along the way?
+Yes, there may be moderate amounts of traffic
+================
+Help me, please, I was just the victim of a robbery! I need help right away!
+contact the Parkside, Cambridge police station
+How do I contact the Parkside, Cambridge police station?
+They can be reached by calling 01223358966.
+I'll need to address also.
+The Parkside Police Station is located in Parkside, Cambridge and the Postcode is CB11JG. Is there anything else I can help you with?
+================
+I need a train on Friday, arriving by 12:15.
+I can assist you with that. Where are you travelling to and from?
+I'm going from Cambridge to the Stansted Airport.
+The TR5998 leaves cambridge at 10:40 and arrives stansted airport at 12:08. It's price is 10.10 pounds. There are earlier trains if you wish.
+That one sounds fine. Can you book it for 3 people? I will need the reference number too.
+I have booked your ticket, the reference number is : ECTZFFR5. Is there anything else I can do for you.

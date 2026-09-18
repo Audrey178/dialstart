@@ -1,0 +1,20 @@
+I need to find a restaurant in anatolia
+Okay Anatolia is a turkish restaurant located in the centre. Is this what you're looking for?
+Yes. I need a reservation for 8 people please.
+I can make a reservation for 8 people for Monday at 17:45. Is that okay or would you like another day?
+I need a reservation for 8 people at 13:00 on Friday. If that doesn't work I can also do Tuesday. I will also need a reference number.
+Reservations for Friday at 13:00. Your reference number is 0UAYWI5Z. Is there anything else I can assist you with?
+================
+I need to know who is going with me to optometrist appointment and what day.
+Tom will be attending your optometrist appointment on Friday.
+================
+What is the closest police station to my current location?
+Closest police station is in Parkside, Cambridge, CB11JG
+================
+tell me the weather forecast for this week
+Where are you wanting to know the weather for?
+Find out if it will be foggy in Seattle anytime this week.
+It will not be foggy in Seattle this week.
+================
+I need to book a taxi to leave after 07:45 to take me to Bangkok City.
+Where will your departure site be?

@@ -1,0 +1,24 @@
+Hi, can you point me to a nearby hospital please?
+The closest hospital is Addenbrookes Hospital, their phone # is 01223245151. Can I help you with anything else?
+What is their address, phone number and postcode please?
+The hospital is located on Hills Road in Cambridge. The phone number is 01223245151. Their postcode is CB20QQ. Is there anything else I can assist you with?
+================
+I need the fastest route to a rest stop.
+I have found a route to The Westin, located at 329 El Camino Real. It is 5 miles away through heavy traffic
+================
+I want to eat fine british food.
+There are restaurants that serve british food. What is your price range?
+I like expensive restaurants and would prefer something in the city centre.
+There are 3 expensive restaurants in the centre of town that server British food. I would recommend the Midsummer House Restaurant.
+Sounds great. Please book a table for 3 at 20:00 on Friday and give me the reference number.
+I was able to reserve a table. Your reference number is 2SLK6U5L. Is there anything else you'd like me to do?
+================
+Find me the quickest route to the gas station.
+There is a Chevron 3 miles away.
+Is Chevron the closest? If so send me the address.
+Chevron is the closest at 783 Arcadia Pl.
+Then pick a quick route and let's go there, thank you!
+Taking you to Chevron.
+================
+tell me when my dentist appointment is
+Your dentist appointment is this Saturday at 7pm.

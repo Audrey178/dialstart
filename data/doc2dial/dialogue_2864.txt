@@ -1,0 +1,18 @@
+I need some guidance about the IT Standards Library guidelines please.
+================
+Our IT Standards Library standards and guidelines apply to all federal agencies and departments and they must be followed for all wishing to apply for Federal Student Aid.
+================
+Would you like to know about the resources that can be provided?
+No thank you.
+================
+I'm more interested in testing services. What can you tell me them?
+We have information about Enterprise Test Management Standards.
+================
+And is there information about Technology Standards and Products?
+Yes we have a Technology Standards and Products Guide that might be useful to you.
+================
+Is there a standard for quality assurance?
+Certainly. The Production Readiness Review PRR serves as the final, formal, and documented decision point before a new application or a significant release of an existing application enters Federal Student Aid 's production environment and is exposed to end-users.
+================
+Do you have any information specifically about the Federal Student Aid program?
+Yes you can find documents that are specific to the Federal Student Aid IT lifecycle for all projects. It  also lists other pertinent references that an IT project may be required to comply with dependent on the contract.

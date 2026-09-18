@@ -1,0 +1,42 @@
+I am looking for a Spanish restaurant in the west side of town
+I'm sorry, but there are no restaurants matching your request.
+How about a restaurant that serves British food?
+We have three excellent options here. Do you prefer a moderate pricerange or expensive?
+A moderate price range, please.
+I found saint johns chop house. Would you like me to book a table for you?
+No, I just need an address with postcode and phone number.
+The address is 21-24 Northampton Street, postcode: cb30ad and the phone number is 01223353110. Is there anything else I can do for you?
+================
+I am looking for assistance in finding a hospital nearby because i got injured.
+You can find them at Hills Rd, Cambridge, CB20QQ
+What's the name of the hospital? Do you have their phone number?
+Addenbrookes Hospital the phone number is 01223245151.
+================
+Hi there. I am hoping you could help me find a british restaurant in town.
+Sure we have quite a few. Do you have a price range or area in mind?
+Yes I am looking for something moderately priced.
+Okay, and do you prefer a certain area of town? There are four in the centre and one in the west.
+Yes, the one in the west please.
+The one in the west is Saint Johns Chop House. Its located at 21-24 Northampton Street. Can I make a reservation for you?
+Yes, I would really appreciate that. Can you get me a table for 5 on Sunday at 16:45?
+I'm afraid they're fully booked for 16:45 Sunday. Perhaps a different time or day?
+Is there anything an hour earlier or an hour later on that same day?
+No, unfortunately. Both an hour earlier and an hour later, they're booked.
+Let's try a different restaurant.
+What is available in the centre area at 16:45 for a party of 5?
+Sure, when you find something, make the booking and give me the reference number.
+I have you booked at a British place in the center of town. Restaurant One Seven, reference code 5K83E181.
+================
+I want to take a taxi to eraina
+I can help you with that. When do you need to leave?
+I would prefer to leave after 06:45
+Where are you departing from?
+I will be departing from meze bar restaurant.
+Booking completed! Booked car type : grey volvo Contact number : 07740734110
+Thank you for your help!
+You are welcome. May I help you with any other bookings?
+================
+Yes, I hope so. Are there any Chinese restaurants toward the east end of town?
+Yes, there's just one: Yu Garden!
+Great can you book a table for 1 at 19:30 on monday?
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : 5MR8KO1D. Is there anything else I can help with?

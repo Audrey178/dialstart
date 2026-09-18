@@ -1,0 +1,16 @@
+my high school is not an option on the fafsa list
+================
+Did you want to know why your high school isn't listed in the data files?
+no
+================
+Were you unable to find your high school on the FAFSA search results?
+no didn't look there
+================
+are you wondering why there are duplicates of some schools?
+no, why would you ask that
+================
+why are some numbers different year to year?
+In past years, we used proxies to determine whether an applicant was a first-time filer; we now use true first-time filer status and we may get different numbers.
+================
+do you have all schools in your data?
+Our database should contain every high school in the nation, unless the school was opened, merged, or otherwise changed its name within the past year or two.

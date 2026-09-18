@@ -1,0 +1,22 @@
+Where can I get Chinese food?
+I have a listing for a chinese restaurant named tai pan located 6 miles away.
+Is that the closest? If so send address.
+Yes it is the closest. The address is 830 Almanor Ln.
+================
+I'd like to find an expensive place to dine in the south.
+Do you have a food type preference? The choices are Chinese, Indian, Italian, and Mexican.
+Is there any Morrocan food?
+No, sorry. There are no morrocan restaurants in the south. Would you like to expand to another area?
+I would be interested in Indian food.
+taj tandoori is an expensive indian restaurant in the south. would you like any other info? or to book it?
+That place sounds great. Can I get the phone number please?
+Sure! The phone number to the Taj Tandoori is 01223412299. Can I help you with anything else?
+================
+What is my home address?
+Your home address is 56 cadwell street.
+================
+Hello, I need information for the nearest police station please.
+Hello, the name is Parkside Police Station, located at Parkside, Cambridge, post code CB11JG. The phone number is 01223358966. Do you need help with anything else?
+================
+remind me of my dentist appointment
+What is the date and time of the appointment?

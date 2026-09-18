@@ -1,0 +1,36 @@
+I am looking for Italian food on the south side of the city.
+Do you prefer moderately priced or expensive?
+No preference, please.
+I have Pizza Hut Cherry Hinton which is in the moderate price range and Frankie and Bennys which is in the more expensive price range. Which would you prefer?
+I'll pass on the Pizza Hut. Yuck. Let's go with Frankie & Benny's. Can I get a table for 1 on Sunday at 12:15 please?
+Your table is booked and will be reserved for 15 minutes. Your reference number is C6EU44QQ. Is there anything else I can help you with today?
+I wanted the reservation for 12:15, is that what you booked for me?
+Yes, you have a reservation for 1 person, at 12:15 on Sunday, at frankie and bennys. Can I help you with anything else today?
+================
+I'm looking for a place to stay. I'd like a hotel, not a guesthouse, and I don't care about internet.
+Do you have a specific area you would like to stay in?
+The west, please.
+I can offer you the Huntingdon Marriott, which is expensive, or the Cambridge Belfry, which is cheap.
+I'd like the Cambridge Belfry please.
+Great! Do you need information on the Cambridge Belfry, or would you like to book a room?
+I would like a room starting on Sunday for 4 nights. There will be 6 of staying.
+You are all set. The reference number is 12OOOWTR. Can I help you with anything else today?
+No, you've been great. Thank you. Goodbye.
+Your are welcome. I trust you will enjoy your visit.
+================
+I need a taxi from london kings cross train station to the gonville hotel.
+Tell the customer what time the train departs from London kings cross train, and possible arrival time to gonville hotel.
+Um what? I need to arrive by 23:00. Can you help or not?
+I'm sorry about that. I have booked you a black audi arriving at the hotel by 23:00. The contact number is 07582132009.
+================
+I need to speak with the police.
+The Parkside Police Station's telephone number is 01223358966.
+What is the postcode and address?
+The address is Parkside, Cambridge. The postcode is CB11JG. Are you alright?
+Yes, just a minor car accident. Thanks for all of your help!
+Do you need any further assistance?
+================
+I am looking for a place to dine. The restaurant should be in the west and should serve british food
+Travellers rest is amazing. would you like a reservation?
+Yes I need table for 6 people at 12:15 on saturday
+Your party of 6 is booked for Saturday at 12:15. Your reference number is 6W59CFFR. Is there anything else?

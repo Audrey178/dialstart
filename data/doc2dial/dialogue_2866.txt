@@ -1,0 +1,18 @@
+I want to know about the IT Standards Library, especially about the General and Federal Guidelines section.
+================
+this is the section that highlights federal organizations involved in establishing and coordinating the implementation of federal laws, regulations, standards, and guidelines applicable to information and information technology management.
+================
+Do you want to know about the resources available to you?
+Not right now.
+================
+Please tell me some of the resources available about the Lifecycle Management Methodology.
+Apart from the Lifecycle Management Methodology in itself, you can also get information about the LMM Tailoring Plan Template.
+================
+and about the General and Federal Guidelines section, to what agencies it applies?
+The standards and guidelines from this section apply to all federal agencies and departments.
+================
+What is the purpose of the Lifecycle Management Methodology?
+the LMM is a comprehensive process for managing information projects from vision to retirement.
+================
+Tell me a bit about the Federal Student Aid Specific REsources section.
+this section includes documents that are specific to the Federal Student Aid IT lifecycle for all projects and it also contains all pertinent references that an IT project may be required to comply with.

@@ -1,0 +1,14 @@
+Yes I'd like some information pertaining to the criteria of gainful employment and student aid.
+An educational program must lead to a degree at a non-profit or public institution or it must prepare students for "gainful employment in a recognized occupation" in order for said program to be eligible for funding under the Higher Education Act Title IV student assistance programs.
+================
+What's earnings data and how is it calculated?
+Are you employed?
+No, not yet.
+================
+I'm having trouble understanding my Debt-to-Earnings (D/E) Rate Data. What are the little stars for?
+On the spreadsheet, a single asterisk * indicates that the information presented in the field has changed from what was presented prior to the April 25, 2018, update.
+Is there any way to get this spreadsheet online?
+Yes we have information on how to [36] Download the Debt to Earnings data spreadsheet.
+================
+And how is the Annual Earnings Rate calculated?
+The numerator is the calculated annual loan payment amount an estimate of the annual loan repayment amount based on the median educational debt of the members of the sample cohort. The denominator is the higher of the cohort's mean or median earnings obtained from the Social Security Administration SSA.

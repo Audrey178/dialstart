@@ -1,0 +1,30 @@
+get me the weather forecast for the next 7 days
+What city do you want the weather for?
+Inglewood
+Inglewood should be 40-60F Monday to Wednesday, 90-100F Thursday, 30-40F Friday and Sunday, and 70-90F Saturday.
+================
+I am looking for a train that goes to london liverpool street and leaves after 17:15.
+I can certainly help you with that. Which day did you have in mind to travel?
+I want to leave on Friday.
+Unfortunately, the only train I have matching your criteria is one leaving 23:59 and arriving at 01:27 in the morning. Did you want to book that?
+Yes that's fine. I'll take 8 tickets for that train please.
+Alright, your train tickets have been booked and the reference number is NFA1DPXI. The train ID is TR3138. Is there anything else I can help you with?
+================
+what is the forecast for the city this week
+What city are you wanting to know the forecast for?
+I'm in New York and I need to know if it will be foggy this week.
+The weather forecast predicts that Wednesday it will be foggy in New York.
+================
+I would like to find an expensive restaurant in the centre of town please.
+There are quite a few choices for you. What kind of cuisine do you enjoy?
+I don't care. Choose a restaurant you recommend!
+How about bedouin, an african restaurant?
+Sounds great. Could you book me a table for 8 on Wednesday at 15:30?
+I sure can. I have a table for 8 booked for you at the bedouin, for 15:30. They will hold that for fifteen minutes.
+May I have the booking reference number?
+Certainly, the reference number is 922YORFC.
+Thank you very much for your help.
+Is there anything else I can help you with today?
+================
+Tell me about my lab appointment
+Your lab appointment is with your father on the 8th at 5 pm

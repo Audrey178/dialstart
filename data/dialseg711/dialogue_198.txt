@@ -1,0 +1,24 @@
+i want to book a taxi.
+Ok, where are you leaving from?
+I need to go from rajmahal to queen's college at 1:30, please.
+I have booked you a car. It will be a white Skoda. The contact number is 07861610827. May I assist you with something else?
+================
+I'm looking for a train.
+I have 2,828 trains with different routes, to help narrow it down, where will you be departing/arriving, and what day/time?
+The train should depart from Cambridge on Wednesday and headed for Stansted Airport. It should arrive by 15:15. I would also like you to make a booking for 6 people.
+I have two trains that would suit you. One arrives at 14:08 and the other at 15:08. Do you have a preference?
+I will take the one that arrives at 15:08. can you make me a booking for 8 people on Wednesday? I will need a reference number.
+Sure thing! I've booked the train for 8, and your reference number is I62H3VUY. Is there anything else I can do for you today?
+================
+It's gonna be cloudy in Oakland in next few days?
+It will be cloudy in Oakland on Tuesday.
+================
+I need to get to a hospital.
+Oh no! The address is Hills Rd, Cambridge.
+Can i get the postcode and phone number as well?
+Telephone : 01223245151 Address : Hills Rd, Cambridge Postcode : CB20QQ
+================
+I need a taxi from The Man on the Moon to Bangkok City, please.
+Ok, what time do you want to leave?
+I need to leave after 5:00.
+I've booked a car for you, a yellow bmw, the contact number is 07412002966.

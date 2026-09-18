@@ -1,0 +1,38 @@
+Hi, I'm looking for an expensive restaurant.
+Okay, we have 57 restaurants in that price range. Are you looking for a place in a certain part of town?
+I'd like something in the centre if possible.
+Most of the expensive restaurants in Cambridge happen to be in the center of town! Would you like to try some British food at Fitzbillies?
+That sounds nice! Can I just get their phone number, address, and postcode?
+The address is 51 Trumpington Street City Centre, the phone number is 01223352500, and the postcode is cb21rg. Is there anything else I can help you with today?
+================
+Can you book me a taxi to riverside brasserie?
+Sure! Where are you coming from?
+I will be leaving the good luck chinese food takeaway.
+Ok, what time would you like to leave by?
+I actually need to arrive by 12:45
+Your booking is completed, a grey honda will be picking you up. The contact number is 07290151077.
+================
+What will the high temperature be for Los Angeles?
+Today there is going to be frost in Los Angeles. Would you like to know about some other day?
+What will the highest temperature be on Monday?
+The high in Los Angeles will be 50F on Monday.
+================
+Could you please get me a train?
+Sure I can help you find a train. Where are you needing to go and where are you coming from? What time do you need to leave by?
+I am leaving Leicester and I need to leave by 20:30.
+What is your destination and day of travel?
+Cambridge and on friday. Can I just get the travel time for the train? Thanks!
+The first train leaving after 20:30 is 21:09 and the travel time is 105 minutes.
+That sounds perfect, thank you for your help.
+Would you like me to book it for you?
+No, that's OK, I'll get my tickets at the station. I just needed information.
+Can I assist you with anything else today?
+No, that's all. Thanks.
+I'm sorry, I think I misunderstood you. You want to leave before 20:30. You should book TR2602, leaving at 20:09. Travel time is 105 minutes.
+================
+Hi I need a taxi to jesus green outdoor pool, but I can't leave until after 18:30. Can you help?
+I'd be happy to help! Where are you coming from?
+I will be leaving from the Fitzbillies restaurant.
+I have confirmed your taxi, a blue tesla will be picking you up at 18:30.
+Awesome. Can I have the contact number?
+Of course. The contact number is 07613765039.

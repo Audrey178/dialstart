@@ -1,0 +1,26 @@
+I would like a taxi by 16:30 to arrive at Nusha.
+Where will you be leaving from?
+================
+I need a train to Cambridge.
+Ok. Where will you be departing from?
+I want to leave from Ely on Friday.
+Okay, do you have a desired time for departure or arrival?
+I need to leave after 09:45.
+TR0212 departs Ely Friday at 11:35, would you like to book a ticket for this train?
+What time does it arrive?
+It arrives at 11;52. would you like me to book it for you?
+================
+I need to find information on home from home.
+Sure, it is a moderately priced 4 star guesthouse located in the north. Free parking and internet. Would you like to make a booking?
+Yes, please. There will be 2 of us staying for 4 nights, and we'll arrive on Sunday.
+I booked you and your Reference number is : LKDT8R8B. Is there anything else?
+That is great. Thanks.
+Can I help with anything more?
+================
+Is there any rain in the current weather forecast in Inglewood?
+Today it's gonna fall hail in Inglewood
+================
+I need to find the nearest police station.
+The police station is located at Parkside Cambridge CB11JG. The phone number is 01223358966.
+Wonderful, thank you very much!
+You are welcome. Is there anything else I can help you with today?

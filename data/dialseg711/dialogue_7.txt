@@ -1,0 +1,28 @@
+does the forecast say it will snow
+What city do you want to know the forecast for?
+Will it snow in Seattle today?
+It will not snow in Seattle today.
+================
+I am looking for a mexican restaurant in the centre.
+I'm sorry, there aren't any Mexican restaurants in the centre of town. Would you like to try a different cuisine?
+How about an Indian restaurant then?
+There is the curry garden which serves indian food in the centre. Would you like to make a booking?
+Oh, no, but I do need the postcode address and number.
+Curry Garden's phone number is 01223302330. They are located at 106 Regent Street City Centre. The postcode is cb21dp. Would you like me to book you a table?
+No really, I don't need a booking.
+No problem. Is there anything else I can help you with today?
+================
+I need to schedule a taxi to da vinci pizzeria from tandoori palace.
+Ok, what time do you want to leave by?
+I would like to leave after 22:15.
+Booking completed! A blue volvo will be picking you up, the Contact number is: 07185148788.
+Ok thank you!
+You're welcome, do you need any further assistance?
+================
+I would like to try saigon city.
+Great choice. When can I make the reservation for?
+5 people on a Wednesday at 19:45.
+You got it. Here is your reference number: P9D58C0O.
+================
+Will it be misty in Redwood City during the upcoming seven day period?
+There is no mist in the forecast for Redwood City over the next 7 days.

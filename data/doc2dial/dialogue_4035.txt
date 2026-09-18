@@ -1,0 +1,15 @@
+I want to see what payments will be like for a loan
+You can try the Loan SImulator. The Loan Simulator is a new tool to help you make decisions about your student loans. You can use it to find a repayment plan that meets your needs and goals.
+================
+will it actually give me a good estimate?
+Do you want to get the most realistic results?
+Not, if I have to give too much personal information.
+================
+Can I just give numbers that are close but not the real thing and start a new simulation to see how different numbers work for me?
+Yes, you can see what happens when you borrow more.
+================
+Will it show me what happens if I get into financial trouble and stop making payments?
+Yes, you can find out the impacts of suspending payments
+================
+How do I use this thing?
+We will guide you through a series of questions based on your selections

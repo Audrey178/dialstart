@@ -1,0 +1,34 @@
+I need a train into cambridge on wednesday, please.
+I can certainly find one for you. Can you tell me where you will be departing from?
+Sure. I'm leaving from Cambridge.
+You're leaving from cambridge going to cambridge?
+No. I need to leave from leicester and arrive in cambridge. I also need to arrive by 10:15.
+TR7703 will depart leicester Wednesday at 8:09, arriving in cambridge by 9:54, would you like to book a ticket?
+Yes I would like to book a ticket on TR7703 for Wednesday morning, thank you.
+Booking was successful, the total fee is 37.79 GBP payable at the station. Reference number is : KW6ZO219. Is there anything else I can help with?
+================
+Schedule dinner with Martha later this week at 11am.
+What day of the week do you want the reminder set for?
+================
+I'm in need of a place to stay for the night, I'd like it to be in the centre of town and have at least a 4 star rating.
+There are two. One is cheap, one is expensive. Which do you prefer?
+Either as long as it includes free parking and internet is optional.
+Both alexander bed and breakfast and university arms hotel offer those amenities. Would you like more information on either of these options?
+Do either of those have free wifi?
+yes. both have WiFi connection
+Thanks! What's the phone number?
+Alexander bed and breakfast can be reached by phone at 01223525725. Do you want university arms phone also?
+Sure. Please give me that one as well.
+Ok. that phone number is 01223351241. Would you like me to book you a reservation?
+No thank you! I will give them a call.
+Do you need any further assistance?
+================
+Hello, I am looking for the closet hospital.
+Addenbrookes Hospital is the closest hospital. They are at Hills Rd, Cambridge and their number is 01223245151. Is there anything further i can assist with?
+Yes, I also need the postcode.
+The postcode is CB20QQ. Can I assist you further today?
+================
+give me directions to my friends house
+What is the address to your friends house?
+It's near here, I don't remember exactly where, tell me about the nearest POI I've marked on the GPS and then pick a quick route to get there
+Then let's go at 5672 barringer street, it's 5 miles away and there is heavy traffic

@@ -1,0 +1,36 @@
+Help me reserve a taxi to take me to kambar
+Sure! What is your departure site?
+I need to leave from lovell lodge
+Sure! when would you like to arrive?
+It doesn't matter. I just want to leave there after 10:45
+Okay I booked your taxi successfully
+Great, what are the details, please?
+A white honda will be picking you up, the contact number is 07580557287. Is there anything else I can help you with?
+================
+I am looking for a museum to visit.
+There are many museums in town. Do you have a preference in area?
+No, what can you recommend?
+Do you like modern art? Cambridge Contemporary Art is great, and admission is free.
+Well, the price is great. What is there postcode?
+Their postcode is cb21su. Is there anything else you need help with today?
+================
+Hi I am looking to get some info on the aylesbray lodge guest house
+The Aylesbury is a moderately priced 4 star hotel on the south side of town. Would you like the phone number, or a room, perhaps?
+Great. Book me that for 2 nights starting from saturday for just myself.
+I'm sorry there are no rooms available for that hotel for the nights you want, would you like me to try something else?
+How about 1 night starting from Saturday?
+That worked. Your reference number for the reservation is VDL0A0ID. Can I help you with anything else?
+================
+I need to book a taxi to arrive by 18:15 to take me to India House.
+No problem, but first can you tell me where you need to leave from?
+================
+Hi! Are there any restaurants in town that serve Scottish food?
+No there is not. Is there something else you would like to try?
+If there are no Scottish places in the west, what about expensive places to eat?
+There are quite a few places that are expensive. What type of cuisine would you like?
+What about Indian restaurants? Are there any expensive ones in the west?
+There are a couple of indian resturants in the west, may I recommend Tandoori Palace?
+Could you give me their address?
+Sure. 68 Histon Road Chesterton. Would you like for me to make reservations?
+Thank you, That is all I will need today.
+You're welcome. Have a nice day.

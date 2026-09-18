@@ -1,0 +1,32 @@
+Good afternoon. It's such a beautiful day out and I am visiting here. Can you tell me if there is a park nearby to where I am?
+I have five parks in the area, four are free and one is pounds. If you want to give me your location I can narrow down the results.
+What's in the center of town?
+The Cambridge University Botanic Gardens is in the center of the park. It is located in Bateman Street, the entrance is 4 pounds.
+That sounds interesting. Can you just give me their phone number please?
+Their phone number is 01223336265. Can I assist you with anything else?
+================
+I need to make a call to the Parkland Police Station please.
+Sure, their phone number is 01223358966.
+Thanks. Can I also get the address and postcode?
+Yes they are located at Parkside, Cambridge, postcode CB11JG.
+================
+I'm looking for an attraction to visit. Is there anything located in the west part of town?
+There are 13 attractions in the west part of town. Would you like to visit a college?
+No, I was thinking of something fun to do. Do you have any suggestions?
+I have several museums to choose from. I also have an entertainment attraction called Whale of a Time. Can I interest you in one of those?
+Whale of a Time sounds like a whale of a time! Yes, can I have their phone number, address, and postcode please?
+Sure, they're located at unit 8, viking way, bar hill, postcode cb238el, and their phone number is 01954781018. May I help with anything else?
+================
+I'm looking for a train. The train should depart from cambridge and should go to london liverpool street
+I can help with that! What day will you be traveling?
+Tuesday, leaving sometime after 19:45.
+Train TR3515 will be leaving Cambridge at 19:59 on Tuesday, and will arrive at London Liverpool Street by 21:27. Would you like me to book it for you?
+Yes please! Could you please give me a price?
+The price is 16.60 pounds. How many tickets will you be needing?
+thank you very much,that's2 all
+If you'd like us to reserve tickets for you, please keep us in mind. We would be happy to help with that.
+================
+i want to find a hospital in town
+Addenbrookes hospital is located in town. The address is Hills Rd, Cambridge.
+I'll need the postcode and phone also please.
+The telephone number is 01223245151 and the postal code is CB20QQ, is there anything else I can help with?

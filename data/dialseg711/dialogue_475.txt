@@ -1,0 +1,20 @@
+What is the agenda for the conference?
+The purpose of the conference is to discuss the merger.
+Okay perfect. What day and time is the conference on?
+The conference is set for the 3rd at 3pm.
+================
+navigate to the closest restaurant
+Tai Pan seems to be the closest restaurant at 1 mile away.
+That sounds great, let's go there.
+Setting navigation to 830 Almanor Ln, 1 mile away.
+================
+Will there be drizzle in the forecast for oakland this week?
+There shouldn't be any drizzle in oakland this week.
+================
+Help, I need to find the nearest police station.
+The nearest police station: Parkside Police Station, telephone is 01223358966, address is Parkside, Cambridge, and postcode is CB11JG. Is there anything else I can help with?
+================
+what is the temperature
+What city are you inquiring about.
+Grand Rapids, please. Which one will be the temperature on Sunday?
+Sunday's temperature in grand rapids is predicted to have a high of 90F and a low of 80F

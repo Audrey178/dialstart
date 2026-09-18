@@ -1,0 +1,37 @@
+I'd like a train to London Kings Cross to arrive by 21:15.
+Sure, which day would you like to travel?
+I am travelling on Thursday and going to Cambridge.
+Might I suggest train TR6595 leaving Cambridge at 19:00 and arriving at London Kings Cross at 19:51. Would that work for you?
+Yes, that does work. Could you book it for 1 person please?
+Okay, I went ahead and reserved your ticket for Train ID TR6595. The cost will be 23.6 GBP payable at the station, and your reference number is GKTT3OTZ.
+================
+I'm looking to find Addenbrookes Hospital please.
+They are at Hills Rd, Cambridge, CB20QQ
+Do you have a driver who can take me there?
+Sure, where are you departing from?
+Actually, can you please give me the phone number?
+Their general number is 01223245151. Do you need anything else?
+Could you give me the address and postcode please?
+They are at Hills Rd, Cambridge, CB20QQ.
+Ah, OK, yeah you said that earlier. Sorry, I got distracted by the car thing but my friend said he could give me a lift. Thanks for everything.
+Do you need any further assistance?
+================
+I am hoping you can find a guesthouse in the north part of town for me.
+I found five guesthouses. In order to narrow down the choices, would you like one that has internet or parking?
+Well I would like one that's in a moderate price range. It needs to include free parking.
+There are 7 guesthouses in the north that are moderately priced and all have parking, I apologise for the earlier error. Do you have a preference to star numbers?
+No, that doesn't matter. I need to book one for Wednesday.
+How about the Archway House? How manny days would you like to stay, and how many in your group?
+Yes, that works. I'd like to book 3 days for 7 people. I also need the reference number as well.
+I'm afraid there's no availability for that time. Can we try a different day or length of stay?
+2 nights, then.
+I am sorry, that hotel is not open for that booking. Should I try another hotel?
+Yes, please. Something in the north, again.
+Actually I was able to book Archway House for you after all. 2 Nights. Your reference number is MHAH7NWT. Do you need anything else?
+================
+I need a taxi to go to anatolia
+Okay, do you have a specific time in mind?
+Yes I want to arrive at 20:45
+Where are you leaving from, please?
+I'm leaving from castle galleries.
+I've booked you a blue car, the contact info is 07733215888. Is there anything else I can do for you?

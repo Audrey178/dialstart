@@ -1,0 +1,28 @@
+I'm needing to find a taxi. I need to leave after 13:00 and I'm leaving the pizza hut fen ditton.
+Happy to help! Where will you be traveling to?
+I'm going to thanh binh.
+Great. You are booked with a black volkswagen.
+I need the contact number please.
+Certainly. The contact number is 07590243712. Can I help you with anything else?
+================
+update me on the weekly weather forecast for this week
+What city would you like to hear the weather forecast for?
+Will it be dry in Durham next week?
+It will be dry on Monday in Durham.
+================
+I would like to book a taxi to the gandhi.
+I can help you book that, first I'll need to know where you'd like picked up at.
+I want to be picked up at prezzo please
+I'll need a little more information to find you a taxi. What time would you like to arrive at the ghandi?
+I can't leave until after 16:30, please.
+Okay, I've got a grey ford with the contact number 07766078886.
+================
+What time is my optometrist appointment and who is attending?
+Which one? I have you for two, one on the 5th and one on the 10th.
+I need to know the time and parties attending,try the one on the 5th.
+Alex will be attending your optometrist appointment with you at 3 pm.
+================
+what is the weather like this week
+In what city are you inquiring about?
+Corona, will it drizzle this week?
+There will be no drizzle this week in Corona, only rain on Tuesday and Thursday.

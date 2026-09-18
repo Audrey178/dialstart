@@ -1,0 +1,30 @@
+update me on the weekly weather forecast for this week
+In what city would you like the weather forecast for?
+Will it be hot in Grand Rapids this week?
+It will be hot on Monday in Grand Rapids this week, with a high of 90F that day.
+================
+I'm looking for a restaurant called Mahal of Cambridge.
+Sure, that's a great cheap Indian restaurant in the centre of town. What information do you need?
+Could you see if you can get me a table for 5 there at 12:00 on Friday?
+Yes, I reserved that table for you. Reference number 196SQORA. Can I be of further assistance?
+Thank you for reserving it, and just to make sure...can you please confirm the time and date of the booking?
+That booking was made for Friday for a party of 5 at 12:00. Was that correct?
+Yes, that's correct. Thank you.
+Can I assist you with anything else today?
+================
+what's the weather like today and tomorrow
+Where would you like to hear the forecast from?
+I want to hear grand rapids highest temperature for today and tomorrow
+In grand rapids, today's high temp is 40F, tomorrow's will be 80F
+================
+Yes, I am looking for a place to stay in the south that has free parking.
+Do you have a price range?
+No, but I need free wifi, too.
+We have 3 guesthouses and 1 hotel that fit your needs. Would you like to stay in a hotel or a guesthouse?
+A hotel please. I would like to book it for 6 people for 5 nights starting Friday. I will need a reference number too.
+All right, I've booked you a room at The Lensfield Hotel. The reference number is YTMC5LL4. What else can I do for you?
+================
+what is the weather for the next 7 days
+What city are you interested in learning the weather for?
+I would like information about San Mateo please.
+It will be in the 30-50s Monday to Wednesday and 90-100F on Thursday in San Mateo. Friday through the weekend will be 20-40F.

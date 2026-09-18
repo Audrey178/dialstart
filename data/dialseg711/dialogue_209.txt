@@ -1,0 +1,32 @@
+I am looking for nearby museums
+We have 23 fine museums in town. Is there a certain area you would like?
+No particular area. May I have the phone number of one you recommend?
+i recommend broughton house gallery
+That sounds good, what is their phone number?
+Their phone number is 01223314960. Is there anything else I can assist you with?
+================
+I'm looking for cheap eats in the centre.
+Yes I have many Chinese and Asian restaurants as well as Spanish, Portuguese and Indian cuisines matching your price requirements. Any preference?
+I am interested in Chinese food.
+I found three Chinese restaurants in the centre: Charlie Chan, Rice House and Golden House. Would you like me to book you a table?
+Yes, please! Can I have a table for 1 at Charlie Chan on Sunday at 14:15?
+Sure thing your reference number is D3A1XJL7. Is there anything else I can help you with today?
+================
+Please give me directions to the Parkside Police Station.
+Here is the Address: Parkside, Cambridge CB11JG. Anything else?
+Can I get the address and phone number too?
+The phone number is 01223358966 and the postcode is CB11JG
+================
+Hello, I would like information on museums in town
+There are 23 museums to choose from, are you looking for one in a particular area?
+Which is your favorite? Get me their phone number, and I'll check them out.
+My favorite museum is the Cambridge and County Folk Museum. Their number is 01223355159. Can I help you with anything else?
+Maybe you could give me one other option?
+Sure. There's also the Museum of Archaelogy and Anthropology, which is free. They're phone number is 01223333516.
+================
+Hey, are there any expensive restaurants in the centre?
+There are thirty thee choices. Do you have a food type you would like to try?
+I would like to just find something expensive and get the postcode please.
+How about Bedouin? It's an expensive African restaurant in the centre, postcode cb12bd. Is there any other information you need?
+Great that's all the information I needed today, thank you!
+Your welcome! Have a great day!

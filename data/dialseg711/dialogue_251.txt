@@ -1,0 +1,27 @@
+please tell me the weather for today and tomorrow
+================
+Am looking for hospital in town it should have the trauma high dependency unit department.
+Addenbrokes Hospital has a trauma high dependency unit department. The contact number is 01223216305.
+Great, thank you for the help.
+Can I help you with anything else?
+================
+I am looking for a particular restaurant. Its name is called restaurant one seven
+It is a moderately-priced British restaurant in the centre of town. Would you like the address?
+Yes, please give me the complete address.
+It is located at De Vere University Arms Regent Street City Centre.
+================
+Hi there, I'm looking for a place to stay that has wi-fi and parking for free.
+Sure, there are many options with free internet and parking. What area of town do you prefer to stay in?
+I don't have a preference. I wold just like a 4 star moderate.
+The acorn guest house fits your needs! It has a four star rating and is located in the north. Would you like me to book it?
+Maybe, but are they expensive? I would like something moderately priced if possible.
+No the Acorn Guest House is moderately priced. I can book it for you if you would like.
+What type of hotel is it?
+It is a 4 star hotel, not a guesthouse.
+================
+Can you find me a Chinese restaurant with moderate prices?
+You have your choice of the Jinling Noodle Bar, Lan Hong House, Shanghai Family Restaurant, or the Golden Wok.
+Which one of these restaurants is in the centre of town?
+Jinling noodle bar, Lan Hong House, and Shanghai Family Restaurant are all in the centre of town.
+Thanks! Can I have the address, phone number, and postcode for Jinling Noodle Bar, please?
+Sure.The address is 11 Peas Hill City Centre, postcode cb23pp, and the phone number is 01223566188. Can i book a table for you?

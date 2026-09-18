@@ -1,0 +1,16 @@
+What are the Modifications that change a record from the 'Passenger' class to the 'Commercial' class?
+================
+do you want to register a car?
+yes
+ You can register a car in the ' Commercial ' class if all the seats behind the driver are removed . Instead of the seats , you must install a permanent box or permanent rack to carry cargo
+================
+can i install seats behind the driver?
+ you must also install seatbelts that meet NY State Occupant Restraint Law requirements
+================
+is all I need to know about how to register the car?
+yes follow the recommendations
+================
+If you used a van or truck without the required modifications?
+then you must register it in the ' Commercial ' registration class
+What are the camping equipment that is installed behind the driver?
+ ' camping equipment ' indicates that you have a permanent bed , a permanent stove , or a permanent refrigerator in the vehicle

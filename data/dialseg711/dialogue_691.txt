@@ -1,0 +1,29 @@
+Hi. I am trying to find some information on a restaurant called India House. Have you heard of it?
+India House serves Indian food in the west of town and is expensive. Their phone number is 0122346166. Can I help with anything else?
+Great can you book a table for one person at 12:00 on sunday?
+I'm sorry, they don't have an opening at 12:00. Would you like to try a different time or day?
+Sure, let's try for 11:00, same day.
+I was able to book your table on Sunday at 11:00 for 1. The reference number is FRGW4OO2.
+================
+Hello I am looking for a place to go, can you help me?
+I have found 79 place for you. Do you have any specific ideas in mind?
+What attraction types do you have in the west?
+There are mostly colleges and museums in the west. Would you be interested in one of those?
+Sure, can you recommend one to me and give me the address and type?
+Clare college is a college, it is located on trinity lane, post code cb21tl
+Great! Thank you for all of your help.
+You're quite welcome! Will that be all for today?
+================
+I need to find the nearest hospital please.
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you need?
+================
+I need a taxi, please.
+Ok, where are you leaving from?
+I want to be picked up from lynne strover gallery
+Where will you go?
+I am going to The Junction.
+What time do you want to be picked up at the gallery?
+I don't care about departure time but I need to arrive at The Junction by 20:15, please.
+I have you booked into a black lexus.
+I need the contact number please.
+The contact number is 07776842697. Can I help you with anything else?

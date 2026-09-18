@@ -1,0 +1,22 @@
+I am trying to find a hospital that has a transplant high dependency unit.
+Addenbrookes Hospital has a transplant high dependency unit. The phone number for the transplant high dependency unit is 01223216811. Would you like the address and postcode as well?
+================
+Can you find me a nearby shopping center?
+There is Stanford Shopping Center 7 miles away with moderate traffic on its way
+Set the address in the navigation.
+I sent its position and the route with moderate traffic on your screen, drive carefully!
+================
+I've been injured and I need to find a hospital.
+What kind of injury do you have? I can direct you to a specialty hospital, or would you like me to send you the closest one?
+I am looking for a hospital with a clinical research facility department. I need the phone number and postcode.
+Addenbrookes Hospital has a clinical research facility. The phone number for the hospital is 01223245151. The postcode is CB20QQ. The phone number for the clinical research facility is 01223596055.
+================
+will it rain anytime in the next week
+Which city would you like the rain forecast for, for next week?
+Grand Rapids
+In Grand Rapids it's gonna rain on Tuesday
+================
+Can you please help me get information on cityroomz?
+Cityroomz is a hotel located in the centre area. It is a 0 star hotel and has a moderate price range. They also offer internet. Their phone number is 01223304050
+I need to book it for 3 people and 2 nights starting Tuesday.
+Okay, that booking was successful. Your reference number is 7ILVZWKR. Anything else I can do for you?

@@ -1,0 +1,36 @@
+how is the weather in the city this weekend
+What city would you like the weekend weather for?
+Please tell me if there will be frost in Menlo park this week.
+There will be no frost in Menlo Park this week.
+================
+I am looking for a hotel ti stay in the expensive range. It does not have to be free parking.
+I have about 5 different expensive hotels. Do you prefer a certain area of town?
+No. But it should have free wifi.
+All 5 of the expensive hotels in have free wifi. Are you looking for any star rating, to help narrow the search?
+I don't care about the number of stars. If you don't have one without parking, I'll take one with parking. Choose the best one, please.
+I hear the Huntingdon Marriott Hotel is nice. Would you like to try booking there?
+Yes. There will be 5 of us staying for 3 nights, arriving on Sunday. I sure hope Cambridge is nice this time of year.
+Sorry, that's not available. Could you pick another day, time, or stay length?
+Is there another hotel available that will accommodate my stay?
+There is gonville hotel. Would you like to try that one?
+Sure. Same parameters, please.
+Nope, sorry, unsuccessful. Would you like to try the lensfield hotel?
+Sure, see if that works
+Sorry, the Lensfield booking was unavailable, as well. May I help find something else?
+Are you sure there is nothing available? Will you double check?
+Good news. I checked again at the Huntingdon Marriott, and they were able to accommodate your party. Your reference number is 1H7F4GBJ.
+================
+I need a train leaving cambridge. I have to arrive by 20:15.
+What is your destination and at what time would you like to leave?
+To Birmingham new street on Wednesday.
+TR0115 will be departing at 05:01 and arrive at 07:44. Would you like me to book that for you?
+Can you give me the total travel time?
+The total duration is 163 minutes. Will you be needing tickets?
+================
+find me a nearby shopping mall shopping center
+There is Stanford Shopping Center 1 miles away: do you want me to send you its address on screen?
+Yes sounds good.
+Stanford Shopping Center is located at 773 Alger Dr. Do you want me to set the GPS?
+================
+Hi! I need to find the Parkside Police station please.
+It's address is Parkside, Cambridge with Postcode CB11JG.

@@ -1,0 +1,30 @@
+When is my dentist appointment and who is attending?
+Which one? There is two, one for the 10th at 4pm and one for Friday at 3pm.
+The one on Friday.
+Alex will be attending your dentist appointment on Friday at 3pm.
+================
+I am looking for an expensive restaurant in the centre
+Alright, well you have 33 to choose from. Any type of cuisine you're looking for?
+I'll take something Chinese if you have it. I'll take the postcode of which every of those you recommend.
+Okay the postcode for the Golden House is cb21eg. Is there anything else I can help you with?
+================
+I need to book a taxi from the junction and I need to arrive by 04:00.
+Sure! Where are you coming from?
+================
+Hi, on Tuesday I need to leave Cambridge by train. Can you help me with the arrangements?
+What destination will you be traveling to?
+The train should leave after 10:15 and should go to peterborough
+Will you be travelling alone or in a party?
+I haven't decided yet. What time will the train reach the station in Peterborough?
+If you leave Cambridge at 10:34, you should arrive in Peterborough at 11:24.
+welcome. at your service next time
+Do you need any further assistance?
+================
+I need to book a taxi to leave after 17:45 to go to Nandos.
+I'd be happy to help! Where are you coming from?
+I'm coming from royal spice.
+Great. I booked a white volvo for you.
+Thank you. Is there a contact number you can give me, just in case?
+Their contact number is 07617391159.
+Great, thanks for your help!
+You're very welcome. May I help you with anything else?

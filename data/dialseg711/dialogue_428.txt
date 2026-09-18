@@ -1,0 +1,24 @@
+i want to book a taxi. The taxi should leave after 21:15 and should depart from backstreet bistro.
+What will be your destination?
+I'm sorry I need to change that. I need the taxi to depart from kings lynn train station and go to cherry hinton water play.
+Okay. I've booked a taxi that will pick you up at 21:30. Look for a Red Skoda and the contact number is 07797598861. Anything else?
+================
+will it rain anytime in the next week
+What city would you like to know this information for?
+Camarillo.
+It will be raining on Tuesday in Camarillo.
+================
+Hi, I'd like to stay at the warkworth house please.
+warkworth house is an excellent choice. Shall I book it for you?
+Yes please! 2 of us will be staying starting on saturday for 5 nights
+Booking was successful. Reference number is : AZ8EPKAU.
+Thanks for all of your help.
+You are welcome. Do you need anything else?
+================
+Hi, I need a taxi from london liverpool street train station to gourmet burger kitchen
+Sure no worries, what time do you want to leave?
+I need to leave after 12:30! Give me all the necessary details please
+Taxi is booked, Red audi will come for you. Contact number is 07274783062. Do you need any other help?
+================
+Set a reminder for tennis next month on the 13th at 6pm with my aunt.
+Okay, scheduling a tennis activity with your aunt for the 13th of next month at 6pm.

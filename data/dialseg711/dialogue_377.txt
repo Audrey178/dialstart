@@ -1,0 +1,41 @@
+set a reminder
+when should I set this reminder and what for?
+I need to see the optometrist, set it for 7 pm on August 12th, please.
+Your reminder has been set to see the optometrist at 7PM on Aug 12th.
+================
+Can you help me find a place to stay with free parking?
+I found 29 places matching that criteria. Do you have a particular area you would like to stay in or a price range you would like to stick to?
+I'd like to stick to a moderate price range.
+Okay and what area would you like to stay in?
+I would like to stay in town centr
+I'm sorry there are no moderately priced hotels in the centre of town with free parking. Would you like me to check a different area or price range?
+Actually, the area doesn't matter. I just need a 4-star hotel in the moderate price range.
+I do have some guesthouses, but no hotels. Would you like reservations at one?
+I really would like a hotel not a guesthouse, can you please search again - open to all areas.
+I apologize, but the are no hotels available that meet the following criteria: free parking, moderate price range, 4-stars. Would you like me to change the search criteria?
+Can you double check for a 4 star hotel in the moderate price range with free parking?
+I have 9 guesthouses that meet your criteria. Is there an area you are interested in?
+There is no certain area but I'd prefer a hotel.
+I'm sorry but you will have to change some of your criteria if you would like me to find you something or accept a guest house.
+I apologize for all this confusion the type of lodging doesn't matter. I would like it to have free parking, be 4 star, moderately priced, and the area doesn't matter.
+Okay, no problem! I recommend the Acorn Guest House. It has everything you're looking for.
+Great, can you please book it for me? There will be 7 of us staying
+Of course I can help you with that. What day will be arriving and for how many days will you be staying?
+I will be arriving on Tuesday and staying for two days please.
+Booking was successful. Reference number is : AKH4MCWD. Anything else I can help you with?
+================
+I am looking for a train from cambridge on monday.
+Where is your destination, please?
+My destination is Norwich. I am hoping I could catch a train after 15:15.
+Will you be traveling alone?
+Yes. I will be by myself. Looking for one ticket please.
+TR9460 leaves cambridge Monday at 15:36, would you like to reserve a seat?
+No, I just need the price and arrival time.
+The price is 17.60 pounds, and travel time is 79 minutes. Do you need to reserve a seat?
+================
+find me the nearest grocery store
+The nearest grocery store is 5 miles away called Willows Market at 409 Bollard St
+OK, please direct me there via the fastest route.
+Okay, there is a car collision nearby Willows Market, thre is another route to Sigona Farmers Market. It is the same amount of miles away, this route has moderate traffic
+Let's go at Willow please send the direction on my screen, thank you car!
+It's everything on your map, enjoy your trip!

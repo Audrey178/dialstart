@@ -1,0 +1,34 @@
+get me directions to the nearest chinese restaurant
+the nearest chinese restaurant is 1 mile away
+Please send me its address on screen and pick a quick route to reach there
+Navigating to113 Arbol Dr.
+================
+I'm looking for a train going to Cambridge that leaves at 11:30.
+There are 924 trains leaving by 11:30. What is your departure city?
+Birmingham new street
+I'm sorry but the earliest train departing from Birmingham New Street is 11:40. Can I investigate another departure location or time for you?
+================
+I'm looking for the hospital in town.
+The only hospital in town is the Addenbrookes Hospital, would you like their phone number?
+Yes and could I also have their postcode please?
+The address for Addenbrookes Hospital is Hills Rd, Cambridge CB20QQ.
+================
+I need a taxi by 20:45 to go to Cote.
+I'd be happy to help! Where are you coming from?
+I'm leaving from tandoori palace.
+Ok I have a white tesla and the contact number is 07657055747.
+That was fast thank you so much!
+Can I assist you with anything else?
+================
+I'm looking for a gastropub.
+Okay, there are four gastropubs in cambridge. Are you looking for a particular area or a certain price range?
+Yes, something in the centre of town please?
+I have 3 gastropubs in the center of town. Does price range matter to you?
+No, price range does not matter.
+In that case, I recommend Backstreet Bistro at 2 Sturton Street City Centre. Would you like a table there?
+I'm sorry, I do need something expensive. Is Backstreet Bistro an expensive place?
+Yes, they are an expensive restaurant. Would you like me to make a reservation for you?
+Yes, I'd like reservation for 8 people t 11:15 on Saturday.
+Booking was successful. Can I get you anything else?
+May I have the reference number?
+Of course, the reference number is JP761RJS.

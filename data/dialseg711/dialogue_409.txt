@@ -1,0 +1,26 @@
+I want to know where I would find the Parkside Police Station. Could you tell me?
+Their postcode is CB11JG, you can reach them at phone number 01223358966.
+Thank you. May I have a street address for the police station?
+Certainly. Their address is Parkside, Cambridge. Can I assist you further?
+================
+I need a taxi to leave after 03:00
+What is your departure site?
+I'm departing from anatolia.
+I'd be happy to book that for you, what is your destination?
+I need to get to the Cambridge Corn Exchange.
+Booking completed! Booked car type : black volvo Contact number : 07025112262
+================
+will it rain next week
+What city are you interested in?
+Exeter please.
+It will rain on Wednesday next week in Exeter.
+================
+Locate my friends address for me.
+Jill or Tom?
+The closest one, it should be Jill if I'm not wrong
+Both Jill and Tom's homes are 6 miles away. But tom's home located at 580 Van Ness Ave has a route with out any traffic, while the route to Jill's home has heavy traffic.
+================
+show me the weather for the next 7 days
+What city can i give you the 7 day forecast for?
+Durham, will there be clear skies there during the next seven days?
+There will be clear skies in Durham on Thursday and Friday only. Would you like the rest of the forecast?

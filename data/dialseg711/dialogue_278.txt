@@ -1,0 +1,36 @@
+Hi! I'd like to book a taxi from Kettle's Yard to Old Schools.
+Absolutely - do you have a particular arrival or departure time in mind today?
+Yes, I would like the taxi to arrive by 19:30. In addition, I would like the car type and its contact number.
+I have completed your booking! The car type is a white volkswagen and the contact number is 07027624842.
+================
+I need the address to the Addenbrookes Hospital please.
+The address is Hills Rd, Cambridge.
+Can I also get the postcode and phone number?
+The address is Hills Rd, Cambridge. Their main number is 01223245151, but I can provide the number for a certain department, if you need it.
+I really need the post code.
+My apologies. I overlooked your request for the postcode. Their postcode for the hospital is CB20QQ. Can I provide anything else for you today?
+================
+Schedule swimming tomorrow at 2 with my brother
+Scheduling a swimming activity at 2 pm with your brother, what day should I add this?
+It is tomorrow
+Great, I have that swimming activity all scheduled for you! Can I help with anything else?
+that is all, thanks.
+Will that be 2 pm or 2 am?
+2pm, please.
+2pm, got it. Thank you!
+================
+I am looking for a guest house that i can stay in.Free parking is also an added advantage.
+Acorn guest house is nearby and provides free parking. What are the days of your stay?
+4/5/2018 - 4/10/2018
+Acorn Guest House seems to be a good option. Alexander Bed and Breakfast also has parking but is in the town centre. Would you prefer one of those?
+I am looking for something in the moderate price range and free internet, please.
+I think acorn guest house is a good match for you!
+Perfect. what is the star and area of the hotel?
+Acorn guest house has a 4-star rating and is in the north. Do you want me too book it for you?
+No that won't be necessary. I have all of the information I need for now. Thanks
+You are welcome. Please call back if you need any more help or if you want me to book it for you.
+================
+is it going to snow in the next 7 days
+Snow is in the predictions for several cities, which one would you like me to tell you about?
+Boston
+it is predicted to snow in Boston on Friday.

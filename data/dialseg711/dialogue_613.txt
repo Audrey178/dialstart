@@ -1,0 +1,32 @@
+I need a tax to cambridge train station.
+Where would you like to be picked up?
+I'm at kymmoy
+When would you like your taxi to pick you up?
+I need to be picked up at 21:30.
+Ok. I have booked for you a red skoda and the contact number is 07618237831. Anything else I can help you with?
+================
+I'm looking for a restaurant, something moderately priced.
+There are five restaurants in the moderate price range. They sever british and asian oriental, which are you looking for?
+iam looking for something asian oriental and not so expensive restaurant.
+I have the Yippee Noodle Bar that meets your criteria. Would you like me to make a reservation for you?
+That would be great. I need to for 2 people at 13:00 on Tuesday. Can you provide the reference number for the reservation?
+Here is the reference number: MVMT06FY
+================
+I am looking for the Addenbrookes Hospital, can you please give me their phone number?
+The phone number for the Addenbrookes Hospital is 01223245151. Is there anything else?
+what is the postcode and address?
+Addenbrookes Hospital is located at Hills Rd, Cambridge, Postcode CB20QQ. Do you need any further information?
+================
+Do you know where I can find the Holy Trinity Church?
+Absolutely. Holy Trinity Church is on Market Street in the centre of town. Their postcode is cb23nz and is free to enter. Would you need their phone number?
+Great what type of attraction are they?
+It is an architecture attraction.
+================
+Hi, I would like to find an expensive restaurant in the centre of cambridge please.
+Certainly, there are many expensive restaurants in the town centre. What type of food do you prefer?
+I am looking to eat some mediterranean food.
+I have two great choices for you. La Mimosa and the Shiraz Restaurant. Can I offer you more information on one of these two?
+Sure, can I get the postcode, phone number, and address for La Mimosa, please?
+Absolutely. La Mimosa is located at Thompsons Lane Fen Ditton. The postcode is cb58aq. Their phone number is 01223362525. Can I assist you in making a reservation?
+No thank you!! Thank you for all your help.
+Is there any other information I can get for you at this time?

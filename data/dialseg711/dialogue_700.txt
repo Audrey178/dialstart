@@ -1,0 +1,26 @@
+I got injured and I am looking for a hospital nearby. The hospital should have the clinical research facility department
+Okay, I have Addenbrookes Hospital. The phone number is 01223596055.
+Can I have the address please?
+The address is Hills Rd, Cambridge with postcode CB20QQ. Do you need anything else?
+================
+take me to the parking garage closest to my destination
+The closest parking garage is Palo Alto Garage R which is only 2 miles away, but there is a road block in the area.
+Uhh ok well I still need to park so what's the address?
+Setting navigation now to 481 Amaranta Ave.
+================
+Please put me in touch with the local police, I was just robbed.
+I have information for the Parkside Police Station, is this close to your location?
+I don't know, could you just give me the postcode and phone?
+The phone number is 01223358966 and the post code is CB11JG.
+================
+Locate any hospitals in the area.
+The nearest hospital is called Palo Alto Medical Foundation and is 6 miles away.
+Does it have the least amount of traffic?
+Yes
+What is the address?
+Palo Alto Medical Foundation is located at 611 Ames Avenue. Do you want me to set the GPS?
+================
+tell me how hot it's going to be in the forecast for the weather
+Which location are you interested in?
+Alhambra, is it hot next week?
+It will not be hot in Alhambra next week.

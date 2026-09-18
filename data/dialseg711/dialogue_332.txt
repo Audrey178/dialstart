@@ -1,0 +1,29 @@
+Schedule a dinner at 5pm of the 12th of current month with my father.
+================
+May I please have the number for the local police?
+I'd be happy to help you with that. Their number is 01223358966. Is there anything else?
+================
+Am hospital in town that should have the children's oncology and haematology department.
+department phone book (optional) children's oncology and haematology 01223217231
+What is the name of the hospital and the address please?
+The Addenbrookes Hospital is located at Hills Rd, Cambridge.
+Perfect, Thank you so much.
+Is there anything else I can assist you with?
+================
+I am looking for a restaurant. The restaurant should be in the west and should be in the expensive price range
+Yes, I have nine possibilities fitting those parameters. Is there a specific type of food you're looking for?
+I don't care, I want to book a table for 5 people at 13:00 on saturday.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : 3AYRGABE.
+Thanks for your help.
+Great! Have a nice day!
+================
+Hi, I'm looking for a place to stay with free wifi in the east part of town.
+There are 6 guesthouses and 1 hotel that match your request. Would you like to add additional preferences to narrow your search?
+Preferably something on the cheaper side.
+I have 3 guesthouses that meet your needs, would you like to book one of them?
+Do any of the three have parking?
+Yes, all three have free parking. I personally recommend the Autumn House.
+Okay, could you tell me the address for that guesthouse?
+Sure. It's located on 710 Newmarket Road. Anything else?
+Thank you. How many stars does the Autumn House have?
+The Autumn House has 4 stars. Do you want me to book a room for you?

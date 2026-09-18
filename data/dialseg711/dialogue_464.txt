@@ -1,0 +1,22 @@
+I'm looking for a nightclub to visit in the centre area.
+There are 5 nightclubs in the centre area, there is ballare, club salsa, kambar, soul tree nightclub and the fez club. Would you like more information on one?
+Can I just get the address for Ballare, please?
+The Ballare is located in Heidelberg Gardens, Lion Yard. Is there anything else I can help you with today?
+================
+set a reminder on my calendar for football practice at 4:50 pm on august 12th
+Ok, Your football practice reminder is set for 4:50 pm on august 12th.
+================
+Where do I live?
+You should go back home at 10 ames street, you sound confused, I'm worried for you!
+Is that the quickest route?
+Yes, that is the quickest route, sure.. I sent the info on your screen, drive very s.l.o.w.l.y, please!
+================
+Are you able to find me a french expensive restaurant?
+There are 2 expensive French restaurants. Restaurant Two Two, and Cote. Which would you like to book?
+I like the sound of Restaurant Two Two, could you give me their postcode, address and phone number?
+Restaurant Two Two is located at 22 Chesterton Road, Chesterton. Their postcode is cb43ax. You can reach them at 01223351880. Any other information I can provide?
+================
+what is the weather for today
+What location do you want the weather for?
+i want to know if it is raining in Seattle today
+There will be no rain today in Seattle.

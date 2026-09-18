@@ -1,0 +1,17 @@
+Can you answer some questions about my DMV account, please?
+Of course.
+Have you registered for an account?
+Yes, I have.
+Then you will be sent a temporary password by email. You must use the temporary password to complete the on-line registration process.
+What should I do after registering to gain access to the web applications of another NYS branch?
+To use secure web applications at another NYS agency, simply sign in using the same Username and Password.
+That's what I thought. My wife wants to register for an account too, anything she should watch out for?
+In order to register for a account, you must first select a sign-in Username and Password and provide your identity information. Your Username, Password, and identity information are stored in a secure directory called the NY.gov, which is maintained by New York State Office of Information Technology Services.
+And what happens after the identity is verified?
+Upon validation of your identity, you will be permitted access to use DMV's secure web applications. This process is designed to protect the security of your identifying personal information.
+================
+Can you suggest a topic?
+MyDMV.
+================
+Can you tell me how to unlock locked accounts?
+Of course I can.

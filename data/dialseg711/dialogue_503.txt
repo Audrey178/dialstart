@@ -1,0 +1,27 @@
+I'm looking to book a taxi to Pembroke College for this evening.
+Where will you be departing from?
+I need to leave from primavera
+Great, do you have a leave by, or an arrival time in mind?
+I want to leave by 9:15. I also need to know the car type and contact number.
+Okay, look for a yellow audi to pick you up. The contact number is 07881400116. May I assist you with anything else?
+================
+I'm looking for some info on an attraction called Kettle's Yard.
+Absolutely! The entrance is free! It is located in the west. The address is castle street!
+================
+What date is my dentist appointment and who is attending?
+You have two dentist appointments; one on Wednesday with Jon and one on the 18th with Ana.
+Thanks for your help.
+================
+Yes. I'm looking for a train, please.
+Of course. Where will you be departing from and arriving? When would you like to leave?
+I need to leave from Cambridge on Sunday.
+There are 202 trains leaving cambridge on sunday, do you have a destination or time?
+Well, I'm thinking I need to leave sometime after 10:45 for Norwich.
+There is a train leaving Cambridge for Norwich at 11:36 which arrives at 12:55. Shall I book it for you?
+Yes, I'd like one ticket please.
+Your booking was successful. The ticket fee is 14.08 pounds and is payable at the station. Your reference number is 23G7RUXL. May I assist you with anything else today?
+================
+is it going to be raining this weekend
+What city would you like me to check to see if it's raining this weekend?
+Exeter please
+It will be raining on Saturday and Snowing on Sunday in Exeter

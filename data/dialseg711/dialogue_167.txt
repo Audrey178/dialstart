@@ -1,0 +1,26 @@
+I'm looking for an attraction called Williams Art and Antiques.
+Williams art and antiques is at gwydir street, no. 5 dale's brewery. Would you like me to book tickets?
+No thank you. Just the area and postcode please.
+It is in the centre and the postcode is cb12lj. Is there anything else you need help with today?
+================
+show me the route to coffee shop
+There is 2 coffee shops locally; one is Philz that's 2 miles away and Starbucks that is 6 miles away. Which do you prefer?
+Pick the one with no traffic or the least traffic route.
+There is no traffic to Starbucks, navigating now.
+================
+I am looking for a particular restaurant. Its name is called city stop restaurant
+I have found the restaurant you are looking for. Would you like the address?
+No, I just need to know the type of food they serve and the phone number.
+The restaurant serves European food. Their phone number is 01223363270. Anything else?
+================
+Taxi to de luca cucina and bar please
+What time would you like to arrive at your destination?
+================
+I am looking for the Addenbrookes Hospital. I am wondering if they have a trauma and orthopaedics department?
+Yes, Addenbrookes Hospital has two trauma and orthopaedics departments. Would you like the phone numbers?
+No, I just need the postcode, please.
+That's no problem. The postcode is CB20QQ. Can I assist you with anything else?
+Can you book me a cab to take me to and from the hospital.
+At what time? From where are you going?
+I'll have to get back to you on that.
+Is there anything else you need assistance with?

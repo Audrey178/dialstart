@@ -1,0 +1,36 @@
+I need a train that will be in Cambridge by 3:00
+What day will you be travelling?
+I will be travelling on Wednesday.
+Alright, where will you be departing?
+I'm leaving out of London King's Cross.
+What time do you need to be there by? Is it 13:00?
+No, I need to arrive by 14:00.
+I have only one train that would be close to those traveling times. It leaves London Kings Cross at 11:17 and arrives in Cambridge at 12:08.
+Can I get a ticket for 1 person and the reference number please.
+I was able to book you 1 ticket on train TR2417. Your total cost is 23.6 GBP payable at the station. Your reference number is T9V9S3I3.
+================
+Schedule a reminder about a doctor appointment with my mother at 11am on the 7th of this month.
+Okay, scheduling a reminder for your doctor appointment at 11am on the 7th of this month with your mother.
+================
+Hello! I need a place to bed down for the night that offers free parking and wifi. Can you help me?
+Yes, I can help. Do you have a price range and part of town in mind?
+I would like a moderate priced hotel in any part of town please.
+There are two hotels in the north area with moderate prices. Ashley hotel and Lovell Lodge. Both are two stars, would you me to book you for either one?
+Yes, please book the Ashley Hotel.
+Certainly. What day would you like to stay?
+On second thought, I'm not ready to book yet. Could you give me the address and phone number of the Ashley Hotel?
+They are located at 74 chesterton road. Their number is 01223350059.
+================
+Car I need to buy groceries: is there any grocery store on our way?
+The Hacienda market is 2 miles away in heavy traffic. Would you like directions there? Alternately there is the Sigona Farmers market, 3 miles away.
+is there traffic on the route to Sigona Farmers Market? If not, please direct me there.
+There is no traffic at all, I sent its position and the route to follow on your screen
+================
+I'm looking for a place to stay with free wifi. Can you help me find something moderately priced?
+We have plenty of moderately priced options with free WiFi. Do you have any additional preferences?
+Are there any with a 5 star rating?
+Unfortunately, none of them have a 5 star rating.
+Are there any with a 4 star rating?
+Oh yes, several. Are there any addition preferences on those?
+Nope, any 4-star moderate place with wifi will be fine. Could you book a room starting Saturday for 3 nights, 5 people?
+You are booked at the acorn guest house. Reference number is ROCCFCM6.

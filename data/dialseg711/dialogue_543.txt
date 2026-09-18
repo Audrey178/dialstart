@@ -1,0 +1,31 @@
+Will there be clear skies in Redwood City next week?
+There will not be clear skies in Redwood City next week.
+================
+Help me get a taxi to darrys cookhouse and wine shop
+Sure! when would you like to arrive?
+I want to leave after 06:00
+And what is your departure location?
+I'll need to be picked up from Cambridge Contemporary Art.
+OK, I have booked a grey volkswagen, contact number 07048771014. What else can I do for you?
+================
+I am looking for a place to dine. The restaurant should be in the cheap price range and should serve vietnamese food.
+There is a Vietnamese restaurant in the west area of town that is in the cheap price range called Thanh binh, should I book that for you?
+Yes, I need the reservation to be for five people on Monday at 19:00.
+Already booked. welcome
+Thank you, can I get the reference number?
+Sorry, unfortunately that time is not available.
+am asking for the reference number please
+My apologies, it seems that this particular booking is unavailable. Would you like to book a different time or day?
+If the booking fails how about tuesday.
+I have booked a table for 5 at 17:00 on Tuesday. They will hold the table for up to 15 minutes. The reference number is 2VNS11P1.
+================
+schedule dentist appointment
+Ok, what day should I make the appointment?
+10am wednesday morning
+================
+I'm looking for a train. The train should go to cambridge and should leave on tuesday
+We have over 200 trains, do you have a departure site or time?
+I'm departing from Norwich and need to arrive by 12:15.
+There are many options available. Is there a certain time you would like to depart?
+No just tell me the price of the trip please
+The price of the train would be 17.60 pounds. Anything else you need?

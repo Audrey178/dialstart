@@ -1,0 +1,32 @@
+I'm at Kettle's Yard and need a taxi to pick me up by 19:30.
+I would be happy to help with your request, what is your destination?
+I want to go to castle galleries.
+What time would you like to arrive at Castle Galleries?
+I need to leave after 19:30.
+Your booking is complete, a red ford will be picking you up.
+Thank you, what is the contact number?
+The contact number is 07833391546. Do you have any other questions?
+================
+Hello, I'm looking for a cheap place to stay with 4 stars.
+Hi, i have many place to choose from. Is there a specific area of town you are looking to stay in?
+I would like a guesthouse type with free wifi please. Also the area and address please.
+I found the Leverton House which meets your requirements. It is in the east at 732-734 newmarket road. Do you need a reservation?
+================
+I am looking for a place to dine. The restaurant should be in the west and should be in the cheap price range
+I have both an Italian restaurant and a Vietnamese Restaurant. Do you have a preference?
+I don't care book a table for 5 people at 15:30 on friday.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : YW1NYRXC.
+================
+Hi, I am trying to find the police station that's closest to my location please.
+The nearest police station is in Parkside, Cambridge, CB11JG
+Thanks, what is their phone number?
+Telephone : 01223358966 there you go
+================
+I am trying to get some suggestions on where I can take my wife for our anniversary. We want to try to find something fun to do.
+How about whipple museum of the history of science?
+Sounds interesting. Can I get the entrance fee and postcode info?
+It is a free attraction, and the postcode is cb23rh. Is there anything else?
+Well, I guess I forgot to specify that I need something on the south end of town.
+I'm sorry, but there is nothing on the south side of town. Would you like to change the area?
+Are there any attractions at all on the south side of the city?
+I'm sorry, yes, Nusha is an entertainment venue that I think you will enjoy. Postcode for that is cb17dy, but there is no entrance fee listed.

@@ -1,0 +1,40 @@
+Yes I am looking for an expensive restaurant in the South of town.
+I have many. Do you have a preference for type of food served?
+Sorry, Actually I need an expensive restaurant in the north. the first on your list would be great.
+Sure how about Saigon City?
+Sounds great, can you book a table for 5 at 18:00?
+Alright, which day would you like the reservation to be on?
+Actually, I won't be needing a reservation just yet. Could you verify the type of food Saigon City serves?
+Saigon City serves asian oriental cuisine. Would you need anything other information or assistance?
+Yes, could I get the restuarant's phone number and postcode?
+Certainly. The phone number is 01223356555 and the postcode is cb41nl. Anything else I can do for you?
+================
+Can you direct me to a coffee or tea place nearby, preferably on a route with no traffic?
+Cafe Venetia is a mile away with no traffic at 269 Alger Dr.
+Sounds great, set the GPS for there please.
+I updated the map on your screen, drive carefully!
+================
+I need to find a train going to Stansted Airport and departing on Thursday.
+the train id is TR7966
+How much is a ticket?
+The train ticket will cost you 10.10 pounds.
+Does that train arrive by 16:45, I need to be there by then.
+The TR7966 is the first train of the day, arriving at 6:08. The latest train arriving before 16:45 would be the TR9427 arriving at 16:08. Would you prefer that?
+Do either of those trains depart from Cambridge? I'd like to leave from there if possible.
+TR7966 does depart from Cambridge and arrives at 6:08. The latest train from Cambridge to Stansted airport on Thursday arrives at 10:10. It is train TR6242. Which do you prefer?
+The 10:10 would work for me!
+Alright, how many tickets do you need?
+I can get my own ticket, thank you. How much will it cost?
+The fare is 10 pounds 10. May I help you with anything else?
+No, that's all Thanks
+Thanks I have enjoyed the service
+================
+I'd like to arrange for a taxi please
+Where would you like to travel from and to?
+I'm leaving from jinling noodle bar and going to dojo noodle bar. I'm a noodle bar crawl!
+What time would you like to arrive?
+It should leave after 11:15.
+Booking completed! Booked car type : black skoda Contact number : 07209986380
+================
+When is yoga? Who's going to be there?
+Yoga is on the 3rd at 10 am with your mother.

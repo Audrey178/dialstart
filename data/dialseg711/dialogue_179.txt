@@ -1,0 +1,36 @@
+what is the temperature for the next 7 days weather forecast
+What city shall I find the weather forecast for?
+Brentwood please
+This week in Brentwood the temperature lows will be in the 20s and 50s with highs reaching 100F
+================
+I need a train to Broxbourne, leaving after 09:15
+There are 98 trains, do you have a departure location and day?
+I would like to depart from cambridge on friday
+Booking was successful, the total fee is 17.89 GBP payable at the station. Reference number is : 7E3M8V02. Is there anything else I can help with?
+What time will I arrive?
+The booked for 1 person TR0826 leaves at 10:01 and arrives by 11:01.
+How long is the train ride?
+It will be 60 minutes.
+================
+Could you tell me where Cotto is located?
+I have them at 183 East Road City Centre, cb11bg.
+Great! Do you know what price range they are in?
+Sure, they are in the moderate price range.
+================
+I need the address to a parking garage.
+There is Palo Alto Garage R 8 miles away at 481 Amaranta Ave
+How's the traffic?
+Unfortunately there is a car collision nearby
+================
+I kind of need some help finding a nice hotel in the north part of town.
+There are two hotels in the north part of town in the moderate price range, does that price range work for you?
+Do either of those have 4 stars?
+I'm sorry, they are both 2 star hotels. Would you like to try a different area or star number?
+A 4 star guesthouse in the north would be fine too.
+There are several in the moderate price range and one that is cheap. Does price matter?
+No, it doesn't. What place would you recommend?
+I recommend Worth House because it is in the cheap price range and has a high rating. Do you want me to book Worth House for you?
+Yes. I'll need a reservation for 3 nights starting Sunday. There are 3 people in my party.
+I have made reservations for 3 starting on Sunday for 3 nights.
+Great to hear that, can you provide me also with reference number?
+All set! Your reference number is 7PUKE6MS. Do you need any more help?

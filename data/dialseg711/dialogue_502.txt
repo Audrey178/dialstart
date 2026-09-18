@@ -1,0 +1,34 @@
+i need directions to a local fast food restaurant please
+There is Pizza Hut 2 miles away: would it be good for your hunger?
+Yes, give me the address.
+The address to Pizza Hut is 704 El Camino Real.
+================
+am looking for a train. The train should arrive by 18:00 and should go to stevenage.
+Can you provide me with your departure site?
+I am departing from cambridge on Tuesday.
+There are many options available. Is there a certain time you would like to leave?
+What one gets me there before, but closest to 18:00?
+Train TR5343 arrives at 16:10. It is the closest to your required arrival time. Would you like to reserve any tickets today?
+================
+I'm looking for an Italian restaurant in the east.
+There is Pizza Hut fen ditton. It's moderately priced. Would you like a reservation?
+Yes, please. 1 person at 16:45 on saturday.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : 37MP7UCY. Is there anything else I can help you with?
+================
+Hi, I am looking for a hospital that offers medicine for the elderly
+Addensbrookes Hospital offers medicine for the elderly. Would you like more information about it?
+Yes, please. I need the postcode, phone number and address.
+department phone book (optional) acute medicine for the elderly 01223217261 medicine for the elderly 01223216988 medicine for the elderly 01223274744 medicine for the elderly 01223217484 medicine for the elderly 01223217498
+Can I get the address and postcode, please?
+Sure, the address is Hills Rd, Cambridge and the post code is CB20QQ. Is there anything else I can help you with?
+That was everything, thanks.
+You're welcome. Will you be needing a taxi? I can arrange one for you.
+================
+I'd like a restuarant in the north with expensive food.
+There are five places, which type of food do you prefer?
+Surprise me, I just want something pricey to impress my friends. It'll be a party of seven.
+I found five restaurants, what day and time would you like to go?
+How about Monday at 19:15.
+Okay. I have booked you at Saigon City that is quite elegant and serves Asian cuisine. Your reference number is J8IGNS09.
+Thank you so much. That is all I will be needing today. Have a nice evening.
+Thank you, and would you like the address for the restaurant?

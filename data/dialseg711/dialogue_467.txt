@@ -1,0 +1,40 @@
+I am looking for expensive Corsica food.
+There are no expensive Corsica eateries, would you like to try another criteria?
+How about Indian food instead?
+Yes, there are quite a few expensive Indian restaurants. What part of town would you prefer?
+How about the west? Could you give me their postcode and telephone number?
+I have five Indian restaurants in the west. May I suggest Tandoori Palace?
+That will be fine as long as it's expensive. Can you tell me the postcode and phone number?
+The postcode for tandoori palace is cb43le, and the phone number is 01223506055. Would you like me to book you a table?
+================
+I am looking for a place to stay. The hotel should include free wifi and should include free parking
+There are many results with free wifi and parking, to help narrow it down, what area do you want to stay in?
+north area in a guesthouse
+what star rating?
+It doesn't matter as long as I can book it for 2 people and 2 nights starting Thursday.
+Did you have a price range in mind?
+No, I am not picky.
+Booking was not successful for that night at the acorn guest house, would you like me to try a different place?
+how about wednesday instead?
+Booking was unsuccessful. Would you like to try a different location?
+Yeah try a different place. Anywhere that meets my requirements
+I'm going to try for the Arbury Lodge Guesthouse, sir. Is that all right?
+Yes please try it.
+I was able to book the Arbury Lodge Guesthouse on Thursday for 2 nights for two people and your reference number is K9ZNS97G. Is there anything else you need?
+================
+Please give me the address and directions via a quick route to my friend's house.
+Jill's house is 8 miles away with no traffic on our way, the address is 347 Alta Mesa Ave, I sent it on your map
+Pick a quick route to reach there please!
+I sent the address and the route on your screen, drive carefully!
+================
+I am looking for a place to stay. The hotel should be in the east and should include free wifi
+Do you have a pricerange in mind?
+The rating should be 4 stars and I want free parking to be included.
+There are 5 guesthouses with your criteria. Do you have a preference in pricerange?
+No, will you just book me something for wednesday for 1 person for 5 nights?
+I have you booked at allenbell at 710 newmarket road. The reference number is : S0JDZBTQ.
+================
+remind me of my yoga activity with Marie.
+What time is your yoga activity with Marie?
+It is going to be at 1pm on August 22nd.
+OK I will set it for 1 pm on August 22and.

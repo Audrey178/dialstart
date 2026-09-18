@@ -1,0 +1,17 @@
+I need info about register an out-of-state vehicle
+================
+Do you need to register your vehicle in New York State?
+Not for now, but maybe in a couple of months
+================
+Do you know what you need to bring to the DMV?
+No, I don't know
+================
+Are you out of New York to register?
+No, I'm in New York right now
+================
+Can you provide proof of ownership?
+Sadly I can't, I have problems with that
+================
+Is there a lien on your out-of state title certificate?
+Yes, that's correct
+Null

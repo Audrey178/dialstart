@@ -1,0 +1,40 @@
+I need to find a good vegetarian restaurant
+I'm sorry could you repeat your request? There seems to be an error.
+I meant train. I need a train ticket for monday.
+Where did you want to depart from, sir?
+I am departing from cambridge and going to bishops stortford.
+There are 5 trains from Cambridge to Bishops Stortford on Monday. Do you want to leave at any certain time?
+What is the first train after 11:30?
+TR4861 leaves at 13:29
+Could you give me the arrival time and price also please?
+Yes, it arrives by 14:07 and costs 10.10 pounds. Would you like to book?
+Yes, please book the train for 1 person.
+I've booked you a ticket. The reference number is I3EAS0F7. Anything else I can assist with?
+I'm confused. Did I ask you to book a ticket? I can book my own passage, thank you very much!
+thanks for your service
+Thank you also. Have a nice day.
+You also. Let us know if we can assist you with anything more.
+================
+Hi, can you help me find a place to stay? I'd like a hotel on the north side, please.
+The Acorn Guest House is a 4-star guesthouse in the North. It has free parking and wifi, and is in the moderate price range. Would you like a room?
+That sounds like what I am looking for. Yes, I'd like to book a room.
+Great! When would you like to stay?
+I would like to book a room for 3 days starting Tuesday. There is a total of 3 people.
+Sorry, they don't have those dates available. Would you like me to try for other days or another location?
+Can you try for just 1 night then?
+Sorry, the Acorn is not open then, shall I try somewhere else that fits your criteria?
+Yes, whatever you can find.
+Good news, The Acorn just opened up for one night. Your reference number is UKMNFD3Q. Can I help you with anything else today?
+================
+I need a taxi at Jesus College to leave after 10:00.
+I would be happy to help with your request, but first could you tell me what your destination is?
+I'm going to royal standard.
+I have you booked in a grey Volkswagen, 0761714851.
+================
+I need some details about a police station, I think it's called Parkside Station.
+It's address is Parkside, Cambridge with Postcode CB11JGI
+================
+is it supposed to snow today
+What city would you like me to check if it will be snowing today?
+I would like to know about Manhattan please.
+There is no snow scheduled to take place in Manhattan today.

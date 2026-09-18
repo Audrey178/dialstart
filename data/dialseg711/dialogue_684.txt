@@ -1,0 +1,28 @@
+what is the date and time of the conference
+The conference is at 10 am on Monday.
+================
+I want to visit a college in the centre of town.
+You're in luck. We have 13. Do you have any preferences? For example, Downing College over on Regent Street offers free entry.
+That would be great, can you please give me their phone number?
+Their number is 01223334860. Anything else I can do for you?
+================
+Are there gonna be clear skies on Sunday in Durham?
+No, I'm sorry but on Sunday it should rain in Durham
+================
+I'd like to get moderately-priced Polynesian food.
+Sorry, but there aren't any restaurants of that type. Would you like to try a different cuisine?
+Well is there perhaps a cheap option serving that type of food in the center?
+No I'm sorry there isn't anything fitting those details. Can we try a different area or type of food?
+How about British food?
+I have 5 moderately priced British restaurants in the centre but I do not have any cheap ones. Would you like me to book one of these?
+No thank you. Can you recommend me one and give me their phone number and address?
+The Cotto is a great choice. Their phone number is 01223302010 and adress 183 East Road City Centre. Is there anything else I can help you with?
+As long as they serve British cuisine and moderately priced, that sounds great. Thanks for your help.
+They are indeed. Is there anything else you need today?
+================
+what is the weather forecast in the city
+Which city are you asking about?
+I'm going to Corona
+What day are you wanting the forecast for Corona?
+I need the forecast for the whole week if possible.
+Corona is going to be fairly cold at the beginning of the week with a blizzard in the forecast and rain. The end of the week looks stormy but warmer.

@@ -1,0 +1,46 @@
+I am looking for a moderately priced Scottish restaurant
+I'm so sorry but it seems that I don't show any that will suit what you are looking for. Would you like to try a different price range or type?
+I am looking for something in centre of town then
+Yes I have many moderately priced venues in the center of town serving British food if you like.
+I am not looking for British, I am looking for scottish food.
+I'm sorry but there are no moderately priced Scottish restaurants in town. Would you like a different type of food?
+Yes, Could you look for a Spanish restaurant instead?
+There is la tasca. They are located at 14 -16 Bridge Street. Would you like to book it?
+Yes please. Could you give me a table for tuesday at 12:00 for 2 people please.
+I've booked your reservation. Is there anything else you need?
+Can I have a reference number please?
+Yes, it's XXNQ81IE.
+================
+I would like to find an Italian restaurant open for dinner?
+I will need more information on what you are looking for, what area and what time?
+I am looking for a train departing from london liverpool street on thursday to go to cambridge.
+There are multiple trains available. By what time do you need to depart or arrive?
+I need to arrive by 09:30. The booking is for me only and I will need a reference number please.
+How about the TR4204? It will arrive by 9:07.
+That sounds good. Please book me for one person and give me the reference number.
+All done. You have 1 ticket on TR4204, Your reference number is 834POXTX. Can I do anything else for you?
+================
+I have just been robbed and i am looking for assistance.
+Would you like the phone number for the Parkside Police Station, or are you in a different area?
+Yes. Please give me the number for the Parkside police station so I can report the robbery.
+The number you're looking for is 01223358966.
+================
+I need to get a train out of cambridge.
+Your looking at the trainID of TR5767 or TR2000 depending on your time
+The train should go to stansted airport and should arrive by 21:30.
+What day of the week are you looking at traveling?
+I would like to leave on Tuesday.
+these three could help trainID departure destination day leaveAt arriveBy price duration book (optional) TR1656 cambridge stansted airport tuesday 05:40 06:08 10.10 pounds 28 minutes TR1951 cambridge stansted airport tuesday 06:40 07:08 10.10 pounds 28 minutes TR0684 cambridge stansted airport tuesday 07:40 08:08 10.10 pounds 28 minutes
+thank you for your help. book for me 5 seats and get me the reference numberes
+I'm sorry, could you confirm which train you wanted to book seats on? There were 3 choices given to you.
+Whichever train goes to stansted airport Tuesday from cabridge arriving closest to 21:30.
+Booking was successful, the total fee is 50.5 GBP payable at the station. Reference number is : GMYBPE6F.
+================
+I am looking for a restaurant that serves asian oriental food in the centre of town.
+Do you have a price range preference? There are two cheap, 1 moderate, and 1 expensive.
+I'm interested in a cheap place. What can you tell me about those?
+We have dojo noodle bar, and j restaurant which are both cheap restaurants in the centre of town. Would you like to book one of those?
+Yes, get me a table for two at Dojo noodle bar on Wednesday at 16:00
+There are no tables available at the time requested. Would you like to try another time or day?
+Hmm.. can you try at 15:00 instead?
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : H6OB1O8J. Is there anything else I can help you with?

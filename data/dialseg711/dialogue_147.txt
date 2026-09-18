@@ -1,0 +1,32 @@
+i am looking for the Addenbrookes Hospital
+Addenbrookes Hospital is located on Hills Rd, Cambridge. Is there a department you're needing the phone number for?
+I need the emergency department. Could I also get the postcode?
+Sure, the emergency department number is 01223217118.
+What is the postcode?
+Their postcode is CB20QQ. Is there anything else I can help you with today?
+================
+What is my address?
+You live at 5671 barringer street.
+Can you set the navigation for there?
+Navigation set for 5671 barringer street.
+================
+Are there any Mexican restaurants in the centre?
+Sorry no, there are no Mexican restaurants in the centre of town. Would you like to check another area?
+Sure. I would be interested in Indian restaurants also.
+Curry Garden is in that part of town and they serve Indian food.
+Please book this for 7 people, at 18:00 on Sunday.
+Unfortunately there is nothing available for 18:00 on Sunday. Would another date or time work for you?
+Try 17:00 on Sunday.
+Of course. You're booked at 17:00 with reference number TTP6GYCJ. The table will be reserved for 15 minutes. May I assist with anything else?
+================
+navigate to the nearest mall
+We are 2 miles away from Midtown Shopping Center: would you like to go there?
+Please send me the address and pick the fastes route to go there, thanks!
+Midtown Shopping Center is located at 338 Alester Avenue, which is 2 miles away.
+Please pick the fastest way for me and don't be repetitive car, you're not doing well your job!
+I'm sorry, I'm doing my best.. I picked the best route for you, enjoy your trip!
+================
+what is the weather today in tomorrow
+What city do you want the forecast for?
+Please tell me the weather report for Menlo Park today.
+In Menlo Park today is going to be foggy, low of 60F, high of 70F and tomorrow is going to be rain, low of 30F, high of 40F.

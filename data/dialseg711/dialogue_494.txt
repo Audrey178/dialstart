@@ -1,0 +1,25 @@
+navigate to the nearest starbucks
+The nearest Starbucks is 6 miles away at 792 Bedoin Street. The traffic is currently clear.
+================
+I'm at Jesus College and I need at taxi to arrive by 18:00.
+Sure! Where are you coming from?
+Leaving Jesus college.
+Can you let me know where you are going to?
+The next stop on my list is scott polar museum.
+I've booked you a taxi. It will be a grey toyota, contact number is 07760280827.
+================
+is it going to rain this week
+================
+I'm looking for a taxi to museum of archaelogy and anthropology.
+What time do you wan to leave and arrive by?
+I need to get there by 17:15.
+Where will you be traveling from?
+I will be leaving from cote.
+Okay great. You are booked with a yellow volvo.
+Thanks. May I have the contact number for the Volvo, please?
+Yes, the number is: 07611307167 Can I help with anything else?
+================
+Can you give me the address for the Parkside Police Station?
+The address you're seeking is Parkside, Cambridge.
+Thank you, what is the phone number and postcode?
+Telephone : 01223358966 Postcode : CB11JG. Is there anything else?

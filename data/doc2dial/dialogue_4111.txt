@@ -1,0 +1,19 @@
+I have several questions about FAFSA termination
+We have a section of questions we've heard about completion by the high school and public school district, what would be your question?
+================
+What are the FAFSA Completion Basics?
+================
+Based on the previous question, why do some districts appear blank on maps?
+Please note that Districts are listed as missing or insufficient data if some conditions are met
+ok I understand but it is not the case that I am looking for
+================
+well but in some cases why does there seem to be duplicates from the same school?
+This comes to pass since these school names are inherently reported by students, the reported name can vary considerably. By adding the data, our standard practice is to report the name of the school that applicants most commonly report.
+================
+ok and what are the conditions by which some districts appear blank on the maps?
+The most common is that the statutory adjusted cohort graduation rate is missing, for example, if districts merged or a new district was created after 2009/10 and will not appear on the maps.
+ok and that is the only condition?
+not as I mentioned are several conditions
+================
+ok and relative to the totals reported last year they are different from the numbers reported now over last year. What is causing this?
+This can be due to several factorsSince in previous years, we used representatives to determine if an applicant was a first time applicant; ine if an applicant was a first, time filing cabinet; We now use true declarant status for the first time as a criterion for being a senior. and this affects the totals

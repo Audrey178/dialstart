@@ -1,0 +1,42 @@
+find me a nearby shopping mall shopping center
+The closest shopping center is Midtown Shopping Center 3 miles away.
+================
+Schedule a conference for 11 am on the 6th of this month with sales team.
+Okay, i am scheduling a conference with the sales team on the 6th of this month at 11am.
+================
+What restaurants in the centre serve international cuisine?
+The Varsity Restaurant and the Bloomsbury Restaurant serve international food and are in the centre of town.
+How about a place in the moderate price range?
+Both of the named restaurants are in the moderate price range.
+OK, can you book a table for 6 at 12:00 on Tuesday at The Varsity Restaurant? I will need a reference number too, please.
+Certainly. I will have that reference number for you in just one second.
+Thanks. Looking forward to it.
+Yes I can. I have booked you a table for 12 noon on Tuesday for 6 people. Your reference number is WC1ZY82V. Anything else I can help you with?
+================
+Where is the nearest hospital?
+Addenbrookes Hospital is on Hills Rd, Cambridge. Is there a particular department you need?
+No particular department, but may I please have the address?
+The address is Hills Rd, Cambridge with a postcode of CB20QQ. Will there be anything else?
+I also need the phone number.
+The general phone number is 01223245151. Do you need any further assistance?
+No that was all. Thank you.
+You're welcome! Have a great day!
+================
+Are there any rooms available in hotels with free parking?
+Yes. Do you have a preference for the hotel's area or price range?
+Are there any available for less than $200 a night?
+There are several. Alexander Bed and Breakfast is cheap and is in the Centre. Would you like me to book that?
+Is that a 2 star hotel?
+No, it has 4 stars
+Let's try a hotel type with free parking in the centre of town with a star of 2.
+I'm sorry. I have no 2 star hotels in the center of town. However, I have some in other parts of town. Would you care to modify your search criteria?
+how about for 2 nights?
+The only 2 star hotels are in the north or the east. Do you mind staying in one of those areas?
+Yes that would be fine with me
+How about the Ashley Hotel? It is on the north side of town, has 2 stars, free wifi and parking, and is moderately priced.
+Can you make a reservation for 6 people for 3 nights starting on Wednesday.
+Unfortunately, the rooms are unavailable for that day and time. Can I try a shorter stay for you or possibly a different day?
+How about for 2 nights?
+Yes, I was able to successfully book you for two nights. Is there anything else you need?
+Can I have the reference number and address please?
+Of course! The reference number is QZYSOMAW and the address is 74 chesterton road. May I help with anything else?

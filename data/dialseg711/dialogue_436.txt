@@ -1,0 +1,33 @@
+schedule an appointment with the optometrist on the 12th
+Appointment has been recorded for the 12th
+But you didn't ask for the time?
+================
+i am looking for a train that will arrive at 20:45 and leaving on sunday
+Certainly, where are you traveling from?
+Cambridge, and I need it go to Bishops Stortford.
+There are several trains that will get you there on time. What time do you hope to leave?
+I don't care. I just want to arrive at 20:45.
+ask for one option below trainID departure destination day leaveAt arriveBy price duration book (optional) TR6572 cambridge bishops stortford sunday 05:29 06:07 8.08 pounds 38 minutes TR8095 cambridge bishops stortford sunday 07:29 08:07 8.08 pounds 38 minutes TR9904 cambridge bishops stortford sunday 09:29 10:07 8.08 pounds 38 minutes TR0007 cambridge bishops stortford sunday 11:29 12:07 8.08 pounds 38 minutes TR2402 cambridge bishops stortford sunday 13:29 14:07 8.08 pounds 38 minutes
+Can I please speak with the manager? Giving me all this information at once is not helpful.
+I'm sorry. Train TR9904 runs from Cambridge to Bishops Stortford on Sunday and arrives at 10:07. Will that work for you?
+Yes, could you please give me the travel time, and departure time?
+TR9904 leaves at 09:29 and takes 38 minutes.
+================
+I need to book a taxi from Saint Johns Chop House to Williams Art and Antiques please.
+Not a problem, I will need your preferred pick up and arrival times in order to book your cab.
+The taxi should leave by 3:15.
+I have booked a taxi for you! The car is a yellow honda. The contact number is 07799036655. Is there anything else you need today?
+I'm sorry, could you make sure the taxi is actually leaving after 3:15? I made an error earlier.
+No problem, a blue lexus will pick you up at 3:20. The contact number is 07581540721. Will there be anything else?
+That should be perfect!
+It was a pleasure to help you.
+================
+I'm looking for a place to dine. The restaurant should be in the centre and should serve mediterranean food.
+The Gardenia restaurant is a great choice. It is not expensive, and meets your other criteria. The address is 2 Rose Crescent City Centre
+Sounds great! Can you help me book a reservation for 4 people on Sunday?
+What time would you like the reservation to be for?
+16:15, please, thank you.
+You are booked, with ref # WBB6XXRP. Anything else for you today?
+================
+I need to know if Brentwood is going to be overcast on Monday please.
+The forecast calls for fog on Monday in Brentwood.

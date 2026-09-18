@@ -1,0 +1,13 @@
+Hello I need information about the Sales Tax Payment Proof
+Do you plan to register a vehicle in New York at a DMV office?
+do not
+What specific instructions should I follow?
+Here are specific instructions
+================
+Where can I get more information about sales tax?
+Do you want more information?
+Yes
+For more information, visit the website of the New York State Department of Taxation and Finance
+================
+Should I bring the bill of sale from the dealer?
+If you purchased the vehicle from a New York State auto dealer or an out-of-state dealer who is authorized to collect New York State sales tax, please bring the dealer's bill of sale showing that you paid to the state New York sales tax. Also bring a bill of sale from the MV-50 NY State dealer only or a complete sales tax exemption {Sales Tax Form} pdf at the New York State Department of Taxation and Finance DTF-803 for a departure from - state dealer.

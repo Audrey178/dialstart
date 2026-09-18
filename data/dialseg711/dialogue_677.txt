@@ -1,0 +1,28 @@
+I really need to find a hospital in town, can you help me?
+I can. There are 66 different listings for medical services in the area. Did you need a specific department?
+================
+I am from out of the area and would love some help finding a room somewhere in the city.
+Sure, I'd be happy to help. Do have a price range or particular area of town you're interested in?
+I'd like it to include free parking and be in the north please.
+I have several options for you with prices ranging from cheap to moderate. I recommend the Archway House.
+Is that a guesthouse? I would really like that.
+Yes, The Archway House is a guesthouse in the north. It's moderately priced, has 4 stars and includes free wifi and internet. Can I book you a room there?
+You certainly can, thank you. I will be the only guest and I'd like to check in for 2 nights starting Wednesday.
+I'm sorry. They are booked up through those days. Would you like to try for one day?
+Yes, 1 night would be fine.
+I have booked you for Wednesday night at the Archway House. Your reference number is 1MWP83E1. Is there anything else I can help you with?
+================
+what's the highest temperature for this week
+What location do you want to know the highest temperature?
+Menlo Park, please
+On Friday in Menlo Park it will be a high of 100f.
+================
+I am looking for information about the kirkwood hotel.
+Great! What would you like to know about it?
+Do they have internet, and also what is the postcode?
+Yes, they have free wifi and their postcode is cb42da. Would you like me to book a room for you?
+================
+where can i find tea around me
+The closest tea shop is Coupa and is 6 miles from you located at 394 Van Ness Avenue.
+Which one is it the quickest route to reach it?
+The quickest route available to Coupa is 6 miles and there is a car collision nearby

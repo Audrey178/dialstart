@@ -1,0 +1,44 @@
+what is the weather going to be today and tomorrow
+What city are you wanting to know the weather for?
+Grand Rapids
+In Grand Rapids, it will rain Monday with a low of 30F and high of 40F. It will also rain Tuesday, with a low of 70F and a high of 80F.
+================
+I need to find a 4 star hotel that has moderate price.
+There are 11 possible choices. Do you have any additional preferences?
+Yes I would like it to be on the North part of town.
+There are quite a few guesthouses in that area. Would a guesthouse meet your needs?
+Yes a guesthouse would be fine. Does it have internet? And what is it's postcode?
+Yes, the Acorn Guest House has internet.
+Great, that's perfect. Thanks for your help!
+And the postcode is cb41da if you still need that information. Is there anything else I can help with?
+================
+I'm looking for a train going to Ely please.
+What day is this for?
+It will be for Thursday.
+What time would you like to go?
+I just need to arrive by 14:15.
+I have three different train choices. Depending on how early you want to arrive. I have one arriving at 6:07, one at 8:07 and one at 10:07.
+What's the travel time? Knowing that will help me select on a time.
+The travel time is only 17 minutes.
+When is the departure time for 10:07?
+TR1923 departs cambridge at 9:50 and arrives in ely by 10:07, total travel time of 17 minutes. Do you want to book a ticket?
+Not at this time. Thank you for your help!
+Is there any other information I can get for you at this time?
+================
+I am looking for some info on India House
+India House is a restaurant located at 31 Newnham Road Newnham on the west side of town. Is this the place you are referring to?
+That sounds right. Could you reserve a table for 6 at 18:00 on Friday?
+I apologize but the booking was unsuccessful. Can we try another day or time?
+Can you try for 17:00 instead?
+Booking was successful for that time! Your table will be reserved for 15 minutes. Here is your reference number: 6BCI3XF8.
+================
+I want to find a hotel to stay in located in the centre
+How about cityroomz? it is in the moderate price range.
+Can you help me find a hotel in the cheap price range that includes free wifi?
+There are no results for a cheap hotel with free wifi in the centre area. Would you like to try a different area or guesthouse?
+Try a guesthouse please.
+how about alexander bed and breakfast?
+Is it cheap? I don't have much money. And do they have free wifi?
+Yes, it is cheap, do you need a booking, or just information?
+Just information for now, can you please give me the address?
+The address for alexander bed and breakfast is 56 saint barnabas road. Do you have any additional questions?

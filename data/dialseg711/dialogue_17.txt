@@ -1,0 +1,30 @@
+I need a train on Wednesday
+Where are you departing from and where is your destination?
+I will be departing from Cambridge. My destination is Birmingham New Street.
+I've got lots of available trains that will get you there. Do you have a preferred time you want to leave or arrive?
+I want to leave after 08:15, arrival isn't that important.
+I have one leaving Cambridge at 9:01 and arriving in Birmingham at 11:44. Would you like to book this one?
+Yes. Would you please provide me with the reference number?
+I have booked you and your reference number is 93NZYRZQ.
+================
+Hello, I am looking for a restaurant by the name of Royal Standard. Do you know where it is?
+Yes, royal standard is in the city centre at 290 Mill Road.
+Great. Could you please book a table for 1 at 16:30 on Saturday?
+I was able to make a reservation for 1 at the royal standard. Your reference number is: FZP2XK9Q. Do you need anything else today?
+================
+What time is the football game and who will be there?
+Your football activity with Jeff is at 11 am.
+================
+I need to find a restaurant in the west part of town. It should be in the cheap price range.
+I have a Vietnamese and an Italian restaurant matching your requirements. Would you be interested in either?
+I'd prefer the Italian one.
+I have La Margherita that is a cheaper italian restaurant. It's located at 15 Magdalene Street City Centre. Did you need any help booking a table?
+Can I get the postcode for it?
+Absolutely! The postcode for La Margherita is cb30af. Would you like me to make a reservation for you?
+Yes, please. Thank you very much.
+Great! What day and time would you like the reservation for?
+================
+Am injured and are looking for a hospital nearby
+The Addenbrookes Hospital is located at Hills Rd, Cambridge Postcode CB20QQ
+That may be good. How many minutes away is that hospital?
+Where are you currently located?

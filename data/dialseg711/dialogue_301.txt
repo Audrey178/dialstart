@@ -1,0 +1,36 @@
+I need help finding an expensive place to eat in the west please.
+There are many options for expensive food in West Cambridge. Is there a specific type of food you would like?
+Yes, I would like eat Indian food, where I can eat Search Chicken Tikka Masala.
+I'm sorry, there is nothing showing for Chicken Tikka Masala. There are however 5 expensive Indian restaurants in the west part of Cambridge. I would recommend the Rice Boat.
+I'd like to book the Rice Boat for 1 at 11:45 on Monday.
+You are booked for the Rice Boat on Monday at 11:45. Your reference number is S224QQ91. May I help you with anything else?
+================
+give me directions to the nearest mall
+Navigating you to Town and Country.
+Give me the address.
+The address to Town and Country is 383 University Ave.
+Thank you car, please set the GPS with the fastest route to get there
+GPS set to fastest route. We should be there soon.
+================
+I'm looking for a greek restaurant that is moderately expensive.
+I apologize I have no greek restaurant that is moderately expensive, or moderate or expensive is that is what you intended. Would you like another cuisine type?
+Please try one that serves Turkish food.
+Meze bar restaurant is available
+Can you book a table for 5 people at 18:00 on Monday?
+I've reserved a table for you. Anything else?
+Yes, can I please get the reference number?
+Of course, I'm so sorry that I didn't provide that earlier. Your reference number is BA8FS8Z5. Do you need any other assistance today?
+================
+I need a taxi today
+Sure! what is your departure site?
+I need to leave from broughton house gallery
+Sure! when would you like to arrive?
+I really need to get there by 16:30 please.
+Ok, and what is your destination?
+My destination is downing college.
+Your booking is complete. The car type is a yellow skoda and the contact number is 07614934136.
+================
+I'm wanting to find a restaurant. The location I want is the west and I want something in the moderate price range. Can you help me?
+Certainly! There are 3 options for moderately priced restaurants in the West: British, Indian or Italian. Do you have a preference?
+Could I have the phone number for the Indian restaurant?
+Yes, the phone number for the meghna restaurant is 01223727410. What other information would you like?

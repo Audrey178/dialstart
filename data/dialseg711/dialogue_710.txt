@@ -1,0 +1,27 @@
+I'd like to find an expensive restaurant in the north part of town.
+There are many restaurants in the North that match your description, what type of cuisine are you interested in?
+The restaurant should serve asian oriental food.
+I have one restaurant called saigon city on 169 high street chesterton chesterton. Would you like me to book for you?
+Yes, I would like to be booked for a table for 8 on 19:45 on a Saturday, and could I also get the reference number?
+Your reservation has been made and the reference number is 3P2ALRY0.
+================
+Will it be hot in Grand Rapids on Friday?
+No, on Saturday it will be blizzard in Grand Rapids
+================
+Are there any expensive British restaurants in town?
+There are 57 restaurants that match your specifications. Do you want anything more specific?
+Yes, I'd like to find one in the west side of town.
+I have two restaurants that meet your needs, Graffiti and Travellers Rest. Would you like to make a reservation at one of those?
+Yes, I need to book a table for five people at 17:15 for this Thursday.
+I am unable to book a restaurant at that time on Thursday. Is there another day or time slot I can check for you?
+Will you check 16:15?
+A reservation at 16:15 was successful at Graffiti. Your reference number is VCCP7L4M. Is there anything else I can help you with today?
+================
+Please book me a taxi to club salsa after 01:30.
+I can book you a taxi to club salsa at 1:30. Where do you need to be picked up?
+I am at saint john's college.
+What time would you like to arrive by?
+I want to arrive by 02:30.
+Before booking, please confirm either your arrival or departure time. There are 2 different times stated, so I want to be sure before reserving.
+I'm sorry for the mixup. I want to leave after 01:30.
+Booking completed! Anything else I can help with? Booked car type : yellow ford Contact number : 07427696778

@@ -1,0 +1,24 @@
+find out the location, date and time for my meeting.
+You have two meetings scheduled. One on the 7th in conference room 100 at 9am, and another on the 16th at conference room 50 at 9am.
+================
+I would like to get a taxi from the Museum of archaeology and anthropology to the Soul Tree Nightclub
+Certainly. Could you please tell me either the time you want to leave or the time you would like to arrive by?
+The taxi should arrive by 02:30
+I have booked you a taxi for that time. It is red bmw. Is there anything else I can assist you with today?
+yes actually, I was wondering if you had any contact information for the driver?
+The contact number is 07193948183. Anything else I can help with?
+================
+Yes, I need a hospital with a hepatology department please.
+Addenbrookes Hospital has a hepatology department. Their number is 01223217712.
+What is the postcode there?
+The postcode of the hospital is CB20QQ.
+================
+I want to book an evening train from Bishops Strotford to Cambridge.
+Certainly, there are lots of trains available. Which day would you like to travel?
+Sunday please. I'd like to leave after 16:30.
+Train TR5298 leaves at Bishops Strotford at 17:29 and arrives in Cambridge at 18:07. Would you like to book this trip?
+Yes, let's book it for four, please. May I have a reference number?
+Alright, I've got 4 tickets booked leaving at 17:29. Your reference number is ZIHX30RA.
+================
+On sunday in exeter will it be overcast?
+No it will not be overcast on sunday in exeter.

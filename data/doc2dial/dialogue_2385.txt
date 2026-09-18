@@ -1,0 +1,18 @@
+Hi, can you tell me what is a coupon ID number for the Snowmobile Club of the New York State Snowmobile Association (NYSSA)?
+================
+Are you a member of a NYSSA snowmobile club?
+do not
+Do you have current proof from NYSSA?
+Yes
+If you have current proof from NYSSA, enter the proof ID number in the box provided.
+================
+the name of my street is too long and I cannot put it in the field, what guideline should I take in that case?
+if the street name is a word that has an accepted abbreviation, use that abbreviation
+And what do I do if I don't know any abbreviation for that street?
+in that case omit the street type
+================
+What if someone doesn't have current proof?
+in that case omit the voucher identification number section.
+================
+What is the topic about?
+about the registry

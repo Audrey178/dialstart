@@ -1,0 +1,16 @@
+Do you know what information is needed for the parents' section of the FAFSA form?
+================
+Do you mean questions that ask for each parent?
+yes
+Just the basic information about your parent's identity, like their name, date of birth, and social security number; their living situation, marital status, state of residence, household size, and financial circumstances.
+================
+How should I respond if they are separated?
+ That would depend on if your parents live together or not. If your parents are married but are considered legally separated by a state, or if they legally married but have chosen to live separate lives then they are considered separate, as if they weren't married.
+================
+What if my parents don't want to provide the required information for the FAFSA form, can I submit it without that info?
+You could, but take into consideration that you would not receive an EFC and some state-school-based aid programs look at the EFC to determine your eligibility for their funds, if you don't have an EFC then you won't be eligible for those aid programs.
+================
+And what if my parents live in one of the Freely Associated States?
+Ask them to enter the Amount of Wages Earned from their Freely Associated States tax form in the field where the FAFSA form asks for adjusted gross income.
+Another doubt I have is, what if my parents do not have a social security number?
+Then just enter all zeroes on the field the FAFSA form asks for that information.

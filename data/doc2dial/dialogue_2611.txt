@@ -1,0 +1,17 @@
+how Register a pick-up truck as 'passenger' class vehicles
+================
+Do you want to register a van as a 'passenger' class vehicle?
+yes
+Your pick - up truck can qualify for passenger class plates if it meets certain conditions , depending on its unladen weight
+Do you have a modified or unmodified pickup truck with a curb weight of less than 6,001 lbs?
+yes
+you can register it in the passenger class if you meet the conditions
+================
+which is the topic
+Registration
+================
+what are the conditions?
+ the pick - up truck does not have any business advertisements,  and the pick - up is used exclusively for non - commercial purposes
+================
+Does passenger class change the MGW listed on registration documents?
+ No. Passenger class plates on a pick - up truck do not change the maximum gross weight MGW listed on the registration documents or the unladen weight listed on the title certificate

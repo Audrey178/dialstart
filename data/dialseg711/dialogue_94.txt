@@ -1,0 +1,30 @@
+Can you help me find somewhere to eat in the centre?
+Sure! Are you looking for any particular type of food such as African, British, Chinese, etc?
+No type of food but I'd like it to be in the moderate range please
+Great, I have Yippee Noodle Bar that meets your criteria. Would you like me to make a reservation for you?
+Yes. There are five of us for Monday at 19:45, please.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : SOPGGCUP.
+thank you for your help
+You are more than welcome!
+================
+I need to find the police station closest to me please.
+The police station is at Parkside, Cambridge.
+What is the address and phone number for that station?
+The number is: 01223358966. The address is: Parkside, Cambridge. Can I help with anything else?
+Can I get the postcode?
+The postcode is CB11JG
+Thank you very much for your help
+Do you need any further assistance?
+================
+Hi! Can you tell me what trains are available on Friday after 18:30?
+Certainly, but first I need to know where you are departing from and what your destination is.
+I'm going from Stevenage to Cambridge.
+The first train after 18:30 is TR4969, which leaves at 19:54. Would you like a ticket, or more information?
+Yes I would like to book it for 8 people and I will need the reference number.
+Sure, I have booked your tickets for 8 people, your reference number is : T6B9UNBQ.
+================
+Set a reminder for a swimming activity at 7 pm Wednesday with my sister.
+Okay, setting a reminder for a swimming activity with your sister for Wednesday at 7pm.
+================
+On wednesday will there be dew in alhambra
+Yes, there will be dew in Alhambra on Wednesday.

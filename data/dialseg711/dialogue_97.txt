@@ -1,0 +1,46 @@
+Hello, I need a taxi to pick me up at chiquito restaurant bar.
+When would you like the taxi to pick you up?
+Could I get the taxi by 22:30
+What is your final destination?
+I would like to go to queens' college and I want to leave the restaurant after 22:30.
+Great - I have a white Audi picking you up at Chiquito at 22:30 and heading to Queens' College. The contact number is 07937348458. Can I help with anything else?
+No, that's all I need. Thanks.
+Alright. Glad we could help!
+================
+I'm looking for a hospital with a gynecology department.
+Addenbrookes has a gynecology department! Would you like to call them or book an appointment?
+Is the hospital located in town, and what is their postcode?
+Addenbrookes Hospital is located at Hills Rd, Cambridge, postcode CB20QQ. Would you like the phone number?
+================
+am looking for a place to dine it should be in the centre and should be in the expensive price range
+Were you looking for a specific type of food?
+Yes, I am looking for a restaurant that offers vegetarian options.
+I'm sorry but I do not have any vegetarian restaurants in the Centre area. Would you like me to search another area for you?
+Yes, how about expensive turkish food in the centre of town?
+You would probably enjoy meze bar restaurant. Would you like me to make a reservation?
+Yes, please reserve a table for 4 on Monday at 15:15.
+I'm sorry booking was unsuccessful. Could you try another time perhaps?
+Okay, how about the same time for Saturday?
+Still not open then, shall I try another date or another place to eat?
+Could you try another expensive Turkish restaurant in the centre? I'd really like to dine on Monday.
+The meze bar restaurant is expensive and serves turkish food. What time on Monday, and how many in your party?
+For 4 people at 15:15 on either Monday or Saturday please.
+Sorry, your booking was unsuccessful. Would you like a different day or time slot?
+Is the Meze Bar restaurant available for Saturday same time?
+Good news, I was able to book Saturday at 15:15. Your reference number is UYWXP4GD.
+================
+what is the forecast in my city
+What city do you want the weather for?
+Inglewood, what's the weekly weather looking like?
+There is a wide range of conditions for Inglewood next week, from 40-100F and snow to hot. Are there any particular details you would like?
+When is it expected to snow?
+It is expected to snow on Wednesday in Inglewood.
+================
+Where can I go shopping?
+Stanford Shopping Center is 3 miles away.
+Is that the closest shopping center to my location?
+Yes, Stanford Shopping Center is the closest.
+What is the address?
+Stanford Shopping Center is 3 miles away at 773 Alger Dr. Please note there is a road block reported nearby.
+Oh okay let's start the route now then please.
+I sent the info on your screen, drive carefully!

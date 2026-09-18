@@ -1,0 +1,21 @@
+i have to go grocery shopping can you give me directions to the nearest grocery store
+The closest grocery store is 4 miles away. Would you like the name and address of it?
+Yes and please tell me if there is any traffic
+Let's go at Sigona Farmers Market, it's 4 miles away at 638 Amherst St and, in this moment, there is no traffic
+================
+Do you have any information on the Parkside Police Station?
+Thank you for calling. I can tell you that their phone number is 01223358966 and that they are located at CB11JG. Is there anything else?
+================
+I am looking for a hotel that is expensive and has free parking.
+I have about 5 great options for you. Do you prefer a certain area in the city?
+I'm looking for a guesthouse in the east side of town.
+I am afraid I have nothing available with those specifications. Would you like a different are or a hotel?
+Are there any moderately priced guesthouses in that part of town?
+Yes, both the Carolina B&B and the Warkworth House are moderately priced guesthouses on the east side. Would you like a room at one of these?
+Yes, could you see if either of them have availability starting on Tuesday for 5 nights for 5 people?
+You have a reservation at the carolina bed and breakfast for Tuesday. Your reference number is BOHPJIFE
+================
+will it be cloudy
+What city are you located in?
+In Manhattan, will it be cloudy in the next 48 hours?
+it is not predicted to be cloudy in Manhattan in the next 48 hours.

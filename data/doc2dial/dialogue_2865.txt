@@ -1,0 +1,19 @@
+Do you know of any Federal Student Aid specific resources?
+================
+Yes, this section of the IT Standards Library includes documents that are specific to the Federal Student Aid It lifecycle for all projects and lists other important references that an IT project may be required to comply with dependent on the contract.
+================
+Would you like some General References?
+No, I do not need them at this time.
+================
+Would you like to know about IT Security?
+No, no need for IT Security at this time.
+================
+Do you need to know about Data Management?
+Yes, please explain Data Management to me.
+We have Data Management Resources that we use.
+================
+What resources are available not mentioned yet?
+We have Office of Management and Budget Resources.
+================
+What testing services are available?
+We use Enterprise Test Management Standards.

@@ -1,0 +1,29 @@
+What is the shortest route to home?
+Here is the shortest route to 56 cadwell street.
+================
+I need a taxi going to the varsity restaurant.
+Where will you depart from?
+I'm leaving from gonville hotel.
+I can help you with that. When do you need to leave?
+I want to leave at 12:00.
+I have a blue honda with contact number 07255247278.
+================
+I am looking for a train departing from london kings cross
+When would you like to depart London Kings Cross?
+Yes departing from there heading to Cambridge on Saturday.
+What time would you like to depart or arrive?
+The train should go to cambridge and should arrive by 14:00.
+I have train TR7309 departing London Kings Cross at 11:17 and arriving in Cambridge at 12:08.
+Please book that for 5 people.
+Booking was successful, the total fee is 94.4 GBP payable at the station. Reference number is : 7UGGORNQ.
+================
+Schedule dinner with Martha tonight at 10pm.
+================
+Hello, can you help me find a cheap guesthouse?
+There are 9 to choose from. What area would you like?
+I don't care. I'd like a hotel though, with 4 stars.
+Okay, the cambridge belfry fits all of your needs.
+That sounds wonderful. Can you please book a reservation for 7 people?
+On which day would you like to start this reservation?
+Sunday, for 4 nights please.
+I was able to book the room the reference number is YS8H6AOE. Is there anything else I can help with today?

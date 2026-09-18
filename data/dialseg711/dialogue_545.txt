@@ -1,0 +1,24 @@
+set an alarm for my doctor's appointment
+Okay setting an alarm for a doctor's appointment. What Time & Date?
+================
+what are the directions to the nearest hospital
+The nearest hospital is Stanford Childrens Health which is 5 miles away and it has heavy traffic.
+Is there another option with less traffic?
+I'm sorry Stanford Childrens Hospital is the best choice at the moment.
+Okay, thank you
+Would you like to go there?
+================
+Schedule a 6 pm meeting with my boss to go over the quarterly report on Tuesday.
+================
+I'm coming to town for an overdue visit with my relatives. Can you help me find a place to stay?
+I can definitely help with that. Are you leaning toward a guesthouse or hotel?
+I prefer a guesthouse with free WiFi.
+Acorn Guest House is available.
+I really want to stay in the east and be 4-star rated. Does the Acorn fit that?
+Sorry, it doesn't. However there are 6 guesthouses that do. Would you prefer something cheap?
+The price range doesn't matter. I need to book a room for Monday.
+Could you tell me how many nights are you wanting to stay, and with how many people, so I can see what is available?
+2 people, for 4 nights.
+I was able to book the Allenbell for 2 people for 4 nights. Would that work for you?
+Yes, thank you! What is the reference number?
+Your reference number is KT4UG66C.

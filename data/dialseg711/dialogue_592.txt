@@ -1,0 +1,32 @@
+is it cloudy today
+What city are you asking about?
+Menlo Park.
+It is clear today in Menlo Park.
+================
+I need to book a taxi departing from royal standard.
+I can help with that, what is your destination?
+I'm heading to the university arms hotel.
+Got it. And can I have a time please?
+Yes. I must arrive there by 15:45
+Have you in a gray Skoda, 07138317821 is the contact info.
+Sounds good, thanks for the help!
+Is there anything else I can help you with?
+================
+I need to contact the police.
+Certainly. The number for the Parkside Police Station is 01223358966. Is there anything else I can help you with?
+Thank you, can I also have the post code and the address?
+Yes they are located at Parkside, Cambridge post code is CB11JG
+================
+I need to book a taxi to arrive by 06:45 to go to ADC Theatre.
+Okay, what is your departure site?
+================
+Hello. I am needing some help finding a cheap room.
+I can absolutely help with that. Do you have any additional preferences?
+Yes, I would like it to be a guesthouse and I need free wifi!
+I see a few choices here. Do you have any other requirements?
+How about something that is 4-star rated?
+There are 7 gueshouses that meet your requirements. Is there an area of town that you prefer?
+Not really. Anywhere will do.
+Would you like me to make a booking for you.
+No, that's not needed. Just give me the name address and phone number of one of these hotels.
+Can I recommend autumn house located at 710 newmarket road, the phone number is 01223575122.

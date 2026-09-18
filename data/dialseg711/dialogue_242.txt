@@ -1,0 +1,36 @@
+Give me a quick route to a pizza restaurant within 5 miles of here
+There is Dominos, it's 2 miles away and with no traffic on our way
+Where is Domino's at?
+Dominos is located at 776 Arastradero Rd. Setting navigation now.
+Yes, please pick a quick route and send it on my screen!
+Showing you the quickest route to Dominos!
+================
+Could you help me find a place for entertainment? Something on the east side of town.
+Cherry Hinton Hall and Grounds is on the east side of town, would you like their phone number?
+Actually, can I get the address and postcode?
+Yes, it's Cherry Hinton Road, cb18dw.
+Can you tell me what the entrance fee is?
+I'm sorry, the entrance fee isn't listed in my system.
+================
+I am looking for a train going from Cambridge to stansted airport.
+I'd be happy to help with that. What day and time are you traveling?
+The train needs to leave on Monday after 11:45.
+Do you need to arrive by a certain time?
+No, just the closest time after 11:45 for 5 tickets please.
+TR8699 leaves at 12:40 on Monday. Would you like to book a ticket?
+Yes please. Can I have the reference number for the booking?
+I have booked your train for 5 and your reference number is A85FTGK4. Can I help you with anything else today?
+================
+My brother told me about this attraction place called Abbey Pool and Astroturf Pitch. Would you be able to tell me where it is?
+Yes, abbey pool and astroturf pitch is a swimming pool on the east side of town. What other information would you like?
+Could you tell me the entrance fee for that?
+I'm sorry, I don't have that information. You could call them at 01223902088 and ask though. Can I help you with anything else?
+================
+Where is there a shopping center within 5 miles?
+We're 2 miles away from Town and Country but there is a car collision nearby, we might lose lot of time
+Mmm, no, I wanted some route with no traffic... Is it the only option?
+Currently Town and Country is the only option.
+Well okay I guess it will have to do then where is it located?
+Town and Country is at 383 University Ave. but be aware there is a car collision being reported nearby.
+Ok that's fine just set the navigation.
+Navigation set for Town and Country.

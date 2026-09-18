@@ -1,0 +1,38 @@
+i want to find a hospital in town
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+Could I get the phone and postal for the emergency department?
+The phone number for the emergency department is 01223217118. The postal code for the entire hospital is CB20QQ.
+May I also have the general hospital number, too, just in case I need it?
+The phone numbe to the hospital is 01223245151.
+enjoyed your services. keep that up
+Well thank you. I will, and I enjoyed talking to you as well. Have a great day!
+================
+i am looking for a restuarant in the expensive price range and should be in the centre
+I have found many restaurants with the criteria you gave me offering different kinds of food. Do you have a preference for type of food?
+I would prefer welsh food, please!
+I don't have any Welsh restaurants that meet your criteria. Would British or European be ok, or would you like a more exotic cuisine instead?
+How about italian food?
+How about cafe uno?
+Sure. What is their phone number and address there
+Caffee Uno is located at 32 Bridge Street City Centre and the phone number is 01223448620.
+That is everything, still ironing out details, so I will call them later, thanks for your help.
+You are quite welcome. Do you need any further assistance?
+================
+Where can I find directions to Addenbrookes Hospital?
+The address to this hospital is Hills Rd, Cambrige, postcode CB20QQ. If you would like to call the hospital for further information the number is 0122324515.
+Thank you for that information. Can you give me directions please
+I'm sorry, but I cannot provide you with directions.
+================
+Hi! Are there any asian oriental restaurants in the center of town?
+I have 4 different options for you. Did you prefer a certain price range?
+Something moderately priced would be great.
+The yippee noodle bar is an asian oriental restraunt in the town centre with a moderate price. Would you like to make a booking?
+Yes I need a table for 4 on Saturday.
+What time shall we make that booking for?
+16:30 please.
+Okay, I successfully booked that table for you at 1630 for your party. Please arrive on time, as the table is only reserved for 15 minutes.Your reference number is LSAY2YOX.
+================
+I want pizza.
+There is two pizza places local; Dominos and Pizza My Heart. Do you have a preference?
+Yes, I'd like the route nearest me with no heavy traffic
+Let's go to Pizza My Heart, it is just 2 miles away with no traffic noted.

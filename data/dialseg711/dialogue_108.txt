@@ -1,0 +1,32 @@
+Tell me about museums on the west side of town.
+I have found several galleries and museums in the west side of town, were you looking for something with free entrance?
+Which type of museums are available?
+There are three galleries, two museums, kettle's yard, and the people's portraits exhibition at girton college.
+I'd like to go to a museum. Can you tell me your favorite? And if you have their phone number that would be really great.
+I find Kettle's Yard to be fascinating. Their phone number is 01223748100, and they're located on Castle Street. Can I be of any further assistance?
+================
+Can you get me the nearest police station?
+The nearest police station is in the Parkside part of Cambridge.
+Could you give me their address and phone please.
+The phone number is 01223358966, it is located in Parkside, Cambridge and the postcode is CB11JG. Is there anything else I can help you with?
+================
+Are there any Portuguese restaurants in Cambridge?
+Yes there is a Portuguese restaurant in Cambridge with two different locations, would you like the addresses?
+If one of them has a moderate price range please give me that address. If not tell me about Turkish restaurants instead.
+I have two Turkish restuarants, both in the centre and both expensive. May I recommend anatolia?
+Actually I need a moderately priced restaurant. Are there any fitting that description?
+I am sorry. I mistook that price range. The Anatolia is in the moderate range. Would that work for you?
+Yes, I need a reservation for 1 people at 14:00 on monday.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : 96ZYHLN1.
+================
+When is the football?
+The football game is Friday at 9 am.
+Who is going?
+Alex will be at the football activity on Friday at 9 am.
+================
+what is the chance of rain next week
+In what city should I check for rain?
+Carson.
+There is very high chance of rain in Carson next week.
+There is very high chance of rain in Carson next week.
+There is very high chance of rain in Carson next week.

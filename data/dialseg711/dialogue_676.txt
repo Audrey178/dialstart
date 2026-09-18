@@ -1,0 +1,28 @@
+I will be needing a taxi from broxbourne train station
+Sure thing, when would you like to arrive or leave by?
+I must arrive there by 23:30
+Okay, where are you headed?
+I'm going to india house.
+You car type is a red skoda. The contact number is 07699858480. Can I assist you with anything else?
+================
+what is the weather like today and tomorrow
+In what city would you like to know the weather?
+San Francisco, I'd like to know the lowest temperature today, please
+The lowest temperature today in San Francisco will be 50F
+================
+I am looking for a restaurant in the centre serving modern European food.
+I found 4 that you might be interested in. What type of price are you looking for?
+I don't have a preference on price, but how about expensive?
+There is one restaurant that is considered expensive and it is Darrys Cookhouse and Wine Shop. Would you like to book a table there?
+No that won't be necessary. I just need the phone number and postcode please.
+The phone number for Darrys Cookhouse and Wine Shop is 01223505015 and their postcode is cb11ln. Is there anything else I can help you with today?
+================
+I need to find the closest hospital, I've been injured.
+I'm sorry to hear about your injury. Addenbrookes Hospital is where you'll want to go, Telephone : 01223245151, Address Hills Rd, Cambridge, Postcode CB20QQ.
+================
+Who is going to play tennis with me?
+Alex will be attending your tennis activity
+What time will we be meeting for this?
+At 7 pm.
+Where is it located?
+Don't forget that it's on Sunday with Alex. I don't have a location for this event, however.

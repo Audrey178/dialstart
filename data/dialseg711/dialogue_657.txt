@@ -1,0 +1,38 @@
+I have a meeting at 3 pm, set a reminder.
+For what date would you like to set the reminder for?
+Later this week, on Friday.
+Setting a Friday reminder of your meeting at 3 pm
+Ok, it is with my boss, to go over the budget
+Great, I have that meeting scheduled for you!
+================
+I need to find a gas station fast, we are about out.
+The closest gas station is Shell located 4 miles away.
+What is the address?
+Shell is located at 53 University Av.
+================
+Hi, I'd like to find out about the Hobsons House hotel.
+Hobsons House is a guesthouse in the west part of town, it is moderately priced with 3 stars, internet and parking. Would you like more information?
+If you have it, can I get their phone number and postcode please.
+Sure thing. The Hobsons House can be reached at 01223304906. Their postcode is cb39lh. Did you need assistance booking a reservation there?
+I'm not quite sure yet. Do they have free parking?
+They sure do, as well as free internet. Would you like me to book you a room now?
+Not at this time. Thank you for your help.
+You are welcome. Have a nice day.
+================
+I'd like a taxi to pick me up from ali baba
+Sure! when would you like to arrive?
+It's important that I arrive by 07:00
+That can be arranged. What is your destination?
+I am going to wandlebury country park.
+Your booking is complete, a blue tesla will be picking you up.
+Could you give me the contact number, please?
+Sure! it is 07511692788.
+================
+Hi, can you help me find a 4 star guesthouse?
+Certainly. Alexander bed and breakfast and Rosa's bed and breakfast are two of our best kept secrets, offering 4 star quality at inexpensive prices.
+Alexander's B&B sounds perfect! Can I book a room there?
+What day should I start your booking, and how many days do you plan on staying? Also, how many people would be staying?
+Yes, please book for 1 person staying 5 nights starting Monday. Thank you!
+Unfortunately, I was not able to make a booking for that. We could try for another day or see if they have availability for a shorter stay.
+How about 3 nights?
+I was able to book you for three nights starting on Monday. Your reference number is Q8EDDUCC. Is there anything else I can help you with?

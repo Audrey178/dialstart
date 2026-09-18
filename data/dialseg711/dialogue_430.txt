@@ -1,0 +1,21 @@
+what is the weather like in boston
+What day do you want to know about?
+I want to know if it will be windy in Boston this weekend.
+It will be windy on Thursday in Boston.
+================
+I would like to book a taxi leaving after 10:00 from the Cambridge book and print gallery.
+Could you tell me where you would like to go?
+I would like to go to the Bloomsbury restaurant. Could you send me the contact number and car type of the taxi, once it's booked?
+Of course! Look for a yellow volvo. The contact number is 07346991147. Would you like anything else?
+================
+remind me of a doctors appointment on the 29th
+================
+find me a tea house
+The closest is Cafe Venetia, 3 miles away in heavy traffic. Would you like directions there?
+Yes, what's the address?
+The address is 269 Alger Dr. Setting navigation now.
+================
+I'm looking for a place to dine on the south side of town. Please find a place that's in the expensive price range.
+I found five expensive restaurants on the south side of town. Would you prefer Chinese, Indian, Italian or Mexican?
+Do you have a favorite you could recommend? I will need the phone and postcode and food type also please.
+If you ask me, the Chiquito Restaurant Bar serves the best Mexican food around. Their postcode is cb17dy. You can reach them at 01223400170. Can I help with anything else?

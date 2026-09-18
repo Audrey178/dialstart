@@ -1,0 +1,36 @@
+I need to book a taxi to take me to Riverside Brasserie at 11:15.
+Sure thing, where are you going?
+I'm going to riverside brasserie.
+Where will you leave from?
+I'm leaving from the Marriott Hotel in downtown Cambridge next to the theatre.
+Is that the huntingdon marriott hotel?
+No, sorry I'm actually departing from saint johns chop house.
+Ok, just to confirm, you'd like a taxi from saint johns chop house to riverside brasserie at 11:15?
+Yes, but I want to leave after 11:15. When you book it can you get me the car type and contact number please?
+All right, sir, you'll be picked up in a blue BMW. The contact number is 07348606520.
+================
+what's the weather like today and tomorrow
+What city are you in?
+Will it be clear in Alameda?
+It doesnt appear as though it will be clear in Alameda. rain is predicted for today and it should be cloudy tomorrow.
+================
+I am looking for a train.
+I'd be happy to help you with that. Can you tell me your departure location and where you are headed to?
+I am looking to go to london kings cross and depart from cambridge.
+There are 70 trains making that trip, do you have a day or time?
+I'll be leaving on friday after 12:45.
+The TR3685 leaves just 15 minutes later, at 13:00.
+================
+Car I'd like to eat pizza, please pick come restaurant within 3 miles and send the quickest route on screen
+I currently do not have a pizza shop listed that is within 3 miles. The closest is 4 miles, would that do?
+Yes, sure, please send on the screen the quickest route to reach there
+I set the GPS to get to Round Table at 113 Anton Ct. There is no traffic on our way and you should be able to reach in few minutes
+================
+I'm looking for lodgings on the east side.
+I would love to help you! There are 7 options in the East. Would you like a hotel or a guesthouse?
+Either one is fine, but I would like it to have 4 stars. It doesn't need to have free parking.
+I have 6 guesthouses in the east with 4 stars, are you looking for cheap or moderate pricing?
+Cheap is fine.
+The autumn house is a cheap four star guesthouse that has wifi and parking in the east area. Would you like to make a reservation?
+No, but can you give me their address, please?
+Of course, the address is 710 newmarket road. What else can I do for you?

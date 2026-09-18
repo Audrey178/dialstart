@@ -1,0 +1,44 @@
+Can you help me find a train please?
+Sure! Where are you headed?
+I am headed to Cambridge this week.
+Where are you leaving from, please?
+I will leave from Leicester.
+What day would you like to leave?
+Friday is preferable.
+There are trains running from Leicester to Cambridge every hour from 5:09 to 23:09 on Friday. Did you have a particular time in mind? Would you like to book tickets?
+I'd like whichever arrives by 16:15 please.
+TR6247 leaves Leicester at 14:09 Friday and arrives in Cambridge at 15:54. Will that work for you?
+That will be fine. book for 3 people
+Alright. Booking was successful. Your reference number is 87MI5OVY.
+================
+where can i get coffee
+There is Palo Alto Cafe 2 miles away or, if you prefer, Philz 6 miles away
+Give me the address of Philz.
+Philz is at 583 Alester Ave.
+Thanks so much. Is that the fastest route available?
+No actually there is another coffee shop that's just two miles away. It's called Palo Alto Cafe and located at 436 Alger Dr.
+Set GPS for the fastest route to Palo Alto Cafe.
+Setting GPS to fastest route to Palo Alto Cafe now.
+================
+I am looking for a particular hotel. Its name is called worth house.
+It is a cheap guesthouse in the north of town. Would you like to book a room?
+Yes please. I need three nights for one person starting this Friday. And can I get a reference number?
+I've successfully booked your room for Friday, 1 person, staying 3 days. Your reference number is: F2X024Q6
+================
+what's the weather going to be like today and tomorrow
+What location do you want the weather for?
+In Alameda, for today and tomorrow if there will be Frost.
+No, there shouldn't be any frost in alameda tomorrow.
+================
+I'm looking for a place to stay in the city centre that has free parking.
+I have 4 different places available to you. 2 are hotels and the other 2 are guesthouses. Do you have a preference?
+Do you have any that would be moderately priced?
+No I'm sorry, I don't. Is there another price range you would consider?
+No, I need it to be moderately priced. Is there a hotel with free parking in the north?
+I have 7 moderately priced guesthouses and 2 moderately priced hotels in the north, all with free parking.
+Great! Id's like information on one of the hotels please.
+Do you have a further preference among them?
+Do they have free wifi?
+Yes, they do. I'd recommend Acorn Guest House. It's at 154 chesterton road cb41da. The phone number is 01223353888. Would that work for you?
+That will help, thank you.
+Is there anything else I can help you with today?

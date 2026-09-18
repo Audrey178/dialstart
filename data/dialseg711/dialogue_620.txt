@@ -1,0 +1,36 @@
+I need a information of hospital in town, please.
+Certainly! Addenbrookes Hospital is located on Hills Rd, Cambridge in postcode CB20QQ. Is there a specific department you need?
+================
+I am looking for a restaurant in the centre of town in the cheap price range.
+I found several that fit your request! What type of food would you like?
+No preference. Can you recommend me one and give me their postcode and phone number? Thanks!
+Sure, how about dojo noodle bar postcode cb21rq and 01223363471 phone number. Would you like a reservation?
+No thank you not at this time.
+The phone number is 01223363471 if you need it. Is there anything else I can help you with today?
+================
+Does Addenbrookes Hospital have a neurosciences department?
+Yes it has a neuroscience and a neuroscience critical care unit. Would you like the phone number?
+Yes, the phone number would be helpful, thanks.
+The phone number is 01223216297.
+Thanks, what's the address?
+The address is Hills Rd, Cambridge, Postcode:CB20QQ.
+Thanks so much.
+You're welcome. Is there anything else I can help you with today?
+================
+Can you help me find a cheap place to eat?
+There are 22 restarants serving cheap food. What type of food would you like?
+Indian would be good as long as it's in the center. I need to book a table for 2 people at 18:15 on a Sunday.
+The Gandhi has great food at an even better price! Should I book you a table here?
+Yes, that would be fine.
+Unfortunately there are no tables available for Sunday at 18:15. Would you like to try for a different day or time?
+Yes can you try Sunday at 17:30 please
+I'm sorry, but booking was unsuccessful. Could you try a different day or time?
+do you have anything available for sunday?
+No, could you try another day and time?
+How about 17:15?
+I was able to book the table for you for your party of 2 on Sunday at 17:15. The reference number is Z16ZTXKY.
+================
+i i'm looking for a train. The train should depart from cambridge and should go to stevenage.
+What day would you like to travel?
+I need to leave on thursday after 16:30. Can you provide me with the train ID?
+The first train available is the TR4765 at 17:21. Shall I book you a seat?

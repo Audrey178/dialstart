@@ -1,0 +1,42 @@
+find me a nearby tea or coffee shop
+The nearest coffee shop is Cafe Venetia located 4 miles away. Would you like the address?
+Yes and avoid all heavy traffic please.
+Cafe Venetia is located at 269 Alger Dr, it is 4 miles away without any traffic
+Please set the GPS to this location.
+Setting GPS to 269 Alger Street.
+================
+Greetings! I need a cheap hotel to stay the night in, could you help me?
+I certainly can. I have about 10 available. Do you prefer a certain area of town?
+I would prefer a 0 star rating in the centre of town
+The El Shaddai is a guesthouse with 0 stars in the centre of town. Would you like me to book it for you?
+Yes, as long as it falls in the cheap price range, please.
+Is it for just yourself? For how long and on what day?
+The reservation should be for 8 people for 5 nights starting Sunday. Thank you.
+I was unable to book that for you. Perhaps we can try another day or a shorter stay?
+How about just one night?
+I have you down for one night. Your reference number is NF64LM1Z. Anything else?
+================
+Hello. Could you find a train leaving on Wednesday for me? I need it to arrive by 19:00.
+Certainly. Where are you going, and where would you like to depart from?
+I will be leaving Cambridge to go to Bishops Stortford.
+TR0449 is going to arrive by 18:07 would that work for you?
+Sounds good. Could you find me a cheap eatery near there when we arrive?
+Sure I'd be happy to find a restaurant. Are you looking for one in the centre area?
+Maybe later. What time does my train leave and how much is the ticket?
+It leaves at 17:29 and the cost of the ticket is 10.10 pounds.
+How long is the travel time going to be?
+It will be a 38 minute train ride
+That will be all. Thank you.
+Alright. Enjoy your stay in Cambridge!
+================
+Where can I go shopping?
+Ravenswood Shopping Center is close.
+Is it within 3 miles of my location?
+Yes Ravenswood is within 3 miles with moderate traffic noted.
+Please give me the quickest route.
+I sent the quickest route on your screen, drive carefully!
+================
+Yes I needed information about a particular restaurant.
+I can help with that. What is the name of the restaurant?
+Pizza hut cherry hinton. Can you provide me with the area they are located in?
+Yes, they are in the south area.

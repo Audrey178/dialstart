@@ -1,0 +1,22 @@
+what time is the meeting
+The meeting is at 3 pm
+================
+I'm looking for a place, I believe its official name is "Parkside Police Station".
+The Parkside Police Station is located at Parkside, Cambridge and their telephone number is 01223358966. Can I help you with anything else today?
+What is their postcode?
+Their postcode is CB11JG.
+================
+Please get me to a gas station asap.
+Chevron is the closest gas station at 783 Arcadia Pl
+Give me the quickest route there.
+Setting navigation to 783 Arcadia Pl now. There is a road block nearby, so be careful.
+================
+Someone told me about a place called Old Schools. It's supposed to be some kind of attraction. Can you tell me anything about it?
+Old schools is an architecture museum in the centre area. The admission is free. Would you like tickets?
+Yes, please. That would be great.
+I just checked and it is free. The address is trinity lane and the phone number is 01223332320. Can I help you with anything else?
+================
+please show me the weekly weather report
+What city do you need a weekly weather report for?
+I need the weekly forecast for Boston, please.
+This week the weather in Boston will be stormy on Monday, dry on Tuesday, hail on Wednesday, drizzle on Thursday, dry on Friday, hot on Saturday, dry on Sunday

@@ -1,0 +1,23 @@
+In Boston is it currently misty?
+Currently there are clear skies in Boston
+================
+Hi, could you help me find a taxi out of cocum?
+Could you tell me when you would like to leave by and when you would like to arrive?
+I need to be picked up by 15:00. Could you provide me the car type and contact number, please?
+What is your final destination?
+Oh, I'm sorry. I would like to travel to Gallery at Twelve a High Street. I actually need to be there by 15:00.
+OK, I can make that change.
+When will the car arrive?
+Unfortunately, it does not give me a specific arrival time. But if you like, you can call them to get that information. Their phone number is 07916703661.
+Thanks, I will call them. Can you tell me what type of car I will have?
+Your car type is a white tesla.
+================
+Is it gonna be blizzard today in Danville?
+No, today it will be misty in Danville
+================
+Please give me the address and directions via a route with no traffic to the nearest pizza restaurant.
+Dominos is at 776 Arastradero Rd. It is 4 miles away with no traffic. Setting directions now.
+================
+schedule my dentist appointment on the 12th
+What time would you like to schedule your appointment?
+10am, please.

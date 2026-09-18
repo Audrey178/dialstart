@@ -1,0 +1,26 @@
+Is there an emergency?
+I have found the Parkside Police Station, their phone number is 01223358966.
+Great, could I also have their address.
+It does not list a street address. It just says Parkside, Cambridge.
+================
+I'm looking for the information on a restaurant called Saigon City, can you provide me with their info?
+Absolutely! Saigon City is an asian oriental restaurant in the north. It is a little expensive but worth it. It's located at 169 High Street Chesterton. Their phone number is 01223356555.
+================
+What will the highest temperature in San Jose be in the next 7 days?
+In San Mateo the day with the highest temperature of the next week will be Friday with 90F
+================
+Set a reminder for a dentist appointment this month on the 11th at 11am, with Tom.
+A reminder has been set for a dentist appointment this month on the 11th at 11am with Tom.
+================
+Could you help me find an Austrian restaurant please?
+I'm sorry but there are no Austrian restaurants. Is there another type that might interest you?
+Darn, I was really hoping to find a cheap Austrian restaurant. Would you mind checking one more time?
+I'm so sorry but there doesn't seem to be any restaurants in the city that offer austrian food. Can I look for another cuisine style for you?
+Ok, how about a cheap Chinese restaurant?
+We have four cheap Chinese restaurants. Are you interested in the south or centre area?
+I am interested in the centre area.
+The golden house is a cheap chinese restaurant in the center area. Would you like me to reserve a table for you?
+Yes, that would be great. I'd like a table for 3 on Saturday at 18:30.
+There doesn't seem to be any availability for Saturday at 18:30. Does another time or day work for you?
+Sure, try 17:30.
+I was able to make your reservation for 17:30. Your reference number is VGGQ2AP9. Is there anything else I can help you with?

@@ -1,0 +1,42 @@
+where are the nearest coffee shops
+The nearby coffee shops are Teavana which is 6 miles away, and Peets coffee which is 3 miles away.
+Please give me an address and directions to the Peets coffee, and take the fastest route available.
+Peets Coffee is located at 9981 Archuleta Ave. but a car collision is nearby on the route. I will try to find the quickest route possible.
+================
+where is the nearest police station?
+The nearest police station is in Parkside, Cambridge.
+What is the address?
+The address is Parkside, Cambridge, postcode CB11JG.
+Do you have the phone number there?
+Yes, the phone number is 01223358966.Anything else you need?
+================
+I would like a restaurant in the centre that is in the expensive price range.
+There are 33 restaurants in the centre that are in the expensive price range. What type of food would you like?
+I am interested in Indian food please.
+There are six restaurants that match that description. Can recommend one of them for you?
+Yes please do.
+The Curry Garden serves expensive Indian food in the centre of town.
+Great can I get a reservation there for 8 people at 12:30 on sunday?
+Sorry, there is no table available then. Would you like to try another time slot?
+I think I'd rather try a different restaurant at my preferred time, actually. You mentioned there are several others?
+Yes, there's the Goden Curry, Saffron Brasserie, Panahar, and Curry King.
+Great! Can I have the Goden Curry?
+Sure, when would you like to make a reservation?
+12:30 on Sunday. There will be 8 of us.
+I apologize. I have checked all of the restaurants in the area and none of them can accommodate 8 guests at 12:30 on Sunday. Would a different day or time suffice?
+I guess I could try 11:30.
+Reservation booked with The Curry Garden for Sunday at 11:30am for 8 people. Your reservation will be held for 15 minutes. Reference number is 6GRFMVDJ.
+Thank you so much.
+You're welcome. Anything else I can help with today?
+================
+am looking for a train it should leave on sunday and should depart from bishops stortford
+Thank you. Where is your destination?
+I'm going to Cambridge.
+What time are you looking to depart/arrive?
+I want to depart after 18:30.
+TR0053 leaves at 19:29 and arrives at 20:07. Do you want me to book this train? I will need your details, please.
+Yes, I need 1 ticket and can you please give me the reference number?
+Booking was successful, the total fee is 8.08 GBP payable at the station . Reference number is : 6W3KFY5N.
+================
+Is it gonna be hot on Saturday in Los Angeles?
+The high temperature in Los Angeles should reach 40F on saturday

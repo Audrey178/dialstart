@@ -1,0 +1,38 @@
+I want to find a hospital in town
+I have the Addenbrookes Hospital on Hills Road in Cambridge. Their phone number is 01223245151.
+Thank you, can I also get the postcode?
+The postcode CB20QQ.
+================
+I'm looking for a hotel to stay at in the centre, can you look this up for me?
+There are three hotels in the center of town. Do you prefer something moderate or expensive?
+Not in terms of that, but do they have free parking and have a 3 star rating?
+The Gonville hotel has 3 stars and parking, and the University Arms hotel has 4 stars and parking. They are both expensive. Would you like more details?
+Okay, I'd like to book a room at the Gonville Hotel for 4 nights. There will be 6 people and we will be arriving on Saturday.
+I'm sorry, there are no rooms available for that length of stay. Could you shorten your stay or book a different day possibly?
+Yes, what about 2 nights instead of 4?
+Sure, that worked. You have booked 2 nights and your reference number is RU89U6V8. Can I be of further help today?
+================
+I'm looking for a train. The train should arrive by 16:00 and should leave on saturday.
+Where will you be traveling to?
+I am going to cambridge from Broxbourne.
+The TR 1412 arrives at 15:32. Will this be okay?
+Yes. Please book it for 1 person.
+I booked your ticket, and your reference number is DBWTXCO1. Can I help further today?
+No that's it! Thanks so much!
+thanks again for choosing us
+================
+I'm looking for a place to eat. I want expensive malaysian food. Can you help?
+I'm sorry but there aren't any Malaysian places of any price in town. Would you like to try a different cuisine?
+Well I need it to be in the south of town.
+On the south end, in the expensive price range, we have Mexican, Italian, Indian, and Chinese foods to choose from. Do any of these sound good?
+Chinese sounds good. Can you give me any suggestions?
+Yes, I would recommend the Peking Restaurant, located at 10 Homerton Street City Centre. Could I reserve a table for you?
+Sounds great. Make a reservation for 4 on Friday at 11:00.
+That time slot is not available, would you like to try another time.
+How about !0:00 instead, is that available Friday?
+I believe you meant 10:00, so I went ahead and made the reservation for that time. The reference number is HRPLZ9AQ.
+================
+Am looking for the Addenbrookes Hospital
+The hospital is located in Hills Rd, Cambridge, Postcode CB20QQ. Is there a particular department you were looking for?
+I need the phone number
+The general phone number for the hospital is 01223245151. Do you need any further assistance?

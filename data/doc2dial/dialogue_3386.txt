@@ -1,0 +1,17 @@
+help me with student info being stolen, cause I'm worried
+================
+Would you like to know how to reduce your risk of identity theft when applying for financial aid?
+not for financial aid, all my info you have
+================
+You can protect yourself by having a strong password on your FSA ID.  Do you need help changing your FSA ID password?
+no I know how
+================
+Would you like to know how the Department of Education keeps your information safe?
+yes that'll help with my concerns
+We value the privacy of your personal information. The information you share with us goes through a process called encryption. Encryption uses a mathematical formula to scramble your data into a format that is unreadable to a hacker.
+================
+what do I do if I forgot my security questions to change my password?
+You will need to go through the FSA ID Account Recovery process. You’ll send in copies of identification, and the email address on your account will reset to one you can access.
+================
+can we get help with the forms if we have problems?
+Yes, several websites offer help filling out the FAFSA form for a fee, but we urge you not to pay these sites for assistance that you can get for free elsewhere

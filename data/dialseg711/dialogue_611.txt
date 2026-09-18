@@ -1,0 +1,22 @@
+I would like a taxi from Saint John's college to Pizza Hut Fen Ditton.
+What time do you want to leave and what time do you want to arrive by?
+I want to leave after 17:15.
+Booking completed! your taxi will be blue honda Contact number is 07218068540
+Thank you for all the help! I appreciate it.
+You are welcome. Is there anything else I can help you with today?
+================
+Car I'm desiring coffee: which one is the closest to my position?
+There is a Starbucks in 2 miles at 792 Bedoin Street
+================
+I'd like for a taxi to pick me up after 13:00 today
+Where would you like the taxi to pick you up from?
+================
+I actually need the address and phone number for the Addenbrookes Hospital. Can you help me?
+Sure. The hospital is located at Hills Rd, Cambridge, postcode CB20QQ. You can call them at 01223245151. Is there anything else I can help you with today?
+Does it have a neonatal unit?
+It does, the phone number for the neonatal unit is 01223217678. Anything else I can help with?
+================
+I need a hotel in the south
+The lensfield hotel is in the south. Do you want me to book it for you?
+does it include free parking?
+Yes the Lensfield Hotel does have parking. Would you like me to book it?

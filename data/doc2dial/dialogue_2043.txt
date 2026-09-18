@@ -1,0 +1,18 @@
+How do I remove a lienholder from a title?
+================
+Do you want to remove a lienholder from a title certificate?
+Yes
+Have you sold the vehicle?
+No
+Do you want to get a lien free title?
+Yes
+Please read below for further instructions
+================
+Should I keep a copy for my own records after I transfer it?
+ou can transfer the title certificate and give the new owner the original proof that any lien listed on the title certificate was satisfied. Keep a copy of the proof for your records
+================
+Where can I find more information on the lien transaction system?
+please see the Electronic Lien Transfer Program Business User Manual PDF ELT-1
+================
+Do I give the new owner the original proof or a copy?
+You can transfer the title certificate and give the new owner the original proof that any lien listed on the title certificate was satisfied. Keep a copy of the proof for your records

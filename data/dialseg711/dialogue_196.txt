@@ -1,0 +1,52 @@
+I need a train from bishops stortford, please. I need to arrive by 21:45.
+Sure, which day do you need to travel? Are you going to Cambridge?
+I need to go to Cambridge on Monday.
+What time do you want to depart?
+I'm not sure whatever gets me there by 21:45. Can you tell me travel time and cost as well?
+Yes travel time will be 38 minutes and the cost of ths journey is 10.10 pounds.
+That's great, thanks for your help.
+There is a train departing Bishops Stortford and arriving in Cambridge at 20:07 on Monday. Would you like me to book that for you?
+Yes, please book it for me. Thanks.
+How many tickets would you like booked for that trip?
+Just one please.
+You are booked for Train ID TR5806 that leaves at 19:29. The Reference number is EOJDK0BY. Do you have any other concerns?
+How long will be the ride and how much will it cost me?
+The fee is 10.1 GBP, payable at the station. The duration of the ride is 38 minutes.
+Thank you so much!
+You are very welcome. Can I offer any other assistance?
+================
+what's the weather like this week
+Which city would you like the weekly weather forecast for?
+Mountain View, please.
+The weather in Mountain View is gonna be hail on Monday, dry on Tuesday, raining on Wednesday, overcast on Thursday, foggy on Friday, cloudy on Saturday, and windy on Sunday
+================
+I am looking for a particular hotel. Its name is called autumn house
+I have the Autumn House. It is at 710 Newmarket Road. Would you like the phone number?
+No thanks. Would you book the Autumn House for me starting on Monday, please.
+How many people would be staying and how many days will you be staying?
+That's for 8 people and it's for 2 nights.
+I'm sorry, your booking was unsuccessful. Would you like to book another day or a shorter stay?
+Could you try Wednesday, instead?
+Booking was successful. Reference number is : 3H0WHD4Z.
+================
+I'm looking for a train please.
+There are several trains where are you going?
+I am going to Cambridge from Leicester. I am planning to leave on Sunday and I need to be there by 11:45.
+If you take the TR1079 at 9:09 you can arrive in Cambridge by 10:54. Would you like me to book it?
+Yes, that sounds great. I would like to book the train for 7 people. What is the reference number?
+there is the reference number TR4106
+Thank you for your help
+Thank you for using our services. Do you need any further assistance?
+That is all I needed. Thank you.
+You're welcome. Have a nice day and please call us again!
+Wait, I don't think that's a valid reference number.
+35VBB0LK if your reference numbers, what else may I help you with?
+================
+I need a cheap place to stay
+There are many cheap places. In which area would you like to search for a place to stay?
+It should include free parking.The hotel should include free wifi.
+There are 10 cheap hotels what area would you like?
+Whichever is the cheapest for 2 people, 5 nights starting Thursday. Please book it, and I will need a reference number. Thanks.
+Alright, you are booked at the Alexander Bed and Breakfast. Reference number is UK8T46J8.
+Thank you, I just want to confirm that this hotel includes free parking and wifi
+Yes it includes both.

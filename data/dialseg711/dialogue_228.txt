@@ -1,0 +1,32 @@
+I am injured I need a hospital that has the cambridge eye unit department
+The number for that department is 0122357168
+Thanks. Can I get an address as well?
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Do you need the postcode?
+Yes, please. May I also have the general phone number for my records, too?
+The main phone number for Addenbrookes Hospital is 01223245151. May I assist you with anything else?
+Can I please have the full address of the hospital as well as the postal code?
+The address of the hospital is TR6247. The postcode is CB20QQ.
+How would I find TR6247 in Cambridge?
+Sorry for the mix-up the full address for Addenbrookes Hospital is (including postcode): Hills Rd, Cambridge, CB20QQ and their number is 01223245151. Can I help with anything else?
+================
+Car is there any shopping center nearby? Please show me a quick route to reach too!
+There is Town and Country 5 miles away, and there should be no traffic on our way
+What is the address?
+Town and Country is at 383 University Ave.
+Set navigation for the quickest route possible.
+Navigation set for quickest route.
+================
+I would like to book a taxi to Royal Standard, leaving after 03:30
+Okay and what will your destination be?
+I will be going to the Royal standard, leaving from the Tenpin.
+Great! Look for a grey volkswagen. The contact number is 07183817206. May I help with anything else?
+================
+when will my lab results be in
+Your lab appointment is on Tuesday at 10am.
+================
+I want to find a hospital in town. The hospital should have the hepatobillary and gastrointestinal surgery regional referral centre department
+Addenbrookes Hospital is located at Hills Rd, Cambridge. They have the department you're looking for, would you like the phone number?
+I need the address, postcode, and phone number.
+The phone number is 01223217300 and post code is CB20QQ.
+Great, thanks for your help.
+Do you need any further assistance?

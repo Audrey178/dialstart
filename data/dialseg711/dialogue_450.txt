@@ -1,0 +1,25 @@
+What is my address?
+Your home address is 5671 barringer street
+Thanks set the GPS to the avoid the heavy traffic please.
+Done. There is only moderate traffic on the route home.
+================
+I am looking for a restaurant serving modern american food in the moderate price range.
+I'm sorry I find no modern American food listed in any price category. may I try another cuisine for you, perhaps Italian?
+Yes how about Turkish then?
+Either Anatolia or Efes Restaurant would fit that criteria. Can I reserve one for you?
+yes i reserve to Anatolia restaurant.
+I'd be happy to make your reservation. First I will need to know the day/time you're looking for and how many are in your party.
+I'm sorry. I don't actually need to reserve at this time. I just need the phone number and address if you could provide that.
+Sure. Anatolia is located at 30 Bridge Street City Centre and the phone number is 01223362372. Can I help you with anything else today?
+================
+When is the meeting, what is the agenda and who are attending?
+You have three meetings scheduled. The first is at 2pm on the 13th with management to onboard new members. The second is at 10am on Friday with the vice president to go over the budget. The third is at 9am on Tuesday with the executive team to go over the quarterly report.
+================
+I'm looking for a moderately priced guesthouse for the night.
+For that price range, I have several guesthouses. Do you have a preference on the area of town you stay in?
+Yes, I'd really like to stay on the west end of the city. Anything available there?
+How about Hobsons House? It is a moderately priced guesthouse in the west end.
+Does that place have free wifi?
+Yes the place provides free wifi.
+Thank you, can you book me for 7 people and two nights, beginning on Sunday? May I also get a reference number?
+Your booking was successful and reference number is Q1P81Y9Z. Can I assist you with anything else?

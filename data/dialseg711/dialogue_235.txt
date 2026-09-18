@@ -1,0 +1,32 @@
+I need a taxi. I'll be departing the Fitzwilliam museum and need to arrive by 20:15
+I can reserve that for you. Where is your destination?
+I am heading to restaurant one seven.
+Okay a white honda will be picking you up and the contact number is 07631927676. What else can I help you with?
+That is all that I need thanks.
+Great, thank you for using our service!
+================
+Hello I am injured and am looking for a nearby hospital please.
+There is the Addenbrooks Hospital, their phone number is 01223245151, did you want the direct line to the emergency department?
+Can you also send the postcode and address please?
+The address is Hills Rd. Cambridge, the post code is CB20QQ. Is there anything else?
+I think I can take it from here, but I will call you if I need anything else.Thanks,
+no problem have a great day
+================
+pull up directions to 5672 barringer street
+I don't see 5672 Barringer Street nearby; can you confirm that that is the destination you want?
+Yes, it should be near me in the direction we're going now
+I still do not see 5672 barringer street nearby. Home is nearby at 3 miles away; do you wish to go there?
+Yes, please show on the map the quickest way to get there
+Mapping route to home, 56 cadwell street 3 miles away with a car collision nearby
+================
+I'm looking for the Kings Hedges Learner Pool. Can you give me their contact info?
+Kings Hedges Learner Pools phone number is 01223353248, they are located at Jedburgh Court, Kings Hedges, CB42XH. Can I help with anything else?
+Yes, what area of town is that exactly?
+It is in the north of the city, would you like help with anything else?
+================
+I need a taxi after 21:45 to take me to jesus college.
+I'd be happy to help! Where are you coming from?
+I am coming from 4455 Woodbridge Road. It's the hotel next to the Shell gas station and Cambridge College.
+What is the name of the hotel you are coming from?
+I'm coming from thanh binh.
+I have that booked a yellow skoda with contact number 07116573501.

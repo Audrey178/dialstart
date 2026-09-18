@@ -1,0 +1,27 @@
+what's the temperature for today
+Tell me what city I should find the temperature for.
+I want to know the temperature in Boston.
+Today's temperature in Boston is showing a high of 60F with a low of 40F
+================
+is it going to rain at all this upcoming week
+What city would you like to know if it is going to rain in?
+What city would you like to know if it is going to rain in?
+In which city do you want to know if it's going to rain?
+Cleveland thank you
+Yes rain is predicted to fall on Tuesday in Cleveland this week
+================
+I want to eat some north american food
+Ok, the gourmet burger kitchen serves north american food and is located in the centre. Would you like the address?
+Can you tell me the price range?
+the price range of the food there is expensive
+Thanks, can I get the address and phone number?
+Their address is Regent Street City Centre. You can contact them at 01223312598. Would you like me to make a reservation for you?
+No, that is ok. Thank you for all your help today.
+welcome again some other day
+================
+I would like to book a train for Tuesday at 18:45 departing at bishops stortford and arrive at Cambridge.
+What time would you like to arrive by?
+I just need to leave after 18:45.
+The TR9286 train goes from bishops stortford to cambridge on Tuesday at 19:29, Shall I book that for one person?
+Can you please book it for 4 people?
+Hi..A reservation for 4 people has been confirmed. The reference number is 30MCMOEX and the price is 40.4GBP payable at the station. Anything else I can do?

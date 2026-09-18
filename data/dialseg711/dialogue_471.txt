@@ -1,0 +1,25 @@
+what's the weekly weather report for the city
+what city are you interested in?
+I am interested in Redwood City.
+This week in redwood city shows rain, frost, snow, drizzle, fog, and overcast skies.
+What day will it be foggy?
+It will be foggy on Friday.
+================
+I would like to find a place to go in the centre of town, that includes multiple sports
+Unfortunately, I am not finding anything that meets your criteria.
+Are there museums instead?
+There are 11 museums in the centre of town. How about Castle Galleries in unit su43, grande arcade, saint andrews street?
+That would be perfect. Thanks for all your help. Have a good night.
+Is there anything else you need help with?
+================
+I need a taxi to get me to magdalene college no later than 12:15
+Ok, what is your destination?
+I'm heading to Magdalene College, as I mentioned. I need to be retrieved from Kings Lynn Train Station.
+I booked it for you. They will be driving a black BMW and their contact number is 07894559856.
+Thank you, that's all I need.
+Your welcome, have a great day.
+================
+What parties are on the calendar, what time are they, and where are they being held?
+There are no parties scheduled
+What time is my meeting, where is it and who will be there.
+You have two meetings scheduled on the calendar. The first meeting is on the 13th at 11am with the vice president in conference room 100. The second meeting is at 4pm with management in conference room 50.

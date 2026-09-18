@@ -1,0 +1,30 @@
+i want to book a taxi. The taxi should depart from india house and should arrive by 24:00.
+What is the destination?
+Whale of a time is where I want to get to.
+Ok, I have booked you a taxi. It will be a grey honda, contact number is 07502484881. Is there anything else I can help with today?
+================
+Are there any restaurants serving middle eastern food?
+I'm sorry, there aren't any middle eastern restaurants. Is there another type of food you'd like to try?
+Can you try the search again looking for Portugeuese food instead?
+Sure! I actually have two restaurants listed in both the southern and center points of town that serve Portuguese food. Are you interested in one of these?
+I would like the one that is in the centre of town. Can you book me a table there for Thursday at 11:30? There will be 6 of us.
+I'm sorry, but the restaurant isn't available for that time. Is there another time or day you'd like to try?
+Can you try 10:30 instead?
+You're all set. I have book a table for 6 at 10:30. Reference # 2801GMOP. Can I help with anything else?
+================
+I need a hospital that have a pediatric day unit.
+Addenbrookes Hospital at Hills Rd., Cambridge should meet your needs. I have two phone numbers for paediatric day unit, 01223217567 and 01223257157. Is there any other information you need?
+Nope that should do it!
+Thank you for allowing me to assist you. Please let us know if there's anything else we can assist you with in the future.
+Actually, can you give me the postcode - I can't find it on my phone.
+For sure - it's CB20QQ
+================
+Please help, I've been in a car accident and am not sure who to call for help.
+call the police at 01223358966
+================
+I need help finding a grocery store.
+I have a listing for a grocery store named Sigona Farmers Market.
+What is the address?
+The address is 638 Amherst St. Would you like directions there?
+Yes, please, just pick the shortest distance
+Here are directions to 638 Amherst St.

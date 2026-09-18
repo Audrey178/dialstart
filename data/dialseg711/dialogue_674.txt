@@ -1,0 +1,34 @@
+i'm in pain navigate me to the nearest hospital
+I have two hospitals located 1 mile away. Which one would you like to know about?
+Pick the fastest to reach on the quickest route
+Then let's go at Palo Alto Medical Foundation, there is no traffic on our way and its address is 611 Ames Ave
+================
+I'm looking for a train. The train should arrive by 21:30 and should go to bishops stortford.
+What day will you be traveling?
+I would like to travel on Monday.
+There are 8 trains that match your search. Shall I choose one to book?
+Yes, please choose the one closest to my arrival time.
+I recommend the TR8244 which leaves at 19:29. How many seats do you want me to reserve for you and your party?
+I actually only want the price, but can you make sure that the train is leaving from Cambridge.
+Yes that leaves from Cambridge and there are many other times with an earlier departure time if you'd like. The price is 10.10 pounds.
+================
+Are there any British restaurants in the centre?
+Oh yes I have quite a few. Did you have a preferred price range in mind?
+I'd like an expensive restaurant please.
+I found three restaurants: Fitzbillies Restaurant, The Cambridge Chop House, or Midsummer House Restaurant. Would you like a table booked?
+I want to make a booking at Fitzbillies Restaurant. It will be for 8 people on Friday at 12:00.
+I am sorry but they do not have any seating for 8 people at that time. Would you like to try another day or time?
+Can we make it for 11:00?
+Sure, you're booked at 11:00 with reference number THSW3FKF. The table will be reserved for 15 minutes. May I help with anything else?
+================
+I'm looking for a train from Cambridge.
+Let me help you with that, where would you like to go?
+I need to get to Stansted airport please.
+What day will you be traveling?
+I'd like to travel on thursday
+What time do you need to leave or arrive by?
+================
+I need a close hospital with an acute medicine for the elderly unit.
+Contact them at 01223217261
+Thank you, will you please give me the postcode?
+Certainly, their postcode is CB20QQ.

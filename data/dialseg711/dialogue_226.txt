@@ -1,0 +1,30 @@
+I need to book a taxi to take me from Bangkok City. I need to leave by 19:30.
+And where will you be going to, please.
+I would like to go to Prezzo
+Okay I have booked your taxi for you
+What is the car type?
+Here you are! Booked car type : yellow lexus Contact number : 07405095877
+thank you. i apreciate having gotten help from your desk. hope to get more and better help sometime latter. looking foward to seeng you latter on, thank you so much again
+alaways welcome for more services
+================
+I'd like a resturant in the centre of town that serves Canapes food.
+Unfortunately, I don't have any available listings that fit that type. Would you like me to try another type of cuisine or area of town?
+Maybe take another look? I need an expensive canapes restaurant in the centre.
+I'm sorry, I could not find any restaurants fitting that description. Would you like to suggest another cuisine or location?
+That's okay. Let's try European food instead, with the other details the same.
+I have two available. The Eraina and Michaelhouse Cafe. Can I assist you in booking a table at either of these?
+Can you just give me the postcode of Eraina?
+Sure, the postcode is cb23rh. Can I be of further service today?
+================
+Hi, I am looking for the nearest police station.
+Hi, the nearest police station is at Parkside, Cambridge postcode: CB11JG. Is there anything else I can help with?
+Can you please give me the phone number as well?
+The telephone number is 01223358966.
+================
+Where does my friend live?
+Jill lives at 347 Alta Mesa Ave.
+I need the quickest route there.
+Here is the quickest route to Jill's house.
+================
+Am looking for a train it should depart from peterborough and should arrive by 21:30
+I have a train going to Cambridge that will arrive at 21:09 and leaves at 20:19. Does that work for you?

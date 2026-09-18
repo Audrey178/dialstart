@@ -1,0 +1,30 @@
+I am looking for a particular restaurant. It's Efes Restaurant.
+I was able to find Efes Restaurant for you. This is a Turkish restaurant in the centre of town with a moderate price range. Would you like a booking?
+Yes I would, for 3 people Wednesday at 18:15.
+Unfortunately, the restaurant is full at this time. Is there another time or day I can reserve for you?
+Can you check for 17:15 on the same day?
+Sure, you're all set for 17:15 with reference number 6LZYPIFZ. The table will be reserved for 15 minutes. Would you like assistance with anything else?
+================
+I'm looking for some 4-star accommodations.
+There are over twenty four-star hotels or guesthouses. What area do you prefer?
+An area that's close to public transportation
+How about a and b guest house?
+Sure, as long as it is moderately priced.
+of course. ive got some options. you can check the out
+I will be happy too. I will also need a postcode.
+The postcode is cb12dp and the address is 124 tenison road. Do you want me to book it for you?
+================
+Hi, I am looking for a cheap Italian restaurant please.
+I have some in the north, center and west side. Do you have a preference in area?
+No, no preference. Please just find me one that has a table available for 4 people at 17:45 on Monday.
+I'm sorry but none of the Italian restaurants have reservations available at that time. Do you want me to check for a different time?
+Yes, I'll try for a little earlier, how about 16:45?
+Booked at la margherita! Your reference number is NG7AU0Y2. Your table will be held for 15 minutes.
+================
+check the weather for today
+What area are you asking about, specifically?
+I'm asking about inglewood, is there frost today?
+There will not be frost in Inglewood today.
+================
+I need to find a hospital please.
+The nearest hospital is Addenbrookes Hospital at Hills Rd, Cambridge, postcode CB20QQ. The general telephone number is 01223245151. Do you need a particular department?

@@ -1,0 +1,30 @@
+give me the date and time of my dentist appointment
+Your dentist appointment is at 3 PM on Tuesday.
+================
+Where is there Chinese food?
+I have a chinese restaurant that is 5 miles away named Jing Jing. Need more info?
+What is the address?
+Jing Jing is at 113 Arbol Dr.
+Pick a route to avoid all heavy traffic and let's go there, thank you!
+Setting GPS for quickest route with no traffic now.
+================
+I am looking for an Italian restaurant in the centre of town, could you provide me with some options to choose from please?
+There are 9 italian restaurants in the centre of town. Do you have a price range?
+I'd like a cheap one, please.
+There are 3 cheap Italian restaurants. I would recommend Pizza Hut City Centre. Would you like to book a table?
+What are the other two restaurants in this price range?
+The two other restaurants that are relatively cheap are a restaurant called Ask and the other is Zizzi Cambridge. Would you like more info on one of those?
+Yes please. What are the phone numbers of those places?
+The phone number for Ask is 01223364917, the one for Zizzi Cambridge is 01223365599. Is there anything else I can help with?
+================
+car what is the weather going to be like in the next several days
+Where do you want to know the weather for?
+Will it rain in Inglewood this weekend?
+It will not rain in Inglewood this weekend.
+================
+I need a train for Saturday at 13:00 and I will be traveling from Cambridge to London kings cross. Please book it for 7 people.
+You are all booked for the TR4003 train. Price is 132.16 GBP. Reference number B02EELPU. Is there anything else i can help you with?
+Yes, my apologies, but can you confirm that the TR4003 train leaves after 13:00?
+It leaves right at 13:00. If you'd like to leave later, the next train departs at 15:00
+The 13:00 train is perfect. Please book 7 tickets. Thanks.
+It has been booked and your Reference number is: B02EELPU. Is there anything else I can do for you?

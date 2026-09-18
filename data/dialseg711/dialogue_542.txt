@@ -1,0 +1,13 @@
+What is the date and time of my next doctors appointment?
+================
+I need a taxi to go to a and b guest house and arrive by 03:45.
+Okay, I will just need your departure site first please
+================
+doctor's appointment at 10 am on monday august 8th
+Setting a reminder on August 8th for your doctor's appointment at 10 am.
+================
+Someone just robbed me, I need to contact the police.
+The Parkside Police Station telephone number is 01223358966. The address is Parkside, Cambridge, postcode CB11JG.
+================
+Remind me about the football activity at 4pm on the 13th with Tom
+Okay, setting a reminder for your football activity at 4pm on the 13th with Tom.

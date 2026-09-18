@@ -1,0 +1,28 @@
+set my route to the closest mall
+It would be a 1 mile drive through heavy traffic to Topanga Mall at 171 Oak Rd
+Great thank you
+Setting navigation now.
+Thank you for directions via the quickest route.
+You are welcome driver, is there anything else you need?
+================
+Set a reminder for my dentist appointment tomorrow at 9 am, with Tom
+Okay, setting a dentist appointment reminder for tomorrow at 9 am with Tom.
+================
+get me directions to the closest starbucks
+Navigating you to Starbucks.
+================
+I'm looking for a specific hospital by the name of Addenbrookes.
+That hospital is located at Hills Rd, Cambridge. Do you need more information?
+Yes. I'd like to know their phone number please.
+Telephone : 01223245151 is their telephone number
+Great, thanks for your help.
+Is there anything else I can help you with today?
+================
+I am looking for some help locating a moderately priced room.
+I found 18 hotels do you have any other requirements?
+I'd like the place to be rated 4 stars, and include free WiFi.
+I have about 11 options to choose from. Which area of town do you prefer? I have options in the north, south and the east.
+It doesn't matter. I would need a room for 6 people starting Saturday. For 6 nights.
+Unfortunately, I was unable to find you rooms for that length of stay beginning on Saturday. Would you be able to change the day, or the number of nights?
+No, I really need it starting Saturday for 5 nights and with free wifi.
+Ok. I have you booked into Warkworth House starting on Saturday for 5 nights and 6 people. The reference number is IGQB0HC7. Is there anything else?

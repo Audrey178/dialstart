@@ -1,0 +1,22 @@
+What is the date and time for my scheduled dinner this week with Sue.
+I find no dinner scheduled this week with Sue.
+================
+I would like to go to a park in the center of town.
+There is the Cambridge University Botanic Gardens which is a park. Will this work for you?
+Yes, what is the address and phone number?
+Their address is bateman street and phone number is 01223336265. Is there anything else I can help you with?
+================
+Hi, I need a place to eat in the centre for a medium price range. What do you have that you can suggest?
+We have 21 of those, including those serving british food and many other types. Can you narrow it down some?
+Sure, can you try to find a british restaurant?
+Cotto is very good. Can I reserve a table for you?
+That sounds great. I need a reservation for 6 people at 14:45 on Wednesday.
+I was able to make a reservation for 6 people at Cotto on Wednesday at 14:45. Your reference number is RX6XP8KP.
+================
+confirm meeting
+Your meeting is set for Thursday at 3 pm with the executive team in conference room 100.
+================
+I am looking for attractions in the town centre
+Are you interested in architecture? It is free to visit all saints church.
+What is their phone number?
+The phone number is 01223452587. Do you need any other information about it?

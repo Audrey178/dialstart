@@ -1,0 +1,15 @@
+Is there a listing of the TOS for a MyDMV account?
+There is a listing of 48 Terms of Service for a MyDMV account.
+Are you registering for an account on MyDMV?
+I am trying to register for an account but I don't see where to enter a password.
+When you register for an account you will be sent a temporary password by e-mail.  You must use that temporary password to complete the rest of the registration process.
+Who created MyDMV?
+It was created by the New York State Department of Motor Vehicles DMV in cooperation with the New York State Office of Information Technology Services.
+Can I gain access to MyDMV using my passwords for other NYS agencies?
+If you have registered to gain access to use secure web applications at another NYS agency, you can simply sign in using the same Username and Password.
+Why does MyDMV validate my identity?
+That process is designed to protect the security of your identifying personal information.
+What happens if MyDMV is unable to verify my identity?
+If MyDMV is unable to verify your identity you account will be deactivated and thereafter access to applications and on-line services will be denied and the account will be locked.
+What do I need to do to be permitted access to use DMV's secure web applications?
+You will be permitted access upon validation of your identity.

@@ -1,0 +1,22 @@
+Hey there! Can you give me some options for trains leaving Wednesday from Norwich? We are going to Cambridge.
+Sure thing! When would you like to leave and arrive by?
+I need to arrive by 19:45. I need to book for 5 people.
+I booked you on TR4203 with a total fee of 88 GBP, payable at the station. Reference number is: 58VOL3U2. Do you need anything further today?
+================
+I am looking for a museum in the town centre.
+May I suggest Primavera located at 10 king s parade. The phone number is 01223357708. Admission is free.
+Sounds perfect. What is the postcode?
+The post code is cb21sj. Is there anything else you would like to know?
+================
+What's the highest temperature going to be in Grand Rapids tomorrow?
+It will be 60F in Grand Rapids tomorrow.
+================
+I am looking for an expensive Chinese restaurant in the south.
+The Good Luck Chinese Food Takeaway or Peking Restaurant would meet your needs. Would you like to make a reservation?
+No reservation right now, I just need the phone number.
+The Good Luck Chinese Food Takeaway can be reached at 01223244149. The Peking Restaurant can be reached at 01223354755. Is there anything else I can help with?
+================
+I need a place with rated 4 stars in the east. Can you help me find one that like a guesthouse?
+I have found the allenbell guesthouse. It meets all of your criteria, is in the cheap price range, and provides internet and parking. Would you like me to book it?
+Yes please. I need it booked for 1 person for 2 nights starting tuesday. Can i get a reference number?
+The reference number for your booking is KEBFTR7I. Can I do anything else for you?

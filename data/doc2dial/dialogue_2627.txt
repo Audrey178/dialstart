@@ -1,0 +1,15 @@
+I need some information about the terms of service for MyDMV Account.
+I'll be happy to assist you with any questions that you may have.
+Have you registered for an account?
+Yes, I registered today.
+Excellent. You should have been emailed a temporary password to use to complete your online registration process.
+Can I use the same username and password that I have with other NY.gov agencies?
+Yes, you can sign in using the same username and password.
+How secure is my identity information that I give to NY.gov?
+Your information is very secure. We use a secure directory called the NY.gov that is maintained by New York State Office of Information Technology Services.
+Why do I need to input identity information?
+The identity information helps us validate your identity, which allows you to access DMV's secure web applications.
+Why might NY.gov deactivate my account?
+Your use of MyDMV account is dependent on the validation of your identity by NY.gov, so if they are unable to do so, your account will be deactivated.
+When will I be asked for my identity information?
+You will be asked to provide this information when you sign up.

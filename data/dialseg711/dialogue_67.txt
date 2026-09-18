@@ -1,0 +1,36 @@
+I am at Sidney Sussex College. I need to book a taxi to take me to Ely Train Station.
+Sure! when would you like to arrive?
+I need to arrive by 17:15.
+Your booking is complete! It will be a red Honda. The taxi contact number is 07850259093.
+================
+I am looking for a cheap hotel with free wifi
+Sure, we have many. Do you have a specific area you want to stay in?
+I want a guesthouse, but don't really care what area it is in.
+Okay, there are 9 cheap guesthouses. Do you prefer it to have free parking?
+Don't particularly care about parking but if you can narrow it down to just the 4 star ones I would appreciate it.
+May I suggest the 4 star, cheap range guesthouse called Finches Bed and Breakfast at 144 Thornton Road, CB30ND. May I make a reservation?
+I guess that would be okay
+OK, if you would like me to book a room, I'll need the number of people, the number of nights you're staying, and your arrival day.
+I don't need you to book it. Can you just provide me with the address and area.
+Finches is in the west, at 144 thornton road. Can I help with anything else today?
+No, thank you for your help.
+Glad I could help. Let us know if you need help in the future. Have a great day!!
+================
+Hi there. I'm trying to impress my girlfriend and was wondering if there might be a really nice british restaurant in town?
+Is there a particular area in town or a particular price range you are targeting?
+Not really, if you find a suitable one, please give me the postcode.
+Grafton Hotel Restaurant is an expensive British restaurant you might enjoy. The postcode is cb58pa.
+Thanks! That's all I need today. I appreciate your help.
+We are happy to help. Have all of your needs been met?
+================
+how is the climate on friday
+What city do you want the weather for?
+Weather for Danville
+It will be the highest temperature on Friday in Danville.
+================
+I'd like a train from Cambridge to Broxbourne, please.
+There are 133 trains making that trip, do you have a day and time you'd like to go?
+Yes. I would like to leave on Sunday after 20:30.
+TR7208 leaves at 21:01. Would you like me to book it?
+Yes and could I have the reference number after?
+Great, I have booked your ticket, your reference number is : NJRE41ZT. May I help you with anything else today?

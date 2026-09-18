@@ -1,0 +1,28 @@
+I need a route to the hospital with no traffic.
+Although there isn't any traffic there is a car collision nearby Stanford Express Care hospital. It is currently 4 miles away
+Please send its position on my screen. Thank you car!
+Stanford Express Care is at 214 El Camino Real.
+================
+I am looking for a train on Wednesday departing form broxbourne
+There are many results. Where is your destination?
+I'm heading into Cambridge.
+There are a number of trains to choose from. What time would you like to depart?
+Departure time is flexible but I would need to get into Cambridge by 21:30.
+There are 15 trains that arrive by 21:30. Each train takes 1 hour. When would you prefer to depart?
+What is the earliest departing train and the price of a ticket for it?
+The earliest train departs at 05:32 and is 17.90 pounds. Would you like a ticket?
+That's okay. No need to book now. But can I get the travel time for that train?
+The travel time for the train is 60 minutes.
+================
+looking for the nearest police station.
+Telephone : 01223358966 Address : Parkside, Cambridge Postcode : CB11JG there are the requirements
+================
+Set a reminder that I have football at 1pm next Wednesday with Martha
+I have scheduled football at 1pm next Wednesday with Martha
+================
+take me to the nearest cafe
+The nearest cafe is Teavana, it's at 145 Amherst St, 2 miles away
+Is there any traffic on the way?
+Yes heavy traffic, I have another one that is 4 miles away with no traffic. Do you want the address to it?
+Yes please that sounds great.
+It is Cafe Venetia which is located at 269 Alger Drive.

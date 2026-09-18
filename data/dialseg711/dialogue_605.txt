@@ -1,0 +1,38 @@
+make an appointment for me to get my laboratory results later this week
+What day and time are best for you to get your laboratory results?
+at 7 pm on August the 12th
+Setting appointment for Laboratory results for August 12th at 7pm.
+================
+Yes, hello. I'm looking for a particular attraction called Downing College.
+t is located on regent street, in the centre.
+Thank you so much!
+You are welcome! Did you need anything else today?
+================
+will it be raining in the next 7 days
+What city do you want the weather for?
+San Francisco.
+It will be raining Tuesday and Sunday in San Francisco.
+================
+Hi. I'm looking for an Italian restaurant in the centre of the city?
+We have many options! Did you have a specific price range?
+Definitely cheap.
+There are several, two on Regent Street, and one at 12 Bridge Street. Do you have any preferences?
+It doesn't matter. What do you recommend?
+I would recommend one of the locally owned restaurants. What is your address? I can find one of the closest to you. Do you want to walk?
+Please just book a cheap Italian one for me in the centre, I need it for 8 people at 13:45 on Saturday.
+I was able to book a table at zizzi cambridge for 13:45. Your reference number is KSYHRB8I.
+================
+Greetings! I'm looking for the Worth House, I heard it's in Cambridge.
+Yes it is in the North and is a cheap 4 star guesthouse. Would you like to make a reservation?
+No thank you. Do they have free wifi?
+Yes, they have free wifi. Would you like to book the hotel now?
+Yes, I would like to book the hotel now.
+How many people will be staying? Also, when would you like to check in?
+Sure, just me. Monday at 12:00 is fine.
+How many nights will you be staying?
+Just Monday night.
+Sure, anything else I can do for you.
+What area is the hotel in?
+The Worth house is in the North.
+What is the price range of that hotel?
+Worth House is in the cheap price range. Would you like any more information?

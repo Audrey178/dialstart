@@ -1,0 +1,19 @@
+Hello, can you give me some information about federal student aid resources?
+================
+Of course. A section of the IT Standards Library includes documents that are specific to the Federal Student Aid IT lifecycle for all projects and lists other pertinent references that an IT project may be required to comply with dependent on the contract.
+================
+Would you like me to tell you about some general references?
+Yes, please.
+We have the Lifecycle Management Methodology, for example.
+================
+Sounds great. What about IT security?
+We also offer some IT Security documents used by FSA.
+================
+Are there any other useful resources?
+Well, there is the Office of Management and Budget Resources.
+================
+And that lifecycle management methodology you mentioned before? What is does that entail?
+The Lifecycle Management Methodology comprises a comprehensive process for managing information technology projects from vision to retirement. The methodology is composed of eight distinct stages, each of which guides project managers through the LMM process by identifying a core/minimum set of deliverables to be created in order to ensure a project 's viability.
+================
+That's very interesting. And what can you tell me about program QA?
+We have the Production Readiness Review PRR Process.

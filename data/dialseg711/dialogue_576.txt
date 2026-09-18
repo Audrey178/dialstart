@@ -1,0 +1,28 @@
+Find the address of my closest friends house.
+Jack is closest and his address is 864 Almanor Ln.
+================
+Schedule an optometrist appointment
+On what date and time should I set the appointment reminder?
+================
+I am looking for the Addenbrookes Hospital please.
+The hospital is on Hills Rd, Cambridge. Did you need anything else?
+Can I get the phone number and the post code?
+Their phone number is 01223245151, and their postcode is CB20QQ
+Okay, that's all I need. Thank you!
+We are happy to help. Thank you for using our service.
+================
+Please give me the address and directions via a route that avoids all heavy traffic to a hospital around here.
+Stanford Childrens Health is the only hospital that I can find. It is located at 899 Ames Ct 8 miles away
+Okay, send me a route there that avoids all heavy traffic
+The current route does not have any traffic
+================
+I need a hotel in the north that also has free parking.
+There are 2 hotels in the north part of town with parking. Would you like to book one of them?
+Do either of those have a 2-star rating?
+Yes, they both have a 2-star rating.
+Can you see if either of them are available for 2 nights for 5 people starting on Thursday, I have no preference for which one.
+Both of those hotels are completely booked up when trying to fit that criteria. Perhaps we can try different specifications?
+Well, I'll have to see if I can shorten my stay then. Can you try for just 1 night?
+Yes, I've booked you for 1 night at the Ashley Hotel.
+Great. Can I have the reference number please?
+Of course. The reference number is TPTBTVJ9.

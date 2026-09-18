@@ -1,0 +1,24 @@
+find me chinese restaurants within 3 miles of my current location
+I'm sorry but the nearest one is 6 miles away: go there anyway?
+Yes but provide me with the quickest route please.
+This route to P.F. Changs has moderate traffic. Would you like the address?
+================
+Hi there, I am am trying to find out more information about the Parkside Police Station.
+Hello, the phone number is 01223358966. Address Parkside, Cambridge, postcode, CB11JG. Would you like help with anything else?
+No, that's everything I need, thank you!
+Glad I could be of assistance! If you need anything else, let me know.
+Is there a good place to eat near the police station?
+Could you specify north, south, east, west, or centre of town?
+================
+Remind me about my optometrist appointment with my father on the 29th, at 7 pm
+Okay, I will be sure to remind you about that. Is there anything else?
+List my current reminders.
+You have an optometrist appointment on the 29th at 7pm. Your father is attending
+================
+navigate home
+Navigating you home.
+Please avoid all heavy traffic, thank you!
+The route to your home has heavy traffic and there is currently no alternative routes.
+================
+Schedule a swimming activity with Marie for Friday at 1pm.
+Reminder for swimming with Marie on Friday at 1pm is set.

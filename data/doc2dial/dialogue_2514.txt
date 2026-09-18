@@ -1,0 +1,15 @@
+I need a driver's license please help me.
+Yes, certainly. Are you a New York State resident and over 16 years of age?
+================
+Yes I am and this is my first time around.
+Are you over 18?
+No I'm not.
+================
+My friend wants to renew her license, can you tell me how?
+You can click on the number to see how to renew your license [ 11 ].
+================
+What class license will I get if I'm not 18?
+Most people get a class D-Operator if 18 or older or a DJ-Junior Operator if under 18.
+================
+Are there restrictions for me if I'm 17?
+Yes you are subject to the restrictions for junior drivers until you are 18 years old.

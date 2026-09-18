@@ -1,0 +1,34 @@
+Are there any hotels (not guesthouses) that have 0 stars?
+Yes, actually. Cityroomz is a moderately priced 0 star hotel.
+Do they have free wifi?
+Yes, they do have free wifi! Would you like me to book a stay for you?
+Yes! Can you book it for 5 people and 5 nights starting friday?
+That booking was successful, your reference number is TFPBTYHN. Is there anything else I can help you with?
+================
+Hi there, can you help me find a restaurant in the centre of town? Someplace with British food?
+I've heard great things about cotto. Want a reservation?
+What price range is that restaurant?
+Cotto is in the moderate price range. Would you like me to make a reservation for you?
+No that won't be necessary, could you just give me the address and postcode please?
+Sure, the address is 183 East Road City Centre and the postcode is cb11bg.
+================
+i want to find a hospital in town
+The Addenbrookes Hospital is on Hills Rd, Cambridge CB20QQ.
+================
+Hello, I would like information on club Salsa
+It is a nightclub located on the centre where the entrance fee is 5 pounds.
+Can you let me have their postcode?
+Absolutely... Their postcode is cb12jb. Is there any other information I can provide you with?
+================
+I am looking for the nearest hospital.
+Ok Addenbrookes hospital is located at Hills Road, Cambridge. Do you want the phone number?
+Yes, please. And the postcode.
+The phone number is 01223245151. Postcode is CB20QQ. Is there anything else I can help you with?
+No that will be all for now. Thank you!
+welcome. at your service next time
+Does the hospital have the truama and orthopaedics department?
+Yes, the hospital definitely does have such a department. Would you like the information?
+Yes, please. the postcode address, and phone number.
+Certainly. The phone number is 01223245151, the address is Hills Road, Cambridge, and the postcode is CB20QQ
+Awesome. Thank you so much.
+Should I book it for you?

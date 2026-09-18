@@ -1,0 +1,32 @@
+Please find me a taxi? I'm at the el shaddai and I need to arrive by 21:15.
+Okay. I will need your destination first.
+I'm going to cocum.
+I have a white bmv with a contact number of 07785490051.
+That will be fine, thank you very much.
+What else can I do for you today?
+================
+I want to book a train. I would like to depart from cambridge and arrive by 16:45
+What is your destination?
+The train should depart from cambridge and should arrive by 16:45. Going to Ely
+What day will you be travelling?
+I would like to go on Saturday.
+How about TR8860?
+Sure, I would like to book that train for 4 passengers.
+Booking was successful, the total fee is 14.08 GBP payable at the station. Reference number is : VX48ZGH0.
+================
+I need a taxi today. I'll want to leave after 05:30
+I would be happy to help with your request, first I'll need to know where you'll need picked up from.
+Oh I'm sorry, I need to be picked up at the lensfield hotel, heading to don pasquale pizzeria.
+I booked your car for you. They will be driving a white Toyota and their contact number is 07910293411.
+================
+what is the weather next week
+What location do you want the weather for?
+Will it be clear in Oakland?
+It will not be clear in Oakland next week.
+================
+I'm looking for a train to take 5me to Cambridge.
+Okay and when would you like to leave?
+I would like to leave from Stevenage on Thursday and get to cambridge by 9:15.
+There is a train departing Stevenage at 7:54 Thursday, and arriving in Cambridge at 8:53.
+Can you tell me how long the trip will take?
+The travel time is 49 minutes.

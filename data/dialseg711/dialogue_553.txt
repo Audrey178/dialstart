@@ -1,0 +1,37 @@
+Are there any places in the north that have free parking?
+There are five places that have parking. What price range do you want?
+Any price range is fine. But if you can see if there is one that has 4 stars?
+The Acorn Guest House is a moderately-priced 4-star hotel in the north area and has parking. Does this sound acceptable to you?
+Does The Acorn Guest House have internet? I don't need free wifi.
+Yes, it does have free internet. Would you like to book?
+Yes, I would like to book. Can you get me a room there for Sunday? I will need a room for 8 for 5 nights.
+I have successfully booked your room. The reference number is UUF3948J. Can I be of further assistance?
+================
+Hello, I need a hospital please and make sure it has a medical decisions unit, if you will.
+Addenbrookes Hospital has a medical decisions unit. It is at Hills Rd, Cambridge.
+Thank you. Can you please let me know their phone number?
+The medical decisions department can be reached at 01223596066.
+What is the postcode?
+The postcode is CB20QQ.
+Thank you for your help
+You're very welcome. Will there be anything else?
+================
+I need an expensive place to stay that includes wifi.
+I have found several options for you, sir. What part of town did you have in mind?
+It doesn't really matter. I would like a guesthouse, though.
+I could not find a guesthouse available in the expensive price range. Is there a different price range you would accept?
+how about moderate price range?
+I have 14 total moderate priced guesthouses. Do you have a preference of which area of town?
+any place suits me
+The Avalon is a moderate-price guesthouse in the north with a 4-star rating and internet. Do you want me to book it?
+book it for 3 people and 4 nights starting from wednesday.
+Booking was successful. Reference number is : 9ZW11UHM.
+Great, thanks for your help!
+You're welcome. Is there anything else that I may assist you with today?
+================
+What time is my next lab appointment and who will be attending it with me?
+================
+I'm looking to get some information on the alpha-milton guest house
+The Alpha-Milton guesthouse in the north and moderately priced. Would you like to book a room?
+Not yet, but can you tell me the postcode for this guesthouse?
+The postcode is cb41xa. Can I help with anything else?

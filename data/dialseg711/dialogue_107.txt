@@ -1,0 +1,32 @@
+I am looking for the police station
+Contact the Parkside Police Station, Telephone 01223358966
+Would you give me their address and postcode also, please?
+Yes, the address is Parkside, Cambridge. The postcode is CB11JG.
+================
+I want a hospital in town.
+Addenbrookes Hospital is located at Hills Rd, Cambridge. Is there a particular department you're looking for?
+No, I just need the phone number, address and postcode please.
+Addenbrookes Hospital is located at Hills Rd, Cambridge, postcode CB20QQ. General phone number is 01223245151. Can I help with anything else?
+No that is all. Thank you.
+welcome. at your service next time
+================
+is it going to be cloudy this week
+What city do you want the weather for?
+Fresno please.
+It is only supposed to be cloudy on Sunday this week in Fresno.
+================
+I was in a car dispute and I am looking for help
+I can get you the number for Parkside Police Station, is that close to your location?
+I believe so. What is the police address and phone number?
+The address is Parkside, Cambridge. The phone number is 01223358966
+Thank you. That is all I needed.
+Thank you for using our services. Do you require any further assistance?
+================
+I am looking for a place to stay. The hotel should include free wifi and should be in the cheap price range
+I have The Cambridge Belfry, located in the west, cheap and has wifi. Would you like me to make a reservation for you?
+No, just need to make sure it includes free parking.
+It does include free parking.
+Okay, I need to book it for 1 person, 2 nights starting Friday.
+Booking was not successful. Perhaps another day or shorter stay?
+how about for 1 night?
+Booking was successful. Reference number is : RHWJ0F1Y.

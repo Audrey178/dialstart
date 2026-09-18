@@ -1,0 +1,34 @@
+check today's forecast for rain
+Where would you like to hear the forecast from?
+I need the forecast for San Francisco please. For today to be exact.
+Rain is predicted in San francisco today.
+================
+I'm looking for a cheap hotel.
+alexander bed and breakfast is a guesthouse east of Cambridge center that is cheap, would you like more information?
+Does it have a star of 4. I don't care if it has free parking.
+Alexander bed and breakfast does have a 4 star rating, would you like help to book a room?
+Actually, you mentioned its in the east. I really prefer something in the centre of town thats cheap and 4-star rated. It can be a guesthouse or hotel.
+The Alexander Bed and Breakfast is a cheap 4 star guesthouse in the centre of town. Would you like me to book it for you?
+Yes. I'm travelling with my family, so I need a room for 7 people for 4 nights, arriving Thursday.
+Sorry, that booking was unavailable. Perhaps you'd like a different day or a shorter stay?
+Can you see if they have just 2 nights available?
+I'm sorry, that time is not available. Can we try a short length of stay or different day?
+Are you sure the Alexander is in the centre? You said earlier that it's in the east.
+Yes, it's in the centre.
+Please double check and make sure the booking is good.
+Yes, I was able to book that. The reference number is U0JT0YZ8. DO you need anything else?
+================
+Set a reminder for today's optometrist appointment at 3 with my mom
+Setting a reminder for today's optometrist appointment at 3 with your mom
+================
+I need a train on Monday, leaving after 10:45.
+Where will you be departing from and what is your destination?
+I want to go to Cambridge from Birmingham New Street.
+We have the TR1028 leaving at 11:01. Does that work?
+When does it arrive? And what is the total travel time, please?
+It arrives at 1:44 in the afternoon and it is a 2 hour and 43 minute trip.
+================
+show me the directions to starbucks
+I'm sorry i do not have a listing for Starbucks. I have alternate coffee shops available, would you be interested in learning more about them?
+Okay, find the closet coffee or tea place, and find the quick way there please.
+The closest coffee shop is Philz, would you like directions?

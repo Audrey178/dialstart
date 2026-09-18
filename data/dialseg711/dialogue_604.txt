@@ -1,0 +1,32 @@
+I would like to book a taxi from stevenage train station and go to cineworld cinema.
+I have you booked in a grey ford with a contact number of 079724240082. Can I do anything else for you?
+That's all I need thank you!
+great, have an amazing day
+I'm sorry, I forgot to mention that I need the taxi to arrive by 12:15.
+I've made the change for you. The new car is a White Toyota, and the contact number is 07338867597. Can I help you with anything else?
+================
+Do you have information about the Cambridge Museum of Technology?
+Yes, the cambridge museum of technology is in the east part of town. The entrance fee in 5 pounds. Would you like a ticket?
+Not at this moment. I would like the museum's postcode, though.
+Their postcode is cb58ld
+Thanks. And it is an actual museum, correct?
+Yes, it is a museum. Is there anything else you would like to know?
+================
+I am looking for a restaurant in the moderate price range serving modern European food.
+I have at least three choices would you like a recommendation?
+I'd like a restaurant on the south end of town, please.
+How does restaurant alimentum sound? They are on the south side of town.
+That sounds good, can I book a table there for 1 person at 12:30 on wednesday?
+Your reservation at Restaurant Alimentum has been made for 12:30 on Wednesday and your reference number is X08RCBWH. Is there anything else I can help you with?
+================
+When is my conference and where is it
+Your conference is Thursday at 6 pm and it will be in conference room 50.
+================
+Do you know of any 3 star hotels to stay in?
+Yes, there are 6 I can recommend to you. Do you have other specifications, or shall I select one for you?
+I would like for the hotel to be located in the south and include free wifi.
+I have two different choices. One is rather expensive and the other more moderately priced. Do you prefer one over the other?
+Either is fine. Can you see if one of them might have a room on Wednesday for 3 people and 3 nights?
+Ok. I have booked the lensfield hotel for you. The reference number is 11XDM9CC.
+Can I have the address and phone number please?
+Of course. The address is 53-57 Lensfield road. Phone number is 01223355017.

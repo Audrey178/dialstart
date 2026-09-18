@@ -1,0 +1,20 @@
+I'd like to find a train arriving in peterborough by 8:00.
+There are daily departures from Cambridge at 07:06 that arrive in Petersborough at 07:56. Which day were you planning to travel?
+I am planning to travel on Thursday.
+There are daily departures from Cambridge at 07:06 that arrive in Petersborough at 07:56. Would you like to book tickets?
+Yes, I'll need 4 tickets please.
+Your Booking was successful, the total fee is 66 GBP payable at the station .The reference number is : ZW9TAO4I.
+================
+can you find me parking nearby
+We are 5 miles away from Civic Center Garage: does it sound good to you?
+Yes, what is the address?
+270 Altaire Walk, it's 5 miles away with moderate traffic on the route
+Set the GPS and thank you.
+Setting GPS to Civic Center Garage now.
+================
+Hi! I'd like to find an expensive Indian restaurant to dine at.
+Curry garden is an Indian restaurant in the expensive price range.
+Is Curry garden in the centre?
+Yes it is. Would you like me to make a reservation for you there?
+I'm not looking for a reservation at the moment. Can I just get the phone number, postcode, and address? Thanks!
+Certainly. The phone number for Curry Garden is 01223302330, the postcode is cb21dp, and the address is 106 Regent Street City Centre. May I assist you with anything else today?

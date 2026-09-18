@@ -1,0 +1,24 @@
+I need to get to the nearest police station, can you assist me?
+Cambridge, parkside police telephone number 01223358966.
+Thank you, what's the post code?
+The post code is CB11JG.
+Thank you for your help
+You're welcome. Can I help you with anything else?
+================
+Hi! I'd like to find a seafood restaurant in the centre of town, please.
+Excellent. The loch fyne is just your thing.
+Is it an expensive restaurant? I'm really looking to break the bank here.
+Yes, it is expensive. Do you need help with booking?
+Perfect, yes please book a table for 3 people at 17:15 on Monday. Can I also have a reference number?
+Wonderful I was able to get you in a Monday and your reservation number is E10Z97F4. Will that be all?
+================
+I'm looking for a train going to broxbourne please.
+the train id is TR6549 and it leaves on friday
+================
+I was robbed and I am looking for help
+Tell me where you are and I will send the police.
+I don't know I am new to this area, please just give me the phone number to the police station.
+The Parkside Police Station can be reached at 01223358966.
+================
+Is it dry in Fresno right now?
+It is misty in Fresno right now.

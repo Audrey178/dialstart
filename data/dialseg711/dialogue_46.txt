@@ -1,0 +1,48 @@
+I would like to eat at an expensive european food restaurant
+There are five european restaurants, which area would you like to dine in?
+The area doesn't matter. Can you make a recommendation, please?
+I would recommend Eraina, it is at Free School Lane City Centre.
+Great, Can you book me a table for 2 at 18:00 on Monday?
+Unfortunately Eraina is not available at that time. Would you like to try the City Stop Restaurant?
+Sure, that would work.
+Please book another day or time slot. the place could be full
+How about 17:00?
+Booking was successful. Your reference number is KANPYWAC,
+================
+I am looking for the Addenbrookes Hospital
+Okay, that hospital is located on Hills Rd, Cambridge. Do you want the phone number?
+Yes the phone number and postcode
+Hi, the telephone number to the hospital is 01223245151 and the postcode is CB20QQ
+Thank you for your help.
+You're welcome. Do you need information regarding a specific department in the hospital?
+No, thank you. You have given me all the info I need for today.
+Okay thank you and have a great day!
+================
+I am looking for a place to stay. The hotel should be in the type of guesthouse and doesn't need to include internet
+There are many guesthouses that meet your criteria. Do you have a pricerange in mind?
+I'm looking for something that would be in the middle price point.
+I have located 15 guesthouse types in the moderate price range. Do you have a preference for a particular area of town?
+Maybe the south?
+We have two in the south, a 4 star and a 3 star. Do you have a preference?
+I don't care about that.
+How about the bridge guest house?
+Does it have free wifi?
+Yes the bridge guest house has free wifi. Can I book it for you?
+Yes. There will be six of us staying for two nights.
+What day did you want to check in?
+We are actually checking in starting on Tuesday.
+I was able to book the Bridge Guest House for 6 people starting Tuesday for 2 nights. Is there anything else I can help you with?
+Yes, can i have a reference number please?
+Of course. Reference number COIMDB7B. Can I help with anything else today?
+================
+Can you tell me where the nearest police station is to me?
+It is the Parkside Police Station located at Parkside, Cambridge.
+Great, can you give me the post code and actual address?
+The postcode is CB11JG and the address I have on file is just Parkside, Cambridge. Is there anything else I can do for you?
+================
+Am injured and are looking for a hospital nearby
+Okay, Addenbrookes Hospital is located on Hills Rd, Cambridge. Do you want the phone number?
+Yes, and the postcode please.
+The postcode is CB20QQ. Do you need anything else?
+Yes the phone number also.
+That phone number is 01223245151.

@@ -1,0 +1,40 @@
+Hi, I need to catch a train from London Liverpool Street on Wednesday. Can you please give me the schedule for that day?
+TR7020 london liverpool street cambridge wednesday 05:39 07:07 16.60 pounds 88 minutes TR8813 london liverpool street cambridge wednesday 07:39 09:07 16.60 pounds 88 minutes TR7519 london liverpool street cambridge wednesday 09:39 11:07 16.60 pounds 88 minutes TR4161 london liverpool street cambridge wednesday 11:39 13:07 16.60 pounds 88 minutes TR2826 london liverpool street cambridge wednesday 13:39 15:07 16.60 pounds 88 minutes
+It looks like TR4161 from london liverpool street to Cambridge, leaving on wednesday at 11:39, fits my schedule.
+Great, would you like me to book that for you? How many people?
+Yes, please. Two of us are traveling together.
+I have booked you two tickets. Your reference number is L0HYQ28Z
+================
+I am looking for a particular hotel. Its name is called kirkwood house
+Kirkwood house is located in the north and is moderately priced. Want me to book you a room?
+Please book a room for 3 people for 3 nights starting on Wednesday. Can I have a reference number?
+Your booking was successful. Reference number is : VHYO8IC0.
+Wonderful. Thank you.
+welcome next time
+================
+I'm looking for a pricey Indian place. I wanna show off to my date.
+I have many good expensive Indian restaurants in the Cambridge area. Is there a specific part of town you would prefer?
+How about the center? i would like to book a table as well for 8 people at 16:45 on a Friday.
+Unfortunately there are no tables available at that time. Would you prefer a different time or perhaps a different day?
+Can you try booking it for 15:45 instead?
+I was able to book that for you, the reference number is VKRSAFBU
+================
+I need a taxi to pick me up at the Museum of Classical Archaeology to take me to What of a Time.
+I'm sorry, did you mean Whale of a Time? I will also need you to tell me when you'd like to leave or arrive by as well.
+Sorry, Whale of a Time. I want to leave the museum after 10:30, please.
+The taxi is booked for 10:45 and will be a black Honda.
+================
+I am looking for a 2 star hotel that also includes free wifi.
+The ashley hotel is a 2 star moderately priced hotel that includes free wifi. Would you be interested in booking a room at this location?
+Where is it located? I'm looking for something in the East.
+Express by Holiday Inn Cambridge is a 2 star hotel with free wifi. It is in the east, and is in the expensive price range.
+What type of place is the Express?
+Express by Holiday Inn Cambridge is a hotel.
+Do they also have free parking?
+Yes, it has free parking and wifi. Would you like me to make a reservation for you at the express by holiday inn cambridge?
+What type of hotel is it?
+This is an expensive hotel.
+I want to make sure that it's a hotel and not just a guest house. It sounds like it's not a guest house though, is that right?
+It is a hotel, not a guesthouse.
+Thank you very much!
+Is there anything else I can help you with today?

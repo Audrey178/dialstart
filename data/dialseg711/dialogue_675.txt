@@ -1,0 +1,26 @@
+i want a reservation that has cheap price and should be in the east
+we have 3 with your specification
+Oh, I also need it to have free parking and I want a guest house.
+How about allenbell? It looks great.
+Sure, please book it for 1 person for 5 nights starting on thursday.
+Booking was unsuccessful. Perhaps another day or shorter stay?
+how about starting on friday?
+Booking was successful for Friday. Reference number is : VRX491JS.
+================
+Find out the temperature in alhambra on tuesday
+This tuesday in alhambra the temperature will be a low of 20F and a high of 30F
+================
+Can you give me some information on the Avalon Hotel?
+I'd be happy to. The Avalon is a guesthouse located on the north side. It's moderately priced, has 4-stars and offers free wifi. Would you like to book a room?
+Not at the moment, can I have their phone number?
+Certainly, the phone number is 01223353071. Is there anything else I can help you with?
+================
+give me the time for my next doctor's appointment
+Your doctor's appointment is at 3 pm.
+================
+check weather
+What city would you like me to check the weather in?
+Durham.
+What day are you wanting to know the weather for Durham?
+Will it be warm during the weekend?
+Saturday is expected to be very warm in Durham with highs near 100 but Sunday is calling for a blizzard with high near 50.

@@ -1,0 +1,23 @@
+Aloha! Can you help me find a hotel, please?
+I would be happy to help you. What area are you interested in?
+I'm not sure but I'm looking for something in the cheap price rating with 4 stars.
+I have 7 guesthouse and 1 hotel matching your inquiry. Would you like a certain area or price range?
+I need free parking.
+It's looking like they all offer both free parking and Wifi. Would you prefer to stay in a particular area of the city?
+I would like you to book me into the hotel for tuesday for 5 nights and 2 people.
+You have a reservation at Autumn House, located at 710 newmarket road. Reference number BFT509GX. Can I help you with anything else today?
+================
+I'm looking for an expensive restaurant for tonight in the centre of town, can you provide me with a list of my options?
+Kymmoy is located in the centre of town.
+May I have the postcode to Kymmoy please?
+Certainly, the postcode is cb12as. Is there any other information you need?
+================
+Can you tell me where a hospital is located?
+The Addenbrookes Hospital is located at Hills Rd, Cambridge Postcode CB20QQ
+================
+Hi! Can you give me some information on the Royal Spice restaurant?
+Of course! It's a cheap Indian restaurant in the north at Victoria Avenue Chesteron cb41eh. The phone number is 01733553355. May I help with anything else?
+I would like to book for two on Wednesday, at 17:15.
+I have you booked Wednesday at 17:15 a table for 2, this table will hold for 15 mins and your reference number is GXO64LG8.
+================
+Set reminder for dinner on Thursday at 2 pm with mother.

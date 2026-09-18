@@ -1,0 +1,22 @@
+Can you tell me about the J Restaurant?
+The J restaurant serves cheap asian oriental food in the centre of town. Their phone number is 01223307581. The address is 86 Regent Street City Centre.
+Can you make reservations for 6 at 14:30 on Thursday?
+Yes I certainly can! Your reservation was successful and your booking reference is 5F3KBH78.
+================
+set a reminder for lab work on the 12th
+lab work at 12th
+It is at 7 pm
+I have set a reminder to have lab work done on the 12th at 7 pm.
+================
+I want to book a taxi after 14:00 and would like to the rice house.
+Certainly we can arrange that - where should they pick you up?
+I will be at Cityroomz.
+I've booked you a grey Audi, the contact number is 07702787736.
+================
+Hi, I've just suffered a minor injury. Can you tell me where a hospital is please?
+The nearest is Addenbrookes Hospital at Hills Rd, Cambridge, postcode CB20QQ. The telephone number is 01223245151. Do you need transportation to the hospital?
+================
+I was parking my car and another driver passed too close and scraped the paint, but she won't acknowledge it was her fault. Can you help?
+Contacting the Parkside Police Station at phone number is 01223358966 is probably the best course for resolving your situation. Do you think that will help?
+Probably. Can I get the address and postcode, too?
+Certainly. The address is Parkside, Cambridge, and the postcode is CB11JG. Is there anything else I can help you with?

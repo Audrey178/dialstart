@@ -1,0 +1,18 @@
+What is the General and Federal Guidelines and what do they do?
+================
+The General and Federal Guidelines of the IT Standards Library highlights federal organizations involved in establishing and coordinating the implementation of federal laws, regulations, standards and guidelines for information and information technology management for all federal agencies and departments.
+================
+Would you need some resources to use?
+Yes, I would like some resources.
+One of them is the Office of Management and Budget Resources.
+================
+What is the Enterprise Rational Solution used for?
+The Federal Student Aid Enterprise Rational Solution is for sytems development efforts and it is an integrated solution for such things as requirements, tests, and configuration management.
+================
+What pertinent info does the IT Standards Library offer?
+The IT STandards Library offers references for those who do or would like to do business with Federal Student Aid.
+Would the documents selected for thel IT Standards Library cover all the documentation?
+It does encompass most of the documentation or references necessary to perform work for Federal Student Aid but may not encompass all.
+================
+What does the IT Dashboard display?
+The IT Dashboard will show data received from agency IT Portfolio and Business Case reports, including general info on over 7,000 Federal IT investments and detailed data for over 700 of those investment.

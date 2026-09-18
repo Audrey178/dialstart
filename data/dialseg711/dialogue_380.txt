@@ -1,0 +1,34 @@
+Can you arrange for a taxi that will take me from ugly duckling to ely train station?
+Sure! What time will this be for?
+I would like to leave after 01:00 please.
+You're all set. I've booked a grey BMW for you, and the driver's contact number is 07756316394. What else can I assist you with today?
+================
+find out if it's supposed to rain
+What city shall I check for rain?
+Camarillo, please, tomorrow's forecast
+It will be clear tomorrow in Camarillo.
+================
+I'm looking for a moderately priced place to stay.
+Certainly, we have many moderately priced options. Which area of town do you prefer to stay in?
+I'm not familiar with the different areas, so I guess it doesn't matter. I would like a moderate though. With free WiFi.
+The A and B Guest House is in the moderate price range and has free wifi. Would you like to book a room?
+Does it have a four star rating? I need free parking, too.
+The Archway House would meet your needs. Would you like to make a reservation?
+No, could you just tell me the phone number? And what area of town is that in?
+The phone number is 01223575314 and it is in the north area of town.
+================
+Am injured and are looking for a hospital nearby it should have the neurology neurosurgery department
+Addenbrookes Hospital is located at Hills Rd, Cambridge and has a neurology department. Do you need the phone number?
+No, I just need the postcode, please.
+The postcode is CB20QQ.
+================
+Hi, I'm looking for a 4 star hotel on the west side.
+I was able to find three results for what you are looking for, may I recommended finches bed and breakfast?
+Great do they have free wifi?
+They have free wifi and free parking! They're a guesthouse, not a hotel, though - is that OK?
+Yes, sounds good. I'd like to book for 6 people for 5 nights from Thursday.
+I'm afraid that wont work. Can we try a different day or length of time?
+Would you be able to get it for 1 night and also get me a reference number
+Yes I was able to book a room there for one night. Reference number is PL0P458J.
+Great! Thanks for your help with booking that.
+Is there anything else I can help you with today?

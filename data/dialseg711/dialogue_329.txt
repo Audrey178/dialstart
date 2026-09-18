@@ -1,0 +1,38 @@
+What is the date and time of my next dentist appointment.
+Can you clarify which one? I have one on the 11th at 5pm and one on Sunday at 10 am.
+================
+Can you help me find a good thai restaurant in the west?
+There is Sala Thong that's expensive would you like me to book a table for you?
+Yes, that would be great.
+Can you please tell me how many people and what day and time you would like me to book it?
+Thursday at 12:45 for 7 people.
+I was able to book that for you for Thursday. Your reference number is 07CI497H.
+thank you for your service
+You are quite welcome. Do you need any further assistance?
+================
+I am looking for a hotel with a 3 star rating and free parking
+There are 2 hotels with a 3 star rating and free parking. Would you like to stay in the centre or south?
+Either is fine. I'd like a guesthouse.
+Sorry, I was mistaken. There are 3 guesthouses matching your request. One each in the south, north, and west. Would you like to book one?
+Yes please. Which is the cheapest?
+I can only tell you they are all in the moderate price range. Do you have any other preferences?
+No. I would like to make a reservation for Wednesday for 3 nights and 8 people. I will also require a reference number.
+I was unable to book your stay at any of the three hotels. Would you like to change the length of your stay or change the day?
+Can you please try a 2 day stay.
+Booking was successful for the bridge guest house. Your Reference number is : LBEOV690.
+================
+Car I need to go to a grocery store: which one is it the closest to me?
+We're 4 miles away from Trader Joes and there is no traffic on our way
+Would you give me the address and enter directions to the location?
+The address is 408 University Ave; setting directions now.
+================
+I'd like to find a place that I can get some Northern European food.
+Unfortunately, I was unable to find a restaurant that serves northern European food. Is there anything else I can help you with?
+Okay, what about a restaurant that serves modern european food?
+i have several, can you be mores specific on price and area please?
+I am looking for the moderate price range, the area doesn't matter.
+How about de luca cucina and bar?
+Does that serve modern european food?
+The de luca cucina and bar serves modern european food.
+What's the post code and phone number of de luca cucina?
+The post code is cb21aw and the phone number is 01223356666. Is there anything else I can do for you?

@@ -1,0 +1,11 @@
+I am having problems signing in to MYDMV.
+Are you being redirected to the Welcome to MyDMV page?
+No, I am not being redirected.
+Is there a way to clean my sign in info out?
+You can use the link I sent you to clear the sign in link out.
+What if I created a MyDMV account before and forgot my login name?
+You can go to the Forgot your Username tool and get a list of all you NY.gov ID Usernames.
+How do I serve the issue of redirecting me to Welcome page?
+You would need to use the link to clear out your sign in information from our system and this will stop from being redirected to the Welcome to MyDMV page.
+What if I have more than one email address?
+You should definitely check all of your emails.

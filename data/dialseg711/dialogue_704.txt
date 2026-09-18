@@ -1,0 +1,24 @@
+check forecast for today and tomorrow
+What city can I give you today and tomorrow's forecast for?
+In San Francisco, please.
+San Francisco will be windy today between 50-70F and clear tomorrow with a low of 30F and high of 40F.
+================
+What time is dinner and who is attending?
+you have two dinners, one on Monday at 8 pm with Jon and one on the 8th at 5 pm with Marta
+================
+Can you help me book a taxi going from emmanuel college to churchill college?
+Yes, I could! What time would you like to depart from Emmanuel College?
+Anytime after 21:30 is fine for me, thanks.
+Alright! I have a yellow Lexus booked to pick you up. The Contact number is 07543493643. Anything else I can help with?
+================
+show me directions to the nearest grocery store
+The nearest grocery store is Whole Foods ,2 miles away at 819 Alameda St.
+OK, please set that as the next destination.
+There is heavy traffic now but you should be able to reach there fast enough
+OK, please give me directions to get there by the quickest way.
+Setting directions to 819 Alma St now.
+================
+Hi, I would like to get a taxi from whale of a time. I'll need to leave after 22:45.
+Could you tell me your destination, please?
+I would like to go to Citi Stop Restaurant
+Ok, I have you booked to leave at 22:45. The car is a yellow Skoda and their contact number is 07314230139. Anything else I can do for you?

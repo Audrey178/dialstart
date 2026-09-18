@@ -1,0 +1,28 @@
+I am looking for a restaurant in the centre that serves african food.
+The bedouin serves african food at 100 Mill Road City Centre. Would you like to make a booking?
+I would like a restaurant in the expensive price range please.
+Bedouin is expensive. Would you like to book there?
+Yes. I want to book a table for 3 people on Tuesday at 19:45.
+That time slot is unavailable. Is there another time slot you want to book?
+Could you try 18:45 instead?
+Your table has been reserved at for 3 at 18:45 on Tuesday. The reference number is IE3WWFDN.
+================
+Am injured and are looking for a hospital nearby it should have the infectious diseases department.
+The Addenbrookes Hospital has a phone number of 01223217314 for the infectious diseases department.
+Thank you. Can I have the postcode?
+Their postcode is CB20QQ. Can I get you any more information about them?
+No, that's all I needed. Thanks!
+welcome. at your service next time
+================
+I am looking for the price range and address of the Meze Bar Restaurant
+They are in the expensive price range, and their address is 196 Mill Road City Centre. Can I help you with anything else?
+================
+set a reminder for tennis
+Reminder for event Tennis set.
+================
+Hi there, would you tell me the address of a hospital located here in town?
+The Addenbrookes Hospital is located at Hills Rd, Cambridge.
+Do you have the hospital's postcode?
+The postcode is CB20QQ.
+Thank you for your help
+You are welcome. Anything else I can help you with?

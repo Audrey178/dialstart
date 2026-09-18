@@ -1,0 +1,30 @@
+Hi, I'd like to book a taxi from Hakka to Sidney Sussex College.
+What time would you like to leave?
+I'd like to arrive at the college at 20:15.
+I booked that for you. The car is a white skoda and the contact number is 07158145955.
+================
+I need to schedule a conference.
+What day and time is your conference?
+This week, on Tuesday at 4 pm.
+Okay setting a reminder for a Tuesday at 4 pm for conference, is there anything else I should add?
+The conference is with the executive team.
+Okay, setting a reminder for your conference with the executive team on Tuesday at 4 pm.
+================
+I need to book a taxi to pick me up at Funky Fun House to go to Huntingdon Marriott Hotel.
+What time would you like to leave?
+I prefer to leave after 09:15
+Booking is complete, a black ford will be picking you up. The contact number is 07635853272. Thank You! .
+Great, thanks for your help!
+I can also recommend restaurants and book trains. Are you interested?
+================
+I'm looking for some entertainment in the center of town.
+I am very sorry there are no results for entertainment in the centre area, would you like to try another area or different attraction?
+How about a theatre?
+There are 4 theatres located in the centre of town. How does Cambridge Arts Theatre sound?
+That sounds good, what's the phone number?
+The phone number for the cambridge arts theatre is 01223503333. Can I offer you any other information today?
+================
+what's the weather forecast in new york
+What information can I give you about new york's weather?
+I need to know what the lowest temperature will be in New York in the next few days.
+It will be 30F on Wednesday in New York.

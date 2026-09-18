@@ -1,0 +1,17 @@
+I need to know where I can find Aidan.
+================
+At this time, Aidan beta version is only available to a pilot group of users while they are logged into their accounts.
+Do you know if you belong in this group of users?
+No, I'm not sure.
+Do you see the Aidan icon on your account?
+Yes, I do.
+Great. Aidan is available to you. In the future, Aidan's services will be available to a wider audience.
+================
+How does Aidan work?
+Aidan acts as a virtual assitant who can answer questions related to federal student aid. It uses advanced technology, AI, and natural language processing to answer common questions.
+================
+How do I access Aidan?
+Log into your account and look for the Aidan owl icon in the bottom right hand corner.
+================
+How secure is my private information when using Aidan?
+This service is very secure. Federal Student Aid handles and stores all your data from interactions with Aidan.

@@ -1,0 +1,34 @@
+I am looking for a train on Friday that leaves after 21:45.
+Sure. Where are you leaving from?
+I'll be leaving from Cambridge and I want to go to Stansted Airport.
+For an arrival of what time?
+I need to leave after 21:45.
+How about TR3864, which leaves at 22:40? They arrive at 23:08.
+Yes how long is the journey please?
+The travel time for that train will be 28 minutes.
+Alright. thank you very much
+May I help with anything else?
+================
+Can I find a chinese restaurant?
+I have a chinese restaurant listed at 3 miles away.
+I need the shortest route.
+The Mandarin Roots is located 3 miles away at 271 Springer St.
+================
+what is the weather going to be like today and tomorrow
+What city do you want to hear today and tomorrow's weather for?
+I need this information for Menlo Park, and I need to know if it will snow as well.
+It will not be snowing any time soon in Menlo Park.
+================
+Where is Addenbrookes Hospital?
+Addenbrookes Hospital is located on Hills Rd, Cambridge. Do you need the phone number?
+I need the postcode please.
+The postcode is CB20QQ. Do you need specific department information?
+================
+I am looking for a place to stay, that is a 2 star hotel on the east side
+express by holiday inn cambridge is a 2 star hotel in the east.
+Is it expensive and does it have free parking?
+It is expensive and it has free parking.
+Okay, great! What's the address and postcode for that place?
+The address is 15-17 norman way, coldhams business park, and the postcode is cb13lh.
+Can I have their phone number please?
+Sure. There phone number is 01223866800. Would you like me to book it for you?

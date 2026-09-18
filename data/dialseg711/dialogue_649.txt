@@ -1,0 +1,22 @@
+Hello! I'm looking for information on Restaurant One Seven.
+Sure, restaurant one seven serves british food in the centre area and is moderately priced. Would you like a reservation?
+Yes please, could you book me a table for 3 people on Tuesday at 14:15.
+Unfortunately there is nothing available for Tuesday at 14:15. Would another time or day work for you?
+Can we try the same day for 13:15?
+Your booking was successful. Your Reference number is 98OLERPX. Is there anything else I can help you with?
+================
+Find me a parking garage around me.
+There is a parking garage 5 miles away at 481 Amaranta Ave but a road block is noted nearby.
+OK, please give me directions to travel the shortest distance.
+OK, setting navigation to the Palo Alto Garage R now.
+================
+I need to book a taxi from Kings College to the lensfield hotel. I need to arrive by 10:00 and need the car type and contact number.
+The contact number is 07502362913. It will be a white audi. Is there anything else I can help you with?
+================
+what time is my meeting at
+meeting at 3pm
+================
+tell me what the temperature will be like for the next week
+For what city are you interested in the weather?
+Alameda, please
+The temperature in Alameda will be between 30F to 60F from Monday to Wednesday, and between 50F to 80F from Thursday to Sunday

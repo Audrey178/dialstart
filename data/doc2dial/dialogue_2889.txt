@@ -1,0 +1,15 @@
+a
+a
+================
+a
+a
+Yes, I have read that.
+Then you should know that the SSA calculates and returns to the U.S. Department of Education the Department the mean and median annual earnings of a cohort of students who completed the GE program during a specified cohort period.
+Oh, so the SSA calculates the sum?
+Yes, that's correct.
+================
+What other information does the data spreadsheet contain?
+Information on the Debt to Earnings data spreadsheet includes institution information, program information, D/E Annual Earnings Rates and D/E Discretionary Income Rates including transitional rates for relevant programs with the numbers used to calculate those rates, earnings data, and program appeal status.
+================
+What about the discretionary income rate?
+Rates less than or equal to 20 % are passing rates, rates greater than 20 % but less than or equal to 30 % are zone rates, and rates greater than 30 % are failing rates.

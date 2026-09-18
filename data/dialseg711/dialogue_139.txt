@@ -1,0 +1,26 @@
+I need to get a taxi to take me to efes restaurant please.
+Certainly - what time would you like to leave and/or arrive?
+I'd like to arrive by 21:30 please.
+Tell me where you are leaving from, please.
+I will be leaving from Avalon.
+Alright, I have you booked, you can expect a grey audi, contact number 07395990234. Is there anything else I can help you with?
+================
+search today's forecast
+For what city would you like me to do a search today's forecast?
+I am interested in San Mateo.
+It will be overcast in San Mateo today between 40-60F.
+================
+Can you help me please? I just got robbed and I need help!
+You need to call 01223358966
+And what is the address of the police station?
+It is at Parkside, Cambridge with Postcode CB11JG
+================
+what's the weather like
+What city would you like the weather for?
+I want to know if it will hail in Compton on Sunday
+On Sunday in Compton there isn't any hail predicted, only frost.
+================
+Hello i'm injured and need a hospital nearby.
+call them through 01223217118
+Could you give me the address for the hospital?
+It's Hills Rd. Postcode is CB20QQ.

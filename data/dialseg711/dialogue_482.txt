@@ -1,0 +1,22 @@
+Hey, are there any good cinemas in Cambridge?
+There are two cinemas, one in the south and one in the centre, which area do you prefer?
+Either one is fine. How about the south. Can you give me the postcode and entrance fee for that one?
+Sure! The cineworld cinema's phone number is 00872208000 and their post code is cb17dy. Is there anything else I can help you with?
+================
+give me directions to the nearest shopping center
+The nearest shopping mall is Midtown Shopping Center, it's 4 miles away
+Can you pick the shortest distance to go there?
+Setting GPS now.
+================
+Where is Addensbrookes Hospital?
+That hospital is located at Hills Rd, Cambridge.
+Thank you. Could you please get me the address, postcode and phone number for the hospital?
+Yes, they are located at Hills Rd, Cambridge CB20QQ. The phone number is 01223245151.
+================
+Find the address to my home in the local area.
+Your home is at 5671 barringer street.
+Ok thanks set the GPS there please.
+GPS set for 5671 barringer street.
+================
+i need a hospital with a intermediate dependancy area department
+Addenbrookes Hospital has an intermediate dependancy area department, phone number 01223348144.

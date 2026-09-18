@@ -1,0 +1,19 @@
+hello i would like information about driver's licenses for non-residents of new york
+================
+Do you want information about driver's licenses from other states and foreigners?
+do not
+================
+Do you want information from Visitors from other countries?
+do not
+================
+Do you want information about student licenses?
+do not
+================
+Want information on out-of-state student licenses?
+do not
+================
+Can students from other states be considered New York residents?
+Students from other states or from other nations who attend school in New York State are not normally considered residents of New York State.
+================
+and what should I do if my license was issued outside the USA?
+You must apply for a new original New York State driver's license at a DMV office. See Get a driver's license

@@ -1,0 +1,32 @@
+Help me arrange for a taxi to tandoori palace
+Alright. What time do you want to leave by?
+I'd like to leave after 16:30, please.
+Booking is done. Your car is a white tesla and contact number is 072411211316
+================
+I am looking for a train departing from london kings cross.
+There are 70 trains departing, what is your destination?
+I would like to arrive in Cambridge on Tuesday by 17:00.
+Of course. When would you like to leave?
+It does not matter as long as I am in Cambridge by 17:00.
+Sure, train TR0269 arrives by 16:08. That is the last train to arrive by 17:00. Would you like to book it?
+Yes, please book the train for 4 people.
+That booking reference will be F6JIDI3M. Is there anything else I can help you with today?
+================
+how hot is it going to be this week
+Any day in particular you are looking for?
+I want to know if the weather will be hot in San Jose this week.
+Yes the forecast is calling for highs in the 90s for most of the week.
+================
+Please book a taxi for 1:15 to go to whale of a time.
+I will need a pickup location first
+Pick me up at The Lucky Star.
+Great! I was able to book a white Lexus for you.
+Thank you. May I have the contact number for the Lexus, please?
+The contact number is 07253412910.
+================
+l am looking for a restaurant. The restaurant should serve gastropub food and should be in the center.
+Alright, we have three restaurants available. Did you want it to be expensive or moderately priced?
+It is a special occasion so I am hoping for an expensive place.
+Okay, there's the backstreet bistro and the slug and lettuce. I recommend backstreet bistro.
+What is the address and post code for the one you say is best?
+Backstreet bistro is located at 2 Sturton Street City Centre, cb12qa
