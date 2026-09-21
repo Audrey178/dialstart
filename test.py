@@ -11,10 +11,10 @@ from tqdm import tqdm
 from model import SegModel
 from torch.nn.utils.rnn import pad_sequence
 from keras.preprocessing.sequence import pad_sequences
-from transformers import BertTokenizer, BertForNextSentencePrediction, AutoTokenizer, set_seed
+from transformers import BertTokenizer, set_seed
 
 
-DATASET = {'doc':'doc2dial', '711':'dialseg711'}
+DATASET = {'doc':'doc2dial', '711':'dialseg711', 'vn_val':'vn_synth_val', 'vn_test':'vn_synth_test'}
 
 def depth_score_cal(scores):
 	output_scores = []
@@ -51,9 +51,9 @@ def depth_score_cal(scores):
 	return output_scores
 
 def infer(args, model_path):
-	tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
+	tokenizer = BertTokenizer.from_pretrained(args.coheren_model_name)
 
-	model = SegModel()
+	model = SegModel(topic_model_name=args.topic_model_name, coheren_model_name=args.coheren_model_name)
 	model.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')), False)
 	model.to(args.device)
 	model.eval()
@@ -113,7 +113,7 @@ def infer(args, model_path):
 				type_ids.append(torch.Tensor(type_id))
 				id_inputs.append(torch.Tensor(encoded_pair))
 
-			MAX_LEN = 512
+			MAX_LEN = args.max_len
 			id_inputs = pad_sequences(id_inputs, maxlen=MAX_LEN, dtype="long", value=0, truncating="post", padding="post")
 			type_ids = pad_sequences(type_ids, maxlen=MAX_LEN, dtype="long", value=1, truncating="post", padding="post")
 			for sent in id_inputs:
@@ -134,7 +134,8 @@ def infer(args, model_path):
 				scores = model.infer(coheren_inputs, coheren_masks, coheren_type_ids, topic_input, topic_mask, topic_num)
 
 			depth_scores = depth_score_cal(scores)
-			boundary_indice = np.argsort(np.array(depth_scores))[-args.pick_num:]
+			pick_num = (len(seg_r) - 1) if args.oracle_boundary_count else args.pick_num
+			boundary_indice = np.argsort(np.array(depth_scores))[-pick_num:] if pick_num > 0 else np.array([], dtype=int)
 			seg_p_labels = [0]*(len(depth_scores)+1)
 			for i in boundary_indice:
 				seg_p_labels[i] = 1
@@ -173,8 +174,13 @@ if __name__ == '__main__':
 	parser.add_argument("--ckpt_start", type=int, default=0)
 	parser.add_argument("--ckpt_end", type=int, default=3)
 	parser.add_argument("--pick_num", type=int, default=4)
+	parser.add_argument("--oracle_boundary_count", action='store_true',
+	                     help='Use the true number of boundaries per document instead of a fixed --pick_num (needed when boundary count varies, e.g. vn_synth)')
 	parser.add_argument("--window_size", default=2, type=int)
-	
+	parser.add_argument("--topic_model_name", default='princeton-nlp/sup-simcse-bert-base-uncased')
+	parser.add_argument("--coheren_model_name", default='bert-base-uncased')
+	parser.add_argument("--max_len", type=int, default=512, help='Must match --max_len used at train time')
+
 	args = parser.parse_args()
 	if args.single_ckpt:
 		assert args.ckpt, "--ckpt is required when --single_ckpt is set"

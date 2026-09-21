@@ -17,7 +17,7 @@ from torch.utils.data import TensorDataset, DataLoader, RandomSampler, Sequentia
 from transformers import BertForNextSentencePrediction, BertConfig, get_linear_schedule_with_warmup, set_seed, AutoModel
 from torch.optim import AdamW
 
-DATASET = {'doc':'doc2dial', '711':'dialseg711'}
+DATASET = {'doc':'doc2dial', '711':'dialseg711', 'vn':'vn_synth_train'}
 def get_mask(tensor):
     attention_masks = []
     for sent in tensor:
@@ -76,7 +76,9 @@ def main(args):
     train_dataloader = DataLoader(train_data, sampler=train_sampler, batch_size=args.batch_size, collate_fn=train_data.collect_fn)
 
     scaler = amp.GradScaler(enabled=(not args.no_amp))
-    model = SegModel(margin=args.margin, train_split=args.train_split, window_size=args.window_size).to(args.device)
+    model = SegModel(margin=args.margin, train_split=args.train_split, window_size=args.window_size,
+                      topic_model_name=args.topic_model_name, coheren_model_name=args.coheren_model_name,
+                      gradient_checkpointing=args.grad_checkpoint).to(args.device)
     if args.resume:
         # continue_from_global_step = len(train_dataloader) * (int(args.ckpt.split('/')[-1]) + 1)
         # continue_from_global_step = int(args.ckpt.split('-')[-1])
@@ -85,7 +87,11 @@ def main(args):
         model = DDP(model, device_ids=[args.local_rank], output_device=args.local_rank, find_unused_parameters=True)
 
     epoch_loss = {}
-    optimizer = AdamW(model.parameters(), lr=args.lr, eps = 1e-8)
+    if args.optim == 'adamw8bit':
+        import bitsandbytes as bnb
+        optimizer = bnb.optim.AdamW8bit(model.parameters(), lr=args.lr, eps=1e-8)
+    else:
+        optimizer = AdamW(model.parameters(), lr=args.lr, eps = 1e-8)
     total_steps = len(train_dataloader) * epochs
     num_warmup_steps = int(total_steps * args.warmup_proportion)
     scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=num_warmup_steps, num_training_steps = total_steps)
@@ -121,13 +127,11 @@ def main(args):
                             'topic_num' : batch[14]
                             }
 
-            model.zero_grad()
-
             with amp.autocast(enabled=(not args.no_amp)):
                 loss, margin_loss, topic_loss = model(input_data, window_size)
 
             if args.n_gpu > 1:
-                loss = loss.mean() 
+                loss = loss.mean()
 
             total_loss += loss.item()
             if (not args.no_amp):
@@ -137,13 +141,15 @@ def main(args):
                     torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
                     scaler.step(optimizer)
                     scaler.update()
+                    model.zero_grad()
                     scheduler.step()
                     global_step += 1
             else:
                 loss.backward()
-                torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
                 if (step + 1) % args.accum == 0:
+                    torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
                     optimizer.step()
+                    model.zero_grad()
                     scheduler.step()
                     global_step += 1
             
@@ -170,7 +176,10 @@ if __name__ == '__main__':
     parser.add_argument("--margin", type=int, default=1)
     parser.add_argument("--train_split", type=int, default=5)
     parser.add_argument("--window_size", type=int, default=5)
-    
+    parser.add_argument("--topic_model_name", default='princeton-nlp/sup-simcse-bert-base-uncased')
+    parser.add_argument("--coheren_model_name", default='bert-base-uncased')
+    parser.add_argument("--grad_checkpoint", action='store_true', help='Trade compute for activation memory, for low-VRAM GPUs')
+
     # path parameters
     parser.add_argument("--ckpt")
     parser.add_argument("--data_name", default='')
@@ -182,6 +191,8 @@ if __name__ == '__main__':
     parser.add_argument('--accum', type=int, default=1)
     parser.add_argument("--resume", action='store_true')
     parser.add_argument("--lr", default=3e-5, type=float)
+    parser.add_argument("--optim", default='adamw', choices=['adamw', 'adamw8bit'],
+                         help='adamw8bit uses bitsandbytes to cut optimizer state memory ~4x, for low-VRAM GPUs')
     parser.add_argument("--batch_size", default=12, type=int)
     parser.add_argument("--warmup_proportion", default=0.1, type=float)
     

@@ -11,13 +11,11 @@ import numpy as np
 from tqdm import tqdm
 from torch.nn import CrossEntropyLoss
 from collections import defaultdict, Counter
-from transformers import BertTokenizer
 from torch.nn.utils.rnn import pad_sequence
 from keras.preprocessing.sequence import pad_sequences
-from transformers import AutoTokenizer, AutoModel, set_seed, BertForNextSentencePrediction
+from transformers import BertTokenizer, AutoModel, set_seed, BertForNextSentencePrediction
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler, Dataset
 
-tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
 set_seed(3407)
 DATASET = {'doc':'doc2dial', '711':'dialseg711'}
 
@@ -25,7 +23,7 @@ DATASET = {'doc':'doc2dial', '711':'dialseg711'}
 def gen_text(args):
     data, topic_data = [], []
     w, k = 2, 5
-    for dataset in ['dialseg711', 'doc2dial']:
+    for dataset in args.datasets:
         todolist = [f'{args.dataroot}/{dataset}/'+i for i in os.listdir(f'{args.dataroot}/{dataset}') if not i.startswith('.')]
 
         for i in tqdm(todolist):
@@ -67,10 +65,14 @@ def gen_text(args):
 
 
 def main(args):
-    MAX_LEN = 512
-    for dataset in tqdm(['dialseg711', 'doc2dial']):
-        data = json.load(open(f'{args.dataroot}/{dataset}_{args.version}.json'))[:50]
-        topic_data = json.load(open(f'{args.dataroot}/{dataset}_topic_data.json'))[:50]
+    MAX_LEN = args.max_len
+    tokenizer = BertTokenizer.from_pretrained(args.encoder_name)
+    for dataset in tqdm(args.datasets):
+        data = json.load(open(f'{args.dataroot}/{dataset}_{args.version}.json'))
+        topic_data = json.load(open(f'{args.dataroot}/{dataset}_topic_data.json'))
+        if args.limit is not None:
+            data = data[:args.limit]
+            topic_data = topic_data[:args.limit]
 
         turn_ids, id_inputs, topic_inputs, sample_num_memory, topic_train, topic_num = [], [], [], [len(i) for i in data], [], []
         for i in tqdm(range(len(data))):
@@ -161,7 +163,15 @@ if __name__ == '__main__':
     parser.add_argument("--dataroot", default='./data')
     parser.add_argument("--history", type=int, default=2)
     parser.add_argument("--version", default='2h2cur')
-    
+    parser.add_argument("--datasets", nargs='+', default=['dialseg711', 'doc2dial'],
+                         help='Folder name(s) under --dataroot to preprocess, e.g. vn_synth_train')
+    parser.add_argument("--encoder_name", default='bert-base-uncased',
+                         help='HF checkpoint used to tokenize; must match the encoder(s) SegModel is trained with')
+    parser.add_argument("--limit", type=int, default=None,
+                         help='Optional cap on number of dialogue-window samples per dataset (for smoke tests)')
+    parser.add_argument("--max_len", type=int, default=512,
+                         help='Fixed padding length for coherence input pairs; lower for corpora with short utterances to save memory/compute')
+
     args = parser.parse_args()
 
     gen_text(args)

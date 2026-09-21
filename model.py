@@ -6,7 +6,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.nn import CrossEntropyLoss
 from torch.nn.utils.rnn import pad_sequence
-from transformers import BertForNextSentencePrediction, AutoModel
+from transformers import BertForNextSentencePrediction
 from transformers.models.bert.modeling_bert import BertPreTrainedModel, BertModel, BertOnlyNSPHead
 from transformers.modeling_outputs import NextSentencePredictorOutput
 from typing import Optional
@@ -23,15 +23,21 @@ class MarginRankingLoss():
 
 
 class SegModel(nn.Module):
-    def __init__(self, model_path='', margin=1, train_split=5, window_size=5):
+    def __init__(self, model_path='', margin=1, train_split=5, window_size=5,
+                 topic_model_name='princeton-nlp/sup-simcse-bert-base-uncased',
+                 coheren_model_name='bert-base-uncased',
+                 gradient_checkpointing=False):
         super(SegModel, self).__init__()
         self.margin = margin
         self.train_split = train_split
         self.window_size = window_size
-        self.topic_model = AutoModel.from_pretrained(model_path+"princeton-nlp/sup-simcse-bert-base-uncased")
-        self.coheren_model = BertForNextSentencePrediction.from_pretrained(model_path+"bert-base-uncased", num_labels=2,
+        self.topic_model = BertModel.from_pretrained(model_path+topic_model_name)
+        self.coheren_model = BertForNextSentencePrediction.from_pretrained(model_path+coheren_model_name, num_labels=2,
                                                                    output_attentions=False,
                                                                    output_hidden_states=True)
+        if gradient_checkpointing:
+            self.topic_model.gradient_checkpointing_enable()
+            self.coheren_model.bert.gradient_checkpointing_enable()
 
         self.topic_loss = nn.CrossEntropyLoss()
         self.score_loss = MarginRankingLoss(self.margin)
