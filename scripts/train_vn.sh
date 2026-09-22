@@ -7,4 +7,5 @@ python ./train.py --dataset vn \
     --save_model_name model_vn \
     --topic_model_name NlpHUST/vibert4news-base-cased \
     --coheren_model_name NlpHUST/vibert4news-base-cased \
-    --optim adamw8bit --grad_checkpoint --batch_size 1 --accum 12 --epoch 9
+    --optim adamw8bit --grad_checkpoint --batch_size 1 --accum 12 --epoch 9 \
+    --val_dataset vn_synth_val --eval_max_len 160 --eval_oracle_boundary_count

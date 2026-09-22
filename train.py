@@ -8,13 +8,14 @@ import argparse
 import torch.nn as nn
 from tqdm import tqdm
 from model import SegModel
+from eval_utils import evaluate_dataset
 from torch.cuda import amp
 import torch.nn.functional as F
 from torch.nn.utils.rnn import pad_sequence
 from torch.utils.data.distributed import DistributedSampler
 from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler, Dataset
-from transformers import BertForNextSentencePrediction, BertConfig, get_linear_schedule_with_warmup, set_seed, AutoModel
+from transformers import BertForNextSentencePrediction, BertConfig, BertTokenizer, get_linear_schedule_with_warmup, set_seed, AutoModel
 from torch.optim import AdamW
 
 DATASET = {'doc':'doc2dial', '711':'dialseg711', 'vn':'vn_synth_train'}
@@ -71,6 +72,12 @@ def main(args):
     epochs = 10
     global_step = continue_from_global_step = 0
     train_data = ourdataset(loaded_data)
+
+    out_path = f'{args.root}/model/{args.save_model_name}'
+    val_tokenizer, val_path = None, None
+    if args.val_dataset:
+        val_tokenizer = BertTokenizer.from_pretrained(args.coheren_model_name)
+        val_path = f'{args.root}/data/{args.val_dataset}'
      
     train_sampler = RandomSampler(train_data) if args.local_rank == -1 else DistributedSampler(train_data)
     train_dataloader = DataLoader(train_data, sampler=train_sampler, batch_size=args.batch_size, collate_fn=train_data.collect_fn)
@@ -87,6 +94,7 @@ def main(args):
         model = DDP(model, device_ids=[args.local_rank], output_device=args.local_rank, find_unused_parameters=True)
 
     epoch_loss = {}
+    epoch_metrics = {}
     if args.optim == 'adamw8bit':
         import bitsandbytes as bnb
         optimizer = bnb.optim.AdamW8bit(model.parameters(), lr=args.lr, eps=1e-8)
@@ -155,6 +163,7 @@ def main(args):
             
         avg_train_loss = total_loss / len(train_dataloader)
         epoch_loss[epoch_i] = avg_train_loss
+        epoch_metrics[epoch_i] = {'loss': avg_train_loss}
         if args.local_rank in [-1, 0]:
             print('=========== the loss for epoch '+str(epoch_i)+' is: '+str(avg_train_loss))
             PATH = f'{args.root}/model/{args.save_model_name}/{str(epoch_i)}-{str(global_step)}'
@@ -163,10 +172,23 @@ def main(args):
             if continue_from_global_step <= global_step:
                 print('Saving model to '+ PATH)
                 torch.save(model_to_save.state_dict(), PATH)
-        
+
+            if args.val_dataset and (epoch_i + 1) % args.eval_every == 0:
+                pk, wd = evaluate_dataset(model_to_save, val_tokenizer, val_path, args.device, args.eval_max_len,
+                                           window_size=args.eval_window_size,
+                                           oracle_boundary_count=args.eval_oracle_boundary_count,
+                                           pick_num=args.eval_pick_num)
+                print('=========== val pk/wd for epoch '+str(epoch_i)+' is: '+str(pk)+' / '+str(wd))
+                epoch_metrics[epoch_i]['val_pk'] = pk
+                epoch_metrics[epoch_i]['val_wd'] = wd
+                model.train()
+
+            if args.val_dataset:
+                json.dump(epoch_metrics, open(f'{out_path}/metrics.json', 'w'))
+
         if epoch_i == args.epoch:
             break
-    return epoch_loss    
+    return epoch_loss
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -186,6 +208,17 @@ if __name__ == '__main__':
     parser.add_argument("--root", default='.')
     parser.add_argument("--epoch", type=int, default=9)
     parser.add_argument("--seed", type=int, default=3407)
+
+    # in-training validation parameters
+    parser.add_argument("--val_dataset", default=None,
+                         help='Folder name under {root}/data to score pk/wd on after each epoch (e.g. vn_synth_val). Omit to skip in-training validation.')
+    parser.add_argument("--eval_every", type=int, default=1, help='Run validation every N epochs')
+    parser.add_argument("--eval_max_len", type=int, default=512,
+                         help='Padding length for validation coherence pairs; should match --max_len used for preprocessing/testing')
+    parser.add_argument("--eval_window_size", type=int, default=2,
+                         help='Context window (utterances each side) used when scoring validation boundaries; matches test.py --window_size')
+    parser.add_argument("--eval_pick_num", type=int, default=4)
+    parser.add_argument("--eval_oracle_boundary_count", action='store_true')
 
     # train parameters
     parser.add_argument('--accum', type=int, default=1)

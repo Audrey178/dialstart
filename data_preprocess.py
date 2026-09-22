@@ -22,25 +22,57 @@ DATASET = {'doc':'doc2dial', '711':'dialseg711'}
 
 def gen_text(args):
     data, topic_data = [], []
-    w, k = 2, 5
+    w = 2
     for dataset in args.datasets:
         todolist = [f'{args.dataroot}/{dataset}/'+i for i in os.listdir(f'{args.dataroot}/{dataset}') if not i.startswith('.')]
 
         for i in tqdm(todolist):
             dial_name = i.split('/')[-1][:-4]
             cur_dials = open(i).read().split('\n')[:-1]
-            dials = [utt for utt in cur_dials if '=======' not in utt]
+
+            # Recover per-utterance segment id from the "====" boundary markers
+            # instead of discarding them, so negatives can be drawn from a
+            # genuinely different topic segment rather than a fixed distance
+            # (which, for short segments, often lands back inside the same
+            # segment as the anchor and injects false negatives).
+            dials, seg_id = [], []
+            cur_seg = 0
+            for utt in cur_dials:
+                if '=======' in utt:
+                    cur_seg += 1
+                else:
+                    dials.append(utt)
+                    seg_id.append(cur_seg)
             dial_len = len(dials)
+
+            seg_to_indices = defaultdict(list)
+            for idx, s in enumerate(seg_id):
+                seg_to_indices[s].append(idx)
 
             for utt_idx in range(dial_len-1):
                 context, cur, neg, hard_neg = [], [], [], []
-                neg_index = random.choice(list(range(utt_idx-w+1)) + list(range(utt_idx+w+1, dial_len)))  
-                negdial = [i for i in open(random.choice(todolist)).read().split('\n')[:-1] if '====' not in i]
-                neg_hard_index = random.choice(list(range(len(negdial))))
+                anchor_seg = seg_id[utt_idx]
+                cross_seg_pool = [j for s, idxs in seg_to_indices.items() if s != anchor_seg for j in idxs]
+
+                if cross_seg_pool:
+                    # Genuine negative: an utterance from a different topic
+                    # segment of the SAME dialogue. Two independent draws
+                    # replace the old "same-dialogue distance-w" negative and
+                    # the old "random other dialogue" hard negative, both of
+                    # which let the model shortcut on domain/vocabulary cues
+                    # instead of learning within-document topic boundaries.
+                    neg_index = random.choice(cross_seg_pool)
+                    neg_hard_index = random.choice(cross_seg_pool)
+                else:
+                    # Single-segment dialogue: no cross-boundary utterance
+                    # exists, fall back to the old distance-based sampling.
+                    fallback_pool = list(range(utt_idx-w+1)) + list(range(utt_idx+w+1, dial_len))
+                    neg_index = random.choice(fallback_pool) if fallback_pool else utt_idx
+                    neg_hard_index = neg_index
 
                 mid = utt_idx+1
                 l, r = utt_idx, utt_idx+1
-                for i in range(args.history):
+                for hi in range(args.history):
                     if l > -1:
                         context.append(re.sub(r'\s([,?.!"](?:\s|$))', r'\1', dials[l]))
                         l -= 1
@@ -50,8 +82,8 @@ def gen_text(args):
                     if neg_index < dial_len:
                         neg.append(re.sub(r'\s([,?.!"](?:\s|$))', r'\1', dials[neg_index]))
                         neg_index += 1
-                    if neg_hard_index < len(negdial):
-                        hard_neg.append(re.sub(r'\s([,?.!"](?:\s|$))', r'\1', negdial[neg_hard_index]))
+                    if neg_hard_index < dial_len:
+                        hard_neg.append(re.sub(r'\s([,?.!"](?:\s|$))', r'\1', dials[neg_hard_index]))
                         neg_hard_index += 1
 
                 context.reverse()
