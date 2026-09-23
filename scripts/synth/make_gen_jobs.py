@@ -49,7 +49,7 @@ OPENERS = [
     ('follow_on', 0.15, 'Câu đầu tiên mở như thể vừa hỏi xong một việc khác và chuyển sang việc này, '
                         'ví dụ "À, còn ...", "Tiện đây cho hỏi thêm ...", "Thế còn chuyện ...". Không chào.'),
     ('paperwork', 0.15, 'Câu đầu tiên nhắc tới giấy tờ đang cầm hoặc việc vừa xảy ra '
-                        '(ví dụ "Tôi có tờ giấy này ...", "Hôm qua tôi nộp hồ sơ ..."). Không chào.'),
+                        '(ví dụ đang cầm một tờ giấy, hoặc hôm qua vừa nộp hồ sơ), dùng đúng cách xưng hô ở trên. Không chào.'),
 ]
 
 # Odd turn counts end on the citizen, even ones on the officer. Thanks / goodbye
@@ -173,11 +173,14 @@ def main():
     p.add_argument('--ood_domains', nargs='*', default=DEFAULT_OOD_DOMAINS)
     p.add_argument('--min_docs_for_holdout', type=int, default=3,
                    help='An in-domain doc is held out for val_in/test_in only if its domain has this many docs')
+    p.add_argument('--domains', nargs='*', help='Only make jobs for these domains (pilot runs)')
     p.add_argument('--seed', type=int, default=42)
     args = p.parse_args()
 
     rng = random.Random(args.seed)
     docs = [json.loads(f.read_text(encoding='utf-8')) for f in sorted(args.source_dir.rglob('*.json'))]
+    if args.domains:
+        docs = [d for d in docs if d['domain'] in args.domains]
     split_of, by_domain = assign_splits(docs, set(args.ood_domains), args.min_docs_for_holdout, rng)
 
     jobs = [make_job(d, split_of[d['doc_id']], i, args, rng)
