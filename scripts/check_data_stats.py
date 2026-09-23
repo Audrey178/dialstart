@@ -141,6 +141,23 @@ def js_divergence(p, q):
     return js
 
 
+CLOSING_CUE = re.compile(r'cảm ơn|cám ơn|tạm biệt|chào (anh|chị|em|cô|chú|bác|cháu|con)\W*$')
+
+
+def closing_cue_rates(sessions):
+    """Share of segment-final vs other utterances that thank / say goodbye."""
+    final = other = n_final = n_other = 0
+    for text, seg_r in sessions:
+        for seg in segments_of(text, seg_r):
+            for i, u in enumerate(seg):
+                hit = bool(CLOSING_CUE.search(u.lower()))
+                if i == len(seg) - 1:
+                    final, n_final = final + hit, n_final + 1
+                else:
+                    other, n_other = other + hit, n_other + 1
+    return final / max(1, n_final), other / max(1, n_other)
+
+
 def describe(name, sessions):
     segs = [s for text, seg_r in sessions for s in segments_of(text, seg_r)]
     seg_counts = Counter(segs)
@@ -166,6 +183,7 @@ def describe(name, sessions):
         'boundaries_mean': statistics.mean(bounds) if bounds else 0,
         'boundaries_hist': dict(sorted(Counter(bounds).items())),
         'openers': Counter(opener_word(s) for s in segs),
+        'closing_cue_final_vs_other': closing_cue_rates(sessions),
         '_segs': set(seg_counts),
         '_utts': utts,
     }
@@ -186,6 +204,8 @@ def main():
     p.add_argument('--min_position_pk', type=float, default=0.2,
                    help='FAIL when the even/stride baseline Pk is below this')
     p.add_argument('--max_opener_js', type=float, default=0.3)
+    p.add_argument('--max_closing_gap', type=float, default=0.3,
+                   help='Warn when segment-final utterances thank / say goodbye this much more often than others')
     p.add_argument('--json', help='Also write the report to this path')
     args = p.parse_args()
 
@@ -222,6 +242,8 @@ def main():
         total = sum(s['openers'].values()) or 1
         top = ', '.join(f'{w or "<none>"} {c / total:.0%}' for w, c in s['openers'].most_common(args.top_openers))
         print(f'segment openers: {top}')
+        cf, co = s['closing_cue_final_vs_other']
+        print(f'thanks/goodbye: {cf:.0%} of segment-final utterances vs {co:.0%} of the rest')
         if name != args.train:
             s['opener_js_vs_train'] = js_divergence(s['openers'], train['openers'])
             s['shared_segments_with_train'] = len(s['_segs'] & train['_segs'])
@@ -238,6 +260,9 @@ def main():
           f"train distinct segments {train['distinct_segments']} >= {args.min_train_segments}")
     check('WARN', train['max_uses_per_segment'] <= args.max_uses,
           f"train max uses per distinct segment {train['max_uses_per_segment']} <= {args.max_uses}")
+    cf, co = train['closing_cue_final_vs_other']
+    check('WARN', cf - co <= args.max_closing_gap,
+          f'train thanks/goodbye gap final vs other {cf - co:.0%} <= {args.max_closing_gap:.0%}')
     check('WARN', train['in_session_repeats'] == 0,
           f"train segments repeated inside a session: {train['in_session_repeats']}")
     for name, s in stats.items():
