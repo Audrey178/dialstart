@@ -249,35 +249,29 @@ class BertForNextSentencePrediction(BertPreTrainedModel):
         ), pooled_output
 
 def tet(scores):
+	"""Depth score of each gap (TextTiling-style): how far the score dips below
+	the nearest peaks on its left and right.
+
+	Takes a CUDA tensor but walks a CPU list: indexing a GPU tensor element by
+	element forces one device sync per comparison, which dominated the Python
+	overhead of topic_train.
+	"""
+	if torch.is_tensor(scores):
+		scores = scores.detach().float().cpu().tolist()
 	output_scores = []
-	for i in range(len(scores)):
-		lflag, rflag = scores[i], scores[i]
-		if i == 0:
-			hl = scores[i]
-			for r in range(i+1,len(scores)):
-				if rflag <= scores[r]:
-					rflag = scores[r]
-				else:
-					break
-		elif i == len(scores)-1:
-			hr = scores[i]
-			for l in range(i-1, -1, -1):
-				if lflag <= scores[l]:
-					lflag = scores[l]
-				else:
-					break
-		else:
-			for r in range(i+1,len(scores)):
-				if rflag <= scores[r]:
-					rflag = scores[r]
-				else:
-					break
-			for l in range(i-1, -1, -1):
-				if lflag <= scores[l]:
-					lflag = scores[l]
-				else:
-					break
-		depth_score = 0.5*(lflag+rflag-2*scores[i])
-		output_scores.append(depth_score.cpu().detach())
+	n = len(scores)
+	for i in range(n):
+		lflag = rflag = scores[i]
+		for r in range(i+1, n):
+			if rflag <= scores[r]:
+				rflag = scores[r]
+			else:
+				break
+		for l in range(i-1, -1, -1):
+			if lflag <= scores[l]:
+				lflag = scores[l]
+			else:
+				break
+		output_scores.append(0.5*(lflag+rflag-2*scores[i]))
 
 	return output_scores

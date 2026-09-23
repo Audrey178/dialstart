@@ -43,6 +43,11 @@ class ourdataset(Dataset):
         coheren_inputs = pad_sequence([ex[0] for ex in examples], batch_first=True)
         coheren_mask = pad_sequence([ex[1] for ex in examples], batch_first=True)
         coheren_type = pad_sequence([ex[2] for ex in examples], batch_first=True)
+        # Pairs are stored post-padded to --max_len; cut the columns that are
+        # padding for every pair in the batch (masked anyway, so same output).
+        coheren_len = int(coheren_mask.sum(-1).max())
+        coheren_inputs, coheren_mask, coheren_type = coheren_inputs[..., :coheren_len], \
+            coheren_mask[..., :coheren_len], coheren_type[..., :coheren_len]
 
         topic_context = pad_sequence([torch.tensor(j) for ex in examples for j in ex[3][0][0]['input_ids']], batch_first=True)
         topic_pos = pad_sequence([torch.tensor(j) for ex in examples for j in ex[3][0][1]['input_ids']], batch_first=True)

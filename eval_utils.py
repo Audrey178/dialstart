@@ -121,9 +121,11 @@ def evaluate_dataset(model, tokenizer, path_input_docs, device, max_len,
         except Exception:
             continue
 
-        coheren_inputs = torch.tensor(id_inputs).to(device)
-        coheren_masks = torch.tensor(coheren_att_masks).to(device)
-        coheren_type_ids = torch.tensor(type_ids).to(device)
+        # Drop columns that are padding for every pair (masked anyway).
+        coheren_len = max(1, max(sum(m) for m in coheren_att_masks))
+        coheren_inputs = torch.tensor(id_inputs)[:, :coheren_len].to(device)
+        coheren_masks = torch.tensor(coheren_att_masks)[:, :coheren_len].to(device)
+        coheren_type_ids = torch.tensor(type_ids)[:, :coheren_len].to(device)
         scores = model.infer(coheren_inputs, coheren_masks, coheren_type_ids, topic_input_t, topic_mask_t, topic_num)
 
         depth_scores = depth_score_cal(scores)
