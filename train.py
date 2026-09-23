@@ -1,5 +1,6 @@
 import re
 import os
+import math
 import json
 import torch
 import random
@@ -69,15 +70,18 @@ def main(args):
     print(f"Loading data from {args.root}data/{DATASET[args.dataset]}{args.data_name}.pkl")
     loaded_data = pickle.load(open(f'{args.root}/data/{DATASET[args.dataset]}{args.data_name}.pkl', 'rb'))
     
-    epochs = 10
+    epochs = args.epoch
     global_step = continue_from_global_step = 0
     train_data = ourdataset(loaded_data)
 
     out_path = f'{args.root}/model/{args.save_model_name}'
-    val_tokenizer, val_path = None, None
-    if args.val_dataset:
+    val_tokenizer, val_path, train_eval_path = None, None, None
+    if args.val_dataset or args.train_eval_dataset:
         val_tokenizer = BertTokenizer.from_pretrained(args.coheren_model_name)
+    if args.val_dataset:
         val_path = f'{args.root}/data/{args.val_dataset}'
+    if args.train_eval_dataset:
+        train_eval_path = f'{args.root}/data/{args.train_eval_dataset}'
      
     train_sampler = RandomSampler(train_data) if args.local_rank == -1 else DistributedSampler(train_data)
     train_dataloader = DataLoader(train_data, sampler=train_sampler, batch_size=args.batch_size, collate_fn=train_data.collect_fn)
@@ -100,13 +104,15 @@ def main(args):
         optimizer = bnb.optim.AdamW8bit(model.parameters(), lr=args.lr, eps=1e-8)
     else:
         optimizer = AdamW(model.parameters(), lr=args.lr, eps = 1e-8)
-    total_steps = len(train_dataloader) * epochs
+    # The scheduler steps once per optimizer update, i.e. every `accum` batches.
+    total_steps = math.ceil(len(train_dataloader) / args.accum) * epochs
     num_warmup_steps = int(total_steps * args.warmup_proportion)
     scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=num_warmup_steps, num_training_steps = total_steps)
 
+    best_pk, best_epoch, bad_epochs = None, None, 0
     for epoch_i in tqdm(range(epochs)):
         print('======== Epoch {:} / {:} ========'.format(epoch_i + 1, epochs))
-        total_loss = 0
+        total_loss = total_margin_loss = total_topic_loss = 0
         model.train()
         epoch_iterator = tqdm(train_dataloader, disable=args.local_rank!=-1)
         window_size = args.window_size
@@ -142,6 +148,8 @@ def main(args):
                 loss = loss.mean()
 
             total_loss += loss.item()
+            total_margin_loss += margin_loss.mean().item()
+            total_topic_loss += topic_loss.mean().item()
             if (not args.no_amp):
                 scaler.scale(loss).backward()
                 if (step + 1) % args.accum == 0:
@@ -161,32 +169,65 @@ def main(args):
                     scheduler.step()
                     global_step += 1
             
-        avg_train_loss = total_loss / len(train_dataloader)
+        num_batches = len(train_dataloader)
+        avg_train_loss = total_loss / num_batches
         epoch_loss[epoch_i] = avg_train_loss
-        epoch_metrics[epoch_i] = {'loss': avg_train_loss}
+        epoch_metrics[epoch_i] = {'loss': avg_train_loss,
+                                  'margin_loss': total_margin_loss / num_batches,
+                                  'topic_loss': total_topic_loss / num_batches}
+        stop_training = False
         if args.local_rank in [-1, 0]:
-            print('=========== the loss for epoch '+str(epoch_i)+' is: '+str(avg_train_loss))
-            PATH = f'{args.root}/model/{args.save_model_name}/{str(epoch_i)}-{str(global_step)}'
+            print('=========== the loss for epoch '+str(epoch_i)+' is: '+str(avg_train_loss)
+                  +' (margin '+str(epoch_metrics[epoch_i]['margin_loss'])
+                  +', topic '+str(epoch_metrics[epoch_i]['topic_loss'])+')')
             model_to_save = model.module if hasattr(model, 'module') else model
 
-            if continue_from_global_step <= global_step:
-                print('Saving model to '+ PATH)
-                torch.save(model_to_save.state_dict(), PATH)
+            eval_kwargs = dict(window_size=args.eval_window_size,
+                               oracle_boundary_count=args.eval_oracle_boundary_count,
+                               pick_num=args.eval_pick_num)
+            run_eval = (epoch_i + 1) % args.eval_every == 0
 
-            if args.val_dataset and (epoch_i + 1) % args.eval_every == 0:
+            # pk on a slice of the training sessions: a train pk that keeps
+            # improving while val pk stalls means the model is memorising.
+            if train_eval_path and run_eval:
+                train_pk, train_wd = evaluate_dataset(model_to_save, val_tokenizer, train_eval_path, args.device,
+                                                       args.eval_max_len, max_docs=args.train_eval_docs, **eval_kwargs)
+                print('=========== train pk/wd for epoch '+str(epoch_i)+' is: '+str(train_pk)+' / '+str(train_wd))
+                epoch_metrics[epoch_i]['train_pk'] = train_pk
+                epoch_metrics[epoch_i]['train_wd'] = train_wd
+
+            if val_path and run_eval:
                 pk, wd = evaluate_dataset(model_to_save, val_tokenizer, val_path, args.device, args.eval_max_len,
-                                           window_size=args.eval_window_size,
-                                           oracle_boundary_count=args.eval_oracle_boundary_count,
-                                           pick_num=args.eval_pick_num)
+                                           **eval_kwargs)
                 print('=========== val pk/wd for epoch '+str(epoch_i)+' is: '+str(pk)+' / '+str(wd))
                 epoch_metrics[epoch_i]['val_pk'] = pk
                 epoch_metrics[epoch_i]['val_wd'] = wd
-                model.train()
 
-            if args.val_dataset:
-                json.dump(epoch_metrics, open(f'{out_path}/metrics.json', 'w'))
+                # Keep only the checkpoint with the best val pk, and stop once
+                # it has not improved for `patience` evaluations.
+                if pk is not None and (best_pk is None or pk < best_pk):
+                    best_pk, best_epoch, bad_epochs = pk, epoch_i, 0
+                    PATH = f'{out_path}/best.pt'
+                    print('Saving best model (val pk '+str(pk)+') to '+PATH)
+                    torch.save(model_to_save.state_dict(), PATH)
+                else:
+                    bad_epochs += 1
+                    if args.patience > 0 and bad_epochs >= args.patience:
+                        print('=========== val pk has not improved for '+str(bad_epochs)+' evals, stopping early')
+                        stop_training = True
+            elif not val_path:
+                PATH = f'{out_path}/{str(epoch_i)}-{str(global_step)}'
+                print('Saving model to '+ PATH)
+                torch.save(model_to_save.state_dict(), PATH)
 
-        if epoch_i == args.epoch:
+            if args.save_every_epoch and val_path:
+                torch.save(model_to_save.state_dict(), f'{out_path}/{str(epoch_i)}-{str(global_step)}')
+
+            epoch_metrics['best'] = {'epoch': best_epoch, 'val_pk': best_pk}
+            json.dump(epoch_metrics, open(f'{out_path}/metrics.json', 'w'), indent=2)
+            model.train()
+
+        if stop_training:
             break
     return epoch_loss
 
@@ -206,7 +247,7 @@ if __name__ == '__main__':
     parser.add_argument("--ckpt")
     parser.add_argument("--data_name", default='')
     parser.add_argument("--root", default='.')
-    parser.add_argument("--epoch", type=int, default=9)
+    parser.add_argument("--epoch", type=int, default=10, help='Number of training epochs')
     parser.add_argument("--seed", type=int, default=3407)
 
     # in-training validation parameters
@@ -219,6 +260,13 @@ if __name__ == '__main__':
                          help='Context window (utterances each side) used when scoring validation boundaries; matches test.py --window_size')
     parser.add_argument("--eval_pick_num", type=int, default=4)
     parser.add_argument("--eval_oracle_boundary_count", action='store_true')
+    parser.add_argument("--train_eval_dataset", default=None,
+                         help='Folder name under {root}/data of raw training .txt sessions (e.g. vn_synth_train); pk is scored on the first --train_eval_docs of them each epoch to expose memorisation')
+    parser.add_argument("--train_eval_docs", type=int, default=100)
+    parser.add_argument("--patience", type=int, default=2,
+                         help='Stop after this many evaluations without val pk improvement (0 disables early stopping)')
+    parser.add_argument("--save_every_epoch", action='store_true',
+                         help='With --val_dataset, also keep a checkpoint per epoch besides best.pt')
 
     # train parameters
     parser.add_argument('--accum', type=int, default=1)

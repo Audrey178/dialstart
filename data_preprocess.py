@@ -49,20 +49,37 @@ def gen_text(args):
             for idx, s in enumerate(seg_id):
                 seg_to_indices[s].append(idx)
 
+            seg_order = sorted(seg_to_indices)
+            num_segs = len(seg_order)
             for utt_idx in range(dial_len-1):
                 context, cur, neg, hard_neg = [], [], [], []
                 anchor_seg = seg_id[utt_idx]
+
+                # The "positive" continuation must stay inside the anchor's
+                # segment. When utt_idx is the last utterance of a segment the
+                # next utterance opens a new topic, so (context, next) is a
+                # boundary pair; using it as a positive teaches the model to
+                # score exactly the pairs it should flag as boundaries.
+                if num_segs > 1 and seg_id[utt_idx+1] != anchor_seg:
+                    continue
+
                 cross_seg_pool = [j for s, idxs in seg_to_indices.items() if s != anchor_seg for j in idxs]
 
                 if cross_seg_pool:
                     # Genuine negative: an utterance from a different topic
-                    # segment of the SAME dialogue. Two independent draws
-                    # replace the old "same-dialogue distance-w" negative and
-                    # the old "random other dialogue" hard negative, both of
-                    # which let the model shortcut on domain/vocabulary cues
-                    # instead of learning within-document topic boundaries.
+                    # segment of the SAME dialogue, so the model cannot
+                    # shortcut on domain/vocabulary cues across dialogues.
                     neg_index = random.choice(cross_seg_pool)
-                    neg_hard_index = random.choice(cross_seg_pool)
+                    # Hard negative: the opening utterance of the next segment
+                    # (what actually follows a real boundary at test time), or
+                    # an utterance of the previous segment for the last one.
+                    # Segment ids can skip values (e.g. back-to-back "===="
+                    # markers), so look up neighbours among non-empty ones.
+                    seg_pos = seg_order.index(anchor_seg)
+                    if seg_pos + 1 < len(seg_order):
+                        neg_hard_index = seg_to_indices[seg_order[seg_pos + 1]][0]
+                    else:
+                        neg_hard_index = random.choice(seg_to_indices[seg_order[seg_pos - 1]])
                 else:
                     # Single-segment dialogue: no cross-boundary utterance
                     # exists, fall back to the old distance-based sampling.
@@ -70,19 +87,22 @@ def gen_text(args):
                     neg_index = random.choice(fallback_pool) if fallback_pool else utt_idx
                     neg_hard_index = neg_index
 
+                # Continuation windows (cur / neg / hard_neg) never run past the
+                # end of the segment they start in, so each stays single-topic.
+                cur_seg, neg_seg, hard_seg = seg_id[utt_idx+1], seg_id[neg_index], seg_id[neg_hard_index]
                 mid = utt_idx+1
                 l, r = utt_idx, utt_idx+1
                 for hi in range(args.history):
                     if l > -1:
                         context.append(re.sub(r'\s([,?.!"](?:\s|$))', r'\1', dials[l]))
                         l -= 1
-                    if r < dial_len:
+                    if r < dial_len and seg_id[r] == cur_seg:
                         cur.append(re.sub(r'\s([,?.!"](?:\s|$))', r'\1', dials[r]))
                         r += 1
-                    if neg_index < dial_len:
+                    if neg_index < dial_len and seg_id[neg_index] == neg_seg:
                         neg.append(re.sub(r'\s([,?.!"](?:\s|$))', r'\1', dials[neg_index]))
                         neg_index += 1
-                    if neg_hard_index < dial_len:
+                    if neg_hard_index < dial_len and seg_id[neg_hard_index] == hard_seg:
                         hard_neg.append(re.sub(r'\s([,?.!"](?:\s|$))', r'\1', dials[neg_hard_index]))
                         neg_hard_index += 1
 

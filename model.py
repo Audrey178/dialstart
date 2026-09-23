@@ -173,7 +173,10 @@ class SegModel(nn.Module):
                 continue
             topic_loss += cur_loss
 
-        topic_loss /= margin_count
+        # Every sample may be skipped (empty positive window / nan); dividing
+        # by zero would turn the whole batch loss into nan.
+        if margin_count > 0:
+            topic_loss /= margin_count
         return topic_loss
 
 

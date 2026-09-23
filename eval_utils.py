@@ -40,17 +40,20 @@ def depth_score_cal(scores):
 
 @torch.no_grad()
 def evaluate_dataset(model, tokenizer, path_input_docs, device, max_len,
-                      window_size=2, oracle_boundary_count=True, pick_num=4):
+                      window_size=2, oracle_boundary_count=True, pick_num=4, max_docs=None):
     """Score every document under path_input_docs with `model` and return (pk, wd).
 
     Shared by test.py (standalone eval of a saved checkpoint) and train.py
     (in-loop validation after each epoch), so both always score boundaries
-    the same way.
+    the same way. max_docs scores only the first N files (sorted), e.g. to
+    track train-set pk cheaply.
     """
     was_training = model.training
     model.eval()
 
-    input_files = [f for f in os.listdir(path_input_docs) if os.path.isfile(os.path.join(path_input_docs, f))]
+    input_files = sorted(f for f in os.listdir(path_input_docs) if os.path.isfile(os.path.join(path_input_docs, f)))
+    if max_docs is not None:
+        input_files = input_files[:max_docs]
 
     c = score_wd = score_pk = 0
     for file in input_files:
