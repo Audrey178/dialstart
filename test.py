@@ -65,9 +65,12 @@ if __name__ == '__main__':
 		model_path = args.ckpt
 		infer(args, model_path)
 	else:
-		ckpts = os.listdir(args.root+'/model/'+args.model)[args.ckpt_start:args.ckpt_end]
+		# skip metrics.json / loss.json that train.py writes next to the checkpoints
+		ckpts = sorted(f for f in os.listdir(args.root+'/model/'+args.model) if f.endswith('.pt'))[args.ckpt_start:args.ckpt_end]
+		save_prefix = args.save_name
 		for ckpt in tqdm(ckpts):
 			MODEL_PATH = args.root+'/model/'+args.model +'/'+ckpt
+			args.save_name = f'{save_prefix}_{os.path.splitext(ckpt)[0]}'
 			infer(args, MODEL_PATH)
 			
 
