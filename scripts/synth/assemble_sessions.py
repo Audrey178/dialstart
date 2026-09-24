@@ -12,6 +12,15 @@ memorisation seen in vn_synth):
   - --min_segs..--max_segs segments per session
   - D_i only mix with D_i of the same split (set by make_gen_jobs.py)
 
+Shortcuts removed (model hit val pk ~0.002 on the first vn2 build by reading
+them instead of topic shifts):
+  - --jobs: every D_i in a session shares one pronoun pair (con/cô, tôi/anh...),
+    i.e. one citizen asking one officer about several procedures. Otherwise the
+    pair changes at ~88% of boundaries and never inside a segment.
+  - --drop_closing: every segment but the last loses a trailing citizen turn
+    (usually "cảm ơn"). D_i open with the citizen and alternate, so without
+    this ~50% of boundaries are the only citizen->citizen turns in a session.
+
 Writes <out_dir>/<split>/session_<id>.json plus the .txt files that
 data_preprocess.py / eval_utils.py read, in <txt_root>/<prefix>_<split>/.
 
@@ -19,6 +28,7 @@ data_preprocess.py / eval_utils.py read, in <txt_root>/<prefix>_<split>/.
         --out_dir data/vn_synth_v2/sessions --txt_root data --prefix vn2
 """
 
+import re
 import sys
 import json
 import random
@@ -28,6 +38,9 @@ from collections import Counter
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from convert_sessions_to_txt import session_to_lines  # noqa: E402
+
+# How make_gen_jobs.py words the persona's pronouns in the prompt.
+ADDRESS_RE = re.compile(r'tự xưng "(\w+)", gọi cán bộ là "(\w+)"')
 
 
 def pick(rng, candidates, uses, max_uses):
@@ -41,6 +54,8 @@ def build_session(pool, uses, max_uses, n_segs, same_domain_prob, rng):
     if not avail:
         return None
     chosen = [pick(rng, avail, uses, max_uses)]
+    # Keep one pronoun pair per session (None when --jobs is not given).
+    avail = [d for d in avail if d.get('address') == chosen[0].get('address')]
     while len(chosen) < n_segs:
         last = chosen[-1]
         taken = {d['dialogue_id'] for d in chosen}
@@ -67,8 +82,12 @@ def assemble_split(split, pool, args, rng):
         for d in segs:
             uses[d['dialogue_id']] += 1
         utterances, boundaries = [], []
-        for d in segs:
-            utterances.extend(d['utterances'])
+        for k, d in enumerate(segs):
+            utts = d['utterances']
+            if (args.drop_closing and k < len(segs) - 1 and len(utts) > 2
+                    and utts[-1]['speaker'] == 'citizen'):
+                utts = utts[:-1]
+            utterances.extend(utts)
             boundaries.append(len(utterances) - 1)
         sessions.append({
             'session_id': f'{split}_{len(sessions):04d}',
@@ -96,12 +115,24 @@ def main():
     p.add_argument('--max_segs', type=int, default=8)
     p.add_argument('--same_domain_prob', type=float, default=0.3)
     p.add_argument('--seed', type=int, default=42)
+    p.add_argument('--jobs', type=Path,
+                   help='jobs.jsonl from make_gen_jobs.py; keeps one pronoun pair per session')
+    p.add_argument('--drop_closing', action='store_true',
+                   help='Drop a trailing citizen turn from every segment but the last')
     args = p.parse_args()
+
+    address = {}
+    if args.jobs:
+        for line in open(args.jobs, encoding='utf-8'):
+            job = json.loads(line)
+            m = ADDRESS_RE.search(job['prompt'])
+            address[f'd_{job["job_id"]}'] = m.groups() if m else None
 
     rng = random.Random(args.seed)
     pools = {}
     for f in sorted(args.dialogues_dir.rglob('*.json')):
         d = json.loads(f.read_text(encoding='utf-8'))
+        d['address'] = address.get(d['dialogue_id'])
         pools.setdefault(d['split'], []).append(d)
 
     manifest = []

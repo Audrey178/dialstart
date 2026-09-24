@@ -72,8 +72,8 @@ class ourdataset(Dataset):
 
 
 def main(args):
-    print(f"Loading data from {args.root}data/{DATASET[args.dataset]}{args.data_name}.pkl")
-    loaded_data = pickle.load(open(f'{args.root}/data/{DATASET[args.dataset]}{args.data_name}.pkl', 'rb'))
+    print(f"Loading data from {args.root}data/{DATASET.get(args.dataset, args.dataset)}{args.data_name}.pkl")
+    loaded_data = pickle.load(open(f'{args.root}/data/{DATASET.get(args.dataset, args.dataset)}{args.data_name}.pkl', 'rb'))
     
     epochs = args.epoch
     global_step = continue_from_global_step = 0
