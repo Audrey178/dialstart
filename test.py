@@ -57,7 +57,8 @@ if __name__ == '__main__':
 	args = parser.parse_args()
 	if args.single_ckpt:
 		assert args.ckpt, "--ckpt is required when --single_ckpt is set"
-	args.dataset = DATASET[args.dataset]
+	# Unlisted names are taken as a folder under ./data (e.g. vn2_val_ood).
+	args.dataset = DATASET.get(args.dataset, args.dataset)
 	args.device = torch.device("cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu")
 	os.makedirs(f'{args.root}/metric/{args.model}', exist_ok=True)
 	set_seed(3407)

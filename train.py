@@ -19,7 +19,7 @@ from torch.utils.data import TensorDataset, DataLoader, RandomSampler, Sequentia
 from transformers import BertForNextSentencePrediction, BertConfig, BertTokenizer, get_linear_schedule_with_warmup, set_seed, AutoModel
 from torch.optim import AdamW
 
-DATASET = {'doc':'doc2dial', '711':'dialseg711', 'vn':'vn_synth_train'}
+DATASET = {'doc':'doc2dial', '711':'dialseg711', 'vn':'vn_synth_train', 'vn2':'vn2_train'}
 def get_mask(tensor):
     attention_masks = []
     for sent in tensor:
