@@ -5,8 +5,9 @@ import numpy as np
 import torch.nn as nn
 import torch.nn.functional as F
 from torch.nn import CrossEntropyLoss
+from functools import lru_cache
 from torch.nn.utils.rnn import pad_sequence
-from transformers import BertForNextSentencePrediction
+from transformers import AutoConfig, AutoModel, AutoTokenizer, BertForNextSentencePrediction
 from transformers.models.bert.modeling_bert import BertPreTrainedModel, BertModel, BertOnlyNSPHead
 from transformers.modeling_outputs import NextSentencePredictorOutput
 from typing import Optional
@@ -22,16 +23,79 @@ class MarginRankingLoss():
         return scores.mean()
 
 
+@lru_cache(maxsize=None)
+def segment_words(text):
+    """Vietnamese word segmentation (syllables of one word joined by "_"),
+    cached because the same utterance is tokenized once per training window."""
+    from pyvi import ViTokenizer
+    return ViTokenizer.tokenize(text)
+
+
+class TopicTokenizer():
+    """Tokenizer for the topic encoder's inputs.
+
+    The topic and coherence encoders only meet at the score level, so they may
+    use different vocabularies (e.g. PhoBERT topic + BERT coherence). PhoBERT
+    was pretrained on word-segmented text, so its inputs are segmented first;
+    the coherence encoder keeps raw text.
+    """
+    def __init__(self, name):
+        self.tokenizer = AutoTokenizer.from_pretrained(name)
+        self.pad_token_id = self.tokenizer.pad_token_id
+        self.word_segment = 'phobert' in name.lower()
+        config = AutoConfig.from_pretrained(name)
+        # RoBERTa-style position ids start after the padding index, which eats
+        # 2 of the position embeddings (PhoBERT: 258 -> 256 usable tokens).
+        self.max_length = min(512, config.max_position_embeddings - (2 if config.model_type == 'roberta' else 0))
+
+    def __call__(self, texts, max_length, **kwargs):
+        if self.word_segment:
+            texts = [segment_words(t) for t in texts]
+        return self.tokenizer(texts, truncation=True, max_length=min(max_length, self.max_length), **kwargs)
+
+
+def encode_coherence_pair(tokenizer, context, next_utt, max_len):
+    """Build the coherence-encoder input "[CLS] ctx_1 [SEP] .. ctx_k [SEP] next [SEP]".
+
+    Shared by data_preprocess.py and eval_utils.py so train and test truncate
+    alike. A topic shift shows between the END of the context and the START of
+    the next utterance, so when the pair exceeds max_len the context is cut
+    from the left and the next utterance from the right, each side getting at
+    least half of the budget (the unused part of a short side goes to the other).
+
+    Returns (input_ids, token_type_ids), both lists of length <= max_len.
+    """
+    ctx_ids = tokenizer.encode(''.join(c + '[SEP]' for c in context), add_special_tokens=False)
+    nxt_ids = tokenizer.encode(next_utt, add_special_tokens=False)
+    budget = max_len - 2  # [CLS] and the final [SEP]
+    keep_ctx = min(len(ctx_ids), max(budget - len(nxt_ids), budget // 2))
+    keep_nxt = min(len(nxt_ids), budget - keep_ctx)
+    ctx_ids = ctx_ids[len(ctx_ids) - keep_ctx:]
+    ids = [tokenizer.cls_token_id] + ctx_ids + nxt_ids[:keep_nxt] + [tokenizer.sep_token_id]
+    type_ids = [0] * (1 + keep_ctx) + [1] * (keep_nxt + 1)
+    return ids, type_ids
+
+
 class SegModel(nn.Module):
     def __init__(self, model_path='', margin=1, train_split=5, window_size=5,
                  topic_model_name='princeton-nlp/sup-simcse-bert-base-uncased',
                  coheren_model_name='bert-base-uncased',
-                 gradient_checkpointing=False):
+                 gradient_checkpointing=False, topic_loss_type='pseudo', topic_tau=0.1, topic_weight=1.0):
+        """topic_loss_type: 'pseudo' (DialSTART: segments guessed from topic similarity),
+        'gold_margin' (same margin loss over the labelled segments) or 'gold_supcon'
+        (supervised contrastive loss over the labelled segments, temperature topic_tau).
+        topic_weight scales the topic cosine against the NSP logit in the boundary score,
+        at train and test time alike."""
         super(SegModel, self).__init__()
         self.margin = margin
         self.train_split = train_split
         self.window_size = window_size
-        self.topic_model = BertModel.from_pretrained(model_path+topic_model_name)
+        self.topic_loss_type = topic_loss_type
+        self.topic_tau = topic_tau
+        # A buffer so the weight travels with the checkpoint to test.py;
+        # checkpoints saved before it existed load with the old weight of 1.
+        self.register_buffer('topic_weight', torch.tensor(float(topic_weight)))
+        self.topic_model = AutoModel.from_pretrained(model_path+topic_model_name)
         self.coheren_model = BertForNextSentencePrediction.from_pretrained(model_path+coheren_model_name, num_labels=2,
                                                                    output_attentions=False,
                                                                    output_hidden_states=True)
@@ -77,8 +141,8 @@ class SegModel(nn.Module):
         topic_neg_scores = F.cosine_similarity(topic_context_mean, topic_neg_mean, dim=1,
                                             eps=1e-08).to(device)
 
-        pos_scores = coheren_pos_scores[0][:, 0] + topic_pos_scores
-        neg_scores = coheren_neg_scores[0][:, 0] + topic_neg_scores
+        pos_scores = coheren_pos_scores[0][:, 0] + self.topic_weight * topic_pos_scores
+        neg_scores = coheren_neg_scores[0][:, 0] + self.topic_weight * topic_neg_scores
 
         margin_loss = self.score_loss(pos_scores, neg_scores)
 
@@ -100,35 +164,77 @@ class SegModel(nn.Module):
             topic_context_count, topic_cur_count = topic_context_count + i, topic_cur_count + j
         topic_context_mean, topic_cur_mean = pad_sequence(topic_context_mean, batch_first=True), pad_sequence(topic_cur_mean, batch_first=True)
         topic_scores = F.cosine_similarity(topic_context_mean, topic_cur_mean, dim=1, eps=1e-08).to(device)  
-        final_scores = coheren_scores[0][:, 0] + topic_scores
+        final_scores = coheren_scores[0][:, 0] + self.topic_weight * topic_scores
 
         return torch.sigmoid(final_scores).detach().cpu().numpy().tolist()
+
+    def _pseudo_boundaries(self, cur, dial_len, device):
+        """Segment starts [0, .., dial_len] from the train_split deepest topic-similarity valleys."""
+        top_cons, top_curs = [], []
+        for i in range(1, dial_len):
+            top_cons.append(torch.mean(cur[max(0, i-2): i], dim=0))
+            top_curs.append(torch.mean(cur[i: min(dial_len, i+2)], dim=0))
+
+        top_cons, top_curs = pad_sequence(top_cons, batch_first=True), pad_sequence(top_curs, batch_first=True)
+        topic_scores = F.cosine_similarity(top_cons, top_curs, dim=1, eps=1e-08).to(device)
+        depth_scores = tet(torch.sigmoid(topic_scores))
+        tet_seg = np.argsort(np.array(depth_scores))[-self.train_split:] + 1
+        return sorted([0] + tet_seg.tolist() + [dial_len])
+
+    @staticmethod
+    def _gold_boundaries(seg_ids):
+        """Segment starts [0, .., dial_len] read off the labelled segment ids."""
+        return [0] + [i for i in range(1, len(seg_ids)) if seg_ids[i] != seg_ids[i-1]] + [len(seg_ids)]
+
+    def _supcon_loss(self, topic_all, topic_num):
+        """Supervised contrastive loss (Khosla et al., 2020) inside each topic window.
+
+        Every utterance is an anchor; utterances of the same gold segment are
+        its positives and those of other segments its negatives. Anchors with
+        no positive or no negative (single-segment windows) are skipped.
+        """
+        losses, count = [], 0
+        for dial_len, _, seg_ids in topic_num:
+            emb = F.normalize(topic_all[count:count+dial_len].float(), dim=-1)
+            count += dial_len
+            seg = torch.tensor(seg_ids, device=emb.device)
+            same = seg.unsqueeze(0) == seg.unsqueeze(1)
+            eye = torch.eye(dial_len, dtype=torch.bool, device=emb.device)
+            pos_mask = same & ~eye
+            valid = pos_mask.any(1) & (~same).any(1)
+            if not valid.any():
+                continue
+
+            logits = (emb @ emb.T / self.topic_tau).masked_fill(eye, float('-inf'))
+            log_prob = logits - torch.logsumexp(logits, dim=1, keepdim=True)
+            anchor_loss = -log_prob.masked_fill(~pos_mask, 0).sum(1) / pos_mask.sum(1).clamp(min=1)
+            losses.append(anchor_loss[valid].mean())
+
+        if not losses:
+            return topic_all.sum() * 0
+        return torch.stack(losses).mean()
 
     def topic_train(self, input_data, window_size):
         device, batch_size = input_data['coheren_inputs'].device, len(input_data['topic_context_num'])
         topic_all = self.topic_model(input_data['topic_train'], input_data['topic_train_mask'])[1]
-        true_segments, segments, neg_utts, seg_num, count, margin_count, topic_loss = [], [], [], [], 0, batch_size, torch.tensor(0).to(device, dtype=torch.float)
+        segments, count, margin_count, topic_loss = [], 0, batch_size, torch.tensor(0).to(device, dtype=torch.float)
 
-        # pseudo-segmentation
+        if self.topic_loss_type != 'pseudo' and len(input_data['topic_num'][0]) < 3:
+            raise ValueError(f'--topic_loss {self.topic_loss_type} needs gold segment ids in the pkl; '
+                             're-run data_preprocess.py')
+        if self.topic_loss_type == 'gold_supcon':
+            return self._supcon_loss(topic_all, input_data['topic_num'])
+
         for b in range(batch_size):
             cur_num = input_data['topic_num'][b]
             dial_len, cur_utt = cur_num[0], cur_num[1]
             cur = topic_all[count:count+dial_len]
             assert dial_len > cur_utt
 
-            top_cons, top_curs = [], []
-            for i in range(1, dial_len):
-                top_con = torch.mean(cur[max(0, i-2): i], dim=0)
-                top_cur = torch.mean(cur[i: min(dial_len, i+2)], dim=0)
-                top_cons.append(top_con)
-                top_curs.append(top_cur)
-            
-            top_cons, top_curs = pad_sequence(top_cons, batch_first=True), pad_sequence(top_curs, batch_first=True)
-            topic_scores = F.cosine_similarity(top_cons, top_curs, dim=1, eps=1e-08).to(device)  
-            depth_scores = tet(torch.sigmoid(topic_scores))
-            tet_seg = np.argsort(np.array(depth_scores))[-self.train_split:] + 1
-            tet_seg = [0] + tet_seg.tolist() + [dial_len]
-            tet_seg.sort()
+            if self.topic_loss_type == 'gold_margin':
+                tet_seg = self._gold_boundaries(cur_num[2])
+            else:
+                tet_seg = self._pseudo_boundaries(cur, dial_len, device)
 
             tet_mid = bisect.bisect(tet_seg, cur_utt)
             tet_mid_seg = (tet_seg[tet_mid-1], tet_seg[tet_mid])
@@ -158,7 +264,8 @@ class SegModel(nn.Module):
             pos = torch.cat((topic_all[count+mid_left:count+cur_utt], topic_all[count+cur_utt+1:count+mid_right]), dim=0)
             pos_score = F.cosine_similarity(anchor, pos, dim=1)
             
-            if pos_score.shape[0] == 0:
+            # A window lying inside one gold segment has nothing to contrast with.
+            if pos_score.shape[0] == 0 or neg.shape[0] == 0:
                 margin_count -= 1
                 continue
             

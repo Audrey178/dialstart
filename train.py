@@ -8,7 +8,7 @@ import pickle
 import argparse
 import torch.nn as nn
 from tqdm import tqdm
-from model import SegModel
+from model import SegModel, TopicTokenizer
 from eval_utils import evaluate_dataset
 from torch.cuda import amp
 import torch.nn.functional as F
@@ -20,17 +20,10 @@ from transformers import BertForNextSentencePrediction, BertConfig, BertTokenize
 from torch.optim import AdamW
 
 DATASET = {'doc':'doc2dial', '711':'dialseg711', 'vn':'vn_synth_train', 'vn2':'vn2_train'}
-def get_mask(tensor):
-    attention_masks = []
-    for sent in tensor:
-        att_mask = [int(token_id > 0) for token_id in sent]
-        attention_masks.append(att_mask)
-    return torch.tensor(attention_masks)
-
-
 class ourdataset(Dataset):
-    def __init__(self, loaded_data):
+    def __init__(self, loaded_data, topic_pad_id=0):
         self.loaded_data = loaded_data
+        self.topic_pad_id = topic_pad_id
         
     def __getitem__(self, idx):
         return [i[idx] for i in self.loaded_data]
@@ -49,18 +42,22 @@ class ourdataset(Dataset):
         coheren_inputs, coheren_mask, coheren_type = coheren_inputs[..., :coheren_len], \
             coheren_mask[..., :coheren_len], coheren_type[..., :coheren_len]
 
-        topic_context = pad_sequence([torch.tensor(j) for ex in examples for j in ex[3][0][0]['input_ids']], batch_first=True)
-        topic_pos = pad_sequence([torch.tensor(j) for ex in examples for j in ex[3][0][1]['input_ids']], batch_first=True)
-        topic_neg = pad_sequence([torch.tensor(j) for ex in examples for j in ex[3][1][1]['input_ids']], batch_first=True) #TODO
+        # Topic ids come from the topic encoder's tokenizer, whose pad id need
+        # not be 0 (PhoBERT: 1, and 0 is <s>), so pad with it and take the
+        # masks the tokenizer produced instead of rebuilding them from ids.
+        def pad_topic(key, pos, idx):
+            value = self.topic_pad_id if key == 'input_ids' else 0
+            return pad_sequence([torch.tensor(j) for ex in examples for j in ex[3][pos][idx][key]], batch_first=True, padding_value=value)
+        topic_context, topic_pos, topic_neg = pad_topic('input_ids', 0, 0), pad_topic('input_ids', 0, 1), pad_topic('input_ids', 1, 1) #TODO
+        topic_context_mask, topic_pos_mask, topic_neg_mask = pad_topic('attention_mask', 0, 0), pad_topic('attention_mask', 0, 1), pad_topic('attention_mask', 1, 1)
 
         topic_context_num = [ex[3][0][2] for ex in examples]
         topic_pos_num = [ex[3][0][3] for ex in examples]
         topic_neg_num = [ex[3][1][3] for ex in examples]
 
-        topic_context_mask, topic_pos_mask, topic_neg_mask = get_mask(topic_context), get_mask(topic_pos), get_mask(topic_neg)
-
-        topic_train = pad_sequence([j for ex in examples for j in ex[4]], batch_first=True)
-        topic_train_mask = pad_sequence([j for ex in examples for j in ex[5]], batch_first=True)
+        # data_preprocess.py may store these as int32/int8 to keep the pkl small.
+        topic_train = pad_sequence([j for ex in examples for j in ex[4]], batch_first=True, padding_value=self.topic_pad_id).long()
+        topic_train_mask = pad_sequence([j for ex in examples for j in ex[5]], batch_first=True).long()
         topic_num = [ex[6] for ex in examples]
 
             
@@ -77,7 +74,8 @@ def main(args):
     
     epochs = args.epoch
     global_step = continue_from_global_step = 0
-    train_data = ourdataset(loaded_data)
+    topic_tokenizer = TopicTokenizer(args.topic_model_name)
+    train_data = ourdataset(loaded_data, topic_tokenizer.pad_token_id)
 
     out_path = f'{args.root}/model/{args.save_model_name}'
     val_tokenizer, val_path, train_eval_path = None, None, None
@@ -94,11 +92,20 @@ def main(args):
     scaler = amp.GradScaler(enabled=(not args.no_amp))
     model = SegModel(margin=args.margin, train_split=args.train_split, window_size=args.window_size,
                       topic_model_name=args.topic_model_name, coheren_model_name=args.coheren_model_name,
-                      gradient_checkpointing=args.grad_checkpoint).to(args.device)
+                      gradient_checkpointing=args.grad_checkpoint, topic_loss_type=args.topic_loss,
+                      topic_tau=args.topic_tau, topic_weight=args.topic_weight).to(args.device)
     if args.resume:
         # continue_from_global_step = len(train_dataloader) * (int(args.ckpt.split('/')[-1]) + 1)
         # continue_from_global_step = int(args.ckpt.split('-')[-1])
-        model.load_state_dict(torch.load(f'{args.root}/model/{args.ckpt}'), False)
+        # Fail loudly on missing weights: a checkpoint trained with a different
+        # topic/coherence encoder would otherwise load only partially, silently.
+        missing, unexpected = model.load_state_dict(torch.load(f'{args.root}/model/{args.ckpt}', map_location='cpu'), False)
+        # Older checkpoints predate the topic_weight buffer; it keeps --topic_weight.
+        missing = [k for k in missing if k != 'topic_weight']
+        if missing:
+            raise RuntimeError(f'{args.ckpt} lacks {len(missing)} weights (e.g. {missing[:3]}); '
+                               'check --topic_model_name / --coheren_model_name match the checkpoint')
+        print(f'Resumed weights from {args.ckpt} ({len(unexpected)} unexpected keys ignored)')
     if args.local_rank != -1:
         model = DDP(model, device_ids=[args.local_rank], output_device=args.local_rank, find_unused_parameters=True)
 
@@ -189,20 +196,21 @@ def main(args):
 
             eval_kwargs = dict(window_size=args.eval_window_size,
                                oracle_boundary_count=args.eval_oracle_boundary_count,
-                               pick_num=args.eval_pick_num)
+                               pick_num=args.eval_pick_num,
+                               infer_batch_size=args.eval_batch_size)
             run_eval = (epoch_i + 1) % args.eval_every == 0
 
             # pk on a slice of the training sessions: a train pk that keeps
             # improving while val pk stalls means the model is memorising.
             if train_eval_path and run_eval:
-                train_pk, train_wd = evaluate_dataset(model_to_save, val_tokenizer, train_eval_path, args.device,
+                train_pk, train_wd = evaluate_dataset(model_to_save, val_tokenizer, topic_tokenizer, train_eval_path, args.device,
                                                        args.eval_max_len, max_docs=args.train_eval_docs, **eval_kwargs)
                 print('=========== train pk/wd for epoch '+str(epoch_i)+' is: '+str(train_pk)+' / '+str(train_wd))
                 epoch_metrics[epoch_i]['train_pk'] = train_pk
                 epoch_metrics[epoch_i]['train_wd'] = train_wd
 
             if val_path and run_eval:
-                pk, wd = evaluate_dataset(model_to_save, val_tokenizer, val_path, args.device, args.eval_max_len,
+                pk, wd = evaluate_dataset(model_to_save, val_tokenizer, topic_tokenizer, val_path, args.device, args.eval_max_len,
                                            **eval_kwargs)
                 print('=========== val pk/wd for epoch '+str(epoch_i)+' is: '+str(pk)+' / '+str(wd))
                 epoch_metrics[epoch_i]['val_pk'] = pk
@@ -247,6 +255,12 @@ if __name__ == '__main__':
     parser.add_argument("--topic_model_name", default='princeton-nlp/sup-simcse-bert-base-uncased')
     parser.add_argument("--coheren_model_name", default='bert-base-uncased')
     parser.add_argument("--grad_checkpoint", action='store_true', help='Trade compute for activation memory, for low-VRAM GPUs')
+    parser.add_argument("--topic_loss", default='pseudo', choices=['pseudo', 'gold_margin', 'gold_supcon'],
+                         help='Topic-encoder loss: pseudo = DialSTART pseudo-segmentation (unsupervised); '
+                              'gold_* use the labelled segments (pkl from the current data_preprocess.py)')
+    parser.add_argument("--topic_tau", type=float, default=0.1, help='Temperature of --topic_loss gold_supcon')
+    parser.add_argument("--topic_weight", type=float, default=1.0,
+                         help='Weight of the topic cosine next to the NSP logit in the boundary score (saved in the checkpoint)')
 
     # path parameters
     parser.add_argument("--ckpt")
@@ -264,6 +278,8 @@ if __name__ == '__main__':
     parser.add_argument("--eval_window_size", type=int, default=2,
                          help='Context window (utterances each side) used when scoring validation boundaries; matches test.py --window_size')
     parser.add_argument("--eval_pick_num", type=int, default=4)
+    parser.add_argument("--eval_batch_size", type=int, default=64,
+                        help='Utterance pairs per forward during validation; lower for long dialogues on small GPUs')
     parser.add_argument("--eval_oracle_boundary_count", action='store_true')
     parser.add_argument("--train_eval_dataset", default=None,
                          help='Folder name under {root}/data of raw training .txt sessions (e.g. vn_synth_train); pk is scored on the first --train_eval_docs of them each epoch to expose memorisation')

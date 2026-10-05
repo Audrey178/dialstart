@@ -4,6 +4,7 @@ import segeval
 import numpy as np
 from torch.nn.utils.rnn import pad_sequence
 from keras.preprocessing.sequence import pad_sequences
+from model import encode_coherence_pair
 
 
 def depth_score_cal(scores):
@@ -39,14 +40,17 @@ def depth_score_cal(scores):
 
 
 @torch.no_grad()
-def evaluate_dataset(model, tokenizer, path_input_docs, device, max_len,
-                      window_size=2, oracle_boundary_count=True, pick_num=4, max_docs=None):
+def evaluate_dataset(model, tokenizer, topic_tokenizer, path_input_docs, device, max_len,
+                      window_size=2, oracle_boundary_count=True, pick_num=4, max_docs=None,
+                      infer_batch_size=64):
     """Score every document under path_input_docs with `model` and return (pk, wd).
 
     Shared by test.py (standalone eval of a saved checkpoint) and train.py
     (in-loop validation after each epoch), so both always score boundaries
-    the same way. max_docs scores only the first N files (sorted), e.g. to
-    track train-set pk cheaply.
+    the same way. `tokenizer` feeds the coherence encoder and `topic_tokenizer`
+    (a model.TopicTokenizer) the topic encoder. max_docs scores only the first N files (sorted), e.g. to
+    track train-set pk cheaply. infer_batch_size caps how many utterance pairs
+    go through the model per forward (long meetings would not fit at once).
     """
     was_training = model.training
     model.eval()
@@ -78,17 +82,20 @@ def evaluate_dataset(model, tokenizer, path_input_docs, device, max_len,
         for i in range(len(text)-1):
             context, cur = [], []
             l, r = i, i+1
+            # Utterances go in whole: both tokenizers truncate by tokens below,
+            # the same way training does (no character cut, which dropped half
+            # of the text of long meeting turns).
             for win in range(window_size):
                 if l > -1:
-                    context.append(text[l][:128])
+                    context.append(text[l])
                     l -= 1
                 if r < len(text):
-                    cur.append(text[r][:128])
+                    cur.append(text[r])
                     r += 1
             context.reverse()
 
-            topic_con = tokenizer(context, truncation=True, padding=True, max_length=256, return_tensors='pt')
-            topic_cur = tokenizer(cur, truncation=True, padding=True, max_length=256, return_tensors='pt')
+            topic_con = topic_tokenizer(context, max_length=256, padding=True, return_tensors='pt')
+            topic_cur = topic_tokenizer(cur, max_length=256, padding=True, return_tensors='pt')
 
             topic_input[0].extend(topic_con['input_ids'])
             topic_input[1].extend(topic_cur['input_ids'])
@@ -97,15 +104,7 @@ def evaluate_dataset(model, tokenizer, path_input_docs, device, max_len,
             topic_num[0].append(len(context))
             topic_num[1].append(len(cur))
 
-            sent1 = ''
-            for sen in context:
-                sent1 += sen + '[SEP]'
-            sent2 = text[i+1]
-
-            encoded_sent1 = tokenizer.encode(sent1, add_special_tokens=True, max_length=256, return_tensors='pt')
-            encoded_sent2 = tokenizer.encode(sent2, add_special_tokens=True, max_length=256, return_tensors='pt')
-            encoded_pair = encoded_sent1[0].tolist()[:-1] + encoded_sent2[0].tolist()[1:]
-            type_id = [0] * len(encoded_sent1[0].tolist()[:-1]) + [1] * len(encoded_sent2[0].tolist()[1:])
+            encoded_pair, type_id = encode_coherence_pair(tokenizer, context, text[i+1], max_len)
             type_ids.append(torch.Tensor(type_id))
             id_inputs.append(torch.Tensor(encoded_pair))
 
@@ -115,18 +114,31 @@ def evaluate_dataset(model, tokenizer, path_input_docs, device, max_len,
             att_mask = [int(token_id > 0) for token_id in sent]
             coheren_att_masks.append(att_mask)
 
-        try:
-            topic_input_t = [pad_sequence(i, batch_first=True).to(device) for i in topic_input]
-            topic_mask_t = [pad_sequence(i, batch_first=True).to(device) for i in topic_att_mask]
-        except Exception:
+        if not topic_num[0]:
             continue
 
-        # Drop columns that are padding for every pair (masked anyway).
-        coheren_len = max(1, max(sum(m) for m in coheren_att_masks))
-        coheren_inputs = torch.tensor(id_inputs)[:, :coheren_len].to(device)
-        coheren_masks = torch.tensor(coheren_att_masks)[:, :coheren_len].to(device)
-        coheren_type_ids = torch.tensor(type_ids)[:, :coheren_len].to(device)
-        scores = model.infer(coheren_inputs, coheren_masks, coheren_type_ids, topic_input_t, topic_mask_t, topic_num)
+        # Pairs are scored independently, so scoring them in chunks gives the
+        # same result as one forward over the whole document while keeping
+        # memory bounded for long meetings.
+        id_inputs, coheren_att_masks, type_ids = torch.tensor(id_inputs), torch.tensor(coheren_att_masks), torch.tensor(type_ids)
+        utt_offsets = [np.cumsum([0] + nums) for nums in topic_num]
+        scores = []
+        for start in range(0, len(topic_num[0]), infer_batch_size):
+            end = min(start + infer_batch_size, len(topic_num[0]))
+            topic_input_t, topic_mask_t = [], []
+            for k in range(2):
+                lo, hi = utt_offsets[k][start], utt_offsets[k][end]
+                topic_input_t.append(pad_sequence(topic_input[k][lo:hi], batch_first=True,
+                                                  padding_value=topic_tokenizer.pad_token_id).to(device))
+                topic_mask_t.append(pad_sequence(topic_att_mask[k][lo:hi], batch_first=True).to(device))
+            chunk_num = [topic_num[0][start:end], topic_num[1][start:end]]
+
+            # Drop columns that are padding for every pair (masked anyway).
+            coheren_len = max(1, int(coheren_att_masks[start:end].sum(dim=1).max()))
+            scores += model.infer(id_inputs[start:end, :coheren_len].to(device),
+                                  coheren_att_masks[start:end, :coheren_len].to(device),
+                                  type_ids[start:end, :coheren_len].to(device),
+                                  topic_input_t, topic_mask_t, chunk_num)
 
         depth_scores = depth_score_cal(scores)
         pick_n = (len(seg_r) - 1) if oracle_boundary_count else pick_num

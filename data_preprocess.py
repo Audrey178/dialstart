@@ -14,6 +14,7 @@ from collections import defaultdict, Counter
 from torch.nn.utils.rnn import pad_sequence
 from keras.preprocessing.sequence import pad_sequences
 from transformers import BertTokenizer, AutoModel, set_seed, BertForNextSentencePrediction
+from model import TopicTokenizer, encode_coherence_pair
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler, Dataset
 
 set_seed(3407)
@@ -108,9 +109,18 @@ def gen_text(args):
 
                 context.reverse()
                 data.append([(context, cur), (context, neg), (context, hard_neg)])
-                topic_data.append((dials, mid))
+                # The topic loss re-encodes this utterance list every step, so
+                # long meetings (AMI: up to ~1000 utterances) are cropped to a
+                # local window around the anchor; mid is shifted to match.
+                # The gold segment ids ride along so the topic loss can use the
+                # labelled boundaries instead of its own pseudo-segmentation.
+                if args.topic_window is not None:
+                    lo, hi = max(0, mid - args.topic_window), min(dial_len, mid + args.topic_window)
+                else:
+                    lo, hi = 0, dial_len
+                topic_data.append((dials[lo:hi], mid - lo, seg_id[lo:hi]))
 
-                assert len(dials) > mid
+                assert len(topic_data[-1][0]) > topic_data[-1][1]
 
         json.dump(data, open(f'{args.dataroot}/{dataset}_{args.version}.json', 'w'))
         json.dump(topic_data, open(f'{args.dataroot}/{dataset}_topic_data.json', 'w'))
@@ -119,6 +129,7 @@ def gen_text(args):
 def main(args):
     MAX_LEN = args.max_len
     tokenizer = BertTokenizer.from_pretrained(args.encoder_name)
+    topic_tokenizer = TopicTokenizer(args.topic_encoder_name or args.encoder_name)
     for dataset in tqdm(args.datasets):
         data = json.load(open(f'{args.dataroot}/{dataset}_{args.version}.json'))
         topic_data = json.load(open(f'{args.dataroot}/{dataset}_topic_data.json'))
@@ -130,33 +141,22 @@ def main(args):
         for i in tqdm(range(len(data))):
             for sample in data[i]:
                 context, cur = sample
-                if args.history == 2:
-                    sent1 = sent2 = ''
-                    for sen in context:
-                        sent1 += sen + '[SEP]'
-                else:
-                    sent1 = context[-1]
+                id_input, turn_id = encode_coherence_pair(tokenizer, context if args.history == 2 else context[-1:],
+                                                          cur[0], MAX_LEN)
 
-                sent2 = cur[0]
-
-                encoded_sent1 = tokenizer.encode(sent1, add_special_tokens = True, return_tensors = 'pt')
-                encoded_sent2 = tokenizer.encode(sent2, truncation=True, max_length = 256, add_special_tokens = True, return_tensors = 'pt')
-
-                topic_con = tokenizer(context, truncation=True, max_length = 256)
-                topic_cur = tokenizer(cur, truncation=True, max_length = 256)
-                if args.history == 2:
-                    id_input = encoded_sent1[0].tolist()[-257:-1] + encoded_sent2[0].tolist()[1:]  
-                    turn_id = [0] * len(encoded_sent1[0].tolist()[-257:-1]) + [1] * len(encoded_sent2[0].tolist()[1:])
-                else:
-                    id_input = encoded_sent1[0].tolist()[-257:] + encoded_sent2[0].tolist()[1:]
-                    turn_id = [0] * len(encoded_sent1[0].tolist()[-257:]) + [1] * len(encoded_sent2[0].tolist()[1:])
+                topic_con = topic_tokenizer(context, max_length = 256)
+                topic_cur = topic_tokenizer(cur, max_length = 256)
 
                 id_inputs.append(torch.Tensor(id_input))
                 topic_inputs.append((topic_con, topic_cur, len(context), len(cur)))
                 turn_ids.append(torch.tensor(turn_id))
 
-            topic_train.append(tokenizer(topic_data[i][0], truncation=True, max_length = 512, padding=True, return_tensors='pt'))
-            topic_num.append((len(topic_data[i][0]), topic_data[i][1])) 
+            # One padded (utterances x tokens) matrix per sample dominates the
+            # pkl size, so store it compactly; train.py casts back to long.
+            encoded = topic_tokenizer(topic_data[i][0], max_length = args.topic_max_len, padding=True, return_tensors='pt')
+            topic_train.append({'input_ids': encoded['input_ids'].int(),
+                                'attention_mask': encoded['attention_mask'].to(torch.int8)})
+            topic_num.append((len(topic_data[i][0]), topic_data[i][1], topic_data[i][2]))
 
         id_inputs = pad_sequences(id_inputs, maxlen=MAX_LEN, dtype="long", value=0, truncating="post", padding="post")
         turn_ids = pad_sequences(turn_ids, maxlen=MAX_LEN, dtype="long", value=1, truncating="post", padding="post")
@@ -218,9 +218,16 @@ if __name__ == '__main__':
     parser.add_argument("--datasets", nargs='+', default=['dialseg711', 'doc2dial'],
                          help='Folder name(s) under --dataroot to preprocess, e.g. vn_synth_train')
     parser.add_argument("--encoder_name", default='bert-base-uncased',
-                         help='HF checkpoint used to tokenize; must match the encoder(s) SegModel is trained with')
+                         help='HF checkpoint used to tokenize coherence pairs; must match --coheren_model_name at train time')
+    parser.add_argument("--topic_encoder_name", default=None,
+                         help='HF checkpoint used to tokenize topic inputs (default: --encoder_name); must match --topic_model_name at train time')
     parser.add_argument("--limit", type=int, default=None,
                          help='Optional cap on number of dialogue-window samples per dataset (for smoke tests)')
+    parser.add_argument("--topic_window", type=int, default=None,
+                         help='Keep only +/- N utterances around the anchor as the topic-loss dialogue '
+                              '(default: whole dialogue); needed for long meetings to fit RAM/VRAM')
+    parser.add_argument("--topic_max_len", type=int, default=512,
+                         help='Token cap per utterance in the topic-loss dialogue (capped further by the topic encoder)')
     parser.add_argument("--max_len", type=int, default=512,
                          help='Fixed padding length for coherence input pairs; lower for corpora with short utterances to save memory/compute')
 

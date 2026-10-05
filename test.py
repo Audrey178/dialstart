@@ -7,7 +7,7 @@ import pickle
 import argparse
 import numpy as np
 from tqdm import tqdm
-from model import SegModel
+from model import SegModel, TopicTokenizer
 from eval_utils import evaluate_dataset
 from transformers import BertTokenizer, set_seed
 
@@ -16,6 +16,7 @@ DATASET = {'doc':'doc2dial', '711':'dialseg711', 'vn_val':'vn_synth_val', 'vn_te
 
 def infer(args, model_path):
 	tokenizer = BertTokenizer.from_pretrained(args.coheren_model_name)
+	topic_tokenizer = TopicTokenizer(args.topic_model_name)
 
 	model = SegModel(topic_model_name=args.topic_model_name, coheren_model_name=args.coheren_model_name)
 	model.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')), False)
@@ -23,10 +24,11 @@ def infer(args, model_path):
 	model.eval()
 
 	path_input_docs = f'./data/{args.dataset}'
-	pk, wd = evaluate_dataset(model, tokenizer, path_input_docs, args.device, args.max_len,
+	pk, wd = evaluate_dataset(model, tokenizer, topic_tokenizer, path_input_docs, args.device, args.max_len,
 	                           window_size=args.window_size,
 	                           oracle_boundary_count=args.oracle_boundary_count,
-	                           pick_num=args.pick_num)
+	                           pick_num=args.pick_num,
+	                           infer_batch_size=args.infer_batch_size)
 
 	print('pk: ', pk)
 	print('wd: ', wd)
@@ -47,6 +49,8 @@ if __name__ == '__main__':
 	parser.add_argument("--ckpt_start", type=int, default=0)
 	parser.add_argument("--ckpt_end", type=int, default=3)
 	parser.add_argument("--pick_num", type=int, default=4)
+	parser.add_argument("--infer_batch_size", type=int, default=64,
+	                    help='Utterance pairs per forward; lower for long dialogues on small GPUs')
 	parser.add_argument("--oracle_boundary_count", action='store_true',
 	                     help='Use the true number of boundaries per document instead of a fixed --pick_num (needed when boundary count varies, e.g. vn_synth)')
 	parser.add_argument("--window_size", default=2, type=int)

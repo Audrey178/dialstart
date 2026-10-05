@@ -3,3 +3,5 @@ transformers
 numpy
 tqdm
 segeval
+pyvi
+sentencepiece
