@@ -7,7 +7,7 @@ import torch.nn.functional as F
 from torch.nn import CrossEntropyLoss
 from functools import lru_cache
 from torch.nn.utils.rnn import pad_sequence
-from transformers import AutoConfig, AutoModel, AutoTokenizer, BertForNextSentencePrediction
+from transformers import AutoConfig, AutoModel, AutoTokenizer, BertConfig, BertTokenizer, BertForNextSentencePrediction
 from transformers.models.bert.modeling_bert import BertPreTrainedModel, BertModel, BertOnlyNSPHead
 from transformers.modeling_outputs import NextSentencePredictorOutput
 from typing import Optional
@@ -21,6 +21,15 @@ class MarginRankingLoss():
         scores = scores.clamp(min=0)
 
         return scores.mean()
+
+
+def load_encoder_config(name):
+    """AutoConfig, falling back to BERT for checkpoints whose config.json has
+    no model_type (e.g. NlpHUST/vibert4news-base-cased)."""
+    try:
+        return AutoConfig.from_pretrained(name)
+    except ValueError:
+        return BertConfig.from_pretrained(name)
 
 
 @lru_cache(maxsize=None)
@@ -40,10 +49,13 @@ class TopicTokenizer():
     the coherence encoder keeps raw text.
     """
     def __init__(self, name):
-        self.tokenizer = AutoTokenizer.from_pretrained(name)
+        config = load_encoder_config(name)
+        # vibert4news ships only vocab.txt, which AutoTokenizer cannot build a
+        # tokenizer from in recent transformers; BertTokenizer reads it directly.
+        tokenizer_cls = BertTokenizer if config.model_type == 'bert' else AutoTokenizer
+        self.tokenizer = tokenizer_cls.from_pretrained(name)
         self.pad_token_id = self.tokenizer.pad_token_id
         self.word_segment = 'phobert' in name.lower()
-        config = AutoConfig.from_pretrained(name)
         # RoBERTa-style position ids start after the padding index, which eats
         # 2 of the position embeddings (PhoBERT: 258 -> 256 usable tokens).
         self.max_length = min(512, config.max_position_embeddings - (2 if config.model_type == 'roberta' else 0))
@@ -95,7 +107,7 @@ class SegModel(nn.Module):
         # A buffer so the weight travels with the checkpoint to test.py;
         # checkpoints saved before it existed load with the old weight of 1.
         self.register_buffer('topic_weight', torch.tensor(float(topic_weight)))
-        self.topic_model = AutoModel.from_pretrained(model_path+topic_model_name)
+        self.topic_model = AutoModel.from_pretrained(model_path+topic_model_name, config=load_encoder_config(model_path+topic_model_name))
         self.coheren_model = BertForNextSentencePrediction.from_pretrained(model_path+coheren_model_name, num_labels=2,
                                                                    output_attentions=False,
                                                                    output_hidden_states=True)
