@@ -311,6 +311,11 @@ if __name__ == '__main__':
         # cuBLAS reads this when its first handle is created, i.e. before any CUDA work.
         os.environ.setdefault('CUBLAS_WORKSPACE_CONFIG', ':4096:8')
         torch.backends.cudnn.benchmark = False
+        # The flash / memory-efficient / cuDNN SDPA backward kernels are not
+        # deterministic; the plain math backend is.
+        torch.backends.cuda.enable_flash_sdp(False)
+        torch.backends.cuda.enable_mem_efficient_sdp(False)
+        torch.backends.cuda.enable_cudnn_sdp(False)
         # warn_only: ops without a deterministic kernel are reported, not fatal.
         torch.use_deterministic_algorithms(True, warn_only=True)
     
