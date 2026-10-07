@@ -302,9 +302,17 @@ if __name__ == '__main__':
     parser.add_argument("--no_amp", action='store_true')
     parser.add_argument("--no_cuda", action='store_true')
     parser.add_argument("--local_rank", type=int, default=-1)
+    parser.add_argument("--deterministic", action='store_true',
+                        help='Deterministic CUDA kernels (slower) so equal seeds give equal runs')
     
     args = parser.parse_args()
     set_seed(args.seed)
+    if args.deterministic:
+        # cuBLAS reads this when its first handle is created, i.e. before any CUDA work.
+        os.environ.setdefault('CUBLAS_WORKSPACE_CONFIG', ':4096:8')
+        torch.backends.cudnn.benchmark = False
+        # warn_only: ops without a deterministic kernel are reported, not fatal.
+        torch.use_deterministic_algorithms(True, warn_only=True)
     
     if args.local_rank == -1:
         device = torch.device("cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu")
