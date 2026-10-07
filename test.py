@@ -24,17 +24,20 @@ def infer(args, model_path):
 	model.eval()
 
 	path_input_docs = f'./data/{args.dataset}'
+	per_doc = []
 	pk, wd = evaluate_dataset(model, tokenizer, topic_tokenizer, path_input_docs, args.device, args.max_len,
 	                           window_size=args.window_size,
 	                           oracle_boundary_count=args.oracle_boundary_count,
 	                           pick_num=args.pick_num,
-	                           infer_batch_size=args.infer_batch_size)
+	                           infer_batch_size=args.infer_batch_size,
+	                           per_doc=per_doc)
 
 	print('pk: ', pk)
 	print('wd: ', wd)
 	res = str(round(pk, 4)) + "\t" + str(round(wd, 4))
 	print(f'Saving result to {args.root}/metric/{args.model}/{args.save_name}.json')
 	json.dump(res, open(f'{args.root}/metric/{args.model}/{args.save_name}.json', 'w'))
+	json.dump(per_doc, open(f'{args.root}/metric/{args.model}/{args.save_name}_per_doc.json', 'w'), indent=1)
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()

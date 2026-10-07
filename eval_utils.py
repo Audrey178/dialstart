@@ -42,7 +42,7 @@ def depth_score_cal(scores):
 @torch.no_grad()
 def evaluate_dataset(model, tokenizer, topic_tokenizer, path_input_docs, device, max_len,
                       window_size=2, oracle_boundary_count=True, pick_num=4, max_docs=None,
-                      infer_batch_size=64):
+                      infer_batch_size=64, per_doc=None):
     """Score every document under path_input_docs with `model` and return (pk, wd).
 
     Shared by test.py (standalone eval of a saved checkpoint) and train.py
@@ -51,6 +51,8 @@ def evaluate_dataset(model, tokenizer, topic_tokenizer, path_input_docs, device,
     (a model.TopicTokenizer) the topic encoder. max_docs scores only the first N files (sorted), e.g. to
     track train-set pk cheaply. infer_batch_size caps how many utterance pairs
     go through the model per forward (long meetings would not fit at once).
+    If per_doc is a list, one {'file', 'n_utt', 'n_seg', 'pk', 'wd'} dict per
+    scored document is appended to it, for paired per-meeting comparisons.
     """
     was_training = model.training
     model.eval()
@@ -158,9 +160,13 @@ def evaluate_dataset(model, tokenizer, topic_tokenizer, path_input_docs, device,
                 tmp += 1
         seg_p.append(tmp)
 
-        score_wd += segeval.window_diff(seg_p, seg_r)
-        score_pk += segeval.pk(seg_p, seg_r)
+        doc_wd, doc_pk = segeval.window_diff(seg_p, seg_r), segeval.pk(seg_p, seg_r)
+        score_wd += doc_wd
+        score_pk += doc_pk
         c += 1
+        if per_doc is not None:
+            per_doc.append({'file': file, 'n_utt': len(text), 'n_seg': len(seg_r),
+                            'pk': float(doc_pk), 'wd': float(doc_wd)})
 
     if was_training:
         model.train()
